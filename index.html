@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Continuously updated events in Rovereto and Trentino.">
+  <title>Trentino Events</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div>
+        <p class="eyebrow" data-i18n="eyebrow">Rovereto · Vallagarina · Trento · Alto Garda · Trentino</p>
+        <h1 data-i18n="title">What’s happening in Trentino?</h1>
+        <p class="subtitle" data-i18n="subtitle">A rolling 12-month event guide with verified dates, places and sources.</p>
+      </div>
+      <div class="language-switch" aria-label="Language">
+        <button type="button" class="lang active" data-lang="en">EN</button>
+        <button type="button" class="lang" data-lang="it">IT</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="summary-row" aria-label="Overview">
+      <div><strong id="eventCount">0</strong><span data-i18n="eventsFound">events found</span></div>
+      <div><strong id="nextWeekendCount">0</strong><span data-i18n="thisWeekend">this weekend</span></div>
+      <div><strong id="lastVerified">—</strong><span data-i18n="lastVerified">last verified</span></div>
+    </section>
+
+    <section class="quick-dates" aria-label="Quick dates">
+      <button type="button" data-quick="today" data-i18n="today">Today</button>
+      <button type="button" data-quick="week" data-i18n="thisWeek">This week</button>
+      <button type="button" data-quick="weekend" data-i18n="weekend">Weekend</button>
+      <button type="button" data-quick="month" data-i18n="thisMonth">This month</button>
+      <button type="button" data-quick="all" class="active" data-i18n="all12">Next 12 months</button>
+    </section>
+
+    <section class="filters" aria-label="Event filters">
+      <label>
+        <span data-i18n="from">From</span>
+        <input id="fromDate" type="date">
+      </label>
+      <label>
+        <span data-i18n="to">To</span>
+        <input id="toDate" type="date">
+      </label>
+      <label>
+        <span data-i18n="area">Area</span>
+        <select id="areaFilter"><option value="">All areas</option></select>
+      </label>
+      <label>
+        <span data-i18n="category">Category</span>
+        <select id="categoryFilter"><option value="">All categories</option></select>
+      </label>
+      <label class="search">
+        <span data-i18n="search">Search</span>
+        <input id="searchInput" type="search" placeholder="Event, place, venue…">
+      </label>
+      <button id="resetFilters" type="button" class="secondary" data-i18n="reset">Reset</button>
+    </section>
+
+    <section class="toolbar">
+      <div id="rangeLabel" class="range-label"></div>
+      <label class="sort">
+        <span data-i18n="sort">Sort</span>
+        <select id="sortSelect">
+          <option value="soonest" data-i18n-option="soonest">Soonest first</option>
+          <option value="latest" data-i18n-option="latest">Latest first</option>
+          <option value="place" data-i18n-option="place">By place</option>
+        </select>
+      </label>
+    </section>
+
+    <div id="emptyState" class="empty" hidden>
+      <h2 data-i18n="nothing">No events match these filters.</h2>
+      <p data-i18n="tryAgain">Try another date range, area or category.</p>
+    </div>
+
+    <section id="eventsGrid" class="events-grid" aria-live="polite"></section>
+  </main>
+
+  <dialog id="eventDialog">
+    <article class="dialog-card">
+      <button id="closeDialog" type="button" class="close" aria-label="Close">×</button>
+      <div id="dialogBody"></div>
+    </article>
+  </dialog>
+
+  <footer class="wrap footer">
+    <p><span data-i18n="footerA">Rolling window:</span> <strong id="rollingWindow"></strong></p>
+    <p data-i18n="footerB">Dates and programmes can change. Official organizer pages are the source of truth.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
