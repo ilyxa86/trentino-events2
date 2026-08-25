@@ -1,0 +1,702 @@
+[
+  {
+    "id": "sbaracco-rovereto-2026",
+    "name": {
+      "en": "Sbaracco Rovereto",
+      "it": "Sbaracco Rovereto"
+    },
+    "startDate": "2026-08-28",
+    "endDate": "2026-08-29",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Historic centre",
+    "category": "Markets & Shopping",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "End-of-season city-centre shopping event with local retailers, special offers and activities.",
+      "it": "Evento di fine stagione nel centro storico con commercianti locali, offerte speciali e attività."
+    },
+    "organizer": "Rovereto city-centre partners",
+    "price": "Free access",
+    "officialUrl": "https://www.visitrovereto.it/rovereto-estate/",
+    "source": "Visit Rovereto",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "anni-elettrici-2026",
+    "name": {
+      "en": "Anni Elettrici Show",
+      "it": "Anni Elettrici Show"
+    },
+    "startDate": "2026-08-28",
+    "endDate": "2026-08-30",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Piazzale Oratorio Antonio Rosmini",
+    "category": "Festival",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Three-day entertainment event in Rovereto during the closing weekend of Rovereto Estate.",
+      "it": "Evento di intrattenimento di tre giorni a Rovereto nel weekend conclusivo di Rovereto Estate."
+    },
+    "organizer": "Rovereto Estate",
+    "price": "See official programme",
+    "officialUrl": "https://www.visitrovereto.it/rovereto-estate/",
+    "source": "Visit Rovereto",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "notte-fiaba-2026",
+    "name": {
+      "en": "Notte di Fiaba – Tarzan",
+      "it": "Notte di Fiaba – Tarzan"
+    },
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-30",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Historic centre",
+    "category": "Family & Festival",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Five days of performances, theatre, family activities and evening entertainment built around the Tarzan theme.",
+      "it": "Cinque giorni di spettacoli, teatro, attività per famiglie e intrattenimento serale dedicati al tema Tarzan."
+    },
+    "organizer": "Notte di Fiaba / local partners",
+    "price": "Mixed / see programme",
+    "officialUrl": "https://www.gardatrentino.it/it/localita/riva-del-garda/eventi",
+    "source": "Garda Trentino",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "trento-live-fest-2026",
+    "name": {
+      "en": "Trento Live Fest",
+      "it": "Trento Live Fest"
+    },
+    "startDate": "2026-08-28",
+    "endDate": "2026-09-06",
+    "startTime": "20:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trentino Music Arena",
+    "category": "Concert",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Live music festival with major Italian artists across two weekends.",
+      "it": "Festival di musica dal vivo con importanti artisti italiani distribuito su due weekend."
+    },
+    "organizer": "Trento Live Fest",
+    "price": "Ticketed",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+    "source": "Visit Trentino",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "giovenche-rendena-2026",
+    "name": {
+      "en": "Giovenche di Razza Rendena",
+      "it": "Giovenche di Razza Rendena"
+    },
+    "startDate": "2026-08-28",
+    "endDate": "2026-09-06",
+    "startTime": null,
+    "municipality": "Pinzolo",
+    "area": "Other Trentino",
+    "venue": "Pinzolo",
+    "category": "Agriculture & Tradition",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Traditional agricultural event centred on the native Rendena cattle breed, local food and rural culture.",
+      "it": "Evento agricolo tradizionale dedicato alla razza bovina Rendena, ai prodotti locali e alla cultura rurale."
+    },
+    "organizer": "Local agricultural and tourism partners",
+    "price": "See programme",
+    "officialUrl": "https://www.visittrentino.info/it-it/guida/cosa-fare/eventi/feste-sagre-autunno",
+    "source": "Visit Trentino",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "settenovecento-2026",
+    "name": {
+      "en": "Settenovecento",
+      "it": "Settenovecento"
+    },
+    "startDate": "2026-08-29",
+    "endDate": "2026-09-20",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Multiple venues across Vallagarina",
+    "category": "Culture & Music",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "A broad classical and cultural music programme across Rovereto and Vallagarina; the 2026 theme is Mediterraneo.",
+      "it": "Ampio programma musicale e culturale tra Rovereto e Vallagarina; il tema 2026 è Mediterraneo."
+    },
+    "organizer": "Settenovecento",
+    "price": "Varies by event",
+    "officialUrl": "https://www.settenovecento.it/",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "oriente-occidente-2026",
+    "name": {
+      "en": "Oriente Occidente Dance Festival",
+      "it": "Oriente Occidente Dance Festival"
+    },
+    "startDate": "2026-09-03",
+    "endDate": "2026-09-12",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Multiple venues",
+    "category": "Culture & Dance",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "46th edition of the international contemporary dance festival, themed 'Emptiness'.",
+      "it": "46ª edizione del festival internazionale di danza contemporanea, dedicata al tema 'Vuoto'."
+    },
+    "organizer": "Oriente Occidente",
+    "price": "Varies by performance",
+    "officialUrl": "https://www.orienteoccidente.it/en/festival/46-oriente-occidente-dance-festival",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "palio-quercia-2026",
+    "name": {
+      "en": "Palio Città della Quercia",
+      "it": "Palio Città della Quercia"
+    },
+    "startDate": "2026-09-08",
+    "endDate": "2026-09-08",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Stadio Quercia",
+    "category": "Sport",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "International athletics meeting and one of Rovereto's established sporting fixtures.",
+      "it": "Meeting internazionale di atletica e uno degli appuntamenti sportivi storici di Rovereto."
+    },
+    "organizer": "Local athletics organizers",
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/rovereto-estate/",
+    "source": "Visit Rovereto",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "educa-2026",
+    "name": {
+      "en": "EDUCA – Education Festival",
+      "it": "EDUCA – Festival dell'Educazione"
+    },
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-27",
+    "startTime": "09:00",
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Multiple city venues",
+    "category": "Family & Culture",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Talks, performances, workshops and activities for children, families and education professionals.",
+      "it": "Incontri, spettacoli, laboratori e attività per bambini, famiglie e professionisti dell'educazione."
+    },
+    "organizer": "EDUCA partners",
+    "price": "Mixed / see programme",
+    "officialUrl": "https://www.visittrentino.info/it-it/guida/cosa-fare/eventi",
+    "source": "Visit Trentino",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "trentodoc-2026",
+    "name": {
+      "en": "Trentodoc Festival",
+      "it": "Trentodoc Festival"
+    },
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento and surrounding territory",
+    "category": "Wine & Gastronomy",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Festival celebrating Trentino mountain sparkling wine with producers, tastings and events across the territory.",
+      "it": "Festival dedicato alle bollicine di montagna del Trentino con produttori, degustazioni ed eventi sul territorio."
+    },
+    "organizer": "Istituto Trentodoc",
+    "price": "Varies by event",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+    "source": "Visit Trentino",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "festival-sport-2026",
+    "name": {
+      "en": "Festival dello Sport",
+      "it": "Festival dello Sport"
+    },
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-04",
+    "startTime": "09:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Historic centre",
+    "category": "Sport & Culture",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Major sports festival with athletes, interviews, talks and public events in central Trento.",
+      "it": "Grande festival dello sport con atleti, interviste, incontri ed eventi pubblici nel centro di Trento."
+    },
+    "organizer": "La Gazzetta dello Sport and partners",
+    "price": "Free",
+    "officialUrl": "https://www.comune.trento.it/Vivere-il-Comune/Eventi",
+    "source": "Comune di Trento",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "autumnus-2026",
+    "name": {
+      "en": "Autumnus – Fruits of the Earth",
+      "it": "Autumnus – I frutti della terra"
+    },
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-11",
+    "startTime": "09:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Various city venues",
+    "category": "Food & Agriculture",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Markets, tastings, workshops and show cooking focused on Trentino produce.",
+      "it": "Mercati, degustazioni, laboratori e show cooking dedicati ai prodotti del Trentino."
+    },
+    "organizer": "Local food and tourism partners",
+    "price": "Mixed / see programme",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+    "source": "Visit Trentino",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "vigna-eccellente-2026",
+    "name": {
+      "en": "La Vigna Eccellente",
+      "it": "La Vigna Eccellente"
+    },
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-04",
+    "startTime": null,
+    "municipality": "Isera",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Isera",
+    "category": "Wine & Gastronomy",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Vallagarina wine and gastronomy event centred on Marzemino and local producers.",
+      "it": "Evento enogastronomico della Vallagarina dedicato al Marzemino e ai produttori locali."
+    },
+    "organizer": "Comune di Isera and partners",
+    "price": "See programme",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+    "source": "Visit Trentino",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "ram-film-2026",
+    "name": {
+      "en": "RAM Film Festival",
+      "it": "RAM Film Festival"
+    },
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Multiple venues",
+    "category": "Film & Culture",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Archaeology and cultural film festival combining screenings, talks, exhibitions and visits.",
+      "it": "Festival cinematografico di archeologia e cultura con proiezioni, incontri, mostre e visite."
+    },
+    "organizer": "Fondazione Museo Civico di Rovereto",
+    "price": "See programme",
+    "officialUrl": "https://www.ramfilmfestival.it/RAMfilmfestival",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "wired-next-2026",
+    "name": {
+      "en": "Wired Next Fest Trentino",
+      "it": "Wired Next Fest Trentino"
+    },
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-18",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Historic centre",
+    "category": "Business & Innovation",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Technology and innovation festival with talks, workshops, exhibitions and live events.",
+      "it": "Festival di tecnologia e innovazione con talk, workshop, mostre ed eventi dal vivo."
+    },
+    "organizer": "Wired / Trentino partners",
+    "price": "See programme",
+    "officialUrl": "https://www.trentinomarketing.org/it/grandi-eventi",
+    "source": "Trentino Marketing",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "fine-wine-tourism-2026",
+    "name": {
+      "en": "FINE #WineTourism Marketplace Italy",
+      "it": "FINE #WineTourism Marketplace Italy"
+    },
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-28",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda Exhibition Centre",
+    "category": "Business & Wine",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "B2B marketplace focused on wine tourism.",
+      "it": "Marketplace B2B dedicato al turismo del vino."
+    },
+    "organizer": "Riva del Garda Fierecongressi",
+    "price": "Professional access / see official page",
+    "officialUrl": "https://rivadelgardafierecongressi.it/it/quartierefieristico",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "riva-christmas-2026",
+    "name": {
+      "en": "Di Gusto in Gusto – Christmas Village",
+      "it": "Di Gusto in Gusto – Villaggio di Natale"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2027-01-06",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Christmas Market",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Christmas food and regional-product stands throughout central Riva.",
+      "it": "Stand natalizi dedicati alla gastronomia e ai prodotti regionali nel centro di Riva."
+    },
+    "organizer": "Consorzio Riva in Centro",
+    "price": "Free access",
+    "officialUrl": "https://www.gardatrentino.it/en/events/",
+    "source": "Garda Trentino",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "arco-christmas-2026",
+    "name": {
+      "en": "Arco Christmas Market",
+      "it": "Mercatino di Natale di Arco"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2027-01-06",
+    "startTime": null,
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Historic centre",
+    "category": "Christmas Market",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Traditional Christmas market with crafts, food and family programming.",
+      "it": "Tradizionale mercatino di Natale con artigianato, gastronomia e attività per famiglie."
+    },
+    "organizer": "Assocentro",
+    "price": "Free access",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+    "source": "Visit Trentino",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "rovereto-christmas-2026",
+    "name": {
+      "en": "Rintocchi di Luce – Christmas in Rovereto",
+      "it": "Rintocchi di Luce – Natale a Rovereto"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2027-01-06",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Historic centre",
+    "category": "Christmas Market",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Christmas programme with crafts, food, local products and family activities.",
+      "it": "Programma natalizio con artigianato, gastronomia, prodotti locali e attività per famiglie."
+    },
+    "organizer": "Rovereto in Centro",
+    "price": "Free access",
+    "officialUrl": "https://www.roveretoincentro.com/",
+    "source": "Rovereto in Centro",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "trento-christmas-2026",
+    "name": {
+      "en": "Trento Christmas Market",
+      "it": "Mercatino di Natale di Trento"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2027-01-06",
+    "startTime": "10:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Piazza Fiera & Piazza Mostra",
+    "category": "Christmas Market",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "One of Trentino's major Christmas markets, with food, crafts and seasonal programming.",
+      "it": "Uno dei principali mercatini di Natale del Trentino, con gastronomia, artigianato e programma stagionale."
+    },
+    "organizer": "Trento tourism partners",
+    "price": "Free access",
+    "officialUrl": "https://natale.visittrento.it/mercatino",
+    "source": "Visit Trento",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "expo-riva-shuh-2027",
+    "name": {
+      "en": "Expo Riva Schuh",
+      "it": "Expo Riva Schuh"
+    },
+    "startDate": "2027-01-16",
+    "endDate": "2027-01-19",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda Exhibition Centre",
+    "category": "Trade Fair",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "International footwear trade fair.",
+      "it": "Fiera internazionale dedicata al settore calzaturiero."
+    },
+    "organizer": "Riva del Garda Fierecongressi",
+    "price": "Professional access",
+    "officialUrl": "https://exporivaschuh.it/it",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "hospitality-2027",
+    "name": {
+      "en": "Hospitality – Il Salone dell'Accoglienza",
+      "it": "Hospitality – Il Salone dell'Accoglienza"
+    },
+    "startDate": "2027-02-01",
+    "endDate": "2027-02-04",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda Exhibition Centre",
+    "category": "Trade Fair",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Major B2B trade fair for the HoReCa and hospitality sectors.",
+      "it": "Importante fiera B2B per i settori HoReCa e hospitality."
+    },
+    "organizer": "Riva del Garda Fierecongressi",
+    "price": "Professional access",
+    "officialUrl": "https://hospitalityriva.it/it/visitare",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "trento-film-2027",
+    "name": {
+      "en": "75th Trento Film Festival",
+      "it": "75° Trento Film Festival"
+    },
+    "startDate": "2027-04-24",
+    "endDate": "2027-05-02",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Multiple venues",
+    "category": "Film & Culture",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "International film festival dedicated to mountains, adventure and exploration.",
+      "it": "Festival cinematografico internazionale dedicato a montagna, avventura ed esplorazione."
+    },
+    "organizer": "Trento Film Festival",
+    "price": "Varies by event",
+    "officialUrl": "https://trentofestival.it/",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "bike-festival-2027",
+    "name": {
+      "en": "Bike Festival Riva del Garda",
+      "it": "Bike Festival Riva del Garda"
+    },
+    "startDate": "2027-04-30",
+    "endDate": "2027-05-02",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Sport & Outdoor",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Large cycling and outdoor festival with expo, rides and related events.",
+      "it": "Grande festival dedicato a ciclismo e outdoor con expo, uscite ed eventi collegati."
+    },
+    "organizer": "Bike Festival Riva",
+    "price": "Expo free / activities vary",
+    "officialUrl": "https://www.bikefestivalriva.com/en",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "rebuild-2027",
+    "name": {
+      "en": "REbuild 2027",
+      "it": "REbuild 2027"
+    },
+    "startDate": "2027-05-04",
+    "endDate": "2027-05-05",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Congress Centre",
+    "category": "Business & Innovation",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Business and innovation event focused on construction and the built environment.",
+      "it": "Evento business e innovazione dedicato all'edilizia e all'ambiente costruito."
+    },
+    "organizer": "Riva del Garda Fierecongressi",
+    "price": "See official page",
+    "officialUrl": "https://rivadelgardafierecongressi.it/it/congressi",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "garda-trentino-trail-2027",
+    "name": {
+      "en": "Garda Trentino Trail",
+      "it": "Garda Trentino Trail"
+    },
+    "startDate": "2027-05-14",
+    "endDate": "2027-05-16",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Garda Trentino / Ledro / Tenno area",
+    "category": "Sport & Outdoor",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Multi-race trail-running weekend across Garda Trentino, Ledro and Tenno.",
+      "it": "Weekend di trail running con più gare tra Garda Trentino, Ledro e Tenno."
+    },
+    "organizer": "Garda Trentino Trail",
+    "price": "Registration required",
+    "officialUrl": "https://www.gardatrentinotrail.it/",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "festival-economia-2027",
+    "name": {
+      "en": "Trento Economics Festival 2027",
+      "it": "Festival dell'Economia di Trento 2027"
+    },
+    "startDate": "2027-05-18",
+    "endDate": "2027-05-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Multiple city venues",
+    "category": "Business & Networking",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Five-day economics and public-policy festival with talks, debates and networking.",
+      "it": "Festival di cinque giorni dedicato a economia e politiche pubbliche, con incontri, dibattiti e networking."
+    },
+    "organizer": "Festival dell'Economia",
+    "price": "See programme",
+    "officialUrl": "https://www.festivaleconomia.it/",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "lake-garda-42-2027",
+    "name": {
+      "en": "Lake Garda 42 – 2027 edition",
+      "it": "Lake Garda 42 – edizione 2027"
+    },
+    "startDate": "2027-04-01",
+    "endDate": "2027-04-30",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Lake Garda",
+    "category": "Sport & Outdoor",
+    "status": "NEW",
+    "confirmed": false,
+    "description": {
+      "en": "The 2027 edition has been announced, but the exact race date is not yet sufficiently verified.",
+      "it": "L'edizione 2027 è stata annunciata, ma la data esatta della gara non è ancora sufficientemente verificata."
+    },
+    "organizer": "Lake Garda 42",
+    "price": "Registration required",
+    "officialUrl": "https://lakegarda42.com/it/",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  }
+]
