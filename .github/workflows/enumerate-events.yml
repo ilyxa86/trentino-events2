@@ -9,6 +9,8 @@ on:
   push:
     paths:
       - "scripts/enumerate_sources.py"
+      - "scripts/build_discovery_delta.py"
+      - "scripts/promote_candidates.py"
       - "requirements-crawler.txt"
       - "data/source_registry.json"
       - ".github/workflows/enumerate-events.yml"
@@ -18,7 +20,7 @@ permissions:
 
 concurrency:
   group: trentino-event-enumerator
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   enumerate:
@@ -43,24 +45,28 @@ jobs:
       - name: Enumerate mandatory event sources
         run: python scripts/enumerate_sources.py
 
-      - name: Commit coverage snapshot
+      - name: Build stable discovery delta
+        run: python scripts/build_discovery_delta.py
+
+      - name: Promote verified calendar candidates to live database
+        run: python scripts/promote_candidates.py
+
+      - name: Commit coverage and live event update
         run: |
           git config user.name "trentino-events-bot"
           git config user.email "actions@users.noreply.github.com"
 
-          # Never let a long-running, older crawl overwrite a newer repository
-          # state. Push-generated runs are queued by the concurrency group, so
-          # the latest run will generate the authoritative snapshot instead.
+          # Avoid overwriting newer human/AI edits with a stale crawl.
           git fetch origin main
           if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
             echo "Repository advanced during this crawl; discarding stale snapshot."
             exit 0
           fi
 
-          git add data/source_audit.json data/discovered_candidates.json
+          git add data/source_audit.json data/discovered_candidates.json data/discovery_delta.json data/events.json
           if git diff --cached --quiet; then
-            echo "No coverage snapshot changes."
+            echo "No coverage or event changes."
           else
-            git commit -m "Update event source coverage snapshot"
+            git commit -m "Update event coverage and live website data"
             git push origin HEAD:main
           fi
