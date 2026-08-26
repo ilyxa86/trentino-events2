@@ -1,0 +1,16 @@
+{
+  "protocolVersion": 1,
+  "lastRun": null,
+  "overallStatus": "NOT_YET_RUN_WITH_COVERAGE_PROTOCOL",
+  "sources": {
+    "visittrentino_all_events": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
+    "visitrovereto_events": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
+    "visitrovereto_estate": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
+    "comune_rovereto_events": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
+    "trentino_cultura_appuntamenti": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
+    "trentino_cultura_rassegne": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
+    "garda_trentino_events": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
+    "comune_trento_events": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
+    "visitfiemme_events": {"priority":"P1","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."}
+  }
+}
