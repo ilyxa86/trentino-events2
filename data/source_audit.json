@@ -1,16 +1,184 @@
 {
-  "protocolVersion": 1,
-  "lastRun": null,
-  "overallStatus": "NOT_YET_RUN_WITH_COVERAGE_PROTOCOL",
+  "protocolVersion": 2,
+  "lastRun": "2026-08-26T13:21:00Z",
+  "overallStatus": "PARTIAL",
   "sources": {
-    "visittrentino_all_events": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
-    "visitrovereto_events": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
-    "visitrovereto_estate": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
-    "comune_rovereto_events": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
-    "trentino_cultura_appuntamenti": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
-    "trentino_cultura_rassegne": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
-    "garda_trentino_events": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
-    "comune_trento_events": {"priority":"P0","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."},
-    "visitfiemme_events": {"priority":"P1","lastScan":null,"status":"NOT_YET_RUN","reportedTotal":null,"recordsSeen":null,"uniqueCandidates":null,"pagesOrBucketsScanned":null,"attachmentsScanned":null,"errors":[],"notes":"Initialised when exhaustive coverage protocol was introduced."}
-  }
+    "visittrentino_all_events": {
+      "priority": "P0",
+      "lastScan": "2026-08-26T13:19:47Z",
+      "status": "COMPLETE",
+      "reportedTotal": 1196,
+      "recordsSeen": 1680,
+      "uniqueCandidates": 1696,
+      "pagesOrBucketsScanned": [
+        "https://www.visittrentino.info/it/guida/cosa-fare/eventi"
+      ],
+      "attachmentsScanned": [],
+      "errors": [
+        "sitemap https://www.visittrentino.info/sitemap_index.xml: 404 Client Error: Not Found for url: https://www.visittrentino.info/sitemap_index.xml"
+      ],
+      "notes": [
+        "sitemaps=100, matchingEventUrls=1680"
+      ]
+    },
+    "visitrovereto_events": {
+      "priority": "P0",
+      "lastScan": "2026-08-26T13:20:30Z",
+      "status": "COMPLETE",
+      "reportedTotal": null,
+      "recordsSeen": 118,
+      "uniqueCandidates": 171,
+      "pagesOrBucketsScanned": [
+        "https://www.visitrovereto.it/vivi/eventi/",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=2",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=3",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=4",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=5",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=6",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=7",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=8",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=9",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=10",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=11",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=12",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=13"
+      ],
+      "attachmentsScanned": [],
+      "errors": [],
+      "notes": []
+    },
+    "visitrovereto_estate": {
+      "priority": "P0",
+      "lastScan": "2026-08-26T13:20:48Z",
+      "status": "COMPLETE",
+      "reportedTotal": null,
+      "recordsSeen": 29,
+      "uniqueCandidates": 29,
+      "pagesOrBucketsScanned": [
+        "https://www.visitrovereto.it/rovereto-estate/"
+      ],
+      "attachmentsScanned": [
+        {
+          "url": "https://www.visitrovereto.it/wp-content/uploads/2026/07/rovereto-estate-26_CALENDARIO.pdf",
+          "bytes": 13018664,
+          "contentType": "application/pdf"
+        }
+      ],
+      "errors": [],
+      "notes": []
+    },
+    "comune_rovereto_events": {
+      "priority": "P0",
+      "lastScan": "2026-08-26T13:20:52Z",
+      "status": "PARTIAL",
+      "reportedTotal": null,
+      "recordsSeen": 1,
+      "uniqueCandidates": 1,
+      "pagesOrBucketsScanned": [
+        "https://www.comune.rovereto.tn.it/Vivere-il-comune/Eventi"
+      ],
+      "attachmentsScanned": [],
+      "errors": [],
+      "notes": [
+        "Generic adapter enumerated visible candidates but cannot yet prove full pagination/date traversal."
+      ]
+    },
+    "trentino_cultura_appuntamenti": {
+      "priority": "P0",
+      "lastScan": "2026-08-26T13:20:53Z",
+      "status": "PARTIAL",
+      "reportedTotal": null,
+      "recordsSeen": 0,
+      "uniqueCandidates": 0,
+      "pagesOrBucketsScanned": [
+        "https://www.cultura.trentino.it/Appuntamenti"
+      ],
+      "attachmentsScanned": [],
+      "errors": [],
+      "notes": [
+        "Generic adapter enumerated visible candidates but cannot yet prove full pagination/date traversal."
+      ]
+    },
+    "trentino_cultura_rassegne": {
+      "priority": "P0",
+      "lastScan": "2026-08-26T13:20:54Z",
+      "status": "PARTIAL",
+      "reportedTotal": null,
+      "recordsSeen": 20,
+      "uniqueCandidates": 20,
+      "pagesOrBucketsScanned": [
+        "https://www.cultura.trentino.it/Rassegne"
+      ],
+      "attachmentsScanned": [],
+      "errors": [],
+      "notes": [
+        "Generic adapter enumerated visible candidates but cannot yet prove full pagination/date traversal."
+      ]
+    },
+    "garda_trentino_events": {
+      "priority": "P0",
+      "lastScan": "2026-08-26T13:20:55Z",
+      "status": "PARTIAL",
+      "reportedTotal": 89,
+      "recordsSeen": 0,
+      "uniqueCandidates": 0,
+      "pagesOrBucketsScanned": [
+        "https://www.gardatrentino.it/en/discover/events",
+        "https://www.gardatrentino.it/en/discover/events?page=2"
+      ],
+      "attachmentsScanned": [],
+      "errors": [],
+      "notes": []
+    },
+    "comune_trento_events": {
+      "priority": "P0",
+      "lastScan": "2026-08-26T13:20:57Z",
+      "status": "PARTIAL",
+      "reportedTotal": null,
+      "recordsSeen": 0,
+      "uniqueCandidates": 0,
+      "pagesOrBucketsScanned": [
+        "https://www.comune.trento.it/Vivere-il-Comune/Eventi"
+      ],
+      "attachmentsScanned": [],
+      "errors": [],
+      "notes": [
+        "Generic adapter enumerated visible candidates but cannot yet prove full pagination/date traversal."
+      ]
+    },
+    "visitfiemme_events": {
+      "priority": "P1",
+      "lastScan": "2026-08-26T13:20:58Z",
+      "status": "PARTIAL",
+      "reportedTotal": null,
+      "recordsSeen": 0,
+      "uniqueCandidates": 0,
+      "pagesOrBucketsScanned": [
+        "https://www.visitfiemme.it/it/eventi"
+      ],
+      "attachmentsScanned": [],
+      "errors": [],
+      "notes": [
+        "Generic adapter enumerated visible candidates but cannot yet prove full pagination/date traversal."
+      ]
+    }
+  },
+  "coverageWindow": {
+    "from": "2026-08-26",
+    "semantics": "rolling-12-month-overlap; raw enumerator may include out-of-window rows for AI resolution"
+  },
+  "p0Status": {
+    "visittrentino_all_events": "COMPLETE",
+    "visitrovereto_events": "COMPLETE",
+    "visitrovereto_estate": "COMPLETE",
+    "comune_rovereto_events": "PARTIAL",
+    "trentino_cultura_appuntamenti": "PARTIAL",
+    "trentino_cultura_rassegne": "PARTIAL",
+    "garda_trentino_events": "PARTIAL",
+    "comune_trento_events": "PARTIAL"
+  },
+  "summary": {
+    "rawCandidates": 1917
+  },
+  "note": "This deterministic enumerator feeds the AI maintenance pass. PARTIAL means the system must not claim complete coverage."
 }
