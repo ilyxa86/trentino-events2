@@ -1,0 +1,44 @@
+name: Publish current event snapshot
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/publish-events-now.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout current database snapshot
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install date parser dependency
+        run: pip install python-dateutil==2.9.0.post0
+
+      - name: Promote current discovered candidates
+        run: python scripts/promote_candidates.py
+
+      - name: Commit live event database
+        run: |
+          git config user.name "trentino-events-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/events.json
+          if git diff --cached --quiet; then
+            echo "No live event changes."
+          else
+            git commit -m "Publish coverage backfills to live website"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
