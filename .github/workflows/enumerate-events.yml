@@ -1,0 +1,54 @@
+name: Enumerate event sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "35 4 * * *"
+  push:
+    paths:
+      - "scripts/enumerate_sources.py"
+      - "requirements-crawler.txt"
+      - "data/source_registry.json"
+      - ".github/workflows/enumerate-events.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trentino-event-enumerator
+  cancel-in-progress: false
+
+jobs:
+  enumerate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-crawler.txt
+
+      - name: Install crawler dependencies
+        run: pip install -r requirements-crawler.txt
+
+      - name: Enumerate mandatory event sources
+        run: python scripts/enumerate_sources.py
+
+      - name: Commit coverage snapshot
+        run: |
+          git config user.name "trentino-events-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/source_audit.json data/discovered_candidates.json
+          if git diff --cached --quiet; then
+            echo "No coverage snapshot changes."
+          else
+            git commit -m "Update event source coverage snapshot"
+            git push
+          fi
