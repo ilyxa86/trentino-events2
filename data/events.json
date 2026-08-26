@@ -1,59 +1,1363 @@
 [
   {
-    "id": "sbaracco-rovereto-2026",
+    "id": "visita-e-degustazione-esclusiva-alla-cantina-dalzocchio-2026",
     "name": {
-      "en": "Sbaracco Rovereto",
-      "it": "Sbaracco Rovereto"
+      "de": "Visita e degustazione esclusiva alla Cantina Dalzocchio",
+      "en": "Visita e degustazione esclusiva alla Cantina Dalzocchio",
+      "it": "Visita e degustazione esclusiva alla Cantina Dalzocchio"
     },
-    "startDate": "2026-08-28",
+    "startDate": "2026-01-01",
+    "endDate": "2026-12-31",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Visita e degustazione esclusiva alla Cantina Dalzocchio“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visita e degustazione esclusiva alla Cantina Dalzocchio” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Visita e degustazione esclusiva alla Cantina Dalzocchio” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/degustazione-cantina-dalzocchio/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2024/12/Cantina-Dalzocchio-1.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/degustazione-cantina-dalzocchio/"
+    ]
+  },
+  {
+    "id": "competition-anelli-di-congiunzione-le-gallerie-di-piedicastello-2026",
+    "name": {
+      "de": "Competition - Anelli di congiunzione - Le Gallerie di Piedicastello",
+      "en": "Competition - Anelli di congiunzione - Le Gallerie di Piedicastello",
+      "it": "Competition - Anelli di congiunzione - Le Gallerie di Piedicastello"
+    },
+    "startDate": "2026-01-30",
+    "endDate": "2027-01-06",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Competition - Anelli di congiunzione - Le Gallerie di Piedicastello“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Competition - Anelli di congiunzione - Le Gallerie di Piedicastello” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Competition - Anelli di congiunzione - Le Gallerie di Piedicastello” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/competition-anelli-di-congiunzione-le-gallerie-di-piedicastello_e_91861862",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/trento/competition---anelli-di-congiunzione---le-gallerie-di-piedicastello_91861862/7764164/image-thumb__7764164__moodboard_list/competition---anelli-di-congiunzione---le-gallerie-di-piedicastello_91861862_1.b56fa5f8.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/competition-anelli-di-congiunzione-le-gallerie-di-piedicastello_e_91861862"
+    ]
+  },
+  {
+    "id": "karakorum-1929-l-impresa-sospesa-2026",
+    "name": {
+      "de": "Karakorum 1929: l’impresa sospesa.",
+      "en": "Karakorum 1929: l’impresa sospesa.",
+      "it": "Karakorum 1929: l’impresa sospesa."
+    },
+    "startDate": "2026-03-27",
+    "endDate": "2026-09-13",
+    "startTime": null,
+    "municipality": "Rovereto/Vallagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto/Vallagarina",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Karakorum 1929: l’impresa sospesa.“ in Rovereto/Vallagarina. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Karakorum 1929: l’impresa sospesa.” event in Rovereto/Vallagarina. See the official event page for the latest details.",
+      "it": "Evento “Karakorum 1929: l’impresa sospesa.” a Rovereto/Vallagarina. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/karakorum-1929-l-impresa-sospesa/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/04/Rilievi-topografici-nella-zona-di-Concordia-MITAG-Museo-Storico-Italiano-della-Guerra.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/karakorum-1929-l-impresa-sospesa/"
+    ]
+  },
+  {
+    "id": "anselmo-bucci-2026",
+    "name": {
+      "de": "Anselmo Bucci",
+      "en": "Anselmo Bucci",
+      "it": "Anselmo Bucci"
+    },
+    "startDate": "2026-03-28",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Anselmo Bucci“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Anselmo Bucci” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Anselmo Bucci” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/anselmo-bucci/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/03/31_Anselmo-Bucci-Juliette-1910.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/anselmo-bucci/"
+    ]
+  },
+  {
+    "id": "rovereto-kilometro-delle-meraviglie-2026",
+    "name": {
+      "de": "Rovereto – Kilometro delle Meraviglie",
+      "en": "Rovereto – Kilometro delle Meraviglie",
+      "it": "Rovereto – Kilometro delle Meraviglie"
+    },
+    "startDate": "2026-05-01",
+    "endDate": "2026-12-31",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Rovereto – Kilometro delle Meraviglie“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Rovereto – Kilometro delle Meraviglie” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Rovereto – Kilometro delle Meraviglie” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/il-kilometro-delle-meraviglie/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2023/04/IL-KM-DELLE-MERAVIGLIE-Trekking-urbani-Luca-Matassoni-4.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/il-kilometro-delle-meraviglie/"
+    ]
+  },
+  {
+    "id": "seguendo-un-filo-di-seta-2026",
+    "name": {
+      "de": "Seguendo un filo di seta",
+      "en": "Seguendo un filo di seta",
+      "it": "Seguendo un filo di seta"
+    },
+    "startDate": "2026-05-01",
+    "endDate": "2026-12-31",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Seguendo un filo di seta“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Seguendo un filo di seta” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Seguendo un filo di seta” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/seguendo-un-filo-di-seta/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2023/04/SEGUENDO-UN-FILO-DI-SETA-Trekking-urbani-Luca-Matassoni-2.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/seguendo-un-filo-di-seta/"
+    ]
+  },
+  {
+    "id": "tesori-nascosti-a-villa-lagarina-2026",
+    "name": {
+      "de": "Tesori nascosti a Villa Lagarina",
+      "en": "Tesori nascosti a Villa Lagarina",
+      "it": "Tesori nascosti a Villa Lagarina"
+    },
+    "startDate": "2026-05-01",
+    "endDate": "2026-12-31",
+    "startTime": null,
+    "municipality": "Villa Lagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Villa Lagarina",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Tesori nascosti a Villa Lagarina“ in Villa Lagarina. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Tesori nascosti a Villa Lagarina” event in Villa Lagarina. See the official event page for the latest details.",
+      "it": "Evento “Tesori nascosti a Villa Lagarina” a Villa Lagarina. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/tesori-nascosti-a-villa-lagarina/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/04/TESORI-NASCOSTI-A-VILLA-LAGARINA-Trekking-urbani-Luca-Matassoni-1.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/tesori-nascosti-a-villa-lagarina/"
+    ]
+  },
+  {
+    "id": "tra-chiostri-e-chiese-2026",
+    "name": {
+      "de": "Tra chiostri e chiese",
+      "en": "Tra chiostri e chiese",
+      "it": "Tra chiostri e chiese"
+    },
+    "startDate": "2026-05-01",
+    "endDate": "2026-12-31",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Tra chiostri e chiese“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Tra chiostri e chiese” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Tra chiostri e chiese” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/tra-chiostri-e-chiese/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/04/TRA-CHIOSTRI-E-CHIESE-Trekking-urbani-Luca-Matassoni.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/tra-chiostri-e-chiese/"
+    ]
+  },
+  {
+    "id": "trekking-urbani-2026",
+    "name": {
+      "de": "Trekking urbani",
+      "en": "Trekking urbani",
+      "it": "Trekking urbani"
+    },
+    "startDate": "2026-05-02",
+    "endDate": "2026-12-12",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Trekking urbani“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Trekking urbani” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Trekking urbani” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/visite-guidate-rovereto/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2018/09/Trekking-urbani-Luca-Matassoni.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/visite-guidate-rovereto/"
+    ]
+  },
+  {
+    "id": "adotta-una-mucca-2026",
+    "name": {
+      "de": "Adotta una mucca",
+      "en": "Adotta una mucca",
+      "it": "Adotta una mucca"
+    },
+    "startDate": "2026-06-01",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Trambileno",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Trambileno",
+    "category": "Agriculture & Tradition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Adotta una mucca“ in Trambileno. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Adotta una mucca” event in Trambileno. See the official event page for the latest details.",
+      "it": "Evento “Adotta una mucca” a Trambileno. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/adotta-una-mucca/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/03/Adotta-una-mucca-Luca-Fornasa.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/adotta-una-mucca/"
+    ]
+  },
+  {
+    "id": "estate-con-il-museo-2026",
+    "name": {
+      "de": "Estate con il museo",
+      "en": "Estate con il museo",
+      "it": "Estate con il museo"
+    },
+    "startDate": "2026-06-01",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Estate con il museo“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Estate con il museo” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Estate con il museo” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/estate-con-il-museo/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Estate-con-il-museo-Fondazione-MCR-@visitrovereto-Luca-Matassoni.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/estate-con-il-museo/"
+    ]
+  },
+  {
+    "id": "eventi-orto-san-marco-setap-2026",
+    "name": {
+      "de": "Eventi Orto San Marco – Setàp",
+      "en": "Eventi Orto San Marco – Setàp",
+      "it": "Eventi Orto San Marco – Setàp"
+    },
+    "startDate": "2026-06-01",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Eventi Orto San Marco – Setàp“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Eventi Orto San Marco – Setàp” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Eventi Orto San Marco – Setàp” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/eventi-orto-san-marco/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Eventi-Orto-san-Marco-@visitrovereto-Luca-Matassoni-.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/eventi-orto-san-marco/"
+    ]
+  },
+  {
+    "id": "r-estate-in-biblioteca-2026",
+    "name": {
+      "de": "(R)estate in biblioteca",
+      "en": "(R)estate in biblioteca",
+      "it": "(R)estate in biblioteca"
+    },
+    "startDate": "2026-06-01",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „(R)estate in biblioteca“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“(R)estate in biblioteca” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “(R)estate in biblioteca” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/restate-in-biblioteca/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Restate-in-biblioteca-@visitrovereto-Luca-Matassoni.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/restate-in-biblioteca/"
+    ]
+  },
+  {
+    "id": "teatro-in-corte-betta-grillo-2026",
+    "name": {
+      "de": "Teatro in Corte Betta Grillo",
+      "en": "Teatro in Corte Betta Grillo",
+      "it": "Teatro in Corte Betta Grillo"
+    },
+    "startDate": "2026-06-19",
+    "endDate": "2026-08-28",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Teatro in Corte Betta Grillo“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Teatro in Corte Betta Grillo” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Teatro in Corte Betta Grillo” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/teatro-in-corte-betta-grillo/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Teatro-in-corte-Betta-grillo-Stefano-Weber.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/teatro-in-corte-betta-grillo/"
+    ]
+  },
+  {
+    "id": "albe-in-malga-malga-canali-2026",
+    "name": {
+      "de": "Albe in Malga - Malga Canali",
+      "en": "Albe in Malga - Malga Canali",
+      "it": "Albe in Malga - Malga Canali"
+    },
+    "startDate": "2026-07-01",
+    "endDate": "2026-08-26",
+    "startTime": null,
+    "municipality": "Primiero-Tonadico",
+    "area": "Other Trentino",
+    "venue": "Primiero-Tonadico",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Albe in Malga - Malga Canali“ in Primiero-Tonadico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Albe in Malga - Malga Canali” event in Primiero-Tonadico. See the official event page for the latest details.",
+      "it": "Evento “Albe in Malga - Malga Canali” a Primiero-Tonadico. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/albe-in-malga-malga-canali_e_134010980",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/san-martino/albe-in-malga---malga-canali_134010980/7825176/image-thumb__7825176__moodboard_list/albe-in-malga---malga-canali_134010980_1.9dca362f.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/albe-in-malga-malga-canali_e_134010980"
+    ]
+  },
+  {
+    "id": "cinema-estate-2026",
+    "name": {
+      "de": "Cinema Estate",
+      "en": "Cinema Estate",
+      "it": "Cinema Estate"
+    },
+    "startDate": "2026-07-01",
+    "endDate": "2026-08-31",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Cinema Estate“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Cinema Estate” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Cinema Estate” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/cinema-estate/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Cinema-estate-Mart-Elisa-Vettori.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/cinema-estate/"
+    ]
+  },
+  {
+    "id": "visite-accompagnate-a-forte-pozzacchio-werk-valmorbia-2026",
+    "name": {
+      "de": "Visite accompagnate a Forte Pozzacchio – Werk Valmorbia",
+      "en": "Visite accompagnate a Forte Pozzacchio – Werk Valmorbia",
+      "it": "Visite accompagnate a Forte Pozzacchio – Werk Valmorbia"
+    },
+    "startDate": "2026-07-01",
+    "endDate": "2026-08-31",
+    "startTime": null,
+    "municipality": "Trambileno",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Trambileno",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Visite accompagnate a Forte Pozzacchio – Werk Valmorbia“ in Trambileno. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visite accompagnate a Forte Pozzacchio – Werk Valmorbia” event in Trambileno. See the official event page for the latest details.",
+      "it": "Evento “Visite accompagnate a Forte Pozzacchio – Werk Valmorbia” a Trambileno. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/visite-accompagnate-a-forte-pozzacchio-werk-valmorbia/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Visite-accompagnate-a-Forte-Pozzacchio-@visitrovereto-Fototeca-Trentino-Sviluppo.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/visite-accompagnate-a-forte-pozzacchio-werk-valmorbia/"
+    ]
+  },
+  {
+    "id": "visite-guidate-al-mitag-2026",
+    "name": {
+      "de": "Visite guidate al MITAG",
+      "en": "Visite guidate al MITAG",
+      "it": "Visite guidate al MITAG"
+    },
+    "startDate": "2026-07-02",
+    "endDate": "2026-08-27",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Visite guidate al MITAG“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visite guidate al MITAG” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Visite guidate al MITAG” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/visita-guidata-al-museo-della-guerra/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2023/09/Museo-della-Guerra_Luca-Matassoni-6.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/visita-guidata-al-museo-della-guerra/"
+    ]
+  },
+  {
+    "id": "dicastelincastello-2026",
+    "name": {
+      "de": "diCASTELinCASTELLO 2026",
+      "en": "diCASTELinCASTELLO 2026",
+      "it": "diCASTELinCASTELLO 2026"
+    },
+    "startDate": "2026-07-03",
+    "endDate": "2026-09-06",
+    "startTime": null,
+    "municipality": "Stenico",
+    "area": "Other Trentino",
+    "venue": "Stenico",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „diCASTELinCASTELLO 2026“ in Stenico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“diCASTELinCASTELLO 2026” event in Stenico. See the official event page for the latest details.",
+      "it": "Evento “diCASTELinCASTELLO 2026” a Stenico. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/diCASTELinCASTELLO-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/dicastelincastello3/28042375-1-ita-IT/dicastelincastello_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/diCASTELinCASTELLO-2026"
+    ]
+  },
+  {
+    "id": "it-a-ca-2026",
+    "name": {
+      "de": "IT.A.CÀ",
+      "en": "IT.A.CÀ",
+      "it": "IT.A.CÀ"
+    },
+    "startDate": "2026-07-03",
+    "endDate": "2026-10-03",
+    "startTime": null,
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „IT.A.CÀ“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“IT.A.CÀ” event in Ledro. See the official event page for the latest details.",
+      "it": "Evento “IT.A.CÀ” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/IT.A.CA",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/itaca/28056491-1-ita-IT/itaca_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/IT.A.CA"
+    ]
+  },
+  {
+    "id": "visite-guidate-al-castello-di-rovereto-2026",
+    "name": {
+      "de": "Visite guidate al Castello di Rovereto",
+      "en": "Visite guidate al Castello di Rovereto",
+      "it": "Visite guidate al Castello di Rovereto"
+    },
+    "startDate": "2026-07-04",
     "endDate": "2026-08-29",
     "startTime": null,
     "municipality": "Rovereto",
     "area": "Rovereto & Vallagarina",
-    "venue": "Historic centre",
-    "category": "Markets & Shopping",
-    "status": "NEW",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
     "confirmed": true,
     "description": {
-      "en": "End-of-season city-centre shopping event with local retailers, special offers and activities.",
-      "it": "Evento di fine stagione nel centro storico con commercianti locali, offerte speciali e attività."
+      "de": "Veranstaltung „Visite guidate al Castello di Rovereto“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visite guidate al Castello di Rovereto” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Visite guidate al Castello di Rovereto” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
     },
-    "organizer": "Rovereto city-centre partners",
-    "price": "Free access",
-    "officialUrl": "https://www.visitrovereto.it/rovereto-estate/",
-    "source": "Visit Rovereto",
-    "verified": "2026-08-25"
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/visite-guidate-al-castello-di-rovereto/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/06/Castello-di-Rovereto-suggestioni-Natale-Luca-Matassoni.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/visite-guidate-al-castello-di-rovereto/"
+    ]
   },
   {
-    "id": "anni-elettrici-2026",
+    "id": "eventi-station-for-transformation-2026",
     "name": {
-      "en": "Anni Elettrici Show",
-      "it": "Anni Elettrici Show"
+      "de": "Eventi Station for Transformation",
+      "en": "Eventi Station for Transformation",
+      "it": "Eventi Station for Transformation"
     },
-    "startDate": "2026-08-28",
-    "endDate": "2026-08-30",
+    "startDate": "2026-07-09",
+    "endDate": "2026-09-19",
     "startTime": null,
     "municipality": "Rovereto",
     "area": "Rovereto & Vallagarina",
-    "venue": "Piazzale Oratorio Antonio Rosmini",
-    "category": "Festival",
-    "status": "NEW",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
     "confirmed": true,
     "description": {
-      "en": "Three-day entertainment event in Rovereto during the closing weekend of Rovereto Estate.",
-      "it": "Evento di intrattenimento di tre giorni a Rovereto nel weekend conclusivo di Rovereto Estate."
+      "de": "Veranstaltung „Eventi Station for Transformation“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Eventi Station for Transformation” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Eventi Station for Transformation” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
     },
-    "organizer": "Rovereto Estate",
-    "price": "See official programme",
-    "officialUrl": "https://www.visitrovereto.it/rovereto-estate/",
-    "source": "Visit Rovereto",
-    "verified": "2026-08-25"
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/eventi-station-for-transformation/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Eventi-Station-For-Trasformation-Luca-Matassoni.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/eventi-station-for-transformation/"
+    ]
+  },
+  {
+    "id": "haydn-s-summer-2026",
+    "name": {
+      "de": "Haydn’s Summer 2026",
+      "en": "Haydn’s Summer 2026",
+      "it": "Haydn’s Summer 2026"
+    },
+    "startDate": "2026-07-13",
+    "endDate": "2026-08-26",
+    "startTime": null,
+    "municipality": "Trentino",
+    "area": "Other Trentino",
+    "venue": null,
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Haydn’s Summer 2026“ im Trentino. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Haydn’s Summer 2026” event in Trentino. See the official event page for the latest details.",
+      "it": "Evento “Haydn’s Summer 2026” in Trentino. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Haydn-s-Summer-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/haydn-s-summer3/28061318-1-ita-IT/haydn-s-summer_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Haydn-s-Summer-2026"
+    ]
+  },
+  {
+    "id": "montagna-salvatica-2026",
+    "name": {
+      "de": "Montagna Salvatica 2026",
+      "en": "Montagna Salvatica 2026",
+      "it": "Montagna Salvatica 2026"
+    },
+    "startDate": "2026-07-13",
+    "endDate": "2026-08-31",
+    "startTime": null,
+    "municipality": "Fondo",
+    "area": "Other Trentino",
+    "venue": "Fondo",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Montagna Salvatica 2026“ in Fondo. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Montagna Salvatica 2026” event in Fondo. See the official event page for the latest details.",
+      "it": "Evento “Montagna Salvatica 2026” a Fondo. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Montagna-Salvatica-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Montagna-Salvatica-2026"
+    ]
+  },
+  {
+    "id": "trentino-d-autore-2026",
+    "name": {
+      "de": "Trentino d'Autore 2026",
+      "en": "Trentino d'Autore 2026",
+      "it": "Trentino d'Autore 2026"
+    },
+    "startDate": "2026-07-14",
+    "endDate": "2026-09-11",
+    "startTime": null,
+    "municipality": "Comano Terme",
+    "area": "Other Trentino",
+    "venue": "Comano Terme",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Trentino d'Autore 2026“ in Comano Terme. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Trentino d'Autore 2026” event in Comano Terme. See the official event page for the latest details.",
+      "it": "Evento “Trentino d'Autore 2026” a Comano Terme. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Trentino-d-Autore-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2026-07-14-132950/28068374-1-ita-IT/Immagine-2026-07-14-132950_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Trentino-d-Autore-2026"
+    ]
+  },
+  {
+    "id": "la-nuova-stagione-di-castello-san-giovanni-2026",
+    "name": {
+      "de": "La nuova stagione di Castello San Giovanni",
+      "en": "La nuova stagione di Castello San Giovanni",
+      "it": "La nuova stagione di Castello San Giovanni"
+    },
+    "startDate": "2026-07-18",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Bondone",
+    "area": "Other Trentino",
+    "venue": "Bondone",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La nuova stagione di Castello San Giovanni“ in Bondone. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La nuova stagione di Castello San Giovanni” event in Bondone. See the official event page for the latest details.",
+      "it": "Evento “La nuova stagione di Castello San Giovanni” a Bondone. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/castello-di-san-giovanni-tdallatina-33/28067985-1-ita-IT/Castello-di-San-Giovanni-tdallatina-3_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni"
+    ]
+  },
+  {
+    "id": "musica-natura-relazioni-2026",
+    "name": {
+      "de": "Musica Natura Relazioni, 2026",
+      "en": "Musica Natura Relazioni, 2026",
+      "it": "Musica Natura Relazioni, 2026"
+    },
+    "startDate": "2026-07-18",
+    "endDate": "2026-08-30",
+    "startTime": null,
+    "municipality": "Nago-Torbole",
+    "area": "Alto Garda",
+    "venue": "Nago-Torbole",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Musica Natura Relazioni, 2026“ in Nago-Torbole. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Musica Natura Relazioni, 2026” event in Nago-Torbole. See the official event page for the latest details.",
+      "it": "Evento “Musica Natura Relazioni, 2026” a Nago-Torbole. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Musica-Natura-Relazioni-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/musica-natura-relazioni-choral-trekking/28062998-1-ita-IT/Musica-Natura-Relazioni-Choral-Trekking_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Musica-Natura-Relazioni-2026"
+    ]
+  },
+  {
+    "id": "omaggio-all-arte-pianistica-di-arturo-benedetti-michelangeli-2026",
+    "name": {
+      "de": "Omaggio all’Arte pianistica di Arturo Benedetti Michelangeli",
+      "en": "Omaggio all’Arte pianistica di Arturo Benedetti Michelangeli",
+      "it": "Omaggio all’Arte pianistica di Arturo Benedetti Michelangeli"
+    },
+    "startDate": "2026-07-20",
+    "endDate": "2026-08-29",
+    "startTime": null,
+    "municipality": "Levico Terme",
+    "area": "Other Trentino",
+    "venue": "Levico Terme",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Omaggio all’Arte pianistica di Arturo Benedetti Michelangeli“ in Levico Terme. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Omaggio all’Arte pianistica di Arturo Benedetti Michelangeli” event in Levico Terme. See the official event page for the latest details.",
+      "it": "Evento “Omaggio all’Arte pianistica di Arturo Benedetti Michelangeli” a Levico Terme. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Omaggio-all-Arte-pianistica-di-Arturo-Benedetti-Michelangeli",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Omaggio-all-Arte-pianistica-di-Arturo-Benedetti-Michelangeli"
+    ]
+  },
+  {
+    "id": "smarano-academy-festival-2026",
+    "name": {
+      "de": "Smarano Academy Festival 2026",
+      "en": "Smarano Academy Festival 2026",
+      "it": "Smarano Academy Festival 2026"
+    },
+    "startDate": "2026-07-23",
+    "endDate": "2026-08-26",
+    "startTime": null,
+    "municipality": "Trentino",
+    "area": "Other Trentino",
+    "venue": null,
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Smarano Academy Festival 2026“ im Trentino. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Smarano Academy Festival 2026” event in Trentino. See the official event page for the latest details.",
+      "it": "Evento “Smarano Academy Festival 2026” in Trentino. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Smarano-Academy-Festival-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/smarano-academy-festival/28077840-1-ita-IT/smarano-academy-festival_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Smarano-Academy-Festival-2026"
+    ]
+  },
+  {
+    "id": "dolomitincontri-2026",
+    "name": {
+      "de": "Dolomitincontri 2026",
+      "en": "Dolomitincontri 2026",
+      "it": "Dolomitincontri 2026"
+    },
+    "startDate": "2026-07-24",
+    "endDate": "2026-08-28",
+    "startTime": null,
+    "municipality": "Trentino",
+    "area": "Other Trentino",
+    "venue": null,
+    "category": "Business & Networking",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dolomitincontri 2026“ im Trentino. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dolomitincontri 2026” event in Trentino. See the official event page for the latest details.",
+      "it": "Evento “Dolomitincontri 2026” in Trentino. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Dolomitincontri-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/dolomitincontri-40ma-edizione-punto-info-fiera-1/28073607-1-ita-IT/dolomitincontri-40ma-edizione-Punto-Info-Fiera-1_imagefull.png",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Dolomitincontri-2026"
+    ]
+  },
+  {
+    "id": "musica-reservata-2026",
+    "name": {
+      "de": "Musica Reservata 2026",
+      "en": "Musica Reservata 2026",
+      "it": "Musica Reservata 2026"
+    },
+    "startDate": "2026-07-31",
+    "endDate": "2026-08-28",
+    "startTime": null,
+    "municipality": "San Michele all'Adige",
+    "area": "Other Trentino",
+    "venue": "San Michele all'Adige",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Musica Reservata 2026“ in San Michele all'Adige. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Musica Reservata 2026” event in San Michele all'Adige. See the official event page for the latest details.",
+      "it": "Evento “Musica Reservata 2026” a San Michele all'Adige. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Musica-Reservata-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mets-notturna-cbasso-12/28076790-1-ita-IT/Mets-notturna-cbasso-12_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Musica-Reservata-2026"
+    ]
+  },
+  {
+    "id": "pine-musica-festival-2026",
+    "name": {
+      "de": "Piné Musica Festival 2026",
+      "en": "Piné Musica Festival 2026",
+      "it": "Piné Musica Festival 2026"
+    },
+    "startDate": "2026-08-01",
+    "endDate": "2026-08-26",
+    "startTime": null,
+    "municipality": "Trentino",
+    "area": "Other Trentino",
+    "venue": null,
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Piné Musica Festival 2026“ im Trentino. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Piné Musica Festival 2026” event in Trentino. See the official event page for the latest details.",
+      "it": "Evento “Piné Musica Festival 2026” in Trentino. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Pine-Musica-Festival-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/pine-1/28077231-1-ita-IT/Pine-1_imagefull.png",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Pine-Musica-Festival-2026"
+    ]
+  },
+  {
+    "id": "cinema-primiero-odissea-2026",
+    "name": {
+      "de": "Cinema Primiero: Odissea",
+      "en": "Cinema Primiero: Odissea",
+      "it": "Cinema Primiero: Odissea"
+    },
+    "startDate": "2026-08-05",
+    "endDate": "2026-08-26",
+    "startTime": null,
+    "municipality": "Fiera di Primiero",
+    "area": "Other Trentino",
+    "venue": "Fiera di Primiero",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Cinema Primiero: Odissea“ in Fiera di Primiero. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Cinema Primiero: Odissea” event in Fiera di Primiero. See the official event page for the latest details.",
+      "it": "Evento “Cinema Primiero: Odissea” a Fiera di Primiero. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/cinema-primiero-odissea_e_135080343",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/san-martino/cinema-primiero-odissea_135080343/7863999/image-thumb__7863999__moodboard_list/cinema-primiero-odissea_135080343_1.eb0f8b6a.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/cinema-primiero-odissea_e_135080343"
+    ]
+  },
+  {
+    "id": "dall-alaska-alla-patagonia-passando-dalle-pareti-d-arrampicata-2026",
+    "name": {
+      "de": "Dall’Alaska alla Patagonia, passando dalle pareti d'arrampicata",
+      "en": "Dall’Alaska alla Patagonia, passando dalle pareti d'arrampicata",
+      "it": "Dall’Alaska alla Patagonia, passando dalle pareti d'arrampicata"
+    },
+    "startDate": "2026-08-06",
+    "endDate": "2026-08-27",
+    "startTime": null,
+    "municipality": "Predazzo",
+    "area": "Other Trentino",
+    "venue": "Predazzo",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dall’Alaska alla Patagonia, passando dalle pareti d'arrampicata“ in Predazzo. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dall’Alaska alla Patagonia, passando dalle pareti d'arrampicata” event in Predazzo. See the official event page for the latest details.",
+      "it": "Evento “Dall’Alaska alla Patagonia, passando dalle pareti d'arrampicata” a Predazzo. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Dall-Alaska-alla-Patagonia-passando-dalle-pareti-d-arrampicata",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Dall-Alaska-alla-Patagonia-passando-dalle-pareti-d-arrampicata"
+    ]
+  },
+  {
+    "id": "sentinelle-di-pietra-2026",
+    "name": {
+      "de": "Sentinelle di pietra 2026",
+      "en": "Sentinelle di pietra 2026",
+      "it": "Sentinelle di pietra 2026"
+    },
+    "startDate": "2026-08-23",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Trentino",
+    "area": "Other Trentino",
+    "venue": null,
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sentinelle di pietra 2026“ im Trentino. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sentinelle di pietra 2026” event in Trentino. See the official event page for the latest details.",
+      "it": "Evento “Sentinelle di pietra 2026” in Trentino. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Sentinelle-di-pietra-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/forte-di-cadine-1/28094706-1-ita-IT/forte-di-cadine-1_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Sentinelle-di-pietra-2026"
+    ]
+  },
+  {
+    "id": "c-sc-circuito-danza-2026",
+    "name": {
+      "de": "C:SC Circuito Danza 2026/2027",
+      "en": "C:SC Circuito Danza 2026/2027",
+      "it": "C:SC Circuito Danza 2026/2027"
+    },
+    "startDate": "2026-08-25",
+    "endDate": "2027-04-24",
+    "startTime": null,
+    "municipality": "Pellizzano",
+    "area": "Other Trentino",
+    "venue": "Pellizzano",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „C:SC Circuito Danza 2026/2027“ in Pellizzano. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“C:SC Circuito Danza 2026/2027” event in Pellizzano. See the official event page for the latest details.",
+      "it": "Evento “C:SC Circuito Danza 2026/2027” a Pellizzano. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/C-SC-Circuito-Danza-2026-2027",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/csc_imm-danza25-26_generiche_sitoimm800x600-v2/28059357-1-ita-IT/CSC_imm-DANZA25-26_generiche_sitoimm800x600-v2_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/C-SC-Circuito-Danza-2026-2027"
+    ]
+  },
+  {
+    "id": "cinema-all-aperto-2026",
+    "name": {
+      "de": "Cinema all'aperto",
+      "en": "Cinema all'aperto",
+      "it": "Cinema all'aperto"
+    },
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-26",
+    "startTime": null,
+    "municipality": "Fai della Paganella",
+    "area": "Other Trentino",
+    "venue": "Fai della Paganella",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Cinema all'aperto“ in Fai della Paganella. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Cinema all'aperto” event in Fai della Paganella. See the official event page for the latest details.",
+      "it": "Evento “Cinema all'aperto” a Fai della Paganella. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/cinema-all-aperto_e_53659031",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitdolomitipaganella-it/cinema-all-aperto_53659031/7657835/image-thumb__7657835__moodboard_list/cinema-all-aperto_53659031_2.4a8c2ca3.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/cinema-all-aperto_e_53659031"
+    ]
+  },
+  {
+    "id": "dolomitincontri-andrea-colamedici-e-maura-gancitano-2026",
+    "name": {
+      "de": "DolomitIncontri: Andrea Colamedici e Maura Gancitano",
+      "en": "DolomitIncontri: Andrea Colamedici e Maura Gancitano",
+      "it": "DolomitIncontri: Andrea Colamedici e Maura Gancitano"
+    },
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-26",
+    "startTime": null,
+    "municipality": "San Martino di Castrozza",
+    "area": "Other Trentino",
+    "venue": "San Martino di Castrozza",
+    "category": "Business & Networking",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „DolomitIncontri: Andrea Colamedici e Maura Gancitano“ in San Martino di Castrozza. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“DolomitIncontri: Andrea Colamedici e Maura Gancitano” event in San Martino di Castrozza. See the official event page for the latest details.",
+      "it": "Evento “DolomitIncontri: Andrea Colamedici e Maura Gancitano” a San Martino di Castrozza. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/dolomitincontri-andrea-colamedici-e-maura-gancitano_e_134985753",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/san-martino/dolomitincontri-andrea-colamedici-e-maura-gancitano_134985753/7858130/image-thumb__7858130__moodboard_list/dolomitincontri-andrea-colamedici-e-maura-gancitano_134985753_1.5705bf73.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/dolomitincontri-andrea-colamedici-e-maura-gancitano_e_134985753"
+    ]
+  },
+  {
+    "id": "in-cucina-con-le-erbe-spontanee-2026",
+    "name": {
+      "de": "In cucina con le erbe spontanee",
+      "en": "In cucina con le erbe spontanee",
+      "it": "In cucina con le erbe spontanee"
+    },
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-26",
+    "startTime": null,
+    "municipality": "Primiero-Tonadico",
+    "area": "Other Trentino",
+    "venue": "Primiero-Tonadico",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „In cucina con le erbe spontanee“ in Primiero-Tonadico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“In cucina con le erbe spontanee” event in Primiero-Tonadico. See the official event page for the latest details.",
+      "it": "Evento “In cucina con le erbe spontanee” a Primiero-Tonadico. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/in-cucina-con-le-erbe-spontanee_e_134694285",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/san-martino/in-cucina-con-le-erbe-spontanee_134694285/7845007/image-thumb__7845007__moodboard_list/in-cucina-con-le-erbe-spontanee_134694285_1.0a859b29.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/in-cucina-con-le-erbe-spontanee_e_134694285"
+    ]
+  },
+  {
+    "id": "la-tombola-in-piazza-2026",
+    "name": {
+      "de": "La tombola in piazza",
+      "en": "La tombola in piazza",
+      "it": "La tombola in piazza"
+    },
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-26",
+    "startTime": null,
+    "municipality": "Cavedago",
+    "area": "Other Trentino",
+    "venue": "Cavedago",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La tombola in piazza“ in Cavedago. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La tombola in piazza” event in Cavedago. See the official event page for the latest details.",
+      "it": "Evento “La tombola in piazza” a Cavedago. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-tombola-in-piazza_e_93100718",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/valdinon/la-tombola-in-piazza_93100718/7859167/image-thumb__7859167__moodboard_list/la-tombola-in-piazza_93100718_2.37c61ae3.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-tombola-in-piazza_e_93100718"
+    ]
+  },
+  {
+    "id": "libri-sulle-coperte-dreaming-of-the-dolomites-2026",
+    "name": {
+      "de": "Libri sulle coperte - Dreaming of the Dolomites",
+      "en": "Libri sulle coperte - Dreaming of the Dolomites",
+      "it": "Libri sulle coperte - Dreaming of the Dolomites"
+    },
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-26",
+    "startTime": null,
+    "municipality": "Andalo",
+    "area": "Other Trentino",
+    "venue": "Andalo",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Libri sulle coperte - Dreaming of the Dolomites“ in Andalo. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Libri sulle coperte - Dreaming of the Dolomites” event in Andalo. See the official event page for the latest details.",
+      "it": "Evento “Libri sulle coperte - Dreaming of the Dolomites” a Andalo. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/libri-sulle-coperte-dreaming-of-the-dolomites_e_134981384",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/paganella/libri-sulle-coperte---dreaming-of-the-dolomites_134981384/7868769/image-thumb__7868769__moodboard_list/libri-sulle-coperte---dreaming-of-the-dolomites_134981384_2.6c1b27d9.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/libri-sulle-coperte-dreaming-of-the-dolomites_e_134981384"
+    ]
   },
   {
     "id": "notte-fiaba-2026",
     "name": {
       "en": "Notte di Fiaba – Tarzan",
-      "it": "Notte di Fiaba – Tarzan"
+      "it": "Notte di Fiaba – Tarzan",
+      "de": "Notte di Fiaba – Tarzan"
     },
     "startDate": "2026-08-26",
     "endDate": "2026-08-30",
@@ -66,7 +1370,8 @@
     "confirmed": true,
     "description": {
       "en": "Five days of performances, theatre, family activities and evening entertainment built around the Tarzan theme.",
-      "it": "Cinque giorni di spettacoli, teatro, attività per famiglie e intrattenimento serale dedicati al tema Tarzan."
+      "it": "Cinque giorni di spettacoli, teatro, attività per famiglie e intrattenimento serale dedicati al tema Tarzan.",
+      "de": "Five days of performances, theatre, family activities and evening entertainment built around the Tarzan theme."
     },
     "organizer": "Notte di Fiaba / local partners",
     "price": "Mixed / see programme",
@@ -75,35 +1380,71 @@
     "verified": "2026-08-25"
   },
   {
-    "id": "trento-live-fest-2026",
+    "id": "piccole-colonne-2026",
     "name": {
-      "en": "Trento Live Fest",
-      "it": "Trento Live Fest"
+      "de": "Piccole Colonne",
+      "en": "Piccole Colonne",
+      "it": "Piccole Colonne"
+    },
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-26",
+    "startTime": null,
+    "municipality": "Andalo",
+    "area": "Other Trentino",
+    "venue": "Andalo",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Piccole Colonne“ in Andalo. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Piccole Colonne” event in Andalo. See the official event page for the latest details.",
+      "it": "Evento “Piccole Colonne” a Andalo. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/piccole-colonne_e_116609233",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/valdinon/piccole-colonne_116609233/7823710/image-thumb__7823710__moodboard_list/piccole-colonne_116609233_2.409aed9c.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/piccole-colonne_e_116609233"
+    ]
+  },
+  {
+    "id": "anni-elettrici-2026",
+    "name": {
+      "en": "Anni Elettrici Show",
+      "it": "Anni Elettrici Show",
+      "de": "Anni Elettrici Show"
     },
     "startDate": "2026-08-28",
-    "endDate": "2026-09-06",
-    "startTime": "20:00",
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trentino Music Arena",
-    "category": "Concert",
+    "endDate": "2026-08-30",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Piazzale Oratorio Antonio Rosmini",
+    "category": "Festival",
     "status": "NEW",
     "confirmed": true,
     "description": {
-      "en": "Live music festival with major Italian artists across two weekends.",
-      "it": "Festival di musica dal vivo con importanti artisti italiani distribuito su due weekend."
+      "en": "Three-day entertainment event in Rovereto during the closing weekend of Rovereto Estate.",
+      "it": "Evento di intrattenimento di tre giorni a Rovereto nel weekend conclusivo di Rovereto Estate.",
+      "de": "Three-day entertainment event in Rovereto during the closing weekend of Rovereto Estate."
     },
-    "organizer": "Trento Live Fest",
-    "price": "Ticketed",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-    "source": "Visit Trentino",
+    "organizer": "Rovereto Estate",
+    "price": "See official programme",
+    "officialUrl": "https://www.visitrovereto.it/rovereto-estate/",
+    "source": "Visit Rovereto",
     "verified": "2026-08-25"
   },
   {
     "id": "giovenche-rendena-2026",
     "name": {
       "en": "Giovenche di Razza Rendena",
-      "it": "Giovenche di Razza Rendena"
+      "it": "Giovenche di Razza Rendena",
+      "de": "Giovenche di Razza Rendena"
     },
     "startDate": "2026-08-28",
     "endDate": "2026-09-06",
@@ -116,7 +1457,8 @@
     "confirmed": true,
     "description": {
       "en": "Traditional agricultural event centred on the native Rendena cattle breed, local food and rural culture.",
-      "it": "Evento agricolo tradizionale dedicato alla razza bovina Rendena, ai prodotti locali e alla cultura rurale."
+      "it": "Evento agricolo tradizionale dedicato alla razza bovina Rendena, ai prodotti locali e alla cultura rurale.",
+      "de": "Traditional agricultural event centred on the native Rendena cattle breed, local food and rural culture."
     },
     "organizer": "Local agricultural and tourism partners",
     "price": "See programme",
@@ -125,10 +1467,202 @@
     "verified": "2026-08-25"
   },
   {
+    "id": "sbaracco-2026",
+    "name": {
+      "de": "Sbaracco",
+      "en": "Sbaracco",
+      "it": "Sbaracco"
+    },
+    "startDate": "2026-08-28",
+    "endDate": "2026-08-29",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Markets & Shopping",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sbaracco“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sbaracco” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Sbaracco” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/sbaracco/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Sbaracco-Rigenera-Rovereto.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/sbaracco/"
+    ]
+  },
+  {
+    "id": "sbaracco-rovereto-2026",
+    "name": {
+      "en": "Sbaracco Rovereto",
+      "it": "Sbaracco Rovereto",
+      "de": "Sbaracco Rovereto"
+    },
+    "startDate": "2026-08-28",
+    "endDate": "2026-08-29",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Historic centre",
+    "category": "Markets & Shopping",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "End-of-season city-centre shopping event with local retailers, special offers and activities.",
+      "it": "Evento di fine stagione nel centro storico con commercianti locali, offerte speciali e attività.",
+      "de": "End-of-season city-centre shopping event with local retailers, special offers and activities."
+    },
+    "organizer": "Rovereto city-centre partners",
+    "price": "Free access",
+    "officialUrl": "https://www.visitrovereto.it/rovereto-estate/",
+    "source": "Visit Rovereto",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "trento-live-fest-2026",
+    "name": {
+      "en": "Trento Live Fest",
+      "it": "Trento Live Fest",
+      "de": "Trento Live Fest"
+    },
+    "startDate": "2026-08-28",
+    "endDate": "2026-09-06",
+    "startTime": "20:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trentino Music Arena",
+    "category": "Concert",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Live music festival with major Italian artists across two weekends.",
+      "it": "Festival di musica dal vivo con importanti artisti italiani distribuito su due weekend.",
+      "de": "Live music festival with major Italian artists across two weekends."
+    },
+    "organizer": "Trento Live Fest",
+    "price": "Ticketed",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+    "source": "Visit Trentino",
+    "verified": "2026-08-26",
+    "image": "https://www.visittrentino.info/assets-basic/events/cultura-trentino-it/trento-live-fest-2026_129951908/7777741/image-thumb__7777741__moodboard_list/trento-live-fest-2026_129951908_1.2b157bab.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trento-live-fest-2026_e_106811555"
+    ]
+  },
+  {
+    "id": "anni-elettrici-show-2026",
+    "name": {
+      "de": "Anni Elettrici Show",
+      "en": "Anni Elettrici Show",
+      "it": "Anni Elettrici Show"
+    },
+    "startDate": "2026-08-29",
+    "endDate": "2026-08-30",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Anni Elettrici Show“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Anni Elettrici Show” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Anni Elettrici Show” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/anni-elettrici-show/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Anni-elettrici-Riccardo-Prandini.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/anni-elettrici-show/"
+    ]
+  },
+  {
+    "id": "festival-settenovecento-2026",
+    "name": {
+      "de": "Festival Settenovecento 2026",
+      "en": "Festival Settenovecento 2026",
+      "it": "Festival Settenovecento 2026"
+    },
+    "startDate": "2026-08-29",
+    "endDate": "2026-09-20",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festival Settenovecento 2026“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festival Settenovecento 2026” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Festival Settenovecento 2026” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Festival-Settenovecento-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Festival-Settenovecento-2026"
+    ]
+  },
+  {
+    "id": "piantiamo-il-gladiolo-al-lago-di-cei-2026",
+    "name": {
+      "de": "Piantiamo il gladiolo al Lago di Cei",
+      "en": "Piantiamo il gladiolo al Lago di Cei",
+      "it": "Piantiamo il gladiolo al Lago di Cei"
+    },
+    "startDate": "2026-08-29",
+    "endDate": "2026-08-29",
+    "startTime": null,
+    "municipality": "Rovereto/Vallagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto/Vallagarina",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Piantiamo il gladiolo al Lago di Cei“ in Rovereto/Vallagarina. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Piantiamo il gladiolo al Lago di Cei” event in Rovereto/Vallagarina. See the official event page for the latest details.",
+      "it": "Evento “Piantiamo il gladiolo al Lago di Cei” a Rovereto/Vallagarina. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/piantiamo-il-gladiolo-al-lago-di-cei/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Piantiamo-il-gladiolo-al-Lago-di-Cei.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/piantiamo-il-gladiolo-al-lago-di-cei/"
+    ]
+  },
+  {
     "id": "settenovecento-2026",
     "name": {
       "en": "Settenovecento",
-      "it": "Settenovecento"
+      "it": "Settenovecento",
+      "de": "Settenovecento"
     },
     "startDate": "2026-08-29",
     "endDate": "2026-09-20",
@@ -141,7 +1675,8 @@
     "confirmed": true,
     "description": {
       "en": "A broad classical and cultural music programme across Rovereto and Vallagarina; the 2026 theme is Mediterraneo.",
-      "it": "Ampio programma musicale e culturale tra Rovereto e Vallagarina; il tema 2026 è Mediterraneo."
+      "it": "Ampio programma musicale e culturale tra Rovereto e Vallagarina; il tema 2026 è Mediterraneo.",
+      "de": "A broad classical and cultural music programme across Rovereto and Vallagarina; the 2026 theme is Mediterraneo."
     },
     "organizer": "Settenovecento",
     "price": "Varies by event",
@@ -150,10 +1685,44 @@
     "verified": "2026-08-25"
   },
   {
+    "id": "settenovecento-off-2026",
+    "name": {
+      "de": "Settenovecento OFF",
+      "en": "Settenovecento OFF",
+      "it": "Settenovecento OFF"
+    },
+    "startDate": "2026-08-29",
+    "endDate": "2026-09-13",
+    "startTime": null,
+    "municipality": "Villa Lagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Villa Lagarina",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Settenovecento OFF“ in Villa Lagarina. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Settenovecento OFF” event in Villa Lagarina. See the official event page for the latest details.",
+      "it": "Evento “Settenovecento OFF” a Villa Lagarina. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/settenovecento-off/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/04/Mappa-Grafica25-1100x606.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/settenovecento-off/"
+    ]
+  },
+  {
     "id": "oriente-occidente-2026",
     "name": {
       "en": "Oriente Occidente Dance Festival",
-      "it": "Oriente Occidente Dance Festival"
+      "it": "Oriente Occidente Dance Festival",
+      "de": "Oriente Occidente Dance Festival"
     },
     "startDate": "2026-09-03",
     "endDate": "2026-09-12",
@@ -166,19 +1735,191 @@
     "confirmed": true,
     "description": {
       "en": "46th edition of the international contemporary dance festival, themed 'Emptiness'.",
-      "it": "46ª edizione del festival internazionale di danza contemporanea, dedicata al tema 'Vuoto'."
+      "it": "46ª edizione del festival internazionale di danza contemporanea, dedicata al tema 'Vuoto'.",
+      "de": "46th edition of the international contemporary dance festival, themed 'Emptiness'."
     },
     "organizer": "Oriente Occidente",
     "price": "Varies by performance",
     "officialUrl": "https://www.orienteoccidente.it/en/festival/46-oriente-occidente-dance-festival",
     "source": "Official organizer",
-    "verified": "2026-08-25"
+    "verified": "2026-08-26",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2015/07/Sofia-Nappi-Komocho-Chora-Il-Vuoto-allOrigine.jpg",
+    "sourceUrls": [
+      "https://www.orienteoccidente.it/en/festival/46-oriente-occidente-dance-festival",
+      "https://www.visitrovereto.it/vivi/eventi/festival-oriente-occidente/"
+    ]
+  },
+  {
+    "id": "uva-e-dintorni-2026",
+    "name": {
+      "de": "Uva e Dintorni",
+      "en": "Uva e Dintorni",
+      "it": "Uva e Dintorni"
+    },
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-06",
+    "startTime": null,
+    "municipality": "Avio",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Avio",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Uva e Dintorni“ in Avio. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Uva e Dintorni” event in Avio. See the official event page for the latest details.",
+      "it": "Evento “Uva e Dintorni” a Avio. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/uva-e-dintorni/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2015/05/uva-e-dintorni-2021-foto-tommaso-prugnola-WEB-1-7.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/uva-e-dintorni/"
+    ]
+  },
+  {
+    "id": "guida-alle-birre-d-italia-slow-food-2026",
+    "name": {
+      "de": "Guida alle Birre d’Italia Slow Food",
+      "en": "Guida alle Birre d’Italia Slow Food",
+      "it": "Guida alle Birre d’Italia Slow Food"
+    },
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Guida alle Birre d’Italia Slow Food“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Guida alle Birre d’Italia Slow Food” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Guida alle Birre d’Italia Slow Food” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/guida-alle-birre-ditalia-slow-food/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Guida-alle-birre.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/guida-alle-birre-ditalia-slow-food/"
+    ]
+  },
+  {
+    "id": "marcialonga-running-coop-2026",
+    "name": {
+      "de": "Marcialonga Running Coop",
+      "en": "Marcialonga Running Coop",
+      "it": "Marcialonga Running Coop"
+    },
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "startTime": null,
+    "municipality": "Moena",
+    "area": "Other Trentino",
+    "venue": "Moena",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Marcialonga Running Coop“ in Moena. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Marcialonga Running Coop” event in Moena. See the official event page for the latest details.",
+      "it": "Evento “Marcialonga Running Coop” a Moena. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/marcialonga-running-coop_e_49388317",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/valdifassa/marcialonga-running-coop_49388317/5212312/image-thumb__5212312__moodboard_list/marcialonga-running-coop_49388317_1.8b32b8c6.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/marcialonga-running-coop_e_49388317"
+    ]
+  },
+  {
+    "id": "la-magnalonga-dell-alta-vallagarina-2026",
+    "name": {
+      "de": "La Magnalonga dell’Alta Vallagarina",
+      "en": "La Magnalonga dell’Alta Vallagarina",
+      "it": "La Magnalonga dell’Alta Vallagarina"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "startTime": null,
+    "municipality": "Rovereto/Vallagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto/Vallagarina",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La Magnalonga dell’Alta Vallagarina“ in Rovereto/Vallagarina. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La Magnalonga dell’Alta Vallagarina” event in Rovereto/Vallagarina. See the official event page for the latest details.",
+      "it": "Evento “La Magnalonga dell’Alta Vallagarina” a Rovereto/Vallagarina. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/magnalonga-alta-vallagarina/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/08/La-Magnalonga-dellAlta-Vallagarina-Luca-Matassoni.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/magnalonga-alta-vallagarina/"
+    ]
+  },
+  {
+    "id": "palio-community-run-2026",
+    "name": {
+      "de": "Palio Community Run",
+      "en": "Palio Community Run",
+      "it": "Palio Community Run"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Palio Community Run“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Palio Community Run” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Palio Community Run” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/palio-community-run/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/08/Palio-Social-Run-2026-1.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/palio-community-run/"
+    ]
   },
   {
     "id": "palio-quercia-2026",
     "name": {
       "en": "Palio Città della Quercia",
-      "it": "Palio Città della Quercia"
+      "it": "Palio Città della Quercia",
+      "de": "Palio Città della Quercia"
     },
     "startDate": "2026-09-08",
     "endDate": "2026-09-08",
@@ -191,19 +1932,323 @@
     "confirmed": true,
     "description": {
       "en": "International athletics meeting and one of Rovereto's established sporting fixtures.",
-      "it": "Meeting internazionale di atletica e uno degli appuntamenti sportivi storici di Rovereto."
+      "it": "Meeting internazionale di atletica e uno degli appuntamenti sportivi storici di Rovereto.",
+      "de": "International athletics meeting and one of Rovereto's established sporting fixtures."
     },
     "organizer": "Local athletics organizers",
     "price": "See official page",
     "officialUrl": "https://www.visitrovereto.it/rovereto-estate/",
     "source": "Visit Rovereto",
-    "verified": "2026-08-25"
+    "verified": "2026-08-26",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2023/07/Palio-della-Quercia-Luca-Matassoni.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/rovereto-estate/",
+      "https://www.visitrovereto.it/vivi/eventi/palio-citta-della-quercia/"
+    ]
+  },
+  {
+    "id": "festival-orme-2026",
+    "name": {
+      "de": "Festival Orme",
+      "en": "Festival Orme",
+      "it": "Festival Orme"
+    },
+    "startDate": "2026-09-09",
+    "endDate": "2026-09-13",
+    "startTime": null,
+    "municipality": "Fai della Paganella",
+    "area": "Other Trentino",
+    "venue": "Fai della Paganella",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festival Orme“ in Fai della Paganella. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festival Orme” event in Fai della Paganella. See the official event page for the latest details.",
+      "it": "Evento “Festival Orme” a Fai della Paganella. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Festival-Orme",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Festival-Orme"
+    ]
+  },
+  {
+    "id": "a-ruota-libera-2026",
+    "name": {
+      "de": "A ruota libera",
+      "en": "A ruota libera",
+      "it": "A ruota libera"
+    },
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-13",
+    "startTime": null,
+    "municipality": "Brentonico",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Brentonico",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „A ruota libera“ in Brentonico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“A ruota libera” event in Brentonico. See the official event page for the latest details.",
+      "it": "Evento “A ruota libera” a Brentonico. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/a-ruota-libera/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/A-ruota-libera-SAT.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/a-ruota-libera/"
+    ]
+  },
+  {
+    "id": "anello-dello-sport-2026",
+    "name": {
+      "de": "Anello dello Sport",
+      "en": "Anello dello Sport",
+      "it": "Anello dello Sport"
+    },
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-13",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Anello dello Sport“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Anello dello Sport” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Anello dello Sport” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/anello-dello-sport/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2024/09/Anello-dello-Sport-2026-Anello-dello-Sport-1.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/anello-dello-sport/"
+    ]
+  },
+  {
+    "id": "palazzi-aperti-2026",
+    "name": {
+      "de": "Palazzi Aperti",
+      "en": "Palazzi Aperti",
+      "it": "Palazzi Aperti"
+    },
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-13",
+    "startTime": null,
+    "municipality": "Rovereto/Vallagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto/Vallagarina",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Palazzi Aperti“ in Rovereto/Vallagarina. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Palazzi Aperti” event in Rovereto/Vallagarina. See the official event page for the latest details.",
+      "it": "Evento “Palazzi Aperti” a Rovereto/Vallagarina. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/palazzi-aperti/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2015/05/Casa-Rosmini-2023-Luca-Matassoni.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/palazzi-aperti/"
+    ]
+  },
+  {
+    "id": "trentino-bike-experience-2026",
+    "name": {
+      "de": "Trentino Bike Experience",
+      "en": "Trentino Bike Experience",
+      "it": "Trentino Bike Experience"
+    },
+    "startDate": "2026-09-13",
+    "endDate": "2026-09-13",
+    "startTime": null,
+    "municipality": "Brentonico",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Brentonico",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Trentino Bike Experience“ in Brentonico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Trentino Bike Experience” event in Brentonico. See the official event page for the latest details.",
+      "it": "Evento “Trentino Bike Experience” a Brentonico. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/trentino-bike-experience/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Trentino-Bike-Experience-Tommaso-Prugnola.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/trentino-bike-experience/"
+    ]
+  },
+  {
+    "id": "settenovecento-2026-2",
+    "name": {
+      "de": "Settenovecento",
+      "en": "Settenovecento",
+      "it": "Settenovecento"
+    },
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-20",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Settenovecento“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Settenovecento” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Settenovecento” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/settenovecento/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/04/Settenovecento-2023-1.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/settenovecento/"
+    ]
+  },
+  {
+    "id": "downtown-in-passerella-2026",
+    "name": {
+      "de": "Downtown in Passerella",
+      "en": "Downtown in Passerella",
+      "it": "Downtown in Passerella"
+    },
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-18",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Markets & Shopping",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Downtown in Passerella“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Downtown in Passerella” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Downtown in Passerella” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/downtown-in-passerella/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Downtown-in-passerella.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/downtown-in-passerella/"
+    ]
+  },
+  {
+    "id": "palio-della-vallagarina-2026",
+    "name": {
+      "de": "Palio della Vallagarina",
+      "en": "Palio della Vallagarina",
+      "it": "Palio della Vallagarina"
+    },
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Palio della Vallagarina“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Palio della Vallagarina” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Palio della Vallagarina” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/palio-della-vallagarina/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Palio-della-Vallagarina.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/palio-della-vallagarina/"
+    ]
+  },
+  {
+    "id": "camminata-delle-teragnole-2026",
+    "name": {
+      "de": "Camminata delle Teragnóle",
+      "en": "Camminata delle Teragnóle",
+      "it": "Camminata delle Teragnóle"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-20",
+    "startTime": null,
+    "municipality": "Rovereto/Vallagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto/Vallagarina",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Camminata delle Teragnóle“ in Rovereto/Vallagarina. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Camminata delle Teragnóle” event in Rovereto/Vallagarina. See the official event page for the latest details.",
+      "it": "Evento “Camminata delle Teragnóle” a Rovereto/Vallagarina. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/camminata-delle-teragnole/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2024/08/Camminata-delle-Teragnole-2026-Annalisa-Festi.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/camminata-delle-teragnole/"
+    ]
   },
   {
     "id": "educa-2026",
     "name": {
       "en": "EDUCA – Education Festival",
-      "it": "EDUCA – Festival dell'Educazione"
+      "it": "EDUCA – Festival dell'Educazione",
+      "de": "EDUCA – Festival dell'Educazione"
     },
     "startDate": "2026-09-24",
     "endDate": "2026-09-27",
@@ -216,7 +2261,8 @@
     "confirmed": true,
     "description": {
       "en": "Talks, performances, workshops and activities for children, families and education professionals.",
-      "it": "Incontri, spettacoli, laboratori e attività per bambini, famiglie e professionisti dell'educazione."
+      "it": "Incontri, spettacoli, laboratori e attività per bambini, famiglie e professionisti dell'educazione.",
+      "de": "Talks, performances, workshops and activities for children, families and education professionals."
     },
     "organizer": "EDUCA partners",
     "price": "Mixed / see programme",
@@ -228,7 +2274,8 @@
     "id": "trentodoc-2026",
     "name": {
       "en": "Trentodoc Festival",
-      "it": "Trentodoc Festival"
+      "it": "Trentodoc Festival",
+      "de": "Trentodoc Festival"
     },
     "startDate": "2026-09-25",
     "endDate": "2026-09-27",
@@ -241,44 +2288,92 @@
     "confirmed": true,
     "description": {
       "en": "Festival celebrating Trentino mountain sparkling wine with producers, tastings and events across the territory.",
-      "it": "Festival dedicato alle bollicine di montagna del Trentino con produttori, degustazioni ed eventi sul territorio."
+      "it": "Festival dedicato alle bollicine di montagna del Trentino con produttori, degustazioni ed eventi sul territorio.",
+      "de": "Festival celebrating Trentino mountain sparkling wine with producers, tastings and events across the territory."
     },
     "organizer": "Istituto Trentodoc",
     "price": "Varies by event",
     "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
     "source": "Visit Trentino",
-    "verified": "2026-08-25"
+    "verified": "2026-08-26",
+    "image": "https://www.visittrentino.info/assets-basic/events/garda-trentino/trentodoc-festival_55749253/5691059/image-thumb__5691059__moodboard_list/trentodoc-festival_55749253_2.4e4ce224.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trentodoc-festival_e_52904155"
+    ]
   },
   {
-    "id": "festival-sport-2026",
+    "id": "festa-dello-sport-della-destra-adige-2026",
     "name": {
-      "en": "Festival dello Sport",
-      "it": "Festival dello Sport"
+      "de": "Festa dello Sport della Destra Adige",
+      "en": "Festa dello Sport della Destra Adige",
+      "it": "Festa dello Sport della Destra Adige"
     },
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-04",
-    "startTime": "09:00",
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Historic centre",
-    "category": "Sport & Culture",
-    "status": "NEW",
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "startTime": null,
+    "municipality": "Villa Lagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Villa Lagarina",
+    "category": "Sport & Outdoor",
+    "status": null,
     "confirmed": true,
     "description": {
-      "en": "Major sports festival with athletes, interviews, talks and public events in central Trento.",
-      "it": "Grande festival dello sport con atleti, interviste, incontri ed eventi pubblici nel centro di Trento."
+      "de": "Veranstaltung „Festa dello Sport della Destra Adige“ in Villa Lagarina. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festa dello Sport della Destra Adige” event in Villa Lagarina. See the official event page for the latest details.",
+      "it": "Evento “Festa dello Sport della Destra Adige” a Villa Lagarina. Consulta la pagina ufficiale per i dettagli aggiornati."
     },
-    "organizer": "La Gazzetta dello Sport and partners",
-    "price": "Free",
-    "officialUrl": "https://www.comune.trento.it/Vivere-il-Comune/Eventi",
-    "source": "Comune di Trento",
-    "verified": "2026-08-25"
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/festa-dello-sport-della-destra-adige/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/08/DestrAdige-Luca-Matassoni.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/festa-dello-sport-della-destra-adige/"
+    ]
+  },
+  {
+    "id": "educa-2026-2",
+    "name": {
+      "de": "Educa",
+      "en": "Educa",
+      "it": "Educa"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Educa“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Educa” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Educa” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/educa-festival-educazione/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2015/04/EDUCA.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/educa-festival-educazione/"
+    ]
   },
   {
     "id": "autumnus-2026",
     "name": {
       "en": "Autumnus – Fruits of the Earth",
-      "it": "Autumnus – I frutti della terra"
+      "it": "Autumnus – I frutti della terra",
+      "de": "Autumnus – I frutti della terra"
     },
     "startDate": "2026-10-01",
     "endDate": "2026-10-11",
@@ -291,19 +2386,86 @@
     "confirmed": true,
     "description": {
       "en": "Markets, tastings, workshops and show cooking focused on Trentino produce.",
-      "it": "Mercati, degustazioni, laboratori e show cooking dedicati ai prodotti del Trentino."
+      "it": "Mercati, degustazioni, laboratori e show cooking dedicati ai prodotti del Trentino.",
+      "de": "Markets, tastings, workshops and show cooking focused on Trentino produce."
     },
     "organizer": "Local food and tourism partners",
     "price": "Mixed / see programme",
     "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
     "source": "Visit Trentino",
+    "verified": "2026-08-26",
+    "image": "https://www.visittrentino.info/assets-basic/events/trento/autumnus---i-frutti-della-terra_91861872/7292329/image-thumb__7292329__moodboard_list/autumnus---i-frutti-della-terra_91861872_1.654b8fba.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/autumnus-i-frutti-della-terra_e_91861872"
+    ]
+  },
+  {
+    "id": "festival-sport-2026",
+    "name": {
+      "en": "Festival dello Sport",
+      "it": "Festival dello Sport",
+      "de": "Festival dello Sport"
+    },
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-04",
+    "startTime": "09:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Historic centre",
+    "category": "Sport & Culture",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Major sports festival with athletes, interviews, talks and public events in central Trento.",
+      "it": "Grande festival dello sport con atleti, interviste, incontri ed eventi pubblici nel centro di Trento.",
+      "de": "Major sports festival with athletes, interviews, talks and public events in central Trento."
+    },
+    "organizer": "La Gazzetta dello Sport and partners",
+    "price": "Free",
+    "officialUrl": "https://www.comune.trento.it/Vivere-il-Comune/Eventi",
+    "source": "Comune di Trento",
     "verified": "2026-08-25"
+  },
+  {
+    "id": "il-festival-dello-sport-di-trento-2026",
+    "name": {
+      "de": "Il Festival dello Sport di Trento",
+      "en": "Il Festival dello Sport di Trento",
+      "it": "Il Festival dello Sport di Trento"
+    },
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-04",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Il Festival dello Sport di Trento“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Il Festival dello Sport di Trento” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Il Festival dello Sport di Trento” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-festival-dello-sport-di-trento_e_91856524",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/press/it/2024/autunno/foto-festival/7497975/image-thumb__7497975__moodboard_list/Festival%20dello%20Sport%202023%20foto%20Archivio%20Ufficio%20Stampa%20PAT%20%284%29.7b180536.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-festival-dello-sport-di-trento_e_91856524"
+    ]
   },
   {
     "id": "vigna-eccellente-2026",
     "name": {
       "en": "La Vigna Eccellente",
-      "it": "La Vigna Eccellente"
+      "it": "La Vigna Eccellente",
+      "de": "La Vigna Eccellente"
     },
     "startDate": "2026-10-01",
     "endDate": "2026-10-04",
@@ -316,19 +2478,92 @@
     "confirmed": true,
     "description": {
       "en": "Vallagarina wine and gastronomy event centred on Marzemino and local producers.",
-      "it": "Evento enogastronomico della Vallagarina dedicato al Marzemino e ai produttori locali."
+      "it": "Evento enogastronomico della Vallagarina dedicato al Marzemino e ai produttori locali.",
+      "de": "Vallagarina wine and gastronomy event centred on Marzemino and local producers."
     },
     "organizer": "Comune di Isera and partners",
     "price": "See programme",
     "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
     "source": "Visit Trentino",
-    "verified": "2026-08-25"
+    "verified": "2026-08-26",
+    "image": "https://www.visittrentino.info/assets-basic/events/www-visitrovereto-it/-la-vigna-eccellente-_2063624/7808356/image-thumb__7808356__moodboard_list/-la-vigna-eccellente-_2063624_1.8892250e.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-vigna-eccellente_e_2063624"
+    ]
+  },
+  {
+    "id": "incontrarti-2026",
+    "name": {
+      "de": "IncontrArti",
+      "en": "IncontrArti",
+      "it": "IncontrArti"
+    },
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-28",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „IncontrArti“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“IncontrArti” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “IncontrArti” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/incontrarti/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2024/09/IncontrArti-Manifattura-Tabacchi-Rovereto.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/incontrarti/"
+    ]
+  },
+  {
+    "id": "la-vigna-eccellente-2026",
+    "name": {
+      "de": "La Vigna Eccellente",
+      "en": "La Vigna Eccellente",
+      "it": "La Vigna Eccellente"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "startTime": null,
+    "municipality": "Isera",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Isera",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La Vigna Eccellente“ in Isera. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La Vigna Eccellente” event in Isera. See the official event page for the latest details.",
+      "it": "Evento “La Vigna Eccellente” a Isera. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/la-vigna-eccellente/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/09/LA-VIGNA-ECCELLENTE-10.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/la-vigna-eccellente/"
+    ]
   },
   {
     "id": "ram-film-2026",
     "name": {
       "en": "RAM Film Festival",
-      "it": "RAM Film Festival"
+      "it": "RAM Film Festival",
+      "de": "RAM Film Festival"
     },
     "startDate": "2026-10-07",
     "endDate": "2026-10-11",
@@ -341,7 +2576,8 @@
     "confirmed": true,
     "description": {
       "en": "Archaeology and cultural film festival combining screenings, talks, exhibitions and visits.",
-      "it": "Festival cinematografico di archeologia e cultura con proiezioni, incontri, mostre e visite."
+      "it": "Festival cinematografico di archeologia e cultura con proiezioni, incontri, mostre e visite.",
+      "de": "Archaeology and cultural film festival combining screenings, talks, exhibitions and visits."
     },
     "organizer": "Fondazione Museo Civico di Rovereto",
     "price": "See programme",
@@ -350,10 +2586,77 @@
     "verified": "2026-08-25"
   },
   {
+    "id": "sapori-d-autunno-2026",
+    "name": {
+      "de": "Sapori d’autunno",
+      "en": "Sapori d’autunno",
+      "it": "Sapori d’autunno"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Brentonico",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Brentonico",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sapori d’autunno“ in Brentonico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sapori d’autunno” event in Brentonico. See the official event page for the latest details.",
+      "it": "Evento “Sapori d’autunno” a Brentonico. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/10/Sapori-dautunno-copertina-evento.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno/"
+    ]
+  },
+  {
+    "id": "ram-film-festival-2026",
+    "name": {
+      "de": "RAM film festival",
+      "en": "RAM film festival",
+      "it": "RAM film festival"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „RAM film festival“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“RAM film festival” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “RAM film festival” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/ram-film-festival/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2021/09/RAM-Film-Festival-1.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/ram-film-festival/"
+    ]
+  },
+  {
     "id": "wired-next-2026",
     "name": {
       "en": "Wired Next Fest Trentino",
-      "it": "Wired Next Fest Trentino"
+      "it": "Wired Next Fest Trentino",
+      "de": "Wired Next Fest Trentino"
     },
     "startDate": "2026-10-16",
     "endDate": "2026-10-18",
@@ -366,7 +2669,8 @@
     "confirmed": true,
     "description": {
       "en": "Technology and innovation festival with talks, workshops, exhibitions and live events.",
-      "it": "Festival di tecnologia e innovazione con talk, workshop, mostre ed eventi dal vivo."
+      "it": "Festival di tecnologia e innovazione con talk, workshop, mostre ed eventi dal vivo.",
+      "de": "Technology and innovation festival with talks, workshops, exhibitions and live events."
     },
     "organizer": "Wired / Trentino partners",
     "price": "See programme",
@@ -378,7 +2682,8 @@
     "id": "fine-wine-tourism-2026",
     "name": {
       "en": "FINE #WineTourism Marketplace Italy",
-      "it": "FINE #WineTourism Marketplace Italy"
+      "it": "FINE #WineTourism Marketplace Italy",
+      "de": "FINE #WineTourism Marketplace Italy"
     },
     "startDate": "2026-10-27",
     "endDate": "2026-10-28",
@@ -391,7 +2696,8 @@
     "confirmed": true,
     "description": {
       "en": "B2B marketplace focused on wine tourism.",
-      "it": "Marketplace B2B dedicato al turismo del vino."
+      "it": "Marketplace B2B dedicato al turismo del vino.",
+      "de": "B2B marketplace focused on wine tourism."
     },
     "organizer": "Riva del Garda Fierecongressi",
     "price": "Professional access / see official page",
@@ -400,10 +2706,110 @@
     "verified": "2026-08-25"
   },
   {
+    "id": "stagione-audipop-2026",
+    "name": {
+      "de": "Stagione AudiPOP 2026/2027",
+      "en": "Stagione AudiPOP 2026/2027",
+      "it": "Stagione AudiPOP 2026/2027"
+    },
+    "startDate": "2026-11-03",
+    "endDate": "2027-04-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Stagione AudiPOP 2026/2027“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Stagione AudiPOP 2026/2027” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Stagione AudiPOP 2026/2027” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/audipop26-27-generiche_sitoimm800x600/28088770-1-ita-IT/AudiPOP26-27-generiche_sitoimm800x600_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027"
+    ]
+  },
+  {
+    "id": "scappo-a-teatro-scuole-2026",
+    "name": {
+      "de": "Scappo a Teatro SCUOLE 2026/2027",
+      "en": "Scappo a Teatro SCUOLE 2026/2027",
+      "it": "Scappo a Teatro SCUOLE 2026/2027"
+    },
+    "startDate": "2026-11-04",
+    "endDate": "2027-05-13",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Scappo a Teatro SCUOLE 2026/2027“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Scappo a Teatro SCUOLE 2026/2027” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Scappo a Teatro SCUOLE 2026/2027” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Scappo-a-Teatro-SCUOLE-2026-2027",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/csc_immscappo-a-teatro26-27_scuole_sitoimm800x600/28089225-1-ita-IT/CSC_immSCAPPO-A-TEATRO26-27_Scuole_sitoimm800x600_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Scappo-a-Teatro-SCUOLE-2026-2027"
+    ]
+  },
+  {
+    "id": "festival-informatici-senza-frontiere-2026",
+    "name": {
+      "de": "Festival Informatici Senza Frontiere",
+      "en": "Festival Informatici Senza Frontiere",
+      "it": "Festival Informatici Senza Frontiere"
+    },
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festival Informatici Senza Frontiere“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festival Informatici Senza Frontiere” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Festival Informatici Senza Frontiere” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/festival-informatici-senza-frontiere/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/10/4.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/festival-informatici-senza-frontiere/"
+    ]
+  },
+  {
     "id": "riva-christmas-2026",
     "name": {
       "en": "Di Gusto in Gusto – Christmas Village",
-      "it": "Di Gusto in Gusto – Villaggio di Natale"
+      "it": "Di Gusto in Gusto – Villaggio di Natale",
+      "de": "Di Gusto in Gusto – Villaggio di Natale"
     },
     "startDate": "2026-11-13",
     "endDate": "2027-01-06",
@@ -416,7 +2822,8 @@
     "confirmed": true,
     "description": {
       "en": "Christmas food and regional-product stands throughout central Riva.",
-      "it": "Stand natalizi dedicati alla gastronomia e ai prodotti regionali nel centro di Riva."
+      "it": "Stand natalizi dedicati alla gastronomia e ai prodotti regionali nel centro di Riva.",
+      "de": "Christmas food and regional-product stands throughout central Riva."
     },
     "organizer": "Consorzio Riva in Centro",
     "price": "Free access",
@@ -428,7 +2835,8 @@
     "id": "arco-christmas-2026",
     "name": {
       "en": "Arco Christmas Market",
-      "it": "Mercatino di Natale di Arco"
+      "it": "Mercatino di Natale di Arco",
+      "de": "Mercatino di Natale di Arco"
     },
     "startDate": "2026-11-13",
     "endDate": "2027-01-06",
@@ -441,7 +2849,8 @@
     "confirmed": true,
     "description": {
       "en": "Traditional Christmas market with crafts, food and family programming.",
-      "it": "Tradizionale mercatino di Natale con artigianato, gastronomia e attività per famiglie."
+      "it": "Tradizionale mercatino di Natale con artigianato, gastronomia e attività per famiglie.",
+      "de": "Traditional Christmas market with crafts, food and family programming."
     },
     "organizer": "Assocentro",
     "price": "Free access",
@@ -450,35 +2859,11 @@
     "verified": "2026-08-25"
   },
   {
-    "id": "rovereto-christmas-2026",
-    "name": {
-      "en": "Rintocchi di Luce – Christmas in Rovereto",
-      "it": "Rintocchi di Luce – Natale a Rovereto"
-    },
-    "startDate": "2026-11-20",
-    "endDate": "2027-01-06",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Historic centre",
-    "category": "Christmas Market",
-    "status": "NEW",
-    "confirmed": true,
-    "description": {
-      "en": "Christmas programme with crafts, food, local products and family activities.",
-      "it": "Programma natalizio con artigianato, gastronomia, prodotti locali e attività per famiglie."
-    },
-    "organizer": "Rovereto in Centro",
-    "price": "Free access",
-    "officialUrl": "https://www.roveretoincentro.com/",
-    "source": "Rovereto in Centro",
-    "verified": "2026-08-25"
-  },
-  {
     "id": "trento-christmas-2026",
     "name": {
       "en": "Trento Christmas Market",
-      "it": "Mercatino di Natale di Trento"
+      "it": "Mercatino di Natale di Trento",
+      "de": "Mercatino di Natale di Trento"
     },
     "startDate": "2026-11-20",
     "endDate": "2027-01-06",
@@ -491,7 +2876,8 @@
     "confirmed": true,
     "description": {
       "en": "One of Trentino's major Christmas markets, with food, crafts and seasonal programming.",
-      "it": "Uno dei principali mercatini di Natale del Trentino, con gastronomia, artigianato e programma stagionale."
+      "it": "Uno dei principali mercatini di Natale del Trentino, con gastronomia, artigianato e programma stagionale.",
+      "de": "One of Trentino's major Christmas markets, with food, crafts and seasonal programming."
     },
     "organizer": "Trento tourism partners",
     "price": "Free access",
@@ -500,10 +2886,137 @@
     "verified": "2026-08-25"
   },
   {
+    "id": "rovereto-christmas-2026",
+    "name": {
+      "en": "Rintocchi di Luce – Christmas in Rovereto",
+      "it": "Rintocchi di Luce – Natale a Rovereto",
+      "de": "Rintocchi di Luce – Natale a Rovereto"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2027-01-06",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Historic centre",
+    "category": "Christmas Market",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Christmas programme with crafts, food, local products and family activities.",
+      "it": "Programma natalizio con artigianato, gastronomia, prodotti locali e attività per famiglie.",
+      "de": "Christmas programme with crafts, food, local products and family activities."
+    },
+    "organizer": "Rovereto in Centro",
+    "price": "Free access",
+    "officialUrl": "https://www.roveretoincentro.com/",
+    "source": "Rovereto in Centro",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "rintocchi-di-luce-natale-a-rovereto-2026",
+    "name": {
+      "de": "Rintocchi di Luce. Natale a Rovereto",
+      "en": "Rintocchi di Luce. Natale a Rovereto",
+      "it": "Rintocchi di Luce. Natale a Rovereto"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Rintocchi di Luce. Natale a Rovereto“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Rintocchi di Luce. Natale a Rovereto” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Rintocchi di Luce. Natale a Rovereto” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/mercatini-di-natale-rovereto-trentino/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2015/06/Rintocchi-di-Luce.-Natale-a-Rovereto-1.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/mercatini-di-natale-rovereto-trentino/"
+    ]
+  },
+  {
+    "id": "a-teatro-a-teatro-2026",
+    "name": {
+      "de": "A teatro! A teatro!",
+      "en": "A teatro! A teatro!",
+      "it": "A teatro! A teatro!"
+    },
+    "startDate": "2026-11-22",
+    "endDate": "2026-11-22",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „A teatro! A teatro!“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“A teatro! A teatro!” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “A teatro! A teatro!” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/a-teatro-a-teatro/",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/04/7900_Rov-Teatro-Zandonai-interno-Settenovecento.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/a-teatro-a-teatro/"
+    ]
+  },
+  {
+    "id": "haydn-stagione-d-opera-2026",
+    "name": {
+      "de": "Haydn Stagione d'Opera 2026/2027",
+      "en": "Haydn Stagione d'Opera 2026/2027",
+      "it": "Haydn Stagione d'Opera 2026/2027"
+    },
+    "startDate": "2026-11-27",
+    "endDate": "2027-01-31",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Haydn Stagione d'Opera 2026/2027“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Haydn Stagione d'Opera 2026/2027” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Haydn Stagione d'Opera 2026/2027” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Haydn-Stagione-d-Opera-2026-2027",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-08-26",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/music-sheet-5117328_1920-1/27839737-1-ita-IT/music-sheet-5117328_1920-1_imagefull.jpg",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Haydn-Stagione-d-Opera-2026-2027"
+    ]
+  },
+  {
     "id": "expo-riva-shuh-2027",
     "name": {
       "en": "Expo Riva Schuh",
-      "it": "Expo Riva Schuh"
+      "it": "Expo Riva Schuh",
+      "de": "Expo Riva Schuh"
     },
     "startDate": "2027-01-16",
     "endDate": "2027-01-19",
@@ -516,7 +3029,8 @@
     "confirmed": true,
     "description": {
       "en": "International footwear trade fair.",
-      "it": "Fiera internazionale dedicata al settore calzaturiero."
+      "it": "Fiera internazionale dedicata al settore calzaturiero.",
+      "de": "International footwear trade fair."
     },
     "organizer": "Riva del Garda Fierecongressi",
     "price": "Professional access",
@@ -528,7 +3042,8 @@
     "id": "hospitality-2027",
     "name": {
       "en": "Hospitality – Il Salone dell'Accoglienza",
-      "it": "Hospitality – Il Salone dell'Accoglienza"
+      "it": "Hospitality – Il Salone dell'Accoglienza",
+      "de": "Hospitality – Il Salone dell'Accoglienza"
     },
     "startDate": "2027-02-01",
     "endDate": "2027-02-04",
@@ -541,7 +3056,8 @@
     "confirmed": true,
     "description": {
       "en": "Major B2B trade fair for the HoReCa and hospitality sectors.",
-      "it": "Importante fiera B2B per i settori HoReCa e hospitality."
+      "it": "Importante fiera B2B per i settori HoReCa e hospitality.",
+      "de": "Major B2B trade fair for the HoReCa and hospitality sectors."
     },
     "organizer": "Riva del Garda Fierecongressi",
     "price": "Professional access",
@@ -550,135 +3066,11 @@
     "verified": "2026-08-25"
   },
   {
-    "id": "trento-film-2027",
-    "name": {
-      "en": "75th Trento Film Festival",
-      "it": "75° Trento Film Festival"
-    },
-    "startDate": "2027-04-24",
-    "endDate": "2027-05-02",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Multiple venues",
-    "category": "Film & Culture",
-    "status": "NEW",
-    "confirmed": true,
-    "description": {
-      "en": "International film festival dedicated to mountains, adventure and exploration.",
-      "it": "Festival cinematografico internazionale dedicato a montagna, avventura ed esplorazione."
-    },
-    "organizer": "Trento Film Festival",
-    "price": "Varies by event",
-    "officialUrl": "https://trentofestival.it/",
-    "source": "Official organizer",
-    "verified": "2026-08-25"
-  },
-  {
-    "id": "bike-festival-2027",
-    "name": {
-      "en": "Bike Festival Riva del Garda",
-      "it": "Bike Festival Riva del Garda"
-    },
-    "startDate": "2027-04-30",
-    "endDate": "2027-05-02",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Sport & Outdoor",
-    "status": "NEW",
-    "confirmed": true,
-    "description": {
-      "en": "Large cycling and outdoor festival with expo, rides and related events.",
-      "it": "Grande festival dedicato a ciclismo e outdoor con expo, uscite ed eventi collegati."
-    },
-    "organizer": "Bike Festival Riva",
-    "price": "Expo free / activities vary",
-    "officialUrl": "https://www.bikefestivalriva.com/en",
-    "source": "Official organizer",
-    "verified": "2026-08-25"
-  },
-  {
-    "id": "rebuild-2027",
-    "name": {
-      "en": "REbuild 2027",
-      "it": "REbuild 2027"
-    },
-    "startDate": "2027-05-04",
-    "endDate": "2027-05-05",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Congress Centre",
-    "category": "Business & Innovation",
-    "status": "NEW",
-    "confirmed": true,
-    "description": {
-      "en": "Business and innovation event focused on construction and the built environment.",
-      "it": "Evento business e innovazione dedicato all'edilizia e all'ambiente costruito."
-    },
-    "organizer": "Riva del Garda Fierecongressi",
-    "price": "See official page",
-    "officialUrl": "https://rivadelgardafierecongressi.it/it/congressi",
-    "source": "Official organizer",
-    "verified": "2026-08-25"
-  },
-  {
-    "id": "garda-trentino-trail-2027",
-    "name": {
-      "en": "Garda Trentino Trail",
-      "it": "Garda Trentino Trail"
-    },
-    "startDate": "2027-05-14",
-    "endDate": "2027-05-16",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Garda Trentino / Ledro / Tenno area",
-    "category": "Sport & Outdoor",
-    "status": "NEW",
-    "confirmed": true,
-    "description": {
-      "en": "Multi-race trail-running weekend across Garda Trentino, Ledro and Tenno.",
-      "it": "Weekend di trail running con più gare tra Garda Trentino, Ledro e Tenno."
-    },
-    "organizer": "Garda Trentino Trail",
-    "price": "Registration required",
-    "officialUrl": "https://www.gardatrentinotrail.it/",
-    "source": "Official organizer",
-    "verified": "2026-08-25"
-  },
-  {
-    "id": "festival-economia-2027",
-    "name": {
-      "en": "Trento Economics Festival 2027",
-      "it": "Festival dell'Economia di Trento 2027"
-    },
-    "startDate": "2027-05-18",
-    "endDate": "2027-05-22",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Multiple city venues",
-    "category": "Business & Networking",
-    "status": "NEW",
-    "confirmed": true,
-    "description": {
-      "en": "Five-day economics and public-policy festival with talks, debates and networking.",
-      "it": "Festival di cinque giorni dedicato a economia e politiche pubbliche, con incontri, dibattiti e networking."
-    },
-    "organizer": "Festival dell'Economia",
-    "price": "See programme",
-    "officialUrl": "https://www.festivaleconomia.it/",
-    "source": "Official organizer",
-    "verified": "2026-08-25"
-  },
-  {
     "id": "lake-garda-42-2027",
     "name": {
       "en": "Lake Garda 42 – 2027 edition",
-      "it": "Lake Garda 42 – edizione 2027"
+      "it": "Lake Garda 42 – edizione 2027",
+      "de": "Lake Garda 42 – edizione 2027"
     },
     "startDate": "2027-04-01",
     "endDate": "2027-04-30",
@@ -691,11 +3083,147 @@
     "confirmed": false,
     "description": {
       "en": "The 2027 edition has been announced, but the exact race date is not yet sufficiently verified.",
-      "it": "L'edizione 2027 è stata annunciata, ma la data esatta della gara non è ancora sufficientemente verificata."
+      "it": "L'edizione 2027 è stata annunciata, ma la data esatta della gara non è ancora sufficientemente verificata.",
+      "de": "The 2027 edition has been announced, but the exact race date is not yet sufficiently verified."
     },
     "organizer": "Lake Garda 42",
     "price": "Registration required",
     "officialUrl": "https://lakegarda42.com/it/",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "trento-film-2027",
+    "name": {
+      "en": "75th Trento Film Festival",
+      "it": "75° Trento Film Festival",
+      "de": "75° Trento Film Festival"
+    },
+    "startDate": "2027-04-24",
+    "endDate": "2027-05-02",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Multiple venues",
+    "category": "Film & Culture",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "International film festival dedicated to mountains, adventure and exploration.",
+      "it": "Festival cinematografico internazionale dedicato a montagna, avventura ed esplorazione.",
+      "de": "International film festival dedicated to mountains, adventure and exploration."
+    },
+    "organizer": "Trento Film Festival",
+    "price": "Varies by event",
+    "officialUrl": "https://trentofestival.it/",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "bike-festival-2027",
+    "name": {
+      "en": "Bike Festival Riva del Garda",
+      "it": "Bike Festival Riva del Garda",
+      "de": "Bike Festival Riva del Garda"
+    },
+    "startDate": "2027-04-30",
+    "endDate": "2027-05-02",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Sport & Outdoor",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Large cycling and outdoor festival with expo, rides and related events.",
+      "it": "Grande festival dedicato a ciclismo e outdoor con expo, uscite ed eventi collegati.",
+      "de": "Large cycling and outdoor festival with expo, rides and related events."
+    },
+    "organizer": "Bike Festival Riva",
+    "price": "Expo free / activities vary",
+    "officialUrl": "https://www.bikefestivalriva.com/en",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "rebuild-2027",
+    "name": {
+      "en": "REbuild 2027",
+      "it": "REbuild 2027",
+      "de": "REbuild 2027"
+    },
+    "startDate": "2027-05-04",
+    "endDate": "2027-05-05",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Congress Centre",
+    "category": "Business & Innovation",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Business and innovation event focused on construction and the built environment.",
+      "it": "Evento business e innovazione dedicato all'edilizia e all'ambiente costruito.",
+      "de": "Business and innovation event focused on construction and the built environment."
+    },
+    "organizer": "Riva del Garda Fierecongressi",
+    "price": "See official page",
+    "officialUrl": "https://rivadelgardafierecongressi.it/it/congressi",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "garda-trentino-trail-2027",
+    "name": {
+      "en": "Garda Trentino Trail",
+      "it": "Garda Trentino Trail",
+      "de": "Garda Trentino Trail"
+    },
+    "startDate": "2027-05-14",
+    "endDate": "2027-05-16",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Garda Trentino / Ledro / Tenno area",
+    "category": "Sport & Outdoor",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Multi-race trail-running weekend across Garda Trentino, Ledro and Tenno.",
+      "it": "Weekend di trail running con più gare tra Garda Trentino, Ledro e Tenno.",
+      "de": "Multi-race trail-running weekend across Garda Trentino, Ledro and Tenno."
+    },
+    "organizer": "Garda Trentino Trail",
+    "price": "Registration required",
+    "officialUrl": "https://www.gardatrentinotrail.it/",
+    "source": "Official organizer",
+    "verified": "2026-08-25"
+  },
+  {
+    "id": "festival-economia-2027",
+    "name": {
+      "en": "Trento Economics Festival 2027",
+      "it": "Festival dell'Economia di Trento 2027",
+      "de": "Festival dell'Economia di Trento 2027"
+    },
+    "startDate": "2027-05-18",
+    "endDate": "2027-05-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Multiple city venues",
+    "category": "Business & Networking",
+    "status": "NEW",
+    "confirmed": true,
+    "description": {
+      "en": "Five-day economics and public-policy festival with talks, debates and networking.",
+      "it": "Festival di cinque giorni dedicato a economia e politiche pubbliche, con incontri, dibattiti e networking.",
+      "de": "Five-day economics and public-policy festival with talks, debates and networking."
+    },
+    "organizer": "Festival dell'Economia",
+    "price": "See programme",
+    "officialUrl": "https://www.festivaleconomia.it/",
     "source": "Official organizer",
     "verified": "2026-08-25"
   }
