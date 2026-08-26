@@ -1,36 +1,29 @@
-# Trentino Events website
+# Trentino Events
 
-A bilingual (English / Italian) event browser for Rovereto, Vallagarina, Trento, Alto Garda and the rest of Trentino.
+Bilingual event portal for Rovereto, Vallagarina, Trento, Alto Garda and the rest of Trentino.
 
-## Included
-- English / Italian language switch
-- Clickable quick date ranges: Today, This week, Weekend, This month, Next 12 months
-- Custom From / To date fields
-- Area, category and free-text filters
-- Event detail modal
-- Status badges: NEW / UPDATED / CONFIRMED / Not yet confirmed
-- Official event links and verification date
-- Responsive phone / tablet / desktop layout
-- Event data stored separately in `data/events.json`
-- Permanent exclusions stored in `data/exclusions.json`
+## Current front-end basics
+- English / Italian switch
+- Responsive visual event cards with imagery
+- Localized change badges (NEW/NUOVO, UPDATED/AGGIORNATO, etc.)
+- No permanent “new” badge on baseline events
+- Dynamic today date using Europe/Rome
+- Quick date filters, area/category filters and search
+- Event detail dialog with image and official source link
+- Event data isolated in `data/events.json`
+- Exclusions isolated in `data/exclusions.json`
 
-## Local preview
-Because the app loads `data/events.json`, serve the directory instead of double-clicking `index.html`.
+## Daily data updates
+Routine daily automation should update `data/events.json` only and preserve the front-end files. New/updated/cancelled/confirmed/removed events may carry a transient `status` and `changeDate`; unchanged events should not be labelled as new.
 
-Python:
-    python -m http.server 8000
 
-Then open:
-    http://localhost:8000
+## Visual redesign
+- Large photographic event cards
+- Official event image supported via `image` in `data/events.json`
+- Automatic thematic fallback photography if no official image exists
+- Bilingual change badges (`New/Nuovo`, `Updated/Aggiornato`, etc.)
+- Change badges expire visually after 7 days when `statusDate` is present
+- Clickable category chips
+- Visible daily-update indicator (07:00 Europe/Rome)
 
-## Updating the website
-The front end does not need to change. Replace or modify `data/events.json` each morning.
-
-Recommended production architecture:
-1. Host the repository on GitHub.
-2. Deploy it on Vercel (or GitHub Pages).
-3. Let the daily ChatGPT event-monitoring workflow update `data/events.json`.
-4. The hosting platform redeploys automatically whenever the JSON changes.
-
-## Important
-The current prototype uses 2026-08-25 as its baseline date so its quick date controls match the requested monitoring window. In production, the update process should write the current run date into the generated dataset or configuration each morning.
+The recurring event-research process should update only `data/events.json` and `data/exclusions.json`; the frontend design should remain untouched during routine updates.
