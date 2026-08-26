@@ -3,184 +3,108 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Entdecke geprüfte Veranstaltungen in Rovereto und im gesamten Trentino – Festivals, Märkte, Genuss, Kultur, Familie, Sport und mehr.">
+  <meta name="description" content="Veranstaltungen in Rovereto und im gesamten Trentino – kompakt, mehrsprachig und regelmäßig aktualisiert.">
   <meta name="theme-color" content="#163426">
   <title>Trentino Events</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="refinements.css">
+  <link rel="stylesheet" href="ui-v4.css">
 </head>
 <body>
   <header class="hero">
     <div class="hero-shade"></div>
     <div class="wrap hero-inner">
       <nav class="topbar" aria-label="Seiteneinstellungen">
-        <a class="brand" href="#top" aria-label="Trentino Events Startseite">
-          <span class="brand-mark">T</span>
-          <span>Trentino <strong>Events</strong></span>
-        </a>
+        <a class="brand" href="#top"><span class="brand-mark">T</span><span>Trentino <strong>Events</strong></span></a>
         <div class="language-switch" aria-label="Sprache">
           <button type="button" class="lang active" data-lang="de">DE</button>
           <button type="button" class="lang" data-lang="en">EN</button>
           <button type="button" class="lang" data-lang="it">IT</button>
         </div>
       </nav>
-
       <div id="top" class="hero-copy">
-        <p class="eyebrow" data-i18n="eyebrow">Rovereto · Vallagarina · Trento · Alto Garda · Trentino</p>
-        <h1 data-i18n="title">Das Beste aus dem Trentino – Event für Event.</h1>
-        <p class="subtitle" data-i18n="subtitle">Märkte, Festivals, Genuss, Kultur, Familie und Outdoor-Erlebnisse – an einem Ort gebündelt und regelmäßig geprüft.</p>
-        <div class="update-pill"><span class="update-dot" aria-hidden="true"></span><span data-i18n="updatedDaily">Datenbank wird regelmäßig geprüft</span></div>
+        <p class="eyebrow">Rovereto · Vallagarina · Trento · Alto Garda · Trentino</p>
+        <h1>Trentino Events</h1>
       </div>
     </div>
   </header>
 
   <main class="wrap main-content">
-    <section class="summary-row" aria-label="Überblick">
-      <div><strong id="nextWeekendCount">0</strong><span data-i18n="thisWeekend">kurze Events dieses Wochenende</span></div>
-      <div><strong id="lastVerified">—</strong><span data-i18n="lastVerified">letzte Datenprüfung</span></div>
-    </section>
-
-    <section class="editorial-section featured-section" aria-labelledby="featuredTitle">
-      <div class="section-heading">
-        <div>
-          <p class="section-kicker" data-i18n="handpicked">Aktuell ausgewählt</p>
-          <h2 id="featuredTitle" data-i18n="featured">Highlights</h2>
-        </div>
-        <button class="text-link" type="button" data-jump="all" data-i18n="viewAll">Alle Events anzeigen →</button>
+    <section class="summary-row compact-summary" aria-label="Aktualisierung">
+      <div>
+        <strong id="lastVerified">—</strong>
+        <span data-i18n="lastVerified">letzte Datenprüfung</span>
+        <button id="newEventsToggle" type="button" class="new-count-btn">+0 neu hinzugefügt</button>
       </div>
-      <div id="featuredGrid" class="featured-grid"></div>
     </section>
 
-    <section id="changesSection" class="editorial-section changes-section" aria-labelledby="changesTitle">
+    <section id="newEventsPanel" class="new-events-panel" hidden>
+      <h3 id="newEventsPanelTitle">Neu seit der letzten Aktualisierung</h3>
+      <div id="newEventList" class="new-event-list"></div>
+    </section>
+
+    <section class="editorial-section focus-section" aria-labelledby="todayTitle">
       <div class="section-heading compact-heading">
-        <div>
-          <p class="section-kicker warm" data-i18n="freshlyUpdated">Frisch aktualisiert</p>
-          <h2 id="changesTitle" data-i18n="whatsChanged">Neu & geändert</h2>
-        </div>
+        <div><p class="section-kicker" data-i18n="todayIntro">Was heute konkret stattfindet</p><h2 id="todayTitle" data-i18n="today">Heute</h2></div>
       </div>
-      <div id="changesGrid" class="changes-grid"></div>
+      <div id="todayGrid" class="focus-events"></div>
+      <div class="expand-row"><button id="todayMore" type="button" class="expand-btn" hidden>+</button></div>
     </section>
 
-    <section class="editorial-section weekend-section" aria-labelledby="weekendTitle">
-      <div class="section-heading">
-        <div>
-          <p class="section-kicker" data-i18n="makePlans">Wochenende planen</p>
-          <h2 id="weekendTitle" data-i18n="weekendHighlights">Dieses Wochenende</h2>
-        </div>
-        <button class="text-link" type="button" data-jump="weekend" data-i18n="showWeekend">Alle Wochenend-Events →</button>
+    <section class="editorial-section focus-section" aria-labelledby="weekendTitle">
+      <div class="section-heading compact-heading">
+        <div><p class="section-kicker" data-i18n="weekendIntro">Kurzveranstaltungen am kommenden Wochenende</p><h2 id="weekendTitle" data-i18n="weekend">Dieses Wochenende</h2></div>
       </div>
-      <div id="weekendGrid" class="horizontal-events"></div>
+      <div id="weekendGrid" class="focus-events"></div>
+      <div class="expand-row"><button id="weekendMore" type="button" class="expand-btn" hidden>+</button></div>
     </section>
 
     <section class="editorial-section area-section" aria-labelledby="areaTitle">
       <div class="section-heading compact-heading">
-        <div>
-          <p class="section-kicker" data-i18n="exploreByPlace">Nach Region entdecken</p>
-          <h2 id="areaTitle" data-i18n="regions">Wohin möchtest du?</h2>
-        </div>
+        <div><p class="section-kicker" data-i18n="regions">Nach Region entdecken</p><h2 id="areaTitle" data-i18n="where">Wohin möchtest du?</h2></div>
       </div>
       <div id="areaCards" class="area-cards"></div>
     </section>
 
-    <section id="discover" class="discover-panel" aria-label="Events entdecken">
-      <div class="filter-heading">
-        <div>
-          <p class="section-kicker" data-i18n="findYourEvent">Finde dein Event</p>
-          <h2 data-i18n="browseAll">Alle Events durchsuchen</h2>
-        </div>
-      </div>
-
-      <div class="quick-dates" aria-label="Schnelle Datumswahl">
-        <button type="button" data-quick="today" data-i18n="today">Heute</button>
-        <button type="button" data-quick="week" data-i18n="thisWeek">Diese Woche</button>
+    <section id="discover" class="discover-panel" aria-label="Event-Filter">
+      <div class="filter-heading"><p class="section-kicker" data-i18n="find">Finde dein Event</p><h2 data-i18n="browse">Alle Events durchsuchen</h2></div>
+      <div class="quick-dates">
+        <button type="button" data-quick="today" data-i18n="todayBtn">Heute</button>
+        <button type="button" data-quick="week" data-i18n="weekBtn">Diese Woche</button>
         <button type="button" data-quick="nextweek" data-i18n="nextWeek">Nächste Woche</button>
-        <button type="button" data-quick="weekend" data-i18n="weekend">Wochenende</button>
-        <button type="button" data-quick="month" data-i18n="thisMonth">Dieser Monat</button>
+        <button type="button" data-quick="weekend" data-i18n="weekendBtn">Wochenende</button>
+        <button type="button" data-quick="month" data-i18n="month">Dieser Monat</button>
         <button type="button" data-quick="all" class="active" data-i18n="all12">Nächste 12 Monate</button>
       </div>
-
-      <div id="categoryChips" class="category-chips" aria-label="Event-Kategorien"></div>
-
-      <section class="filters" aria-label="Event-Filter">
-        <label>
-          <span data-i18n="from">Von</span>
-          <input id="fromDate" type="date">
-        </label>
-        <label>
-          <span data-i18n="to">Bis</span>
-          <input id="toDate" type="date">
-        </label>
-        <label>
-          <span data-i18n="area">Region</span>
-          <select id="areaFilter"><option value="">Alle Regionen</option></select>
-        </label>
-        <label>
-          <span data-i18n="category">Kategorie</span>
-          <select id="categoryFilter"><option value="">Alle Kategorien</option></select>
-        </label>
-        <label class="search">
-          <span data-i18n="search">Suche</span>
-          <input id="searchInput" type="search" placeholder="Event, Ort, Veranstaltungsort…">
-        </label>
+      <div id="categoryChips" class="category-chips"></div>
+      <section class="filters">
+        <label><span data-i18n="from">Von</span><input id="fromDate" type="date"></label>
+        <label><span data-i18n="to">Bis</span><input id="toDate" type="date"></label>
+        <label><span data-i18n="area">Region</span><select id="areaFilter"></select></label>
+        <label><span data-i18n="category">Kategorie</span><select id="categoryFilter"></select></label>
+        <label class="search"><span data-i18n="search">Suche</span><input id="searchInput" type="search"></label>
         <button id="resetFilters" type="button" class="secondary" data-i18n="reset">Zurücksetzen</button>
       </section>
     </section>
 
     <section class="content-heading">
-      <div>
-        <p class="section-kicker" data-i18n="discover">Trentino entdecken</p>
-        <h2 data-i18n="shortEvents">Termine & Kurzveranstaltungen</h2>
-        <div id="rangeLabel" class="range-label"></div>
-      </div>
-      <label class="sort">
-        <span data-i18n="sort">Sortierung</span>
-        <select id="sortSelect">
-          <option value="soonest" data-i18n-option="soonest">Nächste zuerst</option>
-          <option value="latest" data-i18n-option="latest">Späteste zuerst</option>
-          <option value="place" data-i18n-option="place">Nach Ort</option>
-        </select>
-      </label>
+      <div><p class="section-kicker">Trentino</p><h2 data-i18n="shortTitle">Termine & Kurzveranstaltungen</h2><div id="rangeLabel" class="range-label"></div></div>
+      <label class="sort"><span data-i18n="sort">Sortierung</span><select id="sortSelect"><option value="soonest" data-i18n="soonest">Nächste zuerst</option><option value="latest" data-i18n="latest">Späteste zuerst</option><option value="place" data-i18n="place">Nach Ort</option></select></label>
     </section>
-
-    <div id="emptyState" class="empty" hidden>
-      <h2 data-i18n="nothing">Keine Events passen zu diesen Filtern.</h2>
-      <p data-i18n="tryAgain">Probiere einen anderen Zeitraum, eine Region oder Kategorie.</p>
-    </div>
-
     <section id="eventsGrid" class="events-grid" aria-live="polite"></section>
+    <div class="section-list-footer"><button id="shortMore" type="button" class="expand-btn" hidden>+</button></div>
 
-    <section id="longTermSection" class="longterm-section" aria-labelledby="longTermTitle" hidden>
-      <div class="longterm-heading">
-        <div>
-          <p class="section-kicker" data-i18n="longRunning">Langzeit & Dauerausstellungen</p>
-          <h2 id="longTermTitle" data-i18n="longRunning">Langzeit & Dauerausstellungen</h2>
-          <p class="longterm-intro" data-i18n="longRunningIntro">Ausstellungen, Saisonprogramme und wiederkehrende Angebote, die über mehrere Wochen laufen.</p>
-        </div>
-      </div>
+    <section id="longTermSection" class="longterm-section" hidden>
+      <div class="longterm-heading"><p class="section-kicker" data-i18n="longTitle">Langzeit & Dauerausstellungen</p><h2 data-i18n="longTitle">Langzeit & Dauerausstellungen</h2><p class="longterm-intro" data-i18n="longIntro">Ausstellungen, Saisonprogramme und wiederkehrende Angebote, die über mehrere Wochen laufen.</p></div>
       <div id="longTermGrid" class="longterm-grid"></div>
+      <div class="section-list-footer"><button id="longMore" type="button" class="expand-btn" hidden>+</button></div>
     </section>
   </main>
 
-  <dialog id="eventDialog">
-    <article class="dialog-card">
-      <button id="closeDialog" type="button" class="close" aria-label="Schließen">×</button>
-      <div id="dialogBody"></div>
-    </article>
-  </dialog>
+  <dialog id="eventDialog"><article class="dialog-card"><button id="closeDialog" type="button" class="close">×</button><div id="dialogBody"></div></article></dialog>
 
-  <footer class="site-footer">
-    <div class="wrap footer-inner">
-      <div class="footer-brand">
-        <span class="brand-mark small">T</span>
-        <div><strong>Trentino Events</strong><p data-i18n="footerTagline">Ein kuratierter Eventguide für das gesamte Trentino.</p></div>
-      </div>
-      <div class="footer-meta">
-        <p><span data-i18n="footerA">Zeitraum:</span> <strong id="rollingWindow"></strong></p>
-        <p data-i18n="footerB">Daten und Programme können sich ändern. Maßgeblich ist die offizielle Veranstalterseite.</p>
-      </div>
-    </div>
-  </footer>
+  <footer class="site-footer"><div class="wrap footer-inner"><div class="footer-brand"><span class="brand-mark small">T</span><div><strong>Trentino Events</strong><p data-i18n="footerTag">Ein kuratierter Eventguide für das gesamte Trentino.</p></div></div><div class="footer-meta"><p><span data-i18n="footerA">Zeitraum:</span> <strong id="rollingWindow"></strong></p><p data-i18n="footerB">Daten und Programme können sich ändern. Maßgeblich ist die offizielle Veranstalterseite.</p></div></div></footer>
 
-  <script src="app-v3.js"></script>
+  <script src="app-v4.js"></script>
 </body>
 </html>
