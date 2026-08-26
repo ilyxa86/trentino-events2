@@ -7,6 +7,7 @@
   <meta name="theme-color" content="#163426">
   <title>Trentino Events</title>
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="refinements.css">
 </head>
 <body>
   <header class="hero">
@@ -28,11 +29,6 @@
         <p class="eyebrow" data-i18n="eyebrow">Rovereto · Vallagarina · Trento · Alto Garda · Trentino</p>
         <h1 data-i18n="title">Das Beste aus dem Trentino – Event für Event.</h1>
         <p class="subtitle" data-i18n="subtitle">Märkte, Festivals, Genuss, Kultur, Familie und Outdoor-Erlebnisse – an einem Ort gebündelt und regelmäßig geprüft.</p>
-        <div class="hero-search">
-          <span class="search-icon" aria-hidden="true">⌕</span>
-          <input id="heroSearch" type="search" placeholder="Event, Ort oder Veranstaltungsort suchen…" autocomplete="off">
-          <button id="heroSearchButton" type="button" data-i18n="explore">Events entdecken</button>
-        </div>
         <div class="update-pill"><span class="update-dot" aria-hidden="true"></span><span data-i18n="updatedDaily">Datenbank wird regelmäßig geprüft</span></div>
       </div>
     </div>
@@ -40,8 +36,7 @@
 
   <main class="wrap main-content">
     <section class="summary-row" aria-label="Überblick">
-      <div><strong id="eventCount">0</strong><span data-i18n="eventsFound">Events in der Ansicht</span></div>
-      <div><strong id="nextWeekendCount">0</strong><span data-i18n="thisWeekend">dieses Wochenende</span></div>
+      <div><strong id="nextWeekendCount">0</strong><span data-i18n="thisWeekend">kurze Events dieses Wochenende</span></div>
       <div><strong id="lastVerified">—</strong><span data-i18n="lastVerified">letzte Datenprüfung</span></div>
     </section>
 
@@ -98,6 +93,7 @@
       <div class="quick-dates" aria-label="Schnelle Datumswahl">
         <button type="button" data-quick="today" data-i18n="today">Heute</button>
         <button type="button" data-quick="week" data-i18n="thisWeek">Diese Woche</button>
+        <button type="button" data-quick="nextweek" data-i18n="nextWeek">Nächste Woche</button>
         <button type="button" data-quick="weekend" data-i18n="weekend">Wochenende</button>
         <button type="button" data-quick="month" data-i18n="thisMonth">Dieser Monat</button>
         <button type="button" data-quick="all" class="active" data-i18n="all12">Nächste 12 Monate</button>
@@ -133,7 +129,7 @@
     <section class="content-heading">
       <div>
         <p class="section-kicker" data-i18n="discover">Trentino entdecken</p>
-        <h2 data-i18n="upcoming">Kommende Events</h2>
+        <h2 data-i18n="shortEvents">Termine & Kurzveranstaltungen</h2>
         <div id="rangeLabel" class="range-label"></div>
       </div>
       <label class="sort">
@@ -152,6 +148,17 @@
     </div>
 
     <section id="eventsGrid" class="events-grid" aria-live="polite"></section>
+
+    <section id="longTermSection" class="longterm-section" aria-labelledby="longTermTitle" hidden>
+      <div class="longterm-heading">
+        <div>
+          <p class="section-kicker" data-i18n="longRunning">Langzeit & Dauerausstellungen</p>
+          <h2 id="longTermTitle" data-i18n="longRunning">Langzeit & Dauerausstellungen</h2>
+          <p class="longterm-intro" data-i18n="longRunningIntro">Ausstellungen, Saisonprogramme und wiederkehrende Angebote, die über mehrere Wochen laufen.</p>
+        </div>
+      </div>
+      <div id="longTermGrid" class="longterm-grid"></div>
+    </section>
   </main>
 
   <dialog id="eventDialog">
@@ -174,6 +181,6 @@
     </div>
   </footer>
 
-  <script src="app.js"></script>
+  <script src="app-v3.js"></script>
 </body>
 </html>
