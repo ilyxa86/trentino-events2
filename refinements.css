@@ -1,0 +1,35 @@
+/* Focused UI refinements: quieter hero, two-part event results, compact long-running view */
+.summary-row{grid-template-columns:repeat(2,1fr)}
+.summary-row>div:first-child{border-left:0}
+.hero-copy{padding-top:48px;max-width:760px}
+.update-pill{margin-top:18px}
+
+.longterm-section{padding:4px 0 38px}
+.longterm-heading{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;margin:8px 2px 12px;padding-top:22px;border-top:1px solid var(--line)}
+.longterm-heading h2{font-family:Georgia,"Times New Roman",serif;font-size:clamp(1.35rem,2.4vw,1.85rem);font-weight:500;letter-spacing:-.03em;line-height:1.05;margin:0}
+.longterm-heading p.longterm-intro{max-width:620px;margin:5px 0 0;color:var(--muted);font-size:.74rem}
+.longterm-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
+.long-event-card{display:grid;grid-template-columns:118px minmax(0,1fr);min-height:118px;background:var(--paper);border:1px solid var(--line);border-radius:13px;overflow:hidden;box-shadow:0 4px 14px rgba(25,41,31,.04)}
+.long-event-image{position:relative;min-height:118px;background:#dce5de}
+.long-event-image img{width:100%;height:100%;object-fit:cover;display:block}
+.long-event-body{padding:9px 10px;display:flex;flex-direction:column;min-width:0}
+.long-event-body .category{margin-bottom:4px;padding:3px 6px}
+.long-event-body h3{font-size:.88rem;line-height:1.14;margin:0 0 4px}
+.long-event-body .meta{font-size:.65rem;margin-bottom:5px}
+.long-event-body .desc{font-size:.68rem;-webkit-line-clamp:2}
+.long-event-actions{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:auto;padding-top:5px}
+.longterm-tag{font-size:.55rem;color:var(--forest-2);font-weight:850;background:var(--forest-soft);padding:3px 6px;border-radius:999px;white-space:nowrap}
+.short-list-empty{grid-column:1/-1;padding:18px;border:1px dashed var(--line);border-radius:12px;background:rgba(255,253,248,.55);color:var(--muted);font-size:.76rem;text-align:center}
+
+@media (max-width:760px){
+  .summary-row{grid-template-columns:1fr 1fr}
+  .summary-row>div{padding:12px 13px}
+  .longterm-grid{grid-template-columns:1fr}
+  .long-event-card{grid-template-columns:96px minmax(0,1fr)}
+  .long-event-image{min-height:112px}
+}
+@media (max-width:480px){
+  .summary-row{grid-template-columns:1fr}
+  .summary-row>div+div{border-left:0;border-top:1px solid var(--line)}
+  .longterm-heading{align-items:flex-start;flex-direction:column}
+}
