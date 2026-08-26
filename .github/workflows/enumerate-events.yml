@@ -47,10 +47,20 @@ jobs:
         run: |
           git config user.name "trentino-events-bot"
           git config user.email "actions@users.noreply.github.com"
+
+          # Never let a long-running, older crawl overwrite a newer repository
+          # state. Push-generated runs are queued by the concurrency group, so
+          # the latest run will generate the authoritative snapshot instead.
+          git fetch origin main
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+            echo "Repository advanced during this crawl; discarding stale snapshot."
+            exit 0
+          fi
+
           git add data/source_audit.json data/discovered_candidates.json
           if git diff --cached --quiet; then
             echo "No coverage snapshot changes."
           else
             git commit -m "Update event source coverage snapshot"
-            git push
+            git push origin HEAD:main
           fi
