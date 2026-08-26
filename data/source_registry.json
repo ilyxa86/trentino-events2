@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "purpose": "Persistent source registry and completeness contract for the Trentino event database.",
   "coverageWindow": "Rolling 12-month overlap window. Include any event with endDate >= run date and startDate <= run date + 12 months, plus recurring series with at least one occurrence in that interval. Events do not need to start after the run date.",
   "pipeline": {
@@ -98,21 +98,71 @@
       "url": "https://www.visitfiemme.it/it/eventi",
       "mode": "exhaustive_paginated_index",
       "requirements": ["every page", "other available dates", "detail pages"]
+    },
+    {
+      "id": "val_di_fassa_events",
+      "priority": "P1",
+      "name": "APT Val di Fassa - event calendar",
+      "url": "https://www.fassa.com/it/cosa-fare/eventi",
+      "mode": "dynamic_calendar",
+      "requirements": ["load all results", "location/theme filters if needed for enumeration", "print calendar", "detail pages", "recurrences"]
+    },
+    {
+      "id": "san_martino_primiero_events",
+      "priority": "P1",
+      "name": "San Martino di Castrozza / Primiero / Vanoi - event calendar",
+      "url": "https://www.sanmartino.com/it/calendario/eventi",
+      "mode": "dynamic_calendar_plus_weekly_agenda",
+      "requirements": ["all realtime results", "weekly agenda download", "location filters", "detail pages", "map/list results"]
+    },
+    {
+      "id": "valsugana_events",
+      "priority": "P1",
+      "name": "APT Valsugana / Lagorai - events and activities",
+      "url": "https://www.visitvalsugana.it/it/eventi-valsugana/_1448_idn/",
+      "mode": "event_activity_index",
+      "requirements": ["all event and activity results", "recurring activities", "category pages", "detail pages"]
+    },
+    {
+      "id": "val_di_non_events",
+      "priority": "P1",
+      "name": "APT Val di Non - day-by-day events",
+      "url": "https://www.visitvaldinon.it/eventi",
+      "mode": "dynamic_calendar",
+      "requirements": ["day-by-day calendar", "load all", "not-to-miss cross-check", "detail pages", "linked programme booklets"]
+    },
+    {
+      "id": "val_di_sole_events",
+      "priority": "P1",
+      "name": "APT Val di Sole - events",
+      "url": "https://www.visitvaldisole.it/it/eventi",
+      "mode": "paginated_calendar_plus_monthly_pdfs",
+      "requirements": ["all numbered pages", "other available dates", "monthly PDF programmes", "detail pages", "recurring activities"]
+    },
+    {
+      "id": "campiglio_rendena_events",
+      "priority": "P1",
+      "name": "Madonna di Campiglio / Pinzolo / Val Rendena - event calendar",
+      "url": "https://www.campigliodolomiti.it/it/pianifica/calendario-eventi",
+      "mode": "dynamic_calendar_plus_printable_calendar",
+      "requirements": ["date/place/type filters", "all loaded results", "print/PDF calendar", "detail pages", "event flyers"]
+    },
+    {
+      "id": "alpe_cimbra_events",
+      "priority": "P1",
+      "name": "Alpe Cimbra - seasonal event programmes",
+      "url": "https://www.alpecimbra.it/it/homepage/alpe-cimbra-summer-events-2026/1424-0.html",
+      "mode": "seasonal_programme_plus_pdfs",
+      "requirements": ["all Folgaria/Lavarone/Luserna/Vigolana programme sections", "linked programme PDFs", "blog event announcements", "detail pages"]
     }
   ],
   "territorialDiscovery": [
-    "Val di Fassa official tourism event calendar",
-    "San Martino di Castrozza / Primiero / Vanoi official tourism event calendar",
-    "Valsugana / Lagorai official tourism event calendar",
-    "Val di Non official tourism event calendar",
-    "Val di Sole official tourism event calendar",
-    "Madonna di Campiglio / Pinzolo / Val Rendena official tourism event calendar",
     "Dolomiti Paganella official tourism event calendar",
-    "Alpe Cimbra official tourism event calendar",
     "Trento / Monte Bondone tourism event calendars",
     "Valle dei Laghi, Ledro, Comano, Val di Gresta and Mori local calendars",
     "municipal event calendars throughout Trentino",
-    "Pro Loco and association calendars for sagre, patronal feasts, markets and local festivals"
+    "Pro Loco and association calendars for sagre, patronal feasts, markets and local festivals",
+    "additional official territorial calendars not yet represented above"
   ],
   "organizerAndVenueDiscovery": [
     "Mart Rovereto",
@@ -136,7 +186,8 @@
       "Search both Italian and German/English variants where relevant.",
       "If a public flyer/social post gives a credible date and location but no official calendar record exists, add the event with confidence/confirmation metadata and continue looking for corroboration.",
       "Never use private/inaccessible social content or guess unreadable flyer details.",
-      "Do not infer cancellation from a social post becoming unavailable."
+      "Do not infer cancellation from a social post becoming unavailable.",
+      "When a durable public social account repeatedly publishes event announcements, persist its exact public account URL in this registry on a later revision."
     ]
   },
   "sourceAuditFields": ["lastScan", "status", "reportedTotal", "recordsSeen", "uniqueCandidates", "pagesOrBucketsScanned", "attachmentsScanned", "errors", "notes"],
