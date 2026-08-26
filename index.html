@@ -3,17 +3,20 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Continuously updated events in Rovereto and Trentino.">
+  <meta name="description" content="Discover events in Rovereto and across Trentino, continuously verified and updated.">
+  <meta name="theme-color" content="#173c2a">
   <title>Trentino Events</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="hero">
+    <div class="hero-shade"></div>
     <div class="wrap hero-inner">
-      <div>
+      <div class="hero-copy">
         <p class="eyebrow" data-i18n="eyebrow">Rovereto · Vallagarina · Trento · Alto Garda · Trentino</p>
-        <h1 data-i18n="title">What’s happening in Trentino?</h1>
-        <p class="subtitle" data-i18n="subtitle">A rolling 12-month event guide with verified dates, places and sources.</p>
+        <h1 data-i18n="title">Discover what’s happening in Trentino.</h1>
+        <p class="subtitle" data-i18n="subtitle">Festivals, markets, food, culture and outdoor events — verified and updated continuously.</p>
+        <div class="update-pill"><span class="update-dot" aria-hidden="true"></span><span data-i18n="updatedDaily">Updated every morning at 07:00</span></div>
       </div>
       <div class="language-switch" aria-label="Language">
         <button type="button" class="lang active" data-lang="en">EN</button>
@@ -22,47 +25,55 @@
     </div>
   </header>
 
-  <main class="wrap">
+  <main class="wrap main-content">
     <section class="summary-row" aria-label="Overview">
-      <div><strong id="eventCount">0</strong><span data-i18n="eventsFound">events found</span></div>
+      <div><strong id="eventCount">0</strong><span data-i18n="eventsFound">events in view</span></div>
       <div><strong id="nextWeekendCount">0</strong><span data-i18n="thisWeekend">this weekend</span></div>
-      <div><strong id="lastVerified">—</strong><span data-i18n="lastVerified">last verified</span></div>
+      <div><strong id="lastVerified">—</strong><span data-i18n="lastVerified">last database check</span></div>
     </section>
 
-    <section class="quick-dates" aria-label="Quick dates">
-      <button type="button" data-quick="today" data-i18n="today">Today</button>
-      <button type="button" data-quick="week" data-i18n="thisWeek">This week</button>
-      <button type="button" data-quick="weekend" data-i18n="weekend">Weekend</button>
-      <button type="button" data-quick="month" data-i18n="thisMonth">This month</button>
-      <button type="button" data-quick="all" class="active" data-i18n="all12">Next 12 months</button>
+    <section class="discover-panel" aria-label="Discover events">
+      <div class="quick-dates" aria-label="Quick dates">
+        <button type="button" data-quick="today" data-i18n="today">Today</button>
+        <button type="button" data-quick="week" data-i18n="thisWeek">This week</button>
+        <button type="button" data-quick="weekend" data-i18n="weekend">Weekend</button>
+        <button type="button" data-quick="month" data-i18n="thisMonth">This month</button>
+        <button type="button" data-quick="all" class="active" data-i18n="all12">Next 12 months</button>
+      </div>
+
+      <div id="categoryChips" class="category-chips" aria-label="Event categories"></div>
+
+      <section class="filters" aria-label="Event filters">
+        <label>
+          <span data-i18n="from">From</span>
+          <input id="fromDate" type="date">
+        </label>
+        <label>
+          <span data-i18n="to">To</span>
+          <input id="toDate" type="date">
+        </label>
+        <label>
+          <span data-i18n="area">Area</span>
+          <select id="areaFilter"><option value="">All areas</option></select>
+        </label>
+        <label>
+          <span data-i18n="category">Category</span>
+          <select id="categoryFilter"><option value="">All categories</option></select>
+        </label>
+        <label class="search">
+          <span data-i18n="search">Search</span>
+          <input id="searchInput" type="search" placeholder="Event, place, venue…">
+        </label>
+        <button id="resetFilters" type="button" class="secondary" data-i18n="reset">Reset</button>
+      </section>
     </section>
 
-    <section class="filters" aria-label="Event filters">
-      <label>
-        <span data-i18n="from">From</span>
-        <input id="fromDate" type="date">
-      </label>
-      <label>
-        <span data-i18n="to">To</span>
-        <input id="toDate" type="date">
-      </label>
-      <label>
-        <span data-i18n="area">Area</span>
-        <select id="areaFilter"><option value="">All areas</option></select>
-      </label>
-      <label>
-        <span data-i18n="category">Category</span>
-        <select id="categoryFilter"><option value="">All categories</option></select>
-      </label>
-      <label class="search">
-        <span data-i18n="search">Search</span>
-        <input id="searchInput" type="search" placeholder="Event, place, venue…">
-      </label>
-      <button id="resetFilters" type="button" class="secondary" data-i18n="reset">Reset</button>
-    </section>
-
-    <section class="toolbar">
-      <div id="rangeLabel" class="range-label"></div>
+    <section class="content-heading">
+      <div>
+        <p class="section-kicker" data-i18n="discover">Discover Trentino</p>
+        <h2 data-i18n="upcoming">Upcoming events</h2>
+        <div id="rangeLabel" class="range-label"></div>
+      </div>
       <label class="sort">
         <span data-i18n="sort">Sort</span>
         <select id="sortSelect">
@@ -90,7 +101,8 @@
 
   <footer class="wrap footer">
     <p><span data-i18n="footerA">Rolling window:</span> <strong id="rollingWindow"></strong></p>
-    <p data-i18n="footerB">Dates and programmes can change. Official organizer pages are the source of truth.</p>
+    <p data-i18n="footerB">Dates and programmes can change. The official organizer page remains the source of truth.</p>
+    <p class="image-credit" data-i18n="imageCredit">Event imagery uses curated thematic photography when an official event image is not available.</p>
   </footer>
 
   <script src="app.js"></script>
