@@ -3,7 +3,9 @@ name: Enumerate event sources
 on:
   workflow_dispatch:
   schedule:
-    - cron: "35 4 * * *"
+    # 03:15 UTC = 05:15 CEST / 04:15 CET. This intentionally leaves
+    # substantial headroom before the 07:00 Europe/Rome AI maintenance pass.
+    - cron: "15 3 * * *"
   push:
     paths:
       - "scripts/enumerate_sources.py"
