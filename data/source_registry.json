@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "purpose": "Persistent source registry and completeness contract for the Trentino event database.",
+  "coverageWindow": "rolling 12 months from each scan date",
+  "scanContract": {
+    "enumerationFirst": true,
+    "rules": [
+      "Use search engines only for source discovery; never treat search-result snippets as a complete scan of a known event calendar.",
+      "For every P0/P1 calendar, start from its event index and enumerate all pages, load-more results, date buckets, category tabs and child links that fall in the rolling window.",
+      "Record the source-reported total when available and reconcile it against unique records seen. A scan is COMPLETE only when pagination/end-of-results is reached and the count is reconciled or the source has no count.",
+      "Follow linked PDFs, brochures, downloadable calendars, flyers and attachments. Extract every separately named dated event or recurring series in scope.",
+      "Expand 'other available dates', recurring weekday patterns and series pages. Store one canonical series with recurrence metadata when the event identity is the same; store separate records when individual occurrences have distinct names/programmes.",
+      "Open detail pages for date, venue, municipality, organizer, price, image and cancellation/status verification.",
+      "Never silently skip long-running exhibitions, weekly markets, guided visits, family programmes, small local events or events that are not labelled Top Event.",
+      "A source that times out, blocks access, changes pagination, or cannot be fully traversed must be logged PARTIAL or FAILED; do not mark the overall run fully complete.",
+      "Deduplicate only after discovery. Preserve the strongest official/public URL and list corroborating sources when useful.",
+      "Add newly discovered recurring sources, organizer calendars and public social accounts to this registry so coverage grows over time."
+    ]
+  },
+  "mandatorySources": [
+    {
+      "id": "visittrentino_all_events",
+      "priority": "P0",
+      "name": "Visit Trentino - all events",
+      "url": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "mode": "exhaustive_index",
+      "requirements": ["reported_total", "all pagination/load-more", "detail pages", "season/category pages where they expose additional records"]
+    },
+    {
+      "id": "visitrovereto_events",
+      "priority": "P0",
+      "name": "Visit Rovereto / Vallagarina - events",
+      "url": "https://www.visitrovereto.it/vivi/eventi/",
+      "mode": "exhaustive_index",
+      "requirements": ["all pages", "detail pages", "linked images/files"]
+    },
+    {
+      "id": "visitrovereto_estate",
+      "priority": "P0",
+      "name": "Rovereto Estate",
+      "url": "https://www.visitrovereto.it/rovereto-estate/",
+      "mode": "programme_page_plus_attachments",
+      "requirements": ["every listed event", "calendar PDF", "child event pages"]
+    },
+    {
+      "id": "comune_rovereto_events",
+      "priority": "P0",
+      "name": "Comune di Rovereto - events",
+      "url": "https://www.comune.rovereto.tn.it/Vivere-il-comune/Eventi",
+      "mode": "exhaustive_index",
+      "requirements": ["calendar/list pagination", "attached PDFs/programmes", "child pages"]
+    },
+    {
+      "id": "trentino_cultura_appuntamenti",
+      "priority": "P0",
+      "name": "Trentino Cultura - Appuntamenti",
+      "url": "https://www.cultura.trentino.it/Appuntamenti",
+      "mode": "date_calendar",
+      "requirements": ["daily/date traversal across rolling window", "detail pages", "series links"]
+    },
+    {
+      "id": "trentino_cultura_rassegne",
+      "priority": "P0",
+      "name": "Trentino Cultura - Rassegne",
+      "url": "https://www.cultura.trentino.it/Rassegne",
+      "mode": "exhaustive_index",
+      "requirements": ["all active/future series", "child programme events"]
+    },
+    {
+      "id": "garda_trentino_events",
+      "priority": "P0",
+      "name": "Garda Trentino - events",
+      "url": "https://www.gardatrentino.it/en/discover/events",
+      "mode": "exhaustive_paginated_index",
+      "requirements": ["reported_total", "every page", "other available dates", "detail pages"]
+    },
+    {
+      "id": "comune_trento_events",
+      "priority": "P0",
+      "name": "Comune di Trento - events",
+      "url": "https://www.comune.trento.it/Vivere-il-Comune/Eventi",
+      "mode": "exhaustive_index",
+      "requirements": ["all pages/date filters", "attachments", "detail pages"]
+    },
+    {
+      "id": "visitfiemme_events",
+      "priority": "P1",
+      "name": "Visit Fiemme & Cembra - all events",
+      "url": "https://www.visitfiemme.it/it/eventi",
+      "mode": "exhaustive_paginated_index",
+      "requirements": ["every page", "other available dates", "detail pages"]
+    }
+  ],
+  "territorialDiscovery": [
+    "Val di Fassa official tourism event calendar",
+    "San Martino di Castrozza / Primiero / Vanoi official tourism event calendar",
+    "Valsugana / Lagorai official tourism event calendar",
+    "Val di Non official tourism event calendar",
+    "Val di Sole official tourism event calendar",
+    "Madonna di Campiglio / Pinzolo / Val Rendena official tourism event calendar",
+    "Dolomiti Paganella official tourism event calendar",
+    "Alpe Cimbra official tourism event calendar",
+    "Trento / Monte Bondone tourism event calendars",
+    "Valle dei Laghi, Ledro, Comano, Val di Gresta and Mori local calendars",
+    "municipal event calendars for Trentino municipalities when they publish events not syndicated upstream",
+    "Pro Loco calendars and association calendars for sagre, patronal feasts, markets and local festivals"
+  ],
+  "organizerAndVenueDiscovery": [
+    "Mart Rovereto",
+    "MITAG Museo Storico Italiano della Guerra",
+    "Fondazione Museo Civico Rovereto",
+    "Oriente Occidente",
+    "Settenovecento",
+    "Auditorium / Centro Servizi Culturali Santa Chiara",
+    "MUSE",
+    "Castello del Buonconsiglio network",
+    "local theatres, cinemas, museums, libraries, sports venues and trade-fair organisers",
+    "wine consortia, agricultural associations, Strada del Vino e dei Sapori, cantine and food-event organisers"
+  ],
+  "publicSocialAndFlyerDiscovery": {
+    "role": "discovery_and_corroboration",
+    "channels": ["Facebook", "Instagram", "LinkedIn", "YouTube community/posts", "public event pages", "public flyers/images", "local-news event roundups"],
+    "rules": [
+      "Search public posts/pages for tourism boards, municipalities, Pro Loco groups, museums, venues, organisers and associations.",
+      "Use queries combining location + event/eventi/festa/sagra/mercato/festival/concerto/mostra/sport + month/year.",
+      "When a flyer or social post contains a valid date/location and no official calendar record exists yet, add it as an unconfirmed/public-source event and continue looking for corroboration.",
+      "Do not use inaccessible/private social content as evidence and do not infer missing dates from images that cannot be read reliably.",
+      "A social-only event must not be treated as cancelled merely because the post later becomes unavailable."
+    ]
+  },
+  "sourceAuditFields": ["lastScan", "status", "reportedTotal", "recordsSeen", "uniqueCandidates", "pagesOrBucketsScanned", "attachmentsScanned", "errors", "notes"],
+  "completionGate": {
+    "requiredPriorities": ["P0"],
+    "completeStatuses": ["COMPLETE"],
+    "warningOn": ["PARTIAL", "FAILED"],
+    "userFacingRule": "If any P0 source is PARTIAL or FAILED, surface a coverage warning even when there are no event changes."
+  },
+  "eventSchemaExtensions": {
+    "languages": ["de", "en", "it"],
+    "optionalFields": ["recurrence", "occurrences", "sourceUrls", "discoveredVia", "confidence"]
+  }
+}
