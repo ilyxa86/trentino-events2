@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Discover events in Rovereto and across Trentino, continuously verified and updated.">
-  <meta name="theme-color" content="#173c2a">
+  <meta name="description" content="Discover verified events in Rovereto and across Trentino — festivals, markets, food, culture, family, sport and more.">
+  <meta name="theme-color" content="#163426">
   <title>Trentino Events</title>
   <link rel="stylesheet" href="styles.css">
 </head>
@@ -12,15 +12,27 @@
   <header class="hero">
     <div class="hero-shade"></div>
     <div class="wrap hero-inner">
-      <div class="hero-copy">
+      <nav class="topbar" aria-label="Site controls">
+        <a class="brand" href="#top" aria-label="Trentino Events home">
+          <span class="brand-mark">T</span>
+          <span>Trentino <strong>Events</strong></span>
+        </a>
+        <div class="language-switch" aria-label="Language">
+          <button type="button" class="lang active" data-lang="en">EN</button>
+          <button type="button" class="lang" data-lang="it">IT</button>
+        </div>
+      </nav>
+
+      <div id="top" class="hero-copy">
         <p class="eyebrow" data-i18n="eyebrow">Rovereto · Vallagarina · Trento · Alto Garda · Trentino</p>
-        <h1 data-i18n="title">Discover what’s happening in Trentino.</h1>
-        <p class="subtitle" data-i18n="subtitle">Festivals, markets, food, culture and outdoor events — verified and updated continuously.</p>
-        <div class="update-pill"><span class="update-dot" aria-hidden="true"></span><span data-i18n="updatedDaily">Updated every morning at 07:00</span></div>
-      </div>
-      <div class="language-switch" aria-label="Language">
-        <button type="button" class="lang active" data-lang="en">EN</button>
-        <button type="button" class="lang" data-lang="it">IT</button>
+        <h1 data-i18n="title">The best of Trentino, one event at a time.</h1>
+        <p class="subtitle" data-i18n="subtitle">Markets, festivals, food, culture, family and outdoor experiences — continuously verified in one place.</p>
+        <div class="hero-search">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="heroSearch" type="search" placeholder="Search an event, place or venue…" autocomplete="off">
+          <button id="heroSearchButton" type="button" data-i18n="explore">Explore events</button>
+        </div>
+        <div class="update-pill"><span class="update-dot" aria-hidden="true"></span><span data-i18n="updatedDaily">Database checked regularly</span></div>
       </div>
     </div>
   </header>
@@ -32,7 +44,56 @@
       <div><strong id="lastVerified">—</strong><span data-i18n="lastVerified">last database check</span></div>
     </section>
 
-    <section class="discover-panel" aria-label="Discover events">
+    <section class="editorial-section featured-section" aria-labelledby="featuredTitle">
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker" data-i18n="handpicked">Handpicked now</p>
+          <h2 id="featuredTitle" data-i18n="featured">Featured events</h2>
+        </div>
+        <button class="text-link" type="button" data-jump="all" data-i18n="viewAll">View all events →</button>
+      </div>
+      <div id="featuredGrid" class="featured-grid"></div>
+    </section>
+
+    <section id="changesSection" class="editorial-section changes-section" aria-labelledby="changesTitle">
+      <div class="section-heading compact-heading">
+        <div>
+          <p class="section-kicker warm" data-i18n="freshlyUpdated">Freshly updated</p>
+          <h2 id="changesTitle" data-i18n="whatsChanged">What’s new & changed</h2>
+        </div>
+      </div>
+      <div id="changesGrid" class="changes-grid"></div>
+    </section>
+
+    <section class="editorial-section weekend-section" aria-labelledby="weekendTitle">
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker" data-i18n="makePlans">Make plans</p>
+          <h2 id="weekendTitle" data-i18n="weekendHighlights">This weekend</h2>
+        </div>
+        <button class="text-link" type="button" data-jump="weekend" data-i18n="showWeekend">Show all weekend events →</button>
+      </div>
+      <div id="weekendGrid" class="horizontal-events"></div>
+    </section>
+
+    <section class="editorial-section area-section" aria-labelledby="areaTitle">
+      <div class="section-heading compact-heading">
+        <div>
+          <p class="section-kicker" data-i18n="exploreByPlace">Explore by place</p>
+          <h2 id="areaTitle" data-i18n="regions">Where do you want to go?</h2>
+        </div>
+      </div>
+      <div id="areaCards" class="area-cards"></div>
+    </section>
+
+    <section id="discover" class="discover-panel" aria-label="Discover events">
+      <div class="filter-heading">
+        <div>
+          <p class="section-kicker" data-i18n="findYourEvent">Find your event</p>
+          <h2 data-i18n="browseAll">Browse all events</h2>
+        </div>
+      </div>
+
       <div class="quick-dates" aria-label="Quick dates">
         <button type="button" data-quick="today" data-i18n="today">Today</button>
         <button type="button" data-quick="week" data-i18n="thisWeek">This week</button>
@@ -99,10 +160,17 @@
     </article>
   </dialog>
 
-  <footer class="wrap footer">
-    <p><span data-i18n="footerA">Rolling window:</span> <strong id="rollingWindow"></strong></p>
-    <p data-i18n="footerB">Dates and programmes can change. The official organizer page remains the source of truth.</p>
-    <p class="image-credit" data-i18n="imageCredit">Event imagery uses curated thematic photography when an official event image is not available.</p>
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div class="footer-brand">
+        <span class="brand-mark small">T</span>
+        <div><strong>Trentino Events</strong><p data-i18n="footerTagline">A curated guide to what’s happening across Trentino.</p></div>
+      </div>
+      <div class="footer-meta">
+        <p><span data-i18n="footerA">Rolling window:</span> <strong id="rollingWindow"></strong></p>
+        <p data-i18n="footerB">Dates and programmes can change. The official organizer page remains the source of truth.</p>
+      </div>
+    </div>
   </footer>
 
   <script src="app.js"></script>
