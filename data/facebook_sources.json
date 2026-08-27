@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "geography": "Rovereto-centered practical travel radius of about 80 km.",
+  "policy": {
+    "loginRequired": false,
+    "publicOnly": true,
+    "role": "discovery_and_corroboration",
+    "marker": "Events primarily discovered through one of these Facebook sources must use sourceType='facebook'.",
+    "verification": "Whenever possible, corroborate date/place with an organizer, municipality, Pro Loco, tourism calendar or local-media source before marking confirmed."
+  },
+  "sources": [
+    {
+      "id": "fb_maccheronate_vallagarina",
+      "name": "Quelli che a Carnevale non si perdono una maccheronata – in Vallagarina",
+      "kind": "public Facebook page/community",
+      "place": "Vallagarina",
+      "priority": "P0-social",
+      "directFacebookUrl": null,
+      "discoveryQuery": "\"Quelli che a Carnevale non si perdono una maccheronata\" Vallagarina Facebook",
+      "evidenceUrls": [
+        "https://www.ladige.it/territori/vallagarina/gnocchi-e-coriandoli-parte-il-carnevale-i-volontari-sempre-piu-complicato-organizzare-gli-eventi-iww8mzm8",
+        "https://lavocedeltrentino.it/eventi/carnevale-2026-torna-la-grande-tavolata-della-vallagarina/"
+      ],
+      "notes": "High-value event source: local media explicitly describe it as a continuously updated calendar of Vallagarina carnival events."
+    },
+    {
+      "id": "fb_se_te_sei_de_rovereto",
+      "name": "Se te sei de Rovereto",
+      "kind": "public/local Facebook community",
+      "place": "Rovereto",
+      "priority": "P1-social",
+      "directFacebookUrl": null,
+      "discoveryQuery": "\"Se te sei de Rovereto\" Facebook eventi",
+      "evidenceUrls": [
+        "https://www.vitatrentina.it/rubriche/facebook-cosi-globale-ma-anche-tanto-locale/",
+        "https://www.giornaletrentino.it/cronaca/trento/sei-di-rovereto-se-su-facebook-%C3%A8-gara-di-ricordi-e-immagini-1.852162"
+      ],
+      "notes": "Large Rovereto local community; useful for small local announcements and event discovery."
+    },
+    {
+      "id": "fb_sei_di_mori_se",
+      "name": "Sei di Mori se…",
+      "kind": "public/local Facebook community",
+      "place": "Mori",
+      "priority": "P1-social",
+      "directFacebookUrl": null,
+      "discoveryQuery": "\"Sei di Mori se\" Facebook eventi",
+      "evidenceUrls": [
+        "https://lavocedeltrentino.it/rubriche/mori-appello-sui-social-per-ritrovare-un-gatto-scomparso-in-via-battisti/"
+      ],
+      "notes": "Confirmed active in 2026 by local media."
+    },
+    {
+      "id": "fb_sei_di_ala_se",
+      "name": "Sei di Ala se…",
+      "kind": "public/local Facebook community",
+      "place": "Ala",
+      "priority": "P1-social",
+      "directFacebookUrl": null,
+      "discoveryQuery": "\"Sei di Ala se\" Facebook eventi",
+      "evidenceUrls": [
+        "https://www.cultura.trentino.it/Appuntamenti/Giornata-Bandiere-Arancioni4",
+        "https://www.cultura.trentino.it/Appuntamenti/Cortili-animati-e-mostre"
+      ],
+      "notes": "The group has been referenced in official Ala cultural programming."
+    },
+    {
+      "id": "fb_sei_di_riva_se",
+      "name": "Sei di Riva se…",
+      "kind": "public/local Facebook community",
+      "place": "Riva del Garda",
+      "priority": "P1-social",
+      "directFacebookUrl": null,
+      "discoveryQuery": "\"Sei di Riva se\" Facebook eventi Riva del Garda",
+      "evidenceUrls": [
+        "https://www.vitatrentina.it/rubriche/facebook-cosi-globale-ma-anche-tanto-locale/"
+      ],
+      "notes": "Large Riva local community according to regional press."
+    },
+    {
+      "id": "fb_sei_di_arco_se",
+      "name": "Sei di Arco se…",
+      "kind": "public/local Facebook community",
+      "place": "Arco",
+      "priority": "P1-social",
+      "directFacebookUrl": null,
+      "discoveryQuery": "\"Sei di Arco se\" Facebook eventi",
+      "evidenceUrls": [
+        "https://www.vitatrentina.it/rubriche/facebook-cosi-globale-ma-anche-tanto-locale/"
+      ],
+      "notes": "Large Arco local community according to regional press."
+    },
+    {
+      "id": "fb_sei_di_trento_se",
+      "name": "Sei di Trento se…",
+      "kind": "public/local Facebook community",
+      "place": "Trento",
+      "priority": "P1-social",
+      "directFacebookUrl": null,
+      "discoveryQuery": "\"Sei di Trento se\" Facebook eventi",
+      "evidenceUrls": [
+        "https://www.giornaletrentino.it/cronaca/trento/sei-di-trento-se-quando-l-amarcord-diventa-social-1.619029",
+        "https://www.vitatrentina.it/rubriche/facebook-cosi-globale-ma-anche-tanto-locale/"
+      ],
+      "notes": "Large Trento community; use only for events within the Rovereto 80 km scope."
+    }
+  ]
+}
