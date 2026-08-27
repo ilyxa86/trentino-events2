@@ -44,6 +44,22 @@ GARDA_AREA = {
     "ledro", "dro", "drena"
 }
 
+# Practical Rovereto-centered scope requested by the user. This is deliberately
+# conservative: ambiguous province-wide candidates are not auto-promoted until
+# a municipality can be resolved inside the roughly 80 km travel radius.
+IN_SCOPE_PLACES = {
+    *ROVERETO_AREA, *TRENTO_AREA, *GARDA_AREA,
+    "stenico", "comano terme", "fiavè", "fiave", "tione di trento",
+    "san lorenzo dorsino", "bondone", "lavarone", "folgaria", "luserna",
+    "pergine valsugana", "levico terme", "caldonazzo", "calceranica al lago",
+    "andalo", "molveno", "fai della paganella", "cavedago", "spormaggiore",
+    "mezzolombardo", "mezzocorona", "san michele all'adige", "cembra",
+    "altavalle", "grumes", "faedo", "vezzano", "vallelaghi", "calavino",
+    "lasino", "padergnone"
+}
+OUT_OF_SCOPE_SOURCE_IDS = {"val_di_sole_events", "val_di_fassa_events", "san_martino_primiero_events"}
+
+
 KNOWN_PLACES = sorted({
     *ROVERETO_AREA, *TRENTO_AREA, *GARDA_AREA,
     "moena", "predazzo", "cavalese", "tesero", "ziano di fiemme", "canazei", "campitello di fassa",
@@ -188,6 +204,15 @@ def infer_place(text: str, source_id: str) -> str:
     return "Trentino"
 
 
+def place_in_scope(place: str, source_id: str) -> bool:
+    if source_id in OUT_OF_SCOPE_SOURCE_IDS:
+        return False
+    p = norm(place)
+    if not p or p == "trentino":
+        return False
+    return any(norm(x) == p for x in IN_SCOPE_PLACES)
+
+
 def infer_area(place: str, source_id: str) -> str:
     n = norm(place)
     if any(norm(p) == n for p in ROVERETO_AREA) or source_id.startswith("visitrovereto") or source_id == "comune_rovereto_events":
@@ -279,6 +304,8 @@ def main() -> None:
             continue
         sid = clean(r.get("sourceId"))
         place = infer_place(raw, sid)
+        if not place_in_scope(place, sid):
+            continue
         area = infer_area(place, sid)
         detail = clean(r.get("detailUrl") or r.get("pageUrl"))
         candidate = {
