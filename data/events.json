@@ -29,7 +29,10 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.cultura.trentino.it/Rassegne/I-colori-di-Tridentum"
-    ]
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/i-colori-di-tridentum-foto-giovanni-virruso-archivio-ufficio-beni-archeologici-pat-9_imagefullwide2/27917504-1-ita-IT/I-colori-di-Tridentum-foto-Giovanni-Virruso-Archivio-Ufficio-beni-archeologici-PAT-9_imagefullwide_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/I-colori-di-Tridentum",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "visita-e-degustazione-esclusiva-alla-cantina-dalzocchio-2026",
@@ -128,7 +131,10 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.cultura.trentino.it/Rassegne/Tech-Tales"
-    ]
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/immagine-2026-02-24-091057/27893211-1-ita-IT/Immagine-2026-02-24-091057_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Tech-Tales",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "karakorum-1929-l-impresa-sospesa-2026",
@@ -397,7 +403,10 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.cultura.trentino.it/Rassegne/Il-Tempo-di-un-Dialogo"
-    ]
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/il-tempo-di-un-dialogo_banner-con-loghi-1/27969746-1-ita-IT/Il-Tempo-di-un-Dialogo_banner-con-loghi-1_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Il-Tempo-di-un-Dialogo",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "adotta-una-mucca-2026",
@@ -565,7 +574,10 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.cultura.trentino.it/Rassegne/Vivere-il-Parco-2026"
-    ]
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/foto-grande-copertina-1/27977384-1-ita-IT/foto-grande-copertina-1_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Vivere-il-Parco-2026",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "un-estate-spettacolare-2026",
@@ -597,7 +609,10 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.cultura.trentino.it/Rassegne/Un-estate-spettacolare-2026"
-    ]
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/unnamed-94/28009174-1-ita-IT/unnamed-9_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Un-estate-spettacolare-2026",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "teatro-in-corte-betta-grillo-2026",
@@ -798,7 +813,10 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.cultura.trentino.it/Rassegne/Alpitudini-2026"
-    ]
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/screenshot-2026-06-23-112708/28018203-1-ita-IT/Screenshot-2026-06-23-112708_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Alpitudini-2026",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "dicastelincastello-2026",
@@ -1162,7 +1180,10 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.cultura.trentino.it/Rassegne/Argilla-in-gioco"
-    ]
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/mets-interno-cbasso-12/28018664-1-ita-IT/Mets-interno-cbasso-1_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Argilla-in-gioco",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "smarano-academy-festival-2026",
@@ -1964,9 +1985,16 @@
     },
     "organizer": "Rovereto Estate",
     "price": "See official programme",
-    "officialUrl": "https://www.visitrovereto.it/rovereto-estate/",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/anni-elettrici-show/",
     "source": "Visit Rovereto",
-    "verified": "2026-08-25"
+    "verified": "2026-08-25",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/rovereto-estate/",
+      "https://www.visitrovereto.it/vivi/eventi/anni-elettrici-show/"
+    ],
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Anni-elettrici-Riccardo-Prandini.jpg",
+    "imageSourceUrl": "https://www.visitrovereto.it/vivi/eventi/anni-elettrici-show/",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "giovenche-rendena-2026",
@@ -2212,9 +2240,16 @@
     },
     "organizer": "Rovereto city-centre partners",
     "price": "Free access",
-    "officialUrl": "https://www.visitrovereto.it/rovereto-estate/",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/sbaracco/",
     "source": "Visit Rovereto",
-    "verified": "2026-08-25"
+    "verified": "2026-08-25",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/rovereto-estate/",
+      "https://www.visitrovereto.it/vivi/eventi/sbaracco/"
+    ],
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Sbaracco-Rigenera-Rovereto.jpg",
+    "imageSourceUrl": "https://www.visitrovereto.it/vivi/eventi/sbaracco/",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "trento-live-fest-2026",
@@ -2239,14 +2274,15 @@
     },
     "organizer": "Trento Live Fest",
     "price": "Ticketed",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trento-live-fest-2026_e_106811555",
     "source": "Visit Trentino",
     "verified": "2026-08-26",
     "image": "https://www.visittrentino.info/assets-basic/events/cultura-trentino-it/trento-live-fest-2026_129951908/7777741/image-thumb__7777741__moodboard_list/trento-live-fest-2026_129951908_1.2b157bab.jpg",
     "sourceUrls": [
       "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trento-live-fest-2026_e_106811555"
-    ]
+    ],
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "alla-scoperta-di-trento-2026",
@@ -2912,14 +2948,18 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "source": "Garda Trentino - events",
     "verified": "2026-08-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
-    ]
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/weather/garda-trentino"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "coro-della-sosat-2026",
@@ -4745,7 +4785,7 @@
     },
     "organizer": "Local athletics organizers",
     "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/rovereto-estate/",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/palio-citta-della-quercia/",
     "source": "Visit Rovereto",
     "verified": "2026-08-27",
     "image": "https://www.visitrovereto.it/wp-content/uploads/2023/07/Palio-della-Quercia-Luca-Matassoni.jpg",
@@ -4753,7 +4793,8 @@
       "https://www.visitrovereto.it/rovereto-estate/",
       "https://www.visitrovereto.it/vivi/eventi/palio-citta-della-quercia",
       "https://www.visitrovereto.it/vivi/eventi/palio-citta-della-quercia/"
-    ]
+    ],
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "tai-chi-chuan-2026",
@@ -5840,14 +5881,18 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+    "officialUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
     "source": "Garda Trentino - events",
     "verified": "2026-08-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=4"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=4",
+      "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "trentino-bike-experience-2026",
@@ -7832,14 +7877,18 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "source": "Garda Trentino - events",
     "verified": "2026-08-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=6"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=6",
+      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "trentodoc-festival-2026",
@@ -8024,14 +8073,16 @@
     },
     "organizer": "Local food and tourism partners",
     "price": "Mixed / see programme",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/feste-sagre-autunno/autumnus-i-frutti-della-terra_e_91861872",
     "source": "Visit Trentino",
     "verified": "2026-08-26",
     "image": "https://www.visittrentino.info/assets-basic/events/trento/autumnus---i-frutti-della-terra_91861872/7292329/image-thumb__7292329__moodboard_list/autumnus---i-frutti-della-terra_91861872_1.654b8fba.jpg",
     "sourceUrls": [
       "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/autumnus-i-frutti-della-terra_e_91861872"
-    ]
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/autumnus-i-frutti-della-terra_e_91861872",
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/feste-sagre-autunno/autumnus-i-frutti-della-terra_e_91861872"
+    ],
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "festival-sport-2026",
@@ -8148,14 +8199,16 @@
     },
     "organizer": "Comune di Isera and partners",
     "price": "See programme",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/feste-sagre-autunno/la-vigna-eccellente_e_2063624",
     "source": "Visit Trentino",
     "verified": "2026-08-26",
     "image": "https://www.visittrentino.info/assets-basic/events/www-visitrovereto-it/-la-vigna-eccellente-_2063624/7808356/image-thumb__7808356__moodboard_list/-la-vigna-eccellente-_2063624_1.8892250e.jpg",
     "sourceUrls": [
       "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/feste-sagre-autunno/la-vigna-eccellente_e_2063624",
       "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-vigna-eccellente_e_2063624"
-    ]
+    ],
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "mercato-del-giovedi-2026-6",
@@ -10129,14 +10182,18 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
+    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "source": "Garda Trentino - events",
     "verified": "2026-08-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/weather/garda-trentino"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "danish-string-quartet-2026",
@@ -10289,9 +10346,16 @@
     },
     "organizer": "Consorzio Riva in Centro",
     "price": "Free access",
-    "officialUrl": "https://www.gardatrentino.it/en/events/",
+    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/vacanze-con-gusto",
     "source": "Garda Trentino",
-    "verified": "2026-08-25"
+    "verified": "2026-08-25",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/vacanze-con-gusto",
+      "https://www.gardatrentino.it/en/events/"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/experiences/00_Esperienze/Estate/image-thumb__22985__fb-thumb/2023_GARDA_DOLOMITI_PRUGNOLA_Esperienze_Colazione_Rifugio_San_Pietro_Food_Wine_Gusto_Tenno_01.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/vacanze-con-gusto",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "arco-christmas-2026",
@@ -10660,7 +10724,10 @@
     "price": "Free access",
     "officialUrl": "https://www.roveretoincentro.com/",
     "source": "Rovereto in Centro",
-    "verified": "2026-08-25"
+    "verified": "2026-08-25",
+    "image": "https://static.wixstatic.com/media/5a7a1d_25143abc22004ea194906b55fa64b4ab%7Emv2.png/v1/fit/w_2500,h_1330,al_c/5a7a1d_25143abc22004ea194906b55fa64b4ab%7Emv2.png",
+    "imageSourceUrl": "https://www.natalerovereto.it",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "rintocchi-di-luce-natale-a-rovereto-2026",
@@ -12130,14 +12197,18 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "officialUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda",
     "source": "Garda Trentino - events",
     "verified": "2026-08-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/towns-villages/riva-del-garda"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__24440__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVADELGARDA.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "shalom-pace-nativity-scene-in-lundo-village-2026",
@@ -12474,7 +12545,10 @@
     "price": "Registration required",
     "officialUrl": "https://lakegarda42.com/it/",
     "source": "Official organizer",
-    "verified": "2026-08-25"
+    "verified": "2026-08-25",
+    "image": "https://lakegarda42.com/wp-content/uploads/2026/05/Webseite-Bild.png",
+    "imageSourceUrl": "https://lakegarda42.com/it/",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "trento-film-2027",
@@ -12501,7 +12575,10 @@
     "price": "Varies by event",
     "officialUrl": "https://trentofestival.it/",
     "source": "Official organizer",
-    "verified": "2026-08-25"
+    "verified": "2026-08-25",
+    "image": "https://trentofestival.it/wp-content/themes/trento-film-festival/images/opengraph.jpg",
+    "imageSourceUrl": "https://trentofestival.it/",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "bike-festival-2027",
@@ -12528,7 +12605,10 @@
     "price": "Expo free / activities vary",
     "officialUrl": "https://www.bikefestivalriva.com/en",
     "source": "Official organizer",
-    "verified": "2026-08-25"
+    "verified": "2026-08-25",
+    "image": "https://www.bikefestivalriva.com/01-immagini-sito/expo/2254/image-thumb__2254__thumb800/%C2%A9garda_dolomiti_spA_2025-05-04_BF-Riva_Patrick-Wasshuber-0424_web.54510033.jpg",
+    "imageSourceUrl": "https://www.bikefestivalriva.com/en",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "rebuild-2027",
@@ -12609,6 +12689,9 @@
     "price": "See programme",
     "officialUrl": "https://www.festivaleconomia.it/",
     "source": "Official organizer",
-    "verified": "2026-08-25"
+    "verified": "2026-08-25",
+    "image": "https://www.festivaleconomia.it/assets/Festival_Economia_Trento.jpg",
+    "imageSourceUrl": "https://www.festivaleconomia.it/",
+    "assetVerified": "2026-08-27"
   }
 ]
