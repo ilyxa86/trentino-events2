@@ -12,6 +12,7 @@ on:
       - "scripts/build_discovery_delta.py"
       - "scripts/promote_candidates.py"
       - "scripts/discover_public_social.py"
+      - "scripts/enrich_event_links_and_images.py"
       - "data/facebook_sources.json"
       - "requirements-crawler.txt"
       - "data/source_registry.json"
@@ -67,6 +68,9 @@ jobs:
       - name: Skip public Facebook discovery when API key is not configured
         if: env.OPENAI_API_KEY == ''
         run: echo "OPENAI_API_KEY not configured; official-source update continues without public Facebook discovery."
+
+      - name: Enrich concrete event links and images
+        run: python scripts/enrich_event_links_and_images.py
 
       - name: Commit coverage and live event update
         run: |
