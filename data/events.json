@@ -2958,7 +2958,9 @@
       "https://www.gardatrentino.it/en/weather/garda-trentino",
       "https://www.gardatrentino.it/en/events/100-e-anni-di-turismo-nel-garda-trentino_94143"
     ],
-    "assetVerified": "2026-08-27"
+    "assetVerified": "2026-08-27",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_100_anni_turismo_APT.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/100-e-anni-di-turismo-nel-garda-trentino_94143"
   },
   {
     "id": "coro-della-sosat-2026",
@@ -5890,7 +5892,9 @@
       "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
       "https://www.gardatrentino.it/it/eventi/mercato-settimanale-riva-del-garda_3475"
     ],
-    "assetVerified": "2026-08-27"
+    "assetVerified": "2026-08-27",
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Shopping/2021_GARDADOLOMITI-ph-WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_SHOPPING_torre.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/it/eventi/mercato-settimanale-riva-del-garda_3475"
   },
   {
     "id": "trentino-bike-experience-2026",
@@ -10190,7 +10194,9 @@
       "https://www.gardatrentino.it/en/weather/garda-trentino",
       "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995"
     ],
-    "assetVerified": "2026-08-27"
+    "assetVerified": "2026-08-27",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Garda_Trentino_Half_Marathon_6.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995"
   },
   {
     "id": "danish-string-quartet-2026",
@@ -10351,7 +10357,9 @@
       "https://www.gardatrentino.it/en/events/",
       "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213"
     ],
-    "assetVerified": "2026-08-27"
+    "assetVerified": "2026-08-27",
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/Villaggio_del_Gusto/2025_APTGARDADOLOMITI_ph.PRUGNOLA_Inverno_RivaDelGarda_DiGustoInGusto_0I1A0010.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213"
   },
   {
     "id": "arco-christmas-2026",
@@ -12203,7 +12211,9 @@
       "https://www.gardatrentino.it/en/towns-villages/riva-del-garda",
       "https://www.gardatrentino.it/it/eventi/mercato-contadino-riva-del-garda_3479"
     ],
-    "assetVerified": "2026-08-27"
+    "assetVerified": "2026-08-27",
+    "image": "https://www.gardatrentino.it/website_images/events/Events_gastronomia_Mercato.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/it/eventi/mercato-contadino-riva-del-garda_3479"
   },
   {
     "id": "shalom-pace-nativity-scene-in-lundo-village-2026",
