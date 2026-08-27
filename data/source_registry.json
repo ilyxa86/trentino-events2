@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "purpose": "Persistent source registry and completeness contract for the Trentino event database.",
+  "version": 5,
+  "purpose": "Persistent source registry and completeness contract for the Rovereto-centered event database.",
   "coverageWindow": "Rolling 12-month overlap window. Include any event with endDate >= run date and startDate <= run date + 12 months, plus recurring series with at least one occurrence in that interval. Events do not need to start after the run date.",
   "pipeline": {
     "phase1": "GitHub Actions deterministic enumeration of known calendars into data/discovered_candidates.json plus data/source_audit.json.",
@@ -31,7 +31,13 @@
       "name": "Visit Trentino - all events",
       "url": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "mode": "exhaustive_index_plus_sitemaps",
-      "requirements": ["reported total", "live index reconciliation", "all pagination/load-more/date partitions", "detail pages", "season/category pages"]
+      "requirements": [
+        "reported total",
+        "live index reconciliation",
+        "all pagination/load-more/date partitions",
+        "detail pages",
+        "season/category pages"
+      ]
     },
     {
       "id": "visitrovereto_events",
@@ -39,7 +45,11 @@
       "name": "Visit Rovereto / Vallagarina - events",
       "url": "https://www.visitrovereto.it/vivi/eventi/",
       "mode": "exhaustive_numbered_pagination",
-      "requirements": ["every pno page", "detail pages", "linked images/files"]
+      "requirements": [
+        "every pno page",
+        "detail pages",
+        "linked images/files"
+      ]
     },
     {
       "id": "visitrovereto_estate",
@@ -47,7 +57,12 @@
       "name": "Rovereto Estate programme",
       "url": "https://www.visitrovereto.it/rovereto-estate/",
       "mode": "programme_page_plus_attachments",
-      "requirements": ["every listed event", "calendar PDF semantic inspection", "child event pages", "programme sub-events"]
+      "requirements": [
+        "every listed event",
+        "calendar PDF semantic inspection",
+        "child event pages",
+        "programme sub-events"
+      ]
     },
     {
       "id": "comune_rovereto_events",
@@ -56,7 +71,12 @@
       "url": "https://eventi.comune.rovereto.tn.it/",
       "discoveredFrom": "https://www.comune.rovereto.tn.it/Vivere-il-comune/Eventi",
       "mode": "opencontent_official_agenda",
-      "requirements": ["agenda/event pages", "search/sitemap enumeration", "recurrences", "flyer/PDF attachments"]
+      "requirements": [
+        "agenda/event pages",
+        "search/sitemap enumeration",
+        "recurrences",
+        "flyer/PDF attachments"
+      ]
     },
     {
       "id": "trentino_cultura_appuntamenti",
@@ -64,7 +84,13 @@
       "name": "Trentino Cultura - Appuntamenti",
       "url": "https://www.cultura.trentino.it/Appuntamenti",
       "mode": "dynamic_date_calendar_plus_sitemaps",
-      "requirements": ["date traversal", "detail pages", "series links", "ongoing exhibitions", "dynamic calendar count reconciliation"]
+      "requirements": [
+        "date traversal",
+        "detail pages",
+        "series links",
+        "ongoing exhibitions",
+        "dynamic calendar count reconciliation"
+      ]
     },
     {
       "id": "trentino_cultura_rassegne",
@@ -72,7 +98,12 @@
       "name": "Trentino Cultura - Rassegne",
       "url": "https://www.cultura.trentino.it/Rassegne",
       "mode": "offset_index_plus_child_programmes",
-      "requirements": ["all active/future offset pages", "every series detail page", "child Appuntamenti links", "programme attachments"]
+      "requirements": [
+        "all active/future offset pages",
+        "every series detail page",
+        "child Appuntamenti links",
+        "programme attachments"
+      ]
     },
     {
       "id": "garda_trentino_events",
@@ -80,7 +111,13 @@
       "name": "Garda Trentino - events",
       "url": "https://www.gardatrentino.it/en/discover/events",
       "mode": "exhaustive_paginated_index",
-      "requirements": ["reported total", "every numbered page", "other available dates", "recurring weekday patterns", "detail pages"]
+      "requirements": [
+        "reported total",
+        "every numbered page",
+        "other available dates",
+        "recurring weekday patterns",
+        "detail pages"
+      ]
     },
     {
       "id": "comune_trento_events",
@@ -89,7 +126,13 @@
       "url": "https://eventi.comune.trento.it/",
       "discoveredFrom": "https://www.comune.trento.it/Vivere-il-Comune/Eventi",
       "mode": "opencontent_official_agenda",
-      "requirements": ["full content/search offsets", "reported total reconciliation", "Eventi detail pages", "recurrences", "attachments"]
+      "requirements": [
+        "full content/search offsets",
+        "reported total reconciliation",
+        "Eventi detail pages",
+        "recurrences",
+        "attachments"
+      ]
     },
     {
       "id": "visitfiemme_events",
@@ -97,23 +140,11 @@
       "name": "Visit Fiemme & Cembra - all events",
       "url": "https://www.visitfiemme.it/it/eventi",
       "mode": "exhaustive_paginated_index",
-      "requirements": ["every page", "other available dates", "detail pages"]
-    },
-    {
-      "id": "val_di_fassa_events",
-      "priority": "P1",
-      "name": "APT Val di Fassa - event calendar",
-      "url": "https://www.fassa.com/it/cosa-fare/eventi",
-      "mode": "dynamic_calendar",
-      "requirements": ["load all results", "location/theme filters if needed for enumeration", "print calendar", "detail pages", "recurrences"]
-    },
-    {
-      "id": "san_martino_primiero_events",
-      "priority": "P1",
-      "name": "San Martino di Castrozza / Primiero / Vanoi - event calendar",
-      "url": "https://www.sanmartino.com/it/calendario/eventi",
-      "mode": "dynamic_calendar_plus_weekly_agenda",
-      "requirements": ["all realtime results", "weekly agenda download", "location filters", "detail pages", "map/list results"]
+      "requirements": [
+        "every page",
+        "other available dates",
+        "detail pages"
+      ]
     },
     {
       "id": "valsugana_events",
@@ -121,7 +152,12 @@
       "name": "APT Valsugana / Lagorai - events and activities",
       "url": "https://www.visitvalsugana.it/it/eventi-valsugana/_1448_idn/",
       "mode": "event_activity_index",
-      "requirements": ["all event and activity results", "recurring activities", "category pages", "detail pages"]
+      "requirements": [
+        "all event and activity results",
+        "recurring activities",
+        "category pages",
+        "detail pages"
+      ]
     },
     {
       "id": "val_di_non_events",
@@ -129,15 +165,13 @@
       "name": "APT Val di Non - day-by-day events",
       "url": "https://www.visitvaldinon.it/eventi",
       "mode": "dynamic_calendar",
-      "requirements": ["day-by-day calendar", "load all", "not-to-miss cross-check", "detail pages", "linked programme booklets"]
-    },
-    {
-      "id": "val_di_sole_events",
-      "priority": "P1",
-      "name": "APT Val di Sole - events",
-      "url": "https://www.visitvaldisole.it/it/eventi",
-      "mode": "paginated_calendar_plus_monthly_pdfs",
-      "requirements": ["all numbered pages", "other available dates", "monthly PDF programmes", "detail pages", "recurring activities"]
+      "requirements": [
+        "day-by-day calendar",
+        "load all",
+        "not-to-miss cross-check",
+        "detail pages",
+        "linked programme booklets"
+      ]
     },
     {
       "id": "campiglio_rendena_events",
@@ -145,7 +179,13 @@
       "name": "Madonna di Campiglio / Pinzolo / Val Rendena - event calendar",
       "url": "https://www.campigliodolomiti.it/it/pianifica/calendario-eventi",
       "mode": "dynamic_calendar_plus_printable_calendar",
-      "requirements": ["date/place/type filters", "all loaded results", "print/PDF calendar", "detail pages", "event flyers"]
+      "requirements": [
+        "date/place/type filters",
+        "all loaded results",
+        "print/PDF calendar",
+        "detail pages",
+        "event flyers"
+      ]
     },
     {
       "id": "alpe_cimbra_events",
@@ -153,16 +193,25 @@
       "name": "Alpe Cimbra - seasonal event programmes",
       "url": "https://www.alpecimbra.it/it/homepage/alpe-cimbra-summer-events-2026/1424-0.html",
       "mode": "seasonal_programme_plus_pdfs",
-      "requirements": ["all Folgaria/Lavarone/Luserna/Vigolana programme sections", "linked programme PDFs", "blog event announcements", "detail pages"]
+      "requirements": [
+        "all Folgaria/Lavarone/Luserna/Vigolana programme sections",
+        "linked programme PDFs",
+        "blog event announcements",
+        "detail pages"
+      ]
     }
   ],
   "territorialDiscovery": [
-    "Dolomiti Paganella official tourism event calendar",
-    "Trento / Monte Bondone tourism event calendars",
-    "Valle dei Laghi, Ledro, Comano, Val di Gresta and Mori local calendars",
-    "municipal event calendars throughout Trentino",
-    "Pro Loco and association calendars for sagre, patronal feasts, markets and local festivals",
-    "additional official territorial calendars not yet represented above"
+    "Rovereto and Vallagarina municipalities and frazioni",
+    "Trento and Monte Bondone",
+    "Alto Garda: Riva del Garda, Arco, Nago-Torbole, Tenno, Dro, Drena and nearby",
+    "Ledro where practical travel distance remains within the 80 km scope",
+    "Valle dei Laghi and Comano / eastern Giudicarie where within scope",
+    "Alpe Cimbra: Folgaria, Lavarone, Luserna and Vigolana",
+    "Val di Gresta and Mori",
+    "lower/nearby Valsugana and Cembra / Fiemme locations only when within the practical 80 km scope",
+    "lower/nearby Val di Non locations only when within the practical 80 km scope",
+    "municipal and Pro Loco calendars within the 80 km Rovereto scope"
   ],
   "organizerAndVenueDiscovery": [
     "Mart Rovereto",
@@ -178,27 +227,94 @@
   ],
   "publicSocialAndFlyerDiscovery": {
     "role": "discovery_and_corroboration",
-    "channels": ["Facebook", "Instagram", "LinkedIn", "YouTube community/posts", "public event pages", "public flyers/images", "local-news event roundups"],
-    "sourceFamilies": ["tourism boards and APTs", "municipalities", "Pro Loco groups", "museums", "libraries", "theatres and venues", "festival organisers", "sports clubs/organisers", "wine/agriculture/food associations"],
+    "channels": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn",
+      "YouTube community/posts",
+      "public event pages",
+      "public flyers/images",
+      "local-news event roundups"
+    ],
+    "sourceFamilies": [
+      "tourism boards and APTs",
+      "municipalities",
+      "Pro Loco groups",
+      "museums",
+      "libraries",
+      "theatres and venues",
+      "festival organisers",
+      "sports clubs/organisers",
+      "wine/agriculture/food associations"
+    ],
     "rules": [
-      "Search public posts/pages for each territorial and organizer source family, not only accounts already known by name.",
+      "Search the public Facebook source registry plus public pages/posts for places inside the Rovereto 80 km practical travel scope.",
+      "Use public Facebook content only; no login, private groups or inaccessible posts.",
       "Use location + event/eventi/festa/sagra/mercato/festival/concerto/mostra/sport + month/year queries.",
-      "Search both Italian and German/English variants where relevant.",
-      "If a public flyer/social post gives a credible date and location but no official calendar record exists, add the event with confidence/confirmation metadata and continue looking for corroboration.",
-      "Never use private/inaccessible social content or guess unreadable flyer details.",
-      "Do not infer cancellation from a social post becoming unavailable.",
-      "When a durable public social account repeatedly publishes event announcements, persist its exact public account URL in this registry on a later revision."
-    ]
+      "When Facebook is the primary discovery source, set sourceType='facebook' and preserve the public Facebook URL or corroborating public source URL.",
+      "If a public Facebook post gives a credible date and location but no official calendar record exists, add the event with appropriate confidence/confirmation metadata and continue looking for corroboration.",
+      "Never guess unreadable flyer details and never infer cancellation merely because a social post disappears.",
+      "When a durable public Facebook group/page repeatedly publishes event announcements, persist it in data/facebook_sources.json."
+    ],
+    "facebookSourceRegistry": "data/facebook_sources.json",
+    "facebookEventMarker": "Events primarily discovered from Facebook must use sourceType='facebook' so the website can mark and filter them."
   },
-  "sourceAuditFields": ["lastScan", "status", "reportedTotal", "recordsSeen", "uniqueCandidates", "pagesOrBucketsScanned", "attachmentsScanned", "errors", "notes"],
+  "sourceAuditFields": [
+    "lastScan",
+    "status",
+    "reportedTotal",
+    "recordsSeen",
+    "uniqueCandidates",
+    "pagesOrBucketsScanned",
+    "attachmentsScanned",
+    "errors",
+    "notes"
+  ],
   "completionGate": {
-    "requiredPriorities": ["P0"],
-    "completeStatuses": ["COMPLETE"],
-    "warningOn": ["PARTIAL", "FAILED"],
+    "requiredPriorities": [
+      "P0"
+    ],
+    "completeStatuses": [
+      "COMPLETE"
+    ],
+    "warningOn": [
+      "PARTIAL",
+      "FAILED"
+    ],
     "userFacingRule": "If any P0 source is PARTIAL or FAILED, surface a coverage warning even when there are no event changes."
   },
   "eventSchemaExtensions": {
-    "languages": ["de", "en", "it"],
-    "optionalFields": ["recurrence", "occurrences", "sourceUrls", "discoveredVia", "confidence"]
+    "languages": [
+      "de",
+      "en",
+      "it"
+    ],
+    "optionalFields": [
+      "recurrence",
+      "occurrences",
+      "sourceUrls",
+      "discoveredVia",
+      "confidence",
+      "sourceType",
+      "distanceKm"
+    ]
+  },
+  "geography": {
+    "center": {
+      "name": "Rovereto",
+      "country": "Italy",
+      "lat": 45.8909,
+      "lon": 11.0401
+    },
+    "maxTravelDistanceKm": 80,
+    "semantics": "Practical road/travel distance from Rovereto, not a pure straight-line radius.",
+    "eventRule": "Include only events whose venue/municipality is within roughly 80 km practical travel distance of Rovereto.",
+    "mixedCalendarRule": "Province-wide calendars remain valid discovery sources, but out-of-scope events must be discarded after place resolution.",
+    "explicitOutOfScopeTerritories": [
+      "Val di Sole",
+      "Val di Fassa",
+      "Primiero / San Martino di Castrozza"
+    ],
+    "note": "Val di Sole is explicitly out of scope per user preference even where straight-line distance could appear smaller."
   }
 }
