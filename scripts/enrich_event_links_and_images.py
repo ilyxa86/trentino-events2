@@ -42,8 +42,10 @@ def general_url(u):
     try:
         p=urlparse(u)
         path=(p.path or "/").rstrip("/") or "/"
-        if path.casefold() in INDEX_HINTS:return True
+        low=path.casefold()
+        if low in INDEX_HINTS:return True
         parts=[x for x in path.split("/") if x]
+        if parts and parts[-1].casefold() in {"eventi","events","agenda","appuntamenti","rassegne","calendario","calendario-eventi"}:return True
         return len(parts)<=1
     except:return True
 def fetch(u):
@@ -158,6 +160,7 @@ def main():
         urls=candidate_urls(e)
         resolved=None
         resolved_sp=None
+        resolved_from_child=False
 
         # First inspect existing candidate URLs.
         for u in urls:
@@ -170,12 +173,12 @@ def main():
             if child:
                 sp2,final2,_=fetch(child)
                 if sp2 and concrete_match(name,sp2,final2):
-                    resolved=canonical(sp2,final2); resolved_sp=sp2; break
+                    resolved=canonical(sp2,final2); resolved_sp=sp2; resolved_from_child=True; break
 
         if not resolved:continue
 
         local_change=False
-        if need_link and resolved and not general_url(resolved):
+        if resolved and not general_url(resolved) and (need_link or resolved_from_child):
             if resolved!=current:
                 e["officialUrl"]=resolved
                 urls2=set(e.get("sourceUrls") or [])
