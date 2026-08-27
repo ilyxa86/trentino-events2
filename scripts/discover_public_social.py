@@ -68,11 +68,14 @@ def parse_json(text):
     try:return json.loads(text[a:b+1])
     except:return {"events":[]}
 
-def prompt_for(src,run_day,horizon):
-    return f"""Search the PUBLIC WEB only for upcoming local events connected to this Facebook community/page:
-NAME: {src['name']}
-PLACE: {src['place']}
-DISCOVERY QUERY: {src.get('discoveryQuery','')}
+def prompt_for_all(sources,run_day,horizon):
+    source_lines="\n".join(
+        f"- {src['id']}: {src['name']} | place={src['place']} | query={src.get('discoveryQuery','')}"
+        for src in sources
+    )
+    return f"""Search the PUBLIC WEB for upcoming local events connected to these public Facebook communities/pages:
+
+{source_lines}
 
 Important:
 - Do NOT log into Facebook and do not use private/inaccessible posts.
@@ -80,16 +83,22 @@ Important:
 - Geography is limited to roughly 80 km practical travel distance from Rovereto, Italy.
 - Date window: {run_day.isoformat()} through {horizon.isoformat()}.
 - Return only real dated events with enough evidence to identify date and municipality.
-- Do not invent details. If only Facebook/public-social evidence exists, confirmed=false is acceptable.
-- announcementDate is the public announcement/post/publication date if you can determine it; otherwise null.
-- publicUrl should be the best public evidence URL you actually found. Prefer an official organizer/municipality URL when available, otherwise a public indexed page referencing the Facebook announcement.
+- Do not invent details.
+- If only Facebook/public-social evidence exists, confirmed=false is acceptable.
+- facebookSourceId must be one of the IDs listed above.
+- announcementDate is the public announcement/post/publication date if known, otherwise null.
+- publicUrl must be the best public evidence URL actually found.
+- Prefer an official organizer/municipality URL when available; otherwise use the public indexed source.
 - imageUrl only when a reliable public event-specific image URL is available.
 - Keep descriptions concise and factual.
+- Deduplicate the same event across multiple communities before returning it.
+- Focus on genuinely upcoming or newly announced local events; do not return generic tourism pages.
 
 Return JSON only, no markdown:
 {{
   "events":[
     {{
+      "facebookSourceId":"...",
       "name":"...",
       "startDate":"YYYY-MM-DD",
       "endDate":"YYYY-MM-DD",
@@ -121,22 +130,25 @@ def main():
     client=OpenAI()
     model=os.getenv("OPENAI_SOCIAL_MODEL","gpt-5-mini")
     raw_records=[]
+    source_by_id={src["id"]:src for src in sources}
+    try:
+        resp=client.responses.create(
+            model=model,
+            tools=[{"type":"web_search","search_context_size":"low"}],
+            input=prompt_for_all(sources,run_day,horizon)
+        )
+        payload=parse_json(resp.output_text)
+    except Exception as exc:
+        print(f"batched public-social discovery failed: {exc}")
+        payload={"events":[]}
 
-    for src in sources:
-        try:
-            resp=client.responses.create(
-                model=model,
-                tools=[{"type":"web_search","search_context_size":"low"}],
-                input=prompt_for(src,run_day,horizon)
-            )
-            payload=parse_json(resp.output_text)
-        except Exception as exc:
-            print(f"{src['id']}: discovery failed: {exc}")
+    for item in payload.get("events") or []:
+        sid=clean(item.get("facebookSourceId"))
+        src=source_by_id.get(sid)
+        if not src:
             continue
-        for item in payload.get("events") or []:
-            item["facebookSourceId"]=src["id"]
-            item["facebookSourceName"]=src["name"]
-            raw_records.append(item)
+        item["facebookSourceName"]=src["name"]
+        raw_records.append(item)
 
     valid=[]
     for x in raw_records:
