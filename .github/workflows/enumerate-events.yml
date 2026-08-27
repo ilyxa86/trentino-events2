@@ -11,6 +11,8 @@ on:
       - "scripts/enumerate_sources.py"
       - "scripts/build_discovery_delta.py"
       - "scripts/promote_candidates.py"
+      - "scripts/discover_public_social.py"
+      - "data/facebook_sources.json"
       - "requirements-crawler.txt"
       - "data/source_registry.json"
       - ".github/workflows/enumerate-events.yml"
@@ -25,6 +27,9 @@ concurrency:
 jobs:
   enumerate:
     runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_SOCIAL_MODEL: gpt-5-mini
     timeout-minutes: 30
     steps:
       - name: Checkout
@@ -51,6 +56,18 @@ jobs:
       - name: Promote verified calendar candidates to live database
         run: python scripts/promote_candidates.py
 
+      - name: Install OpenAI SDK for public social discovery
+        if: env.OPENAI_API_KEY != ''
+        run: pip install openai
+
+      - name: Discover public Facebook-linked events
+        if: env.OPENAI_API_KEY != ''
+        run: python scripts/discover_public_social.py
+
+      - name: Skip public Facebook discovery when API key is not configured
+        if: env.OPENAI_API_KEY == ''
+        run: echo "OPENAI_API_KEY not configured; official-source update continues without public Facebook discovery."
+
       - name: Commit coverage and live event update
         run: |
           git config user.name "trentino-events-bot"
@@ -64,6 +81,7 @@ jobs:
           fi
 
           git add data/source_audit.json data/discovered_candidates.json data/discovery_delta.json data/events.json
+          git add data/facebook_candidates.json data/social_delta.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No coverage or event changes."
           else
