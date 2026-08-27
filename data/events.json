@@ -2948,17 +2948,16 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "officialUrl": "https://www.gardatrentino.it/en/events/100-e-anni-di-turismo-nel-garda-trentino_94143",
     "source": "Garda Trentino - events",
     "verified": "2026-08-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/weather/garda-trentino"
+      "https://www.gardatrentino.it/en/weather/garda-trentino",
+      "https://www.gardatrentino.it/en/events/100-e-anni-di-turismo-nel-garda-trentino_94143"
     ],
-    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "assetVerified": "2026-08-27"
   },
   {
@@ -5881,17 +5880,16 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
+    "officialUrl": "https://www.gardatrentino.it/it/eventi/mercato-settimanale-riva-del-garda_3475",
     "source": "Garda Trentino - events",
     "verified": "2026-08-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=4",
-      "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels"
+      "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
+      "https://www.gardatrentino.it/it/eventi/mercato-settimanale-riva-del-garda_3475"
     ],
-    "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
     "assetVerified": "2026-08-27"
   },
   {
@@ -10182,17 +10180,16 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "officialUrl": "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995",
     "source": "Garda Trentino - events",
     "verified": "2026-08-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=9",
-      "https://www.gardatrentino.it/en/weather/garda-trentino"
+      "https://www.gardatrentino.it/en/weather/garda-trentino",
+      "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995"
     ],
-    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "assetVerified": "2026-08-27"
   },
   {
@@ -10346,15 +10343,14 @@
     },
     "organizer": "Consorzio Riva in Centro",
     "price": "Free access",
-    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/vacanze-con-gusto",
+    "officialUrl": "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213",
     "source": "Garda Trentino",
     "verified": "2026-08-25",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/vacanze-con-gusto",
-      "https://www.gardatrentino.it/en/events/"
+      "https://www.gardatrentino.it/en/events/",
+      "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213"
     ],
-    "image": "https://www.gardatrentino.it/website_images/experiences/00_Esperienze/Estate/image-thumb__22985__fb-thumb/2023_GARDA_DOLOMITI_PRUGNOLA_Esperienze_Colazione_Rifugio_San_Pietro_Food_Wine_Gusto_Tenno_01.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/vacanze-con-gusto",
     "assetVerified": "2026-08-27"
   },
   {
@@ -12197,17 +12193,16 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda",
+    "officialUrl": "https://www.gardatrentino.it/it/eventi/mercato-contadino-riva-del-garda_3479",
     "source": "Garda Trentino - events",
     "verified": "2026-08-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/towns-villages/riva-del-garda"
+      "https://www.gardatrentino.it/en/towns-villages/riva-del-garda",
+      "https://www.gardatrentino.it/it/eventi/mercato-contadino-riva-del-garda_3479"
     ],
-    "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__24440__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVADELGARDA.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda",
     "assetVerified": "2026-08-27"
   },
   {
