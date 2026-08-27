@@ -1,0 +1,66 @@
+name: Weekly public social event discovery
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Monday 04:10 UTC = 06:10 CEST / 05:10 CET
+    - cron: "10 4 * * 1"
+  push:
+    paths:
+      - ".github/workflows/public-social-weekly.yml"
+      - "scripts/discover_public_social.py"
+      - "data/facebook_sources.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trentino-public-social-weekly
+  cancel-in-progress: true
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_SOCIAL_MODEL: gpt-5-mini
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Require API secret
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "OPENAI_API_KEY is missing"
+            exit 1
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements-crawler.txt openai
+
+      - name: Run one batched public-social discovery request
+        run: python scripts/discover_public_social.py
+
+      - name: Enrich links and images without additional API calls
+        run: python scripts/enrich_event_links_and_images.py
+
+      - name: Commit social discovery results
+        run: |
+          git config user.name "trentino-events-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/events.json data/facebook_candidates.json data/social_delta.json
+          if git diff --cached --quiet; then
+            echo "No public-social event changes."
+            exit 0
+          fi
+          git commit -m "Update weekly public social event discovery"
+          git pull --rebase origin main
+          git push origin HEAD:main
