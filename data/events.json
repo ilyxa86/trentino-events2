@@ -1997,6 +1997,38 @@
     "assetVerified": "2026-08-27"
   },
   {
+    "id": "dalla-canapa-alla-carta-2026-2",
+    "name": {
+      "de": "Dalla canapa alla carta",
+      "en": "Dalla canapa alla carta",
+      "it": "Dalla canapa alla carta"
+    },
+    "startDate": "2026-08-28",
+    "endDate": "2026-08-28",
+    "startTime": "14:30",
+    "municipality": "Stenico",
+    "area": "Other Trentino",
+    "venue": "Stenico",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dalla canapa alla carta“ in Stenico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dalla canapa alla carta” event in Stenico. See the official event page for the latest details.",
+      "it": "Evento “Dalla canapa alla carta” a Stenico. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
     "id": "giovenche-rendena-2026",
     "name": {
       "en": "Giovenche di Razza Rendena",
@@ -3091,6 +3123,38 @@
     ]
   },
   {
+    "id": "notte-di-fiaba-tarzan-2026-2",
+    "name": {
+      "de": "Notte di Fiaba - Tarzan",
+      "en": "Notte di Fiaba - Tarzan",
+      "it": "Notte di Fiaba - Tarzan"
+    },
+    "startDate": "2026-08-30",
+    "endDate": "2026-08-31",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Notte di Fiaba - Tarzan“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Notte di Fiaba - Tarzan” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Notte di Fiaba - Tarzan” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "paesaggi-2026",
     "name": {
       "de": "Paesaggi",
@@ -3185,6 +3249,42 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio9"
     ]
+  },
+  {
+    "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-2",
+    "name": {
+      "de": "100 e + anni di turismo nel Garda Trentino",
+      "en": "100 e + anni di turismo nel Garda Trentino",
+      "it": "100 e + anni di turismo nel Garda Trentino"
+    },
+    "startDate": "2026-08-31",
+    "endDate": "2026-09-06",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „100 e + anni di turismo nel Garda Trentino“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“100 e + anni di turismo nel Garda Trentino” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “100 e + anni di turismo nel Garda Trentino” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/weather/garda-trentino"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "assetVerified": "2026-08-27"
   },
   {
     "id": "laboratorio-creativo-al-malgone-di-candriai-2026",
@@ -4537,6 +4637,38 @@
     ]
   },
   {
+    "id": "il-grimorio-le-leggende-e-il-castello-2026-2",
+    "name": {
+      "de": "Il Grimorio, le Leggende e il Castello",
+      "en": "Il Grimorio, le Leggende e il Castello",
+      "it": "Il Grimorio, le Leggende e il Castello"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-10-25",
+    "startTime": "10:00",
+    "municipality": "Drena",
+    "area": "Alto Garda",
+    "venue": "Drena",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Il Grimorio, le Leggende e il Castello“ in Drena. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Il Grimorio, le Leggende e il Castello” event in Drena. See the official event page for the latest details.",
+      "it": "Evento “Il Grimorio, le Leggende e il Castello” a Drena. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4"
+    ]
+  },
+  {
     "id": "incanto-a-castello-2026",
     "name": {
       "de": "InCanto a Castello",
@@ -4599,6 +4731,38 @@
     "image": "https://www.visitrovereto.it/wp-content/uploads/2017/08/La-Magnalonga-dellAlta-Vallagarina-Luca-Matassoni.jpg",
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/magnalonga-alta-vallagarina/"
+    ]
+  },
+  {
+    "id": "ledro-express-2026",
+    "name": {
+      "de": "Ledro Express",
+      "en": "Ledro Express",
+      "it": "Ledro Express"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "startTime": "10:00",
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ledro Express“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ledro Express” event in Ledro. See the official event page for the latest details.",
+      "it": "Evento “Ledro Express” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4"
     ]
   },
   {
@@ -6897,6 +7061,38 @@
     ]
   },
   {
+    "id": "baricentri-identita-urbane-dei-quartieri-2-giugno-e-degasperi-2026",
+    "name": {
+      "de": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "en": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "it": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-27",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "camminata-delle-teragnole-2026",
     "name": {
       "de": "Camminata delle Teragnóle",
@@ -6981,6 +7177,38 @@
       "de": "Veranstaltung „Festa della Pace“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
       "en": "“Festa della Pace” event in Arco. See the official event page for the latest details.",
       "it": "Evento “Festa della Pace” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ]
+  },
+  {
+    "id": "l-officina-del-sapone-2026",
+    "name": {
+      "de": "L'officina del sapone",
+      "en": "L'officina del sapone",
+      "it": "L'officina del sapone"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-20",
+    "startTime": "15:00",
+    "municipality": "Stenico",
+    "area": "Other Trentino",
+    "venue": "Stenico",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „L'officina del sapone“ in Stenico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“L'officina del sapone” event in Stenico. See the official event page for the latest details.",
+      "it": "Evento “L'officina del sapone” a Stenico. Consulta la pagina ufficiale per i dettagli aggiornati."
     },
     "organizer": null,
     "price": "See official page",
@@ -7727,6 +7955,38 @@
     ]
   },
   {
+    "id": "accordion-festival-in-ledro-2026",
+    "name": {
+      "de": "Accordion Festival in Ledro",
+      "en": "Accordion Festival in Ledro",
+      "it": "Accordion Festival in Ledro"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTime": "20:30",
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Accordion Festival in Ledro“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Accordion Festival in Ledro” event in Ledro. See the official event page for the latest details.",
+      "it": "Evento “Accordion Festival in Ledro” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6"
+    ]
+  },
+  {
     "id": "beyond-the-finish-line-2026",
     "name": {
       "de": "Beyond the finish line",
@@ -8049,7 +8309,8 @@
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -8503,6 +8764,38 @@
     ]
   },
   {
+    "id": "fiera-di-san-francesco-2026-2",
+    "name": {
+      "de": "Fiera di San Francesco",
+      "en": "Fiera di San Francesco",
+      "it": "Fiera di San Francesco"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "startTime": null,
+    "municipality": "Mori",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Mori",
+    "category": "Trade Fair",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Fiera di San Francesco“ in Mori. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Fiera di San Francesco” event in Mori. See the official event page for the latest details.",
+      "it": "Evento “Fiera di San Francesco” a Mori. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7"
+    ]
+  },
+  {
     "id": "ganzega-d-autunno-2026",
     "name": {
       "de": "Ganzega d'Autunno",
@@ -8522,6 +8815,38 @@
       "de": "Veranstaltung „Ganzega d'Autunno“ in Mori. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
       "en": "“Ganzega d'Autunno” event in Mori. See the official event page for the latest details.",
       "it": "Evento “Ganzega d'Autunno” a Mori. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7"
+    ]
+  },
+  {
+    "id": "ganzega-d-autunno-2026-2",
+    "name": {
+      "de": "Ganzega d'Autunno",
+      "en": "Ganzega d'Autunno",
+      "it": "Ganzega d'Autunno"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-11",
+    "startTime": "18:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ganzega d'Autunno“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ganzega d'Autunno” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Ganzega d'Autunno” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
     },
     "organizer": null,
     "price": "See official page",
@@ -8937,6 +9262,38 @@
       "de": "Veranstaltung „Fiera di San Francesco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
       "en": "“Fiera di San Francesco” event in Arco. See the official event page for the latest details.",
       "it": "Evento “Fiera di San Francesco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7"
+    ]
+  },
+  {
+    "id": "international-chess-tournament-citta-di-arco-2026-2",
+    "name": {
+      "de": "International Chess Tournament Città di Arco",
+      "en": "International Chess Tournament Città di Arco",
+      "it": "International Chess Tournament Città di Arco"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": "15:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „International Chess Tournament Città di Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“International Chess Tournament Città di Arco” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “International Chess Tournament Città di Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
     },
     "organizer": null,
     "price": "See official page",
@@ -11983,6 +12340,7 @@
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
