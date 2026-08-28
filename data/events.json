@@ -2112,10 +2112,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
@@ -3155,6 +3156,38 @@
     ]
   },
   {
+    "id": "notte-di-fiaba-tarzan-2026-3",
+    "name": {
+      "de": "Notte di Fiaba - Tarzan",
+      "en": "Notte di Fiaba - Tarzan",
+      "it": "Notte di Fiaba - Tarzan"
+    },
+    "startDate": "2026-08-30",
+    "endDate": "2026-10-11",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Notte di Fiaba - Tarzan“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Notte di Fiaba - Tarzan” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Notte di Fiaba - Tarzan” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "paesaggi-2026",
     "name": {
       "de": "Paesaggi",
@@ -3179,11 +3212,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -4800,6 +4834,71 @@
     ]
   },
   {
+    "id": "palio-social-run-2026",
+    "name": {
+      "de": "Palio Social Run",
+      "en": "Palio Social Run",
+      "it": "Palio Social Run"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Palio Social Run“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Palio Social Run” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Palio Social Run” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/palio-social-run",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-08-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/08/Palio-Social-Run-2026-1.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/palio-social-run"
+    ]
+  },
+  {
+    "id": "sagra-di-vezzano-2026",
+    "name": {
+      "de": "Sagra di Vezzano",
+      "en": "Sagra di Vezzano",
+      "it": "Sagra di Vezzano"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "startTime": "10:00",
+    "municipality": "Vezzano",
+    "area": "Other Trentino",
+    "venue": "Vezzano",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sagra di Vezzano“ in Vezzano. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sagra di Vezzano” event in Vezzano. See the official event page for the latest details.",
+      "it": "Evento “Sagra di Vezzano” a Vezzano. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-2",
     "name": {
       "de": "Visita guidata al Castello del Buonconsiglio",
@@ -5952,11 +6051,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=4"
+      "https://www.gardatrentino.it/en/discover/events?page=4",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
   },
   {
@@ -7342,11 +7442,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=5"
+      "https://www.gardatrentino.it/en/discover/events?page=5",
+      "https://www.gardatrentino.it/en/discover/events?page=6"
     ]
   },
   {
@@ -7503,6 +7604,38 @@
     "officialUrl": "https://www.visittrentino.info/it-it/guida/cosa-fare/eventi",
     "source": "Visit Trentino",
     "verified": "2026-08-25"
+  },
+  {
+    "id": "market-in-pieve-di-ledro-2026",
+    "name": {
+      "de": "Market in Pieve di Ledro",
+      "en": "Market in Pieve di Ledro",
+      "it": "Market in Pieve di Ledro"
+    },
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "startTime": "08:00",
+    "municipality": "Tenno",
+    "area": "Alto Garda",
+    "venue": "Tenno",
+    "category": "Markets & Shopping",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Market in Pieve di Ledro“ in Tenno. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Market in Pieve di Ledro” event in Tenno. See the official event page for the latest details.",
+      "it": "Evento “Market in Pieve di Ledro” a Tenno. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
   },
   {
     "id": "mercato-del-giovedi-2026-5",
@@ -8273,11 +8406,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
   {
@@ -9113,6 +9247,38 @@
     ]
   },
   {
+    "id": "gruppo-cassa-centrale-trentino-business-run-2026",
+    "name": {
+      "de": "Gruppo Cassa Centrale - Trentino Business Run",
+      "en": "Gruppo Cassa Centrale - Trentino Business Run",
+      "it": "Gruppo Cassa Centrale - Trentino Business Run"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTime": "15:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Business & Networking",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Gruppo Cassa Centrale - Trentino Business Run“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Gruppo Cassa Centrale - Trentino Business Run” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Gruppo Cassa Centrale - Trentino Business Run” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=8"
+    ]
+  },
+  {
     "id": "mercatino-dei-gaudenti-di-piazza-garzetti-2026-2",
     "name": {
       "de": "Mercatino dei Gaudenti di piazza Garzetti",
@@ -9904,11 +10070,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=8"
+      "https://www.gardatrentino.it/en/discover/events?page=8",
+      "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
   {
@@ -9936,11 +10103,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=8"
+      "https://www.gardatrentino.it/en/discover/events?page=8",
+      "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
   {
@@ -10802,10 +10970,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=10",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
