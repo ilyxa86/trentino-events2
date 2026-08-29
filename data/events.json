@@ -4899,6 +4899,38 @@
     ]
   },
   {
+    "id": "sagra-di-vezzano-2026-2",
+    "name": {
+      "de": "Sagra di Vezzano",
+      "en": "Sagra di Vezzano",
+      "it": "Sagra di Vezzano"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-12-28",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sagra di Vezzano“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sagra di Vezzano” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Sagra di Vezzano” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-2",
     "name": {
       "de": "Visita guidata al Castello del Buonconsiglio",
@@ -7193,6 +7225,38 @@
     ]
   },
   {
+    "id": "baricentri-identita-urbane-dei-quartieri-2-giugno-e-degasperi-2026-2",
+    "name": {
+      "de": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "en": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "it": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-20",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "camminata-delle-teragnole-2026",
     "name": {
       "de": "Camminata delle Teragnóle",
@@ -7630,10 +7694,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-28",
+    "verified": "2026-08-29",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
@@ -8284,6 +8349,38 @@
     "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "assetVerified": "2026-08-27"
+  },
+  {
+    "id": "mori-dance-festival-2026",
+    "name": {
+      "de": "Mori Dance Festival",
+      "en": "Mori Dance Festival",
+      "it": "Mori Dance Festival"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTime": "19:00",
+    "municipality": "Mori",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Mori",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mori Dance Festival“ in Mori. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mori Dance Festival” event in Mori. See the official event page for the latest details.",
+      "it": "Evento “Mori Dance Festival” a Mori. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
   },
   {
     "id": "trentodoc-festival-2026",
@@ -12473,10 +12570,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-29",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
@@ -12730,11 +12828,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/it/eventi/mercato-contadino-riva-del-garda_3479",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-29",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/towns-villages/riva-del-garda",
       "https://www.gardatrentino.it/it/eventi/mercato-contadino-riva-del-garda_3479"
     ],
@@ -12831,10 +12930,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-29",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
@@ -12927,10 +13027,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-29",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
