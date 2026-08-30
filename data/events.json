@@ -3052,11 +3052,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-30",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -3181,6 +3182,38 @@
     "officialUrl": "https://www.gardatrentino.it/en/discover/events",
     "source": "Garda Trentino - events",
     "verified": "2026-08-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
+    "id": "notte-di-fiaba-tarzan-2026-4",
+    "name": {
+      "de": "Notte di Fiaba - Tarzan",
+      "en": "Notte di Fiaba - Tarzan",
+      "it": "Notte di Fiaba - Tarzan"
+    },
+    "startDate": "2026-08-30",
+    "endDate": "2026-09-06",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Notte di Fiaba - Tarzan“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Notte di Fiaba - Tarzan” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Notte di Fiaba - Tarzan” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-30",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
@@ -7643,6 +7676,38 @@
     ]
   },
   {
+    "id": "80-years-of-l-adige-2026",
+    "name": {
+      "de": "80 Years of l’Adige",
+      "en": "80 Years of l’Adige",
+      "it": "80 Years of l’Adige"
+    },
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "startTime": "18:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „80 Years of l’Adige“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“80 Years of l’Adige” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “80 Years of l’Adige” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
     "id": "educa-2026",
     "name": {
       "en": "EDUCA – Education Festival",
@@ -9368,10 +9433,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-28",
+    "verified": "2026-08-30",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
     ]
   },
@@ -10749,6 +10815,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante53"
+    ]
+  },
+  {
+    "id": "festa-della-noce-2026",
+    "name": {
+      "de": "Festa della Noce",
+      "en": "Festa della Noce",
+      "it": "Festa della Noce"
+    },
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "startTime": null,
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festa della Noce“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festa della Noce” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Festa della Noce” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
   {
