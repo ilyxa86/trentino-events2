@@ -3354,6 +3354,42 @@
     "assetVerified": "2026-08-27"
   },
   {
+    "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-3",
+    "name": {
+      "de": "100 e + anni di turismo nel Garda Trentino",
+      "en": "100 e + anni di turismo nel Garda Trentino",
+      "it": "100 e + anni di turismo nel Garda Trentino"
+    },
+    "startDate": "2026-08-31",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „100 e + anni di turismo nel Garda Trentino“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“100 e + anni di turismo nel Garda Trentino” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “100 e + anni di turismo nel Garda Trentino” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/weather/garda-trentino"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "assetVerified": "2026-08-31"
+  },
+  {
     "id": "laboratorio-creativo-al-malgone-di-candriai-2026",
     "name": {
       "de": "Laboratorio creativo al Malgone di Candriai",
@@ -4448,6 +4484,38 @@
     ]
   },
   {
+    "id": "sagra-della-grotta-2026",
+    "name": {
+      "de": "Sagra della Grotta 2026",
+      "en": "Sagra della Grotta 2026",
+      "it": "Sagra della Grotta 2026"
+    },
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sagra della Grotta 2026“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sagra della Grotta 2026” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Sagra della Grotta 2026” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Sagra-della-Grotta-2026",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-08-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Sagra-della-Grotta-2026"
+    ]
+  },
+  {
     "id": "sfida-le-carte-quarto-torneo-di-burraco-internazionale-al-malgone-di-can-2026",
     "name": {
       "de": "Sfida le carte - Quarto torneo di burraco internazionale al malgone di Candriai",
@@ -4541,6 +4609,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio8"
+    ]
+  },
+  {
+    "id": "80-years-of-l-adige-2026-2",
+    "name": {
+      "de": "80 Years of l’Adige",
+      "en": "80 Years of l’Adige",
+      "it": "80 Years of l’Adige"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "startTime": "18:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „80 Years of l’Adige“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“80 Years of l’Adige” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “80 Years of l’Adige” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -4640,6 +4740,38 @@
     ]
   },
   {
+    "id": "festa-dello-sport-dell-argentario-2026",
+    "name": {
+      "de": "Festa dello sport dell'Argentario",
+      "en": "Festa dello sport dell'Argentario",
+      "it": "Festa dello sport dell'Argentario"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festa dello sport dell'Argentario“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festa dello sport dell'Argentario” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Festa dello sport dell'Argentario” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Festa-dello-sport-dell-Argentario",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-08-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Festa-dello-sport-dell-Argentario"
+    ]
+  },
+  {
     "id": "il-castello-tra-800-e-900-la-caserma-2026",
     "name": {
       "de": "Il Castello tra 800 e 900: la caserma",
@@ -4728,10 +4860,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
     ]
   },
@@ -4825,10 +4958,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
     ]
   },
@@ -4961,6 +5095,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
+    "id": "sagra-di-vezzano-2026-3",
+    "name": {
+      "de": "Sagra di Vezzano",
+      "en": "Sagra di Vezzano",
+      "it": "Sagra di Vezzano"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-12-21",
+    "startTime": "10:00",
+    "municipality": "Vezzano",
+    "area": "Other Trentino",
+    "venue": "Vezzano",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sagra di Vezzano“ in Vezzano. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sagra di Vezzano” event in Vezzano. See the official event page for the latest details.",
+      "it": "Evento “Sagra di Vezzano” a Vezzano. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -6292,6 +6458,38 @@
     ]
   },
   {
+    "id": "emotions-included-2026",
+    "name": {
+      "de": "Emotions Included",
+      "en": "Emotions Included",
+      "it": "Emotions Included"
+    },
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Emotions Included“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Emotions Included” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Emotions Included” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Emotions-Included",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-08-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Emotions-Included"
+    ]
+  },
+  {
     "id": "baseball-2026",
     "name": {
       "de": "Baseball",
@@ -7290,6 +7488,38 @@
     ]
   },
   {
+    "id": "baricentri-identita-urbane-dei-quartieri-2-giugno-e-degasperi-2026-3",
+    "name": {
+      "de": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "en": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "it": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-10-11",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "camminata-delle-teragnole-2026",
     "name": {
       "de": "Camminata delle Teragnóle",
@@ -7577,6 +7807,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=5"
+    ]
+  },
+  {
+    "id": "vandelli-canta-battisti-2026-2",
+    "name": {
+      "de": "Vandelli canta Battisti...",
+      "en": "Vandelli canta Battisti...",
+      "it": "Vandelli canta Battisti..."
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-20",
+    "startTime": "21:00",
+    "municipality": "Torbole",
+    "area": "Alto Garda",
+    "venue": "Torbole",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Vandelli canta Battisti...“ in Torbole. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Vandelli canta Battisti...” event in Torbole. See the official event page for the latest details.",
+      "it": "Evento “Vandelli canta Battisti...” a Torbole. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
     ]
   },
   {
@@ -8242,10 +8504,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6"
     ]
   },
@@ -8372,10 +8635,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6"
     ]
   },
@@ -8404,10 +8668,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
     ],
@@ -8988,10 +9253,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -9020,10 +9286,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -9052,10 +9319,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -9246,10 +9514,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -9540,6 +9809,38 @@
     ]
   },
   {
+    "id": "dal-fucile-alla-matita-2026-2",
+    "name": {
+      "de": "Dal fucile alla matita",
+      "en": "Dal fucile alla matita",
+      "it": "Dal fucile alla matita"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-08-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "festa-del-latte-2026",
     "name": {
       "de": "Festa del Latte",
@@ -9564,10 +9865,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
     ]
   },
@@ -10299,10 +10601,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
     ]
   },
@@ -10358,10 +10661,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
@@ -10906,13 +11210,14 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9",
-      "https://www.gardatrentino.it/en/weather/garda-trentino",
-      "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995"
+      "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995",
+      "https://www.gardatrentino.it/en/weather/garda-trentino"
     ],
     "assetVerified": "2026-08-27",
     "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Garda_Trentino_Half_Marathon_6.jpg",
@@ -11262,11 +11567,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=10"
+      "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
   {
@@ -11900,11 +12206,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=10"
+      "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
   {
@@ -13028,10 +13335,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-29",
+    "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
