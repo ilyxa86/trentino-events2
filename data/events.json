@@ -409,6 +409,40 @@
     "assetVerified": "2026-08-27"
   },
   {
+    "id": "fb-aerovita-l-aeropittura-futurista-e-gianni-caproni-macchina-estet-2026",
+    "name": {
+      "de": "Aerovita – 'L’Aeropittura futurista e Gianni Caproni: macchina, estetica e mito' (mostra)",
+      "en": "Aerovita – 'L’Aeropittura futurista e Gianni Caproni: macchina, estetica e mito' (mostra)",
+      "it": "Aerovita – 'L’Aeropittura futurista e Gianni Caproni: macchina, estetica e mito' (mostra)"
+    },
+    "startDate": "2026-05-31",
+    "endDate": "2027-01-06",
+    "startTime": null,
+    "municipality": "Arco",
+    "area": "Facebook / Local",
+    "venue": "Galleria Civica 'G. Segantini' - Arco",
+    "category": "mostra / cultura",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Ausstellung über Aeropittura futurista e omaggio a Gianni Caproni nella Galleria Civica di Arco.",
+      "en": "Exhibition on Aeropittura (Futurist aviation painting) and a tribute to Gianni Caproni at the Galleria Civica in Arco.",
+      "it": "Mostra sull'aeropittura futurista e omaggio a Gianni Caproni presso la Galleria Civica G. Segantini di Arco."
+    },
+    "organizer": "Galleria Civica 'G. Segantini' / Comune di Arco",
+    "price": "See source",
+    "officialUrl": "https://segantiniearco.it/mostre-eventi/evento-scheda/",
+    "source": "Sei di Arco se…",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://segantiniearco.it/mostre-eventi/evento-scheda/"
+    ],
+    "verified": "2026-08-31",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "official-corroborated"
+  },
+  {
     "id": "adotta-una-mucca-2026",
     "name": {
       "de": "Adotta una mucca",
@@ -11825,6 +11859,43 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso8"
     ]
+  },
+  {
+    "id": "fb-villaggio-del-natale-mercatini-di-natale-di-rovereto-2026",
+    "name": {
+      "de": "Villaggio del Natale / Mercatini di Natale di Rovereto",
+      "en": "Villaggio del Natale / Mercatini di Natale di Rovereto",
+      "it": "Villaggio del Natale / Mercatini di Natale di Rovereto"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2027-01-06",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Facebook / Local",
+    "venue": "centro storico / varie piazze - Rovereto",
+    "category": "mercatino / natalizio / eventi culturali",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Weihnachtsdorf und Märkte in Rovereto - städtische Weihnachtsveranstaltung con mercatini, luminarie e programma culturale.",
+      "en": "Rovereto Christmas Village and markets — city Christmas market program with stalls, lights and cultural events.",
+      "it": "Villaggio del Natale e mercatini a Rovereto: mercatini, luminarie e programmazione culturale nel centro storico."
+    },
+    "organizer": "Consorzio Rovereto In Centro / Comune di Rovereto (organizzazione ufficiale)",
+    "price": "varia / ingresso libero agli spazi; attività a pagamento a parte",
+    "officialUrl": "https://www.natalerovereto.it/",
+    "source": "Se te sei de Rovereto",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://www.natalerovereto.it/"
+    ],
+    "verified": "2026-08-31",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "official-corroborated",
+    "image": "https://static.wixstatic.com/media/5a7a1d_25143abc22004ea194906b55fa64b4ab%7Emv2.png/v1/fit/w_2500,h_1330,al_c/5a7a1d_25143abc22004ea194906b55fa64b4ab%7Emv2.png",
+    "imageSourceUrl": "https://www.natalerovereto.it",
+    "assetVerified": "2026-08-31"
   },
   {
     "id": "alla-scoperta-di-trento-2026-13",

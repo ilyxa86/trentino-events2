@@ -1,4 +1,47 @@
 {
-  "generatedAt": "2026-08-27T09:43:09.954668Z",
-  "records": []
+  "generatedAt": "2026-08-31T10:47:57.510236Z",
+  "records": [
+    {
+      "facebookSourceId": "fb_se_te_sei_de_rovereto",
+      "name": "Villaggio del Natale / Mercatini di Natale di Rovereto",
+      "startDate": "2026-11-20",
+      "endDate": "2027-01-06",
+      "startTime": null,
+      "municipality": "Rovereto",
+      "venue": "centro storico / varie piazze - Rovereto",
+      "category": "mercatino / natalizio / eventi culturali",
+      "descriptionDe": "Weihnachtsdorf und Märkte in Rovereto - städtische Weihnachtsveranstaltung con mercatini, luminarie e programma culturale.",
+      "descriptionEn": "Rovereto Christmas Village and markets — city Christmas market program with stalls, lights and cultural events.",
+      "descriptionIt": "Villaggio del Natale e mercatini a Rovereto: mercatini, luminarie e programmazione culturale nel centro storico.",
+      "organizer": "Consorzio Rovereto In Centro / Comune di Rovereto (organizzazione ufficiale)",
+      "price": "varia / ingresso libero agli spazi; attività a pagamento a parte",
+      "publicUrl": "https://www.natalerovereto.it/",
+      "imageUrl": null,
+      "announcementDate": null,
+      "confirmed": true,
+      "confidence": "official-corroborated",
+      "facebookSourceName": "Se te sei de Rovereto"
+    },
+    {
+      "facebookSourceId": "fb_sei_di_arco_se",
+      "name": "Aerovita – 'L’Aeropittura futurista e Gianni Caproni: macchina, estetica e mito' (mostra)",
+      "startDate": "2026-05-31",
+      "endDate": "2027-01-06",
+      "startTime": null,
+      "municipality": "Arco",
+      "venue": "Galleria Civica 'G. Segantini' - Arco",
+      "category": "mostra / cultura",
+      "descriptionDe": "Ausstellung über Aeropittura futurista e omaggio a Gianni Caproni nella Galleria Civica di Arco.",
+      "descriptionEn": "Exhibition on Aeropittura (Futurist aviation painting) and a tribute to Gianni Caproni at the Galleria Civica in Arco.",
+      "descriptionIt": "Mostra sull'aeropittura futurista e omaggio a Gianni Caproni presso la Galleria Civica G. Segantini di Arco.",
+      "organizer": "Galleria Civica 'G. Segantini' / Comune di Arco",
+      "price": null,
+      "publicUrl": "https://segantiniearco.it/mostre-eventi/evento-scheda/",
+      "imageUrl": null,
+      "announcementDate": null,
+      "confirmed": true,
+      "confidence": "official-corroborated",
+      "facebookSourceName": "Sei di Arco se…"
+    }
+  ]
 }

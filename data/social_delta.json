@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-08-27T09:43:09.976755Z",
+  "generatedAt": "2026-08-31T10:47:57.534281Z",
   "newFacebookEvents": [],
-  "facebookBackfills": []
+  "facebookBackfills": [
+    {
+      "id": "fb-aerovita-l-aeropittura-futurista-e-gianni-caproni-macchina-estet-2026",
+      "name": "Aerovita – 'L’Aeropittura futurista e Gianni Caproni: macchina, estetica e mito' (mostra)",
+      "date": "2026-05-31",
+      "municipality": "Arco"
+    },
+    {
+      "id": "fb-villaggio-del-natale-mercatini-di-natale-di-rovereto-2026",
+      "name": "Villaggio del Natale / Mercatini di Natale di Rovereto",
+      "date": "2026-11-20",
+      "municipality": "Rovereto"
+    }
+  ]
 }
