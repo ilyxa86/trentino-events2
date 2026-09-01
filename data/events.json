@@ -4058,11 +4058,12 @@
     "price": "See official page",
     "officialUrl": "https://www.visitrovereto.it/vivi/eventi/uva-e-dintorni/",
     "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-08-26",
+    "verified": "2026-09-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "image": "https://www.visitrovereto.it/wp-content/uploads/2015/05/uva-e-dintorni-2021-foto-tommaso-prugnola-WEB-1-7.jpg",
     "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/uva-e-dintorni",
       "https://www.visitrovereto.it/vivi/eventi/uva-e-dintorni/"
     ]
   },
@@ -6588,6 +6589,38 @@
     ]
   },
   {
+    "id": "silent-reading-party-2026",
+    "name": {
+      "de": "Silent Reading Party",
+      "en": "Silent Reading Party",
+      "it": "Silent Reading Party"
+    },
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Silent Reading Party“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Silent Reading Party” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Silent Reading Party” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Silent-Reading-Party3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-01",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Silent-Reading-Party3"
+    ]
+  },
+  {
     "id": "spettacolo-il-cantico-delle-donne-anteprima-nazionale-2026",
     "name": {
       "de": "Spettacolo ''Il Cantico delle Donne'' Anteprima nazionale",
@@ -7675,10 +7708,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
   },
@@ -7803,10 +7837,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-28",
+    "verified": "2026-09-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6"
     ]
@@ -7836,10 +7871,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
   },
@@ -8055,10 +8091,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-29",
+    "verified": "2026-09-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
@@ -8771,10 +8808,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6"
     ]
   },
@@ -9362,6 +9400,38 @@
     ]
   },
   {
+    "id": "festa-della-zucca-e-degli-ortaggi-invernali-2026-2",
+    "name": {
+      "de": "Festa della Zucca e degli Ortaggi Invernali",
+      "en": "Festa della Zucca e degli Ortaggi Invernali",
+      "it": "Festa della Zucca e degli Ortaggi Invernali"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Lasino",
+    "area": "Other Trentino",
+    "venue": "Lasino",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festa della Zucca e degli Ortaggi Invernali“ in Lasino. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festa della Zucca e degli Ortaggi Invernali” event in Lasino. See the official event page for the latest details.",
+      "it": "Evento “Festa della Zucca e degli Ortaggi Invernali” a Lasino. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-01",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6"
+    ]
+  },
+  {
     "id": "fiera-di-san-francesco-2026-2",
     "name": {
       "de": "Fiera di San Francesco",
@@ -9386,10 +9456,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -9875,6 +9946,38 @@
     ]
   },
   {
+    "id": "dal-fucile-alla-matita-2026-3",
+    "name": {
+      "de": "Dal fucile alla matita",
+      "en": "Dal fucile alla matita",
+      "it": "Dal fucile alla matita"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-12-23",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-01",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "festa-del-latte-2026",
     "name": {
       "de": "Festa del Latte",
@@ -9964,10 +10067,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -11212,10 +11316,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
