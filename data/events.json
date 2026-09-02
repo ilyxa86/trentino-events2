@@ -4132,6 +4132,38 @@
     ]
   },
   {
+    "id": "bocce-senza-confini-evento-annullato-2026-2",
+    "name": {
+      "de": "Bocce senza confini - Evento annullato",
+      "en": "Bocce senza confini - Evento annullato",
+      "it": "Bocce senza confini - Evento annullato"
+    },
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Bocce senza confini - Evento annullato“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Bocce senza confini - Evento annullato” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Bocce senza confini - Evento annullato” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Bocce-senza-confini-Evento-annullato2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Bocce-senza-confini-Evento-annullato2"
+    ]
+  },
+  {
     "id": "buio-2026",
     "name": {
       "de": "BUIO",
@@ -4895,10 +4927,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
     ]
@@ -4993,10 +5026,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
     ]
@@ -5359,6 +5393,38 @@
     ]
   },
   {
+    "id": "tra-vita-e-musica-di-un-liutaio-di-montagna-incontro-con-nicola-segatta-2026",
+    "name": {
+      "de": "Tra vita e musica di un liutaio di montagna – Incontro con Nicola Segatta, autore del libro “Di suoni, di legni e di tempeste”",
+      "en": "Tra vita e musica di un liutaio di montagna – Incontro con Nicola Segatta, autore del libro “Di suoni, di legni e di tempeste”",
+      "it": "Tra vita e musica di un liutaio di montagna – Incontro con Nicola Segatta, autore del libro “Di suoni, di legni e di tempeste”"
+    },
+    "startDate": "2026-09-08",
+    "endDate": "2026-09-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Agriculture & Tradition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Tra vita e musica di un liutaio di montagna – Incontro con Nicola Segatta, autore del libro “Di suoni, di legni e di tempeste”“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Tra vita e musica di un liutaio di montagna – Incontro con Nicola Segatta, autore del libro “Di suoni, di legni e di tempeste”” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Tra vita e musica di un liutaio di montagna – Incontro con Nicola Segatta, autore del libro “Di suoni, di legni e di tempeste”” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Tra-vita-e-musica-di-un-liutaio-di-montagna-Incontro-con-Nicola-Segatta-autore-del-libro-Di-suoni-di-legni-e-di-tempeste",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Tra-vita-e-musica-di-un-liutaio-di-montagna-Incontro-con-Nicola-Segatta-autore-del-libro-Di-suoni-di-legni-e-di-tempeste"
+    ]
+  },
+  {
     "id": "festival-orme-2026",
     "name": {
       "de": "Festival Orme",
@@ -5581,6 +5647,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale49"
+    ]
+  },
+  {
+    "id": "poplar-festival-2026",
+    "name": {
+      "de": "Poplar Festival 2026",
+      "en": "Poplar Festival 2026",
+      "it": "Poplar Festival 2026"
+    },
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Poplar Festival 2026“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Poplar Festival 2026” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Poplar Festival 2026” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Poplar-Festival-2026",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Poplar-Festival-2026"
     ]
   },
   {
@@ -8165,6 +8263,38 @@
     ]
   },
   {
+    "id": "festa-della-biblioteca-2026",
+    "name": {
+      "de": "Festa della biblioteca",
+      "en": "Festa della biblioteca",
+      "it": "Festa della biblioteca"
+    },
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festa della biblioteca“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festa della biblioteca” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Festa della biblioteca” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Festa-della-biblioteca",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Festa-della-biblioteca"
+    ]
+  },
+  {
     "id": "parchi-per-crescere-2026-10",
     "name": {
       "de": "Parchi per crescere",
@@ -8849,6 +8979,38 @@
     ]
   },
   {
+    "id": "80-years-of-l-adige-2026-3",
+    "name": {
+      "de": "80 Years of l’Adige",
+      "en": "80 Years of l’Adige",
+      "it": "80 Years of l’Adige"
+    },
+    "startDate": "2026-09-30",
+    "endDate": "2026-09-30",
+    "startTime": "18:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Markets & Shopping",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „80 Years of l’Adige“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“80 Years of l’Adige” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “80 Years of l’Adige” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-5",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -8905,10 +9067,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-28",
+    "verified": "2026-09-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
@@ -9235,6 +9398,38 @@
     ]
   },
   {
+    "id": "coderdojo-crea-il-tuo-videogioco-2026",
+    "name": {
+      "de": "Coderdojo - Crea il tuo videogioco!",
+      "en": "Coderdojo - Crea il tuo videogioco!",
+      "it": "Coderdojo - Crea il tuo videogioco!"
+    },
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Coderdojo - Crea il tuo videogioco!“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Coderdojo - Crea il tuo videogioco!” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Coderdojo - Crea il tuo videogioco!” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Coderdojo-Crea-il-tuo-videogioco5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Coderdojo-Crea-il-tuo-videogioco5"
+    ]
+  },
+  {
     "id": "incontrarti-2026",
     "name": {
       "de": "IncontrArti",
@@ -9489,10 +9684,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -9553,10 +9749,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -9816,6 +10013,38 @@
     ]
   },
   {
+    "id": "letture-in-cinese-2026",
+    "name": {
+      "de": "Letture in cinese",
+      "en": "Letture in cinese",
+      "it": "Letture in cinese"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Letture in cinese“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Letture in cinese” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Letture in cinese” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Letture-in-cinese6",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Letture-in-cinese6"
+    ]
+  },
+  {
     "id": "mercatino-dei-gaudenti-di-piazza-garzetti-2026-2",
     "name": {
       "de": "Mercatino dei Gaudenti di piazza Garzetti",
@@ -10035,10 +10264,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -10417,10 +10647,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
     ]
   },
@@ -10739,10 +10970,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
     ]
@@ -11191,6 +11423,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento21"
+    ]
+  },
+  {
+    "id": "coderdojo-crea-il-tuo-videogioco-2026-2",
+    "name": {
+      "de": "Coderdojo - Crea il tuo videogioco!",
+      "en": "Coderdojo - Crea il tuo videogioco!",
+      "it": "Coderdojo - Crea il tuo videogioco!"
+    },
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Coderdojo - Crea il tuo videogioco!“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Coderdojo - Crea il tuo videogioco!” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Coderdojo - Crea il tuo videogioco!” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Coderdojo-Crea-il-tuo-videogioco6",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Coderdojo-Crea-il-tuo-videogioco6"
     ]
   },
   {
@@ -12035,6 +12299,38 @@
     ]
   },
   {
+    "id": "letture-in-cinese-2026-2",
+    "name": {
+      "de": "Letture in cinese",
+      "en": "Letture in cinese",
+      "it": "Letture in cinese"
+    },
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Letture in cinese“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Letture in cinese” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Letture in cinese” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Letture-in-cinese7",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Letture-in-cinese7"
+    ]
+  },
+  {
     "id": "mercato-contadino-di-piazza-dante-2026-13",
     "name": {
       "de": "Mercato contadino di piazza Dante",
@@ -12807,6 +13103,70 @@
     ]
   },
   {
+    "id": "coderdojo-crea-il-tuo-videogioco-2026-3",
+    "name": {
+      "de": "Coderdojo - Crea il tuo videogioco!",
+      "en": "Coderdojo - Crea il tuo videogioco!",
+      "it": "Coderdojo - Crea il tuo videogioco!"
+    },
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Coderdojo - Crea il tuo videogioco!“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Coderdojo - Crea il tuo videogioco!” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Coderdojo - Crea il tuo videogioco!” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Coderdojo-Crea-il-tuo-videogioco7",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Coderdojo-Crea-il-tuo-videogioco7"
+    ]
+  },
+  {
+    "id": "letture-in-cinese-2026-3",
+    "name": {
+      "de": "Letture in cinese",
+      "en": "Letture in cinese",
+      "it": "Letture in cinese"
+    },
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Letture in cinese“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Letture in cinese” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Letture in cinese” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Letture-in-cinese8",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Letture-in-cinese8"
+    ]
+  },
+  {
     "id": "mercatino-dei-gaudenti-di-piazza-garzetti-2026-4",
     "name": {
       "de": "Mercatino dei Gaudenti di piazza Garzetti",
@@ -13377,11 +13737,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=10"
+      "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
   {
@@ -13517,6 +13878,38 @@
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
+    "id": "flea-market-in-torbole-sul-garda-2026",
+    "name": {
+      "de": "Flea market in Torbole sul Garda",
+      "en": "Flea market in Torbole sul Garda",
+      "it": "Flea market in Torbole sul Garda"
+    },
+    "startDate": "2026-12-31",
+    "endDate": "2026-12-31",
+    "startTime": "17:00",
+    "municipality": "Torbole",
+    "area": "Alto Garda",
+    "venue": "Torbole",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Flea market in Torbole sul Garda“ in Torbole. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Flea market in Torbole sul Garda” event in Torbole. See the official event page for the latest details.",
+      "it": "Evento “Flea market in Torbole sul Garda” a Torbole. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
