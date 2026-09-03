@@ -5103,6 +5103,38 @@
     ]
   },
   {
+    "id": "sagra-della-grotta-2026-2",
+    "name": {
+      "de": "Sagra della Grotta 2026",
+      "en": "Sagra della Grotta 2026",
+      "it": "Sagra della Grotta 2026"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sagra della Grotta 2026“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sagra della Grotta 2026” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Sagra della Grotta 2026” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Sagra-della-Grotta-20262",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Sagra-della-Grotta-20262"
+    ]
+  },
+  {
     "id": "sagra-di-vezzano-2026",
     "name": {
       "de": "Sagra di Vezzano",
@@ -5584,6 +5616,41 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/The-Choreography-of-Water"
     ]
+  },
+  {
+    "id": "festival-trento-musicaantica-2026",
+    "name": {
+      "de": "Festival Trento MusicaAntica 2026",
+      "en": "Festival Trento MusicaAntica 2026",
+      "it": "Festival Trento MusicaAntica 2026"
+    },
+    "startDate": "2026-09-10",
+    "endDate": "2026-11-28",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festival Trento MusicaAntica 2026“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festival Trento MusicaAntica 2026” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Festival Trento MusicaAntica 2026” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Festival-Trento-MusicaAntica-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-09-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Festival-Trento-MusicaAntica-2026"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/castello-del-buonconsiglio-tdallatina-1-1/28109460-1-ita-IT/Castello-del-Buonconsiglio-tdallatina-1-1_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Festival-Trento-MusicaAntica-2026",
+    "assetVerified": "2026-09-03"
   },
   {
     "id": "mercato-del-giovedi-2026-3",
@@ -6415,10 +6482,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-28",
+    "verified": "2026-09-03",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
@@ -6448,10 +6516,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-03",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
     ]
   },
@@ -6512,10 +6581,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/it/eventi/mercato-settimanale-riva-del-garda_3475",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-03",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
       "https://www.gardatrentino.it/it/eventi/mercato-settimanale-riva-del-garda_3475"
@@ -7774,10 +7844,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-03",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
   },
@@ -8040,6 +8111,41 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Parchi-per-crescere21"
     ]
+  },
+  {
+    "id": "viva-2026",
+    "name": {
+      "de": "VIVA!",
+      "en": "VIVA!",
+      "it": "VIVA!"
+    },
+    "startDate": "2026-09-22",
+    "endDate": "2026-12-11",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „VIVA!“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“VIVA!” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “VIVA!” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/VIVA",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-09-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/VIVA"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/viva!-banner/28110577-1-ita-IT/Viva!-banner_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/VIVA",
+    "assetVerified": "2026-09-03"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-4",

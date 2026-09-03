@@ -1,28 +1,28 @@
 {
   "protocolVersion": 5,
-  "lastRun": "2026-09-02T08:05:56Z",
+  "lastRun": "2026-09-03T08:13:45Z",
   "overallStatus": "PARTIAL",
   "sources": {
     "visittrentino_all_events": {
       "priority": "P0",
-      "lastScan": "2026-09-02T07:51:46Z",
+      "lastScan": "2026-09-03T07:59:52Z",
       "status": "PARTIAL",
-      "reportedTotal": 882,
-      "recordsSeen": 1342,
-      "uniqueCandidates": 1358,
+      "reportedTotal": 867,
+      "recordsSeen": 1311,
+      "uniqueCandidates": 1327,
       "pagesOrBucketsScanned": [
         "https://www.visittrentino.info/it/guida/cosa-fare/eventi"
       ],
       "attachmentsScanned": [],
       "errors": [],
       "notes": [
-        "sitemaps=160, matchingEventUrls=1342",
-        "Live index reports 882; sitemap exposes 1342 event URLs. AI/date filtering must reconcile the live 12-month set."
+        "sitemaps=160, matchingEventUrls=1311",
+        "Live index reports 867; sitemap exposes 1311 event URLs. AI/date filtering must reconcile the live 12-month set."
       ]
     },
     "visitrovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-09-02T07:52:33Z",
+      "lastScan": "2026-09-03T08:00:43Z",
       "status": "COMPLETE",
       "reportedTotal": null,
       "recordsSeen": 105,
@@ -47,7 +47,7 @@
     },
     "visitrovereto_estate": {
       "priority": "P0",
-      "lastScan": "2026-09-02T07:52:51Z",
+      "lastScan": "2026-09-03T08:01:01Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 26,
@@ -70,7 +70,7 @@
     },
     "comune_rovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-09-02T07:52:54Z",
+      "lastScan": "2026-09-03T08:01:05Z",
       "status": "PARTIAL",
       "reportedTotal": 4601,
       "recordsSeen": 0,
@@ -317,7 +317,7 @@
     },
     "trentino_cultura_appuntamenti": {
       "priority": "P0",
-      "lastScan": "2026-09-02T08:00:28Z",
+      "lastScan": "2026-09-03T08:08:51Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -336,11 +336,11 @@
     },
     "trentino_cultura_rassegne": {
       "priority": "P0",
-      "lastScan": "2026-09-02T08:00:31Z",
+      "lastScan": "2026-09-03T08:08:54Z",
       "status": "PARTIAL",
       "reportedTotal": null,
-      "recordsSeen": 637,
-      "uniqueCandidates": 698,
+      "recordsSeen": 545,
+      "uniqueCandidates": 599,
       "pagesOrBucketsScanned": [
         "https://www.cultura.trentino.it/Rassegne",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12",
@@ -362,6 +362,10 @@
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/204",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/216",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/228",
+        "https://www.cultura.trentino.it/Rassegne/VIVA#children",
+        "https://www.cultura.trentino.it/Rassegne/VIVA#children",
+        "https://www.cultura.trentino.it/Rassegne/Festival-Trento-MusicaAntica-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Festival-Trento-MusicaAntica-2026#children",
         "https://www.cultura.trentino.it/Rassegne/80-Anniversario-dell-Autonomia-Trentina-1946-2026#children",
         "https://www.cultura.trentino.it/Rassegne/80-Anniversario-dell-Autonomia-Trentina-1946-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Sentinelle-di-pietra-2026#children",
@@ -372,56 +376,37 @@
         "https://www.cultura.trentino.it/Rassegne/Scappo-a-Teatro-SCUOLE-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027#children",
-        "https://www.cultura.trentino.it/Rassegne/Dall-Alaska-alla-Patagonia-passando-dalle-pareti-d-arrampicata#children",
-        "https://www.cultura.trentino.it/Rassegne/Dall-Alaska-alla-Patagonia-passando-dalle-pareti-d-arrampicata#children",
-        "https://www.cultura.trentino.it/Rassegne/Smarano-Academy-Festival-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Smarano-Academy-Festival-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Pine-Musica-Festival-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Pine-Musica-Festival-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Musica-Reservata-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Musica-Reservata-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Dolomitincontri-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Dolomitincontri-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Omaggio-all-Arte-pianistica-di-Arturo-Benedetti-Michelangeli#children",
-        "https://www.cultura.trentino.it/Rassegne/Omaggio-all-Arte-pianistica-di-Arturo-Benedetti-Michelangeli#children",
         "https://www.cultura.trentino.it/Rassegne/Haydn-Stagione-d-Opera-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Haydn-Stagione-d-Opera-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Trentino-d-Autore-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Trentino-d-Autore-2026#children",
         "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni#children",
         "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni#children",
-        "https://www.cultura.trentino.it/Rassegne/Montagna-Salvatica-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Montagna-Salvatica-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Festival-Orme#children",
         "https://www.cultura.trentino.it/Rassegne/Festival-Orme#children",
-        "https://www.cultura.trentino.it/Rassegne/Haydn-s-Summer-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Haydn-s-Summer-2026#children",
         "https://www.cultura.trentino.it/Rassegne/C-SC-Circuito-Danza-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/C-SC-Circuito-Danza-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Musica-Natura-Relazioni-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Musica-Natura-Relazioni-2026#children",
         "https://www.cultura.trentino.it/Rassegne/IT.A.CA#children",
         "https://www.cultura.trentino.it/Rassegne/IT.A.CA#children",
+        "https://www.cultura.trentino.it/Rassegne/diCASTELinCASTELLO-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/diCASTELinCASTELLO-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Il-coraggio-di-scegliere#children",
+        "https://www.cultura.trentino.it/Rassegne/Il-coraggio-di-scegliere#children",
+        "https://www.cultura.trentino.it/Rassegne/Cavareno-Incontra-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Cavareno-Incontra-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Teatro-Capovolto-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Teatro-Capovolto-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Argilla-in-gioco#children",
+        "https://www.cultura.trentino.it/Rassegne/Argilla-in-gioco#children",
+        "https://www.cultura.trentino.it/Rassegne/Alpitudini-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Alpitudini-2026#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/20#children",
-        "https://www.cultura.trentino.it/Rassegne/(offset)/40#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/20#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12#children",
-        "https://www.cultura.trentino.it/Rassegne/diCASTELinCASTELLO-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/diCASTELinCASTELLO-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Il-coraggio-di-scegliere#children",
-        "https://www.cultura.trentino.it/Rassegne/Il-coraggio-di-scegliere#children",
-        "https://www.cultura.trentino.it/Rassegne/Cavareno-Incontra-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Cavareno-Incontra-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Teatro-Capovolto-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Teatro-Capovolto-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Argilla-in-gioco#children",
-        "https://www.cultura.trentino.it/Rassegne/Argilla-in-gioco#children",
-        "https://www.cultura.trentino.it/Rassegne/Alpitudini-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Alpitudini-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Archeologia-estate-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Archeologia-estate-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Un-estate-spettacolare-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Un-estate-spettacolare-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Cultura-in-rete-2026-storie-luoghi-e-comunita-in-connessione#children",
         "https://www.cultura.trentino.it/Rassegne/Cultura-in-rete-2026-storie-luoghi-e-comunita-in-connessione#children",
         "https://www.cultura.trentino.it/Rassegne/Vivere-il-Parco-2026#children",
@@ -430,22 +415,22 @@
         "https://www.cultura.trentino.it/Rassegne/Teatro-Sociale-di-Trento-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Il-Tempo-di-un-Dialogo#children",
         "https://www.cultura.trentino.it/Rassegne/Il-Tempo-di-un-Dialogo#children",
+        "https://www.cultura.trentino.it/Rassegne/I-Suoni-delle-Dolomiti-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/I-Suoni-delle-Dolomiti-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Casa-Raphael-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Casa-Raphael-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Festival-Organistico-Internazionale-Citta-di-Trento-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Festival-Organistico-Internazionale-Citta-di-Trento-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Giovani-talenti-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Giovani-talenti-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Piu-Piano-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Piu-Piano-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/I-colori-di-Tridentum#children",
+        "https://www.cultura.trentino.it/Rassegne/I-colori-di-Tridentum#children",
+        "https://www.cultura.trentino.it/Rassegne/Tech-Tales#children",
+        "https://www.cultura.trentino.it/Rassegne/Tech-Tales#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/24#children",
-        "https://www.cultura.trentino.it/Rassegne/I-Suoni-delle-Dolomiti-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/I-Suoni-delle-Dolomiti-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Casa-Raphael-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Casa-Raphael-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Festival-Organistico-Internazionale-Citta-di-Trento-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Festival-Organistico-Internazionale-Citta-di-Trento-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Giovani-talenti-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Giovani-talenti-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Piu-Piano-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Piu-Piano-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/I-colori-di-Tridentum#children",
-        "https://www.cultura.trentino.it/Rassegne/I-colori-di-Tridentum#children",
-        "https://www.cultura.trentino.it/Rassegne/Tech-Tales#children",
-        "https://www.cultura.trentino.it/Rassegne/Tech-Tales#children",
         "https://www.cultura.trentino.it/Rassegne/Scuola-d-ascolto-della-musica-organistica-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Scuola-d-ascolto-della-musica-organistica-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Fondazione-Filarmonica-Trento-Stagione-dei-Concerti-2026#children",
@@ -492,14 +477,6 @@
           "inspection": "AI_review_required"
         },
         {
-          "url": "https://www.smaranoacademy.com/wp-content/uploads/2026/07/Flyer-2026.pdf",
-          "inspection": "AI_review_required"
-        },
-        {
-          "url": "https://www.sanmartino.com/sanmartino/documenti-files/brochures/cataloghi/programma-dolomitincontri-2026.pdf",
-          "inspection": "AI_review_required"
-        },
-        {
           "url": "https://www.cultura.trentino.it/content/download/740109/28020931/file/ARCHEOLOGIA ESTATE 2026_web.pdf",
           "inspection": "AI_review_required"
         },
@@ -515,12 +492,12 @@
       "errors": [],
       "notes": [
         "Series PDF attachments require AI semantic inspection before completeness can be asserted.",
-        "activeSeries=62 linkedProgrammeEvents=575"
+        "activeSeries=54 linkedProgrammeEvents=491"
       ]
     },
     "garda_trentino_events": {
       "priority": "P0",
-      "lastScan": "2026-09-02T08:03:29Z",
+      "lastScan": "2026-09-03T08:11:11Z",
       "status": "COMPLETE",
       "reportedTotal": 82,
       "recordsSeen": 82,
@@ -543,11 +520,11 @@
     },
     "comune_trento_events": {
       "priority": "P0",
-      "lastScan": "2026-09-02T08:03:35Z",
+      "lastScan": "2026-09-03T08:11:19Z",
       "status": "PARTIAL",
-      "reportedTotal": 3010,
-      "recordsSeen": 2677,
-      "uniqueCandidates": 2677,
+      "reportedTotal": 3011,
+      "recordsSeen": 2678,
+      "uniqueCandidates": 2678,
       "pagesOrBucketsScanned": [
         "https://eventi.comune.trento.it/content/search/?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/20?Order=desc",
@@ -705,12 +682,12 @@
       "errors": [],
       "notes": [
         "sitemaps=2, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=3010 uniqueEventUrls=2677 searchPages=151/151"
+        "OpenAgenda reconciliation: reported=3011 uniqueEventUrls=2678 searchPages=151/151"
       ]
     },
     "visitfiemme_events": {
       "priority": "P1",
-      "lastScan": "2026-09-02T08:05:41Z",
+      "lastScan": "2026-09-03T08:13:31Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -726,7 +703,7 @@
     },
     "valsugana_events": {
       "priority": "P1",
-      "lastScan": "2026-09-02T08:05:43Z",
+      "lastScan": "2026-09-03T08:13:33Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -742,7 +719,7 @@
     },
     "val_di_non_events": {
       "priority": "P1",
-      "lastScan": "2026-09-02T08:05:46Z",
+      "lastScan": "2026-09-03T08:13:35Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 7,
@@ -758,7 +735,7 @@
     },
     "campiglio_rendena_events": {
       "priority": "P1",
-      "lastScan": "2026-09-02T08:05:51Z",
+      "lastScan": "2026-09-03T08:13:41Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -774,7 +751,7 @@
     },
     "alpe_cimbra_events": {
       "priority": "P1",
-      "lastScan": "2026-09-02T08:05:54Z",
+      "lastScan": "2026-09-03T08:13:43Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 6,
@@ -790,7 +767,7 @@
     }
   },
   "coverageWindow": {
-    "from": "2026-09-02",
+    "from": "2026-09-03",
     "semantics": "rolling-12-month-overlap; raw enumerator may include out-of-window rows for AI resolution"
   },
   "p0Status": {
@@ -804,7 +781,7 @@
     "comune_trento_events": "PARTIAL"
   },
   "summary": {
-    "rawCandidates": 5011
+    "rawCandidates": 4882
   },
   "note": "Deterministic enumeration feeds the AI maintenance pass. PARTIAL means the system must not claim complete coverage."
 }
