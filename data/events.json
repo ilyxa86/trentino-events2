@@ -5223,10 +5223,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
@@ -6593,6 +6594,38 @@
     "assetVerified": "2026-08-27",
     "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Shopping/2021_GARDADOLOMITI-ph-WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_SHOPPING_torre.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/it/eventi/mercato-settimanale-riva-del-garda_3475"
+  },
+  {
+    "id": "terlago-sport-festival-2026",
+    "name": {
+      "de": "Terlago Sport Festival",
+      "en": "Terlago Sport Festival",
+      "it": "Terlago Sport Festival"
+    },
+    "startDate": "2026-09-13",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Tenno",
+    "area": "Alto Garda",
+    "venue": "Tenno",
+    "category": "Markets & Shopping",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Terlago Sport Festival“ in Tenno. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Terlago Sport Festival” event in Tenno. See the official event page for the latest details.",
+      "it": "Evento “Terlago Sport Festival” a Tenno. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-04",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
   },
   {
     "id": "trentino-bike-experience-2026",
@@ -8016,6 +8049,38 @@
     ]
   },
   {
+    "id": "trento-in-bici-2026",
+    "name": {
+      "de": "Trento in bici",
+      "en": "Trento in bici",
+      "it": "Trento in bici"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-20",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Trento in bici“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Trento in bici” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Trento in bici” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Trento-in-bici",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-04",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Trento-in-bici"
+    ]
+  },
+  {
     "id": "valledeilaghi-book-festival-2026",
     "name": {
       "de": "Valledeilaghi Book Festival",
@@ -9017,6 +9082,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
+    "id": "trentino-gravel-2026",
+    "name": {
+      "de": "Trentino Gravel",
+      "en": "Trentino Gravel",
+      "it": "Trentino Gravel"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Trentino Gravel“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Trentino Gravel” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Trentino Gravel” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-04",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
   },
   {
@@ -10305,11 +10402,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-01",
+    "verified": "2026-09-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -13876,10 +13974,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/it/eventi/mercato-contadino-riva-del-garda_3479",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-29",
+    "verified": "2026-09-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/towns-villages/riva-del-garda",

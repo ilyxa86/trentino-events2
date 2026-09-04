@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T08:13:46Z",
+  "generatedAt": "2026-09-04T08:11:39Z",
   "records": [
     {
       "sourceId": "alpe_cimbra_events",
@@ -103,13 +103,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2240?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2220?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi25",
       "title": "Mercato contadino di via Fabio Filzi",
       "rawText": "Evento Mercato contadino di via Fabio Filzi 26 Novembre 2025 Il mercato offre una vasta gamma di prodotti genuini del territorio trentino: ortofrutta, produzioni zootecniche, prodotti freschi e trasformati e prodotti biologici.",
       "image": "",
       "candidateKey": "006c40e6cb5ccf0799b458cf",
-      "candidateSignature": "9cd43e7673dd245de822e47f"
+      "candidateSignature": "df3391861fdb75eaa25e3a64"
     },
     {
       "sourceId": "comune_trento_events",
@@ -389,13 +389,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2760?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2740?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Follemente-regia-di-Paolo-Genovese",
       "title": "Follemente, regia di Paolo Genovese",
       "rawText": "Evento Follemente, regia di Paolo Genovese 23 Luglio 2025 Film dal titolo &quot;Follemente&quot;, regia di Paolo Genovese",
       "image": "",
       "candidateKey": "025f3bdf31e1f383419dfd31",
-      "candidateSignature": "4bda18dd82f338dc6ac46a55"
+      "candidateSignature": "6df9aea9a978b2faf71f8845"
     },
     {
       "sourceId": "comune_trento_events",
@@ -708,13 +708,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2140?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2120?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Viote-MACROtour4",
       "title": "Viote MACROtour",
       "rawText": "Evento Viote MACROtour 1 Agosto 2025 Escursione",
       "image": "",
       "candidateKey": "053e999470f8119f50b4201e",
-      "candidateSignature": "5ae6d050a0f6566c8d80a2c0"
+      "candidateSignature": "3a755a38e2269f2110774cda"
     },
     {
       "sourceId": "comune_trento_events",
@@ -840,13 +840,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2940?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2920?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Vieni-a-provare-il-softball3",
       "title": "Vieni a provare il softball",
       "rawText": "Evento Vieni a provare il softball 26 Giugno 2025 con Sport Senza Frontiere Trentino aps asd",
       "image": "",
       "candidateKey": "065539d25e35d3b93ac3212a",
-      "candidateSignature": "2818eec57cfc32e9d3d6587a"
+      "candidateSignature": "c61359e8d686874c329aa3fc"
     },
     {
       "sourceId": "comune_trento_events",
@@ -1071,13 +1071,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2940?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2920?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Kung-Fu-Qwan-Ki-Do",
       "title": "Kung Fu - Qwan Ki Do",
       "rawText": "Evento Kung Fu - Qwan Ki Do 9 Giugno 2025 con l'A.P.D. Rèn",
       "image": "",
       "candidateKey": "096e83156f1ad472e64f4384",
-      "candidateSignature": "cca7652e7662695da306d976"
+      "candidateSignature": "0aed00d3192575bcd3d22122"
     },
     {
       "sourceId": "comune_trento_events",
@@ -1346,13 +1346,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2160?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2140?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Tramonti-in-terrazza4",
       "title": "Tramonti in terrazza",
       "rawText": "Evento Tramonti in terrazza 19 Settembre 2025 Apericena... a spasso per l'Italia",
       "image": "",
       "candidateKey": "0c1a55255eae6a79ddec36b3",
-      "candidateSignature": "9483a4d30bbdf42a2c761d2a"
+      "candidateSignature": "b87ff2bea0b375182599a3ad"
     },
     {
       "sourceId": "comune_trento_events",
@@ -1379,24 +1379,24 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2440?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2420?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Cinema-sotto-le-stelle.-Orgoglio-e-pregiudizio",
       "title": "Cinema sotto le stelle. Orgoglio e pregiudizio",
       "rawText": "Evento Cinema sotto le stelle. Orgoglio e pregiudizio 25 Luglio 2025 La magia del cinema sotto le stelle nella suggestiva cornice del Castello del Buonconsiglio.",
       "image": "",
       "candidateKey": "0c2ad9abbec576c77cdf69a4",
-      "candidateSignature": "f1600bb5a0e56e4aebd05387"
+      "candidateSignature": "a1d4351fc9199a71b003b169"
     },
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2540?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2520?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle6",
       "title": "A tu per tu con le stelle",
       "rawText": "Evento A tu per tu con le stelle 11 Luglio 2025 Incontro scientifico",
       "image": "",
       "candidateKey": "0c3e131c6e9cdbd57ec164c0",
-      "candidateSignature": "4eeef1a6d483dd335d8d4e74"
+      "candidateSignature": "e1267cd0cc432a0dc113f73a"
     },
     {
       "sourceId": "comune_trento_events",
@@ -1896,13 +1896,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2580?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2560?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Vieni-a-provare-il-softball5",
       "title": "Vieni a provare il softball",
       "rawText": "Evento Vieni a provare il softball 3 Luglio 2025 con Sport Senza Frontiere Trentino aps asd",
       "image": "",
       "candidateKey": "10593a83f67e50155e209494",
-      "candidateSignature": "59505de11f643d10a0da8c47"
+      "candidateSignature": "652469ef82890a22f28668de"
     },
     {
       "sourceId": "comune_trento_events",
@@ -1940,13 +1940,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2720?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2700?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Serenate-bellavista3",
       "title": "Serenate bellavista",
       "rawText": "Evento Serenate bellavista 26 Luglio 2025 Aperitivo e cena con musica dal vivo.",
       "image": "",
       "candidateKey": "10b3ecbfbff13ca93d428e05",
-      "candidateSignature": "7d1e82d1b81044fd2a94fd79"
+      "candidateSignature": "d955cce8649d6017d63a99f6"
     },
     {
       "sourceId": "comune_trento_events",
@@ -2325,13 +2325,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2480?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2460?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Le-forme-dell-acqua-fontane-rogge-e-piscine-di-Trento4",
       "title": "Le forme dell'acqua: fontane, rogge e piscine di Trento",
       "rawText": "Evento Le forme dell'acqua: fontane, rogge e piscine di Trento 1 Luglio 2025 Esposizione di libri e documenti della Biblioteca e dell'Archivio storico nell'ambito dell'iniziativa Fiori al Centro 2025.",
       "image": "",
       "candidateKey": "131a46fbd70ee906177268c9",
-      "candidateSignature": "74b6761c436e42dea83031ff"
+      "candidateSignature": "5520255a469a1c1016d2c7cf"
     },
     {
       "sourceId": "comune_trento_events",
@@ -3018,13 +3018,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2460?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2440?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Visite-guidate-in-mostra-Il-teatro-del-quotidiano8",
       "title": "Visite guidate in mostra \"Il teatro del quotidiano\"",
       "rawText": "Evento Visite guidate in mostra \"Il teatro del quotidiano\" 9 Agosto 2025 Una visita guidata alla scoperta della prima mostra retrospettiva dedicata a Giacomo Francesco Cipper (Feldkirch, 1664 – Milano, 1736), artista di scene di vita quotidiana e di cronaca vera.La mostra, a cura di Maria Silvia Proni e Denis Ton, sarà al Castello del Buonconsiglio fino al 14 settembre.",
       "image": "",
       "candidateKey": "1889b540aada457eae29be2b",
-      "candidateSignature": "40cbce01916370b6272e85db"
+      "candidateSignature": "29632fab59a7b218b47f4bc6"
     },
     {
       "sourceId": "comune_trento_events",
@@ -3469,13 +3469,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2380?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2360?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Uno-spettacolo-per-chi-vive-in-tempi-di-estinzione",
       "title": "Uno spettacolo per chi vive in tempi di estinzione",
       "rawText": "Evento Uno spettacolo per chi vive in tempi di estinzione 5 Settembre 2025 Eventi della stagione estiva del Teatro di villazzano.",
       "image": "",
       "candidateKey": "1d79f00be2ee1df4641d4e0a",
-      "candidateSignature": "1d89aec99774e47573b97612"
+      "candidateSignature": "85b19043a9a5fded8512ab9e"
     },
     {
       "sourceId": "comune_trento_events",
@@ -3942,13 +3942,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2760?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2740?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Sotto-le-foglie-regia-di-Francois-Ozon",
       "title": "Sotto le foglie, regia di Francois Ozon",
       "rawText": "Evento Sotto le foglie, regia di Francois Ozon 29 Luglio 2025 Film dal titolo &quot;Sotto le foglie&quot;, regia di Francois Ozon",
       "image": "",
       "candidateKey": "21328ed0b205729dbbbf32d5",
-      "candidateSignature": "e6d7401f75d03da79b998e46"
+      "candidateSignature": "482971d378b6365d908a39f4"
     },
     {
       "sourceId": "comune_trento_events",
@@ -4624,13 +4624,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2420?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2400?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Le-forme-dell-acqua-fontane-rogge-e-piscine-di-Trento25",
       "title": "Le forme dell'acqua: fontane, rogge e piscine di Trento",
       "rawText": "Evento Le forme dell'acqua: fontane, rogge e piscine di Trento 23 Luglio 2025 Esposizione di libri e documenti della Biblioteca e dell'Archivio storico nell'ambito dell'iniziativa Fiori al Centro 2025.",
       "image": "",
       "candidateKey": "2782805e1479a85d79559ebc",
-      "candidateSignature": "528c38de44251dd74ab22c9c"
+      "candidateSignature": "bf04dbb4dc47ba9629fe7d63"
     },
     {
       "sourceId": "comune_trento_events",
@@ -4646,13 +4646,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2760?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2740?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Emilia-Perez-regia-di-Jacques-Audiard",
       "title": "Emilia Perez, regia di Jacques Audiard",
       "rawText": "Evento Emilia Perez, regia di Jacques Audiard 22 Luglio 2025 Film dal titolo &quot;Emilia Perez&quot;, regia di Jacques Audiard",
       "image": "",
       "candidateKey": "279aa7f45e884013a6f2e4a7",
-      "candidateSignature": "1518d10992576f75f52a9729"
+      "candidateSignature": "e30e4890cb5337724979a0c2"
     },
     {
       "sourceId": "comune_trento_events",
@@ -4844,13 +4844,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1980?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1960?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Vieni-a-giocare-a-minibasket7",
       "title": "Vieni a giocare a minibasket",
       "rawText": "Evento Vieni a giocare a minibasket 7 Settembre 2025 con ASD Minibasket Trento e con i campioni e lo staff di Aquila basket al giardino di Piazza Centa",
       "image": "",
       "candidateKey": "2911252ef2df1efd47c60309",
-      "candidateSignature": "d04454f54075da7fd4628a10"
+      "candidateSignature": "f262ee59e800af2b582ed56a"
     },
     {
       "sourceId": "comune_trento_events",
@@ -4877,13 +4877,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2060?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2040?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Giochiamo-a-scacchi2",
       "title": "Giochiamo a scacchi",
       "rawText": "Evento Giochiamo a scacchi 10 Settembre 2025 con l'ASDPS Unione Scacchistica Trentina",
       "image": "",
       "candidateKey": "292957a90c5b5a23287f8278",
-      "candidateSignature": "607ba5fa9e6b7224434978e3"
+      "candidateSignature": "77808c98250d2f8f2e020b10"
     },
     {
       "sourceId": "comune_trento_events",
@@ -4943,13 +4943,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2360?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2340?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo2",
       "title": "Salita alla cantoria del duomo",
       "rawText": "Evento Salita alla cantoria del duomo 19 Luglio 2025 Il percorso darà l’opportunità ai visitatori di solcare i gradini delle scale rampanti che conducono alla cosiddetta cantoria, luogo solitamente chiuso al pubblico.",
       "image": "",
       "candidateKey": "29d5190c5ae55948b8f56ae0",
-      "candidateSignature": "60ba53edbd8d58d9ca85e186"
+      "candidateSignature": "5e6169c96d015a8f3ad04a78"
     },
     {
       "sourceId": "comune_trento_events",
@@ -4987,13 +4987,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2340?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2320?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Death-Talk",
       "title": "Death Talk",
       "rawText": "Evento Death Talk 12 Luglio 2025 Parliamone insieme: un incontro sulla morte",
       "image": "",
       "candidateKey": "2a25a154b36a490a6fa64345",
-      "candidateSignature": "31516e213b78fa531d556bc1"
+      "candidateSignature": "5bd7e53a9a4f2ac6883b2790"
     },
     {
       "sourceId": "comune_trento_events",
@@ -5251,13 +5251,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2180?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2160?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Orto-Aperto9",
       "title": "Orto Aperto",
       "rawText": "Evento Orto Aperto 7 Agosto 2025 Verdure, relazioni e idee fresche. Aperto sempre, e per tutt*",
       "image": "",
       "candidateKey": "2c43b13e1a6904127f9cecb7",
-      "candidateSignature": "58b5a51f4ee58b31e81113db"
+      "candidateSignature": "342b2e7b9178499d9c29baa5"
     },
     {
       "sourceId": "comune_trento_events",
@@ -5438,13 +5438,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2460?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2440?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Visite-guidate-in-mostra-Il-teatro-del-quotidiano6",
       "title": "Visite guidate in mostra \"Il teatro del quotidiano\"",
       "rawText": "Evento Visite guidate in mostra \"Il teatro del quotidiano\" 26 Luglio 2025 Una visita guidata alla scoperta della prima mostra retrospettiva dedicata a Giacomo Francesco Cipper (Feldkirch, 1664 – Milano, 1736), artista di scene di vita quotidiana e di cronaca vera.La mostra, a cura di Maria Silvia Proni e Denis Ton, sarà al Castello del Buonconsiglio fino al 14 settembre.",
       "image": "",
       "candidateKey": "2e6f9b49173aaa927e00bb7d",
-      "candidateSignature": "ebbca7229b559674b4e1e9f5"
+      "candidateSignature": "f509bd348e6416b00a39dde3"
     },
     {
       "sourceId": "comune_trento_events",
@@ -5515,13 +5515,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2400?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2380?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Al-Limitar-del-bosco",
       "title": "Al Limitar del bosco",
       "rawText": "Evento Al Limitar del bosco 11 Luglio 2025 Apericena Sociale",
       "image": "",
       "candidateKey": "2f97a2c8609a8b3e5aa7facd",
-      "candidateSignature": "9ba6d95153f1fa66d4bc15dc"
+      "candidateSignature": "b7122be3a30902e3ce85a666"
     },
     {
       "sourceId": "comune_trento_events",
@@ -5944,13 +5944,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2160?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2140?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Tramonti-in-terrazza3",
       "title": "Tramonti in terrazza",
       "rawText": "Evento Tramonti in terrazza 5 Settembre 2025 Apericena... a spasso per l'Italia",
       "image": "",
       "candidateKey": "32a5713fcc264a1c5c9a9fc0",
-      "candidateSignature": "55bfc6227f80d10357cb9484"
+      "candidateSignature": "069fdc03af2e3c6bcecbe24d"
     },
     {
       "sourceId": "comune_trento_events",
@@ -5977,13 +5977,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2180?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2160?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Orto-Aperto8",
       "title": "Orto Aperto",
       "rawText": "Evento Orto Aperto 4 Agosto 2025 Verdure, relazioni e idee fresche. Aperto sempre, e per tutt*",
       "image": "",
       "candidateKey": "32cae95cf500402e4c178a8b",
-      "candidateSignature": "baad73a33ece4ad5ae3ec37f"
+      "candidateSignature": "351c39f7363d21d5c0aa1fa6"
     },
     {
       "sourceId": "comune_trento_events",
@@ -6131,13 +6131,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2240?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2220?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi24",
       "title": "Mercato contadino di via Fabio Filzi",
       "rawText": "Evento Mercato contadino di via Fabio Filzi 19 Novembre 2025 Il mercato offre una vasta gamma di prodotti genuini del territorio trentino: ortofrutta, produzioni zootecniche, prodotti freschi e trasformati e prodotti biologici.",
       "image": "",
       "candidateKey": "34519bb6949d42dde4d96717",
-      "candidateSignature": "6c8ab5565aed4c184f43a527"
+      "candidateSignature": "9db145867069607d20c0efb2"
     },
     {
       "sourceId": "comune_trento_events",
@@ -6285,13 +6285,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2440?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2420?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Cinema-sotto-le-stelle.-Le-Deluge-Gli-ultimi-giorni-di-Maria-Antonietta",
       "title": "Cinema sotto le stelle. Le Déluge - Gli ultimi giorni di Maria Antonietta",
       "rawText": "Evento Cinema sotto le stelle. Le Déluge - Gli ultimi giorni di Maria Antonietta 1 Agosto 2025 La magia del cinema sotto le stelle nella suggestiva cornice del Castello del Buonconsiglio.",
       "image": "",
       "candidateKey": "3614e4e5278456dddaf6280a",
-      "candidateSignature": "51b57ae37a1e47e871fd2f8b"
+      "candidateSignature": "3515225d9b7c0c100d279be0"
     },
     {
       "sourceId": "comune_trento_events",
@@ -6659,13 +6659,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2360?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2340?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Laboratorio-creativo-al-Malgone-di-Candriai",
       "title": "Laboratorio creativo al Malgone di Candriai",
       "rawText": "Evento Laboratorio creativo al Malgone di Candriai 7 Luglio 2025 Attività laboratoriali e creative di diverso tipo.",
       "image": "",
       "candidateKey": "3a40f3355bffce885c8a3a9b",
-      "candidateSignature": "806acce73e32505cf094d7f2"
+      "candidateSignature": "93c7b1721d1f7ccbe9d7cc39"
     },
     {
       "sourceId": "comune_trento_events",
@@ -6813,13 +6813,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2280?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2260?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mostra-Fiori-al-Centro4",
       "title": "Mostra Fiori al Centro",
       "rawText": "Evento Mostra Fiori al Centro 6 Settembre 2025 Passione orchidee.",
       "image": "",
       "candidateKey": "3bfa97bc1b72db32544283e8",
-      "candidateSignature": "5c54cdddd0e3e1791891405a"
+      "candidateSignature": "0497f9b6f8ada63b318a69e4"
     },
     {
       "sourceId": "comune_trento_events",
@@ -7132,13 +7132,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2380?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2360?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Costellazioni",
       "title": "Costellazioni",
       "rawText": "Evento Costellazioni 6 Settembre 2025 Eventi della stagione estiva del Teatro di villazzano.",
       "image": "",
       "candidateKey": "3e1ba84bea1ff8c0782ca5c3",
-      "candidateSignature": "03a9b8397e7dcf3514829b63"
+      "candidateSignature": "d13489f44e72c968e9c158fb"
     },
     {
       "sourceId": "comune_trento_events",
@@ -7704,13 +7704,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2400?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2380?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Casteldi-sera2",
       "title": "Casteldì sera",
       "rawText": "Evento Casteldì sera 18 Luglio 2025 Il Castello del Buonconsiglio vi invita a vivere una serata speciale.",
       "image": "",
       "candidateKey": "42aa2ebbfeaf7a8b9c352ff3",
-      "candidateSignature": "177247480eb5e10dd4cf4821"
+      "candidateSignature": "a787a9a6502062ea2eacb058"
     },
     {
       "sourceId": "comune_trento_events",
@@ -8144,13 +8144,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2860?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2840?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Family-climbing-Primi-passi-sulla-roccia5",
       "title": "Family climbing - Primi passi sulla roccia",
       "rawText": "Evento Family climbing - Primi passi sulla roccia 12 Agosto 2025 Una giornata all’insegna dell’arrampicata per le famiglie, con genitori e ragazzi dai 7 ai 15 anni in compagnia delle Guide Alpine.",
       "image": "",
       "candidateKey": "46e0b60d9485aabcfa68ecf3",
-      "candidateSignature": "f95398febe1a6be6208d6594"
+      "candidateSignature": "ded283143c027568bee184aa"
     },
     {
       "sourceId": "comune_trento_events",
@@ -8606,13 +8606,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2700?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2680?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Insiemealvolo2",
       "title": "#Insiemealvolo",
       "rawText": "Evento #Insiemealvolo 18 Giugno 2025 Apertura alla cittadinanza del campo di pallavolo di Meano",
       "image": "",
       "candidateKey": "4b56c81462d13f2308c2a7d5",
-      "candidateSignature": "2f78d465500f14426e87b37e"
+      "candidateSignature": "c8af92188a01fa156d082244"
     },
     {
       "sourceId": "comune_trento_events",
@@ -8980,13 +8980,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2020?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2000?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/La-poesia-salvera-il-mondo",
       "title": "La poesia salverà il mondo",
       "rawText": "Evento La poesia salverà il mondo 31 Agosto 2025 Lectio magistralis di ragazze e ragazzi della 5aB della scuola primaria di Mattarello",
       "image": "",
       "candidateKey": "4e76891cf1963ae64fdad071",
-      "candidateSignature": "d44610b4969b0757ae7d945d"
+      "candidateSignature": "26eb99ce67257f754175553f"
     },
     {
       "sourceId": "comune_trento_events",
@@ -9827,13 +9827,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2520?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2500?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale6",
       "title": "Mercato dell'economia solidale",
       "rawText": "Evento Mercato dell'economia solidale 10 Luglio 2025 Mercato di prodotti provenienti dall'economia solidale.",
       "image": "",
       "candidateKey": "5601a30ba730547de82331a2",
-      "candidateSignature": "ce5cc602f57955403af6fb95"
+      "candidateSignature": "d7dda94b880ec1ae41b2a69b"
     },
     {
       "sourceId": "comune_trento_events",
@@ -9970,13 +9970,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2100?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2080?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Giornate-a-tema4",
       "title": "Giornate a tema",
       "rawText": "Evento Giornate a tema 17 Agosto 2025 Infusione di montagna",
       "image": "",
       "candidateKey": "574f9c78a9390773feae0031",
-      "candidateSignature": "29371901d4573c516bc2c892"
+      "candidateSignature": "dc69c031b7199dee181935e1"
     },
     {
       "sourceId": "comune_trento_events",
@@ -10124,13 +10124,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2920?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2900?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Sfida-le-Carte!-Torneo-di-Burraco-Internazionale",
       "title": "Sfida le Carte! Torneo di Burraco Internazionale!",
       "rawText": "Evento Sfida le Carte! Torneo di Burraco Internazionale! 11 Luglio 2026 Torneo di burraco internazionale a coppie.",
       "image": "",
       "candidateKey": "588cea2aa4c1d40dca8fa377",
-      "candidateSignature": "459a1eb57a6b4d016701a6d2"
+      "candidateSignature": "ed6b826aac0723d343e9d252"
     },
     {
       "sourceId": "comune_trento_events",
@@ -10542,13 +10542,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2200?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2180?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi34",
       "title": "Mercato del giovedì",
       "rawText": "Evento Mercato del giovedì 11 Dicembre 2025 Mercato settimanale nel centro storico di Trento che si svolge tutti i giovedì dalle 7.15 alle 14 nel centro storico della città.",
       "image": "",
       "candidateKey": "5be092c8f03d351e52aa8cbd",
-      "candidateSignature": "83bd5f47de018172dd73d96b"
+      "candidateSignature": "84d6f3d8de935461f634c778"
     },
     {
       "sourceId": "comune_trento_events",
@@ -10575,13 +10575,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2940?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2920?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Vieni-a-provare-il-softball2",
       "title": "Vieni a provare il softball",
       "rawText": "Evento Vieni a provare il softball 5 Giugno 2025 con Sport Senza Frontiere Trentino aps asd",
       "image": "",
       "candidateKey": "5c12b99e1a24af6c39a7a03f",
-      "candidateSignature": "e052151c38562c979b948c2c"
+      "candidateSignature": "7b41d811f5cb0b62d50ed7e7"
     },
     {
       "sourceId": "comune_trento_events",
@@ -10740,13 +10740,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2540?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2520?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Vieni-a-giocare-a-minibasket",
       "title": "Vieni a giocare a minibasket",
       "rawText": "Evento Vieni a giocare a minibasket 24 Agosto 2025 con ASD Minibasket Trento e con i campioni e lo staff di Aquila basket",
       "image": "",
       "candidateKey": "5d6a3d5c8f99460ee68fe0a6",
-      "candidateSignature": "5d6a30bb3bd3829c1c93fad2"
+      "candidateSignature": "8ea713f35c337ba4e0675988"
     },
     {
       "sourceId": "comune_trento_events",
@@ -10993,13 +10993,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2300?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2280?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale17",
       "title": "Mercato dell'economia solidale",
       "rawText": "Evento Mercato dell'economia solidale 25 Settembre 2025 Mercato di prodotti provenienti dall'economia solidale.",
       "image": "",
       "candidateKey": "5fa29213cd05abf2de54d6b3",
-      "candidateSignature": "34dc9f88aad8d3d8c96434eb"
+      "candidateSignature": "38179e1ba6aef11e5c231c9e"
     },
     {
       "sourceId": "comune_trento_events",
@@ -11048,13 +11048,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2860?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2840?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Family-climbing-Primi-passi-sulla-roccia7",
       "title": "Family climbing - Primi passi sulla roccia",
       "rawText": "Evento Family climbing - Primi passi sulla roccia 26 Agosto 2025 Una giornata all’insegna dell’arrampicata per le famiglie, con genitori e ragazzi dai 7 ai 15 anni in compagnia delle Guide Alpine.",
       "image": "",
       "candidateKey": "5feb91b15314cda250f73d18",
-      "candidateSignature": "48f5cc635baff5d4b68ab773"
+      "candidateSignature": "49e2979f0062f57fda6f7045"
     },
     {
       "sourceId": "comune_trento_events",
@@ -11147,13 +11147,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2120?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2100?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle10",
       "title": "A tu per tu con le stelle",
       "rawText": "Evento A tu per tu con le stelle 5 Settembre 2025 Incontro scientifico",
       "image": "",
       "candidateKey": "60a19daeabed65eb093264a4",
-      "candidateSignature": "84585f14302ebc98bca899d5"
+      "candidateSignature": "b8751f5a757e6fafdb56c8ad"
     },
     {
       "sourceId": "comune_trento_events",
@@ -11191,13 +11191,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2560?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2540?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Estate-al-parco3",
       "title": "Estate al parco",
       "rawText": "Evento Estate al parco 7 Agosto 2025 Parco delle albere.",
       "image": "",
       "candidateKey": "60b833cdd06554e080fb35ad",
-      "candidateSignature": "58ae826d4c7ed52e1e740140"
+      "candidateSignature": "233fd544af98498a6d2ff0ae"
     },
     {
       "sourceId": "comune_trento_events",
@@ -11488,13 +11488,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2220?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2200?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi14",
       "title": "Mercato del giovedì",
       "rawText": "Evento Mercato del giovedì 24 Luglio 2025 Mercato settimanale nel centro storico di Trento che si svolge tutti i giovedì dalle 7.15 alle 14 nel centro storico della città.",
       "image": "",
       "candidateKey": "6386cac9c49973ddc51fadaf",
-      "candidateSignature": "5d1fe1a7c67be3c8dd4aabba"
+      "candidateSignature": "b78abd12a57579302662ca08"
     },
     {
       "sourceId": "comune_trento_events",
@@ -11565,13 +11565,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2540?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2520?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle5",
       "title": "A tu per tu con le stelle",
       "rawText": "Evento A tu per tu con le stelle 4 Luglio 2025 Incontro scientifico",
       "image": "",
       "candidateKey": "6419238dbd30bc7725b22c33",
-      "candidateSignature": "2c6e776cdb9b368d7bd5e29a"
+      "candidateSignature": "5d994850ba5d230254c9fee0"
     },
     {
       "sourceId": "comune_trento_events",
@@ -11785,13 +11785,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2860?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2840?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Family-climbing-Primi-passi-sulla-roccia6",
       "title": "Family climbing - Primi passi sulla roccia",
       "rawText": "Evento Family climbing - Primi passi sulla roccia 19 Agosto 2025 Una giornata all’insegna dell’arrampicata per le famiglie, con genitori e ragazzi dai 7 ai 15 anni in compagnia delle Guide Alpine.",
       "image": "",
       "candidateKey": "652750ddabe1a5e7ab0dda34",
-      "candidateSignature": "7def8c630739e182e36444ab"
+      "candidateSignature": "fc73bdf0285797911aa03c6d"
     },
     {
       "sourceId": "comune_trento_events",
@@ -11994,17 +11994,6 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1940?Order=desc",
-      "detailUrl": "https://eventi.comune.trento.it/Eventi/Al-lavoro-in-bicicletta",
-      "title": "Al lavoro in bicicletta",
-      "rawText": "Evento Al lavoro in bicicletta 18 Settembre 2025 Iniziativa di promozione e diffusione della mobilità ciclistica in ambito urbano.",
-      "image": "",
-      "candidateKey": "66bac14d390a5b60308a0370",
-      "candidateSignature": "f7776e2d31723e94d541bccf"
-    },
-    {
-      "sourceId": "comune_trento_events",
-      "sourceName": "Agenda Trento - official Comune di Trento agenda",
       "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1720?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Giovanna-dei-disoccupati.-Un-apocrifo-brechtiano",
       "title": "Giovanna dei disoccupati. Un apocrifo brechtiano",
@@ -12082,13 +12071,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2060?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2040?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Giochiamo-a-scacchi",
       "title": "Giochiamo a scacchi",
       "rawText": "Evento Giochiamo a scacchi 3 Settembre 2025 con l'ASDPS Unione Scacchistica Trentina",
       "image": "",
       "candidateKey": "6740ac94d2a212a0283f0042",
-      "candidateSignature": "27ab17c7b68b4be877b8d00b"
+      "candidateSignature": "e6d997542ba44265baf0b253"
     },
     {
       "sourceId": "comune_trento_events",
@@ -12379,13 +12368,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2500?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2480?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Vieni-a-giocare-a-minibasket4",
       "title": "Vieni a giocare a minibasket",
       "rawText": "Evento Vieni a giocare a minibasket 7 Settembre 2025 con ASD Minibasket Trento e con i campioni e lo staff di Aquila basket al giardino Rosanna Carrozzini",
       "image": "",
       "candidateKey": "697a5e672234157bf36d633c",
-      "candidateSignature": "15dd655f68f6672b2e366004"
+      "candidateSignature": "774593d2c3c4fe20d277062c"
     },
     {
       "sourceId": "comune_trento_events",
@@ -12511,13 +12500,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2800?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2780?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/I-tempi-del-sacro",
       "title": "I tempi del sacro",
       "rawText": "Evento I tempi del sacro 12 Giugno 2025 Approfondimento alla mostra “Flavio Faganello. Fotografie in cammino”Con Giovanna Rech e Alberto Folgheraiter. Introduce e modera Marlene Huber",
       "image": "",
       "candidateKey": "6a762984f4f0d47dc119736c",
-      "candidateSignature": "1da2da80857f38fd7bb0e7a5"
+      "candidateSignature": "c0cd3b401969657f101f4b77"
     },
     {
       "sourceId": "comune_trento_events",
@@ -12577,24 +12566,24 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2220?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2200?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi15",
       "title": "Mercato del giovedì",
       "rawText": "Evento Mercato del giovedì 31 Luglio 2025 Mercato settimanale nel centro storico di Trento che si svolge tutti i giovedì dalle 7.15 alle 14 nel centro storico della città.",
       "image": "",
       "candidateKey": "6ad681c9b63f2cd12e52ff67",
-      "candidateSignature": "215c395e04b2dfb2d2b16613"
+      "candidateSignature": "acf1d54bb374a9128836080e"
     },
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2660?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2640?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Inchiostro-20253",
       "title": "Inchiostro 2025",
       "rawText": "Evento Inchiostro 2025 27 Giugno 2025 Musica dal vivo, aperitivi al tramonto e relax sulle sdraio.",
       "image": "",
       "candidateKey": "6aec3568edc11c7778176642",
-      "candidateSignature": "a93401ff00412c5a4e7c7f28"
+      "candidateSignature": "4a89042ee7644329f629b4d8"
     },
     {
       "sourceId": "comune_trento_events",
@@ -12654,24 +12643,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1960?Order=desc",
-      "detailUrl": "https://eventi.comune.trento.it/Eventi/Attivita-di-promozione-all-uso-corretto-della-strada",
-      "title": "Attività di promozione all'uso corretto della strada",
-      "rawText": "Evento Attività di promozione all'uso corretto della strada 17 Settembre 2025 A cura del Nucleo educazione stradale del Corpo di polizia locale Trento-Monte Bondone.",
-      "image": "",
-      "candidateKey": "6b856265990dfb1b477289f8",
-      "candidateSignature": "08f46ebbaff74fc628920179"
-    },
-    {
-      "sourceId": "comune_trento_events",
-      "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2920?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2900?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-dell-artigianato-artistico",
       "title": "Mercato dell'artigianato artistico",
       "rawText": "Evento Mercato dell'artigianato artistico 5 Giugno 2025 Mercato specializzato riservato alla vendita di oggetti dell'artigianato artistico.",
       "image": "",
       "candidateKey": "6c2b56ff56920b9d84f70946",
-      "candidateSignature": "fbe5874323b7216292204669"
+      "candidateSignature": "77662e0c44b227f857d50400"
     },
     {
       "sourceId": "comune_trento_events",
@@ -12709,13 +12687,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2820?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2800?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Benessere-nel-e-dal-bosco3",
       "title": "Benessere nel e dal bosco",
       "rawText": "Evento Benessere nel e dal bosco 8 Agosto 2025 Incontri in natura per prenderci il tempo di creare relazioni con l'ambiente naturale.",
       "image": "",
       "candidateKey": "6ce149317ecb56146ac16c11",
-      "candidateSignature": "3af6e1a8e6e0dbd268da75f8"
+      "candidateSignature": "7ea701c38d3ee806fdac75f4"
     },
     {
       "sourceId": "comune_trento_events",
@@ -12918,13 +12896,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2920?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2900?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Laboratorio-creativo",
       "title": "Laboratorio creativo",
       "rawText": "Evento Laboratorio creativo 23 Giugno 2025 Attività laboratoriali e creative di diverso tipo.",
       "image": "",
       "candidateKey": "6eb9d14e926e62ce29b83910",
-      "candidateSignature": "4388625aa4d26e1cec7f4244"
+      "candidateSignature": "67d663e44058a707abd5ea38"
     },
     {
       "sourceId": "comune_trento_events",
@@ -13017,13 +12995,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2780?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2760?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Lago",
       "title": "Lago",
       "rawText": "Evento Lago 11 Giugno 2025 Interpretazione in chiave contemporanea dell'immortale pièce &quot;Il Lago dei Cigni&quot; di Čajkovskij.",
       "image": "",
       "candidateKey": "6f5495f73271855f7e50f2ca",
-      "candidateSignature": "5ecbf0b54f54786c892bd60e"
+      "candidateSignature": "2f0712e2ac6a1d9fd2241549"
     },
     {
       "sourceId": "comune_trento_events",
@@ -13050,13 +13028,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2640?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2620?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Tornei-mundialiti-di-calcio12",
       "title": "Tornei mundialiti di calcio",
       "rawText": "Evento Tornei mundialiti di calcio 2 Luglio 2025 con l'Asd Vela Piedicastello",
       "image": "",
       "candidateKey": "6fac91ac8c62ae09cf5e1dc5",
-      "candidateSignature": "bad471cceab4db4b5d2f0486"
+      "candidateSignature": "138a36f4f5903cc956abf762"
     },
     {
       "sourceId": "comune_trento_events",
@@ -13281,13 +13259,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2260?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2240?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi5",
       "title": "Mercato contadino di via Fabio Filzi",
       "rawText": "Evento Mercato contadino di via Fabio Filzi 9 Luglio 2025 Il mercato offre una vasta gamma di prodotti genuini del territorio trentino: ortofrutta, produzioni zootecniche, prodotti freschi e trasformati e prodotti biologici.",
       "image": "",
       "candidateKey": "7143df5de687a989ba7770b8",
-      "candidateSignature": "1ef73cd99b0eb69de1477548"
+      "candidateSignature": "a61944b0d58475fa433c876d"
     },
     {
       "sourceId": "comune_trento_events",
@@ -13490,13 +13468,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2900?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2880?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi8",
       "title": "Mercato del giovedì",
       "rawText": "Evento Mercato del giovedì 5 Giugno 2025 Mercato settimanale nel centro storico di Trento che si svolge tutti i giovedì dalle 7:15 alle 14:00 nel centro storico della città.",
       "image": "",
       "candidateKey": "72bf5481fd2aa9fbea64fc01",
-      "candidateSignature": "15b7b6df4dfc28c284feb842"
+      "candidateSignature": "ef6e586cc57f9c6df7de67b9"
     },
     {
       "sourceId": "comune_trento_events",
@@ -14051,13 +14029,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2500?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2480?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Vieni-a-giocare-a-minibasket3",
       "title": "Vieni a giocare a minibasket",
       "rawText": "Evento Vieni a giocare a minibasket 30 Agosto 2025 con ASD Minibasket Trento e con i campioni e lo staff di Aquila basket",
       "image": "",
       "candidateKey": "76fd973c1f7af815b04ce0b6",
-      "candidateSignature": "c755dec34a0cf43843928b4c"
+      "candidateSignature": "7a06e60c80f9a790304c5770"
     },
     {
       "sourceId": "comune_trento_events",
@@ -14986,13 +14964,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2680?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2660?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Insiemealvolo21",
       "title": "#Insiemealvolo",
       "rawText": "Evento #Insiemealvolo 16 Giugno 2026 Apertura alla cittadinanza del campo di pallavolo di Meano",
       "image": "",
       "candidateKey": "7ec68a1b96b94968888ea84a",
-      "candidateSignature": "f62c0c383d7b58b597b585ec"
+      "candidateSignature": "0f4964064fb466bda760e34e"
     },
     {
       "sourceId": "comune_trento_events",
@@ -15118,13 +15096,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2040?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2020?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Contrasti-2025-XI-edizione2",
       "title": "Contrasti 2025 - XI edizione",
       "rawText": "Evento Contrasti 2025 - XI edizione 19 Agosto 2025 L’Associazione MotoContrario di Trento è orgogliosa di presentare il Festival Contrasti 2025.",
       "image": "",
       "candidateKey": "8030c32437f24b0f4eea297c",
-      "candidateSignature": "b555b0e4fc035f1257d131f9"
+      "candidateSignature": "f43a12bdab283245eab3a318"
     },
     {
       "sourceId": "comune_trento_events",
@@ -15184,13 +15162,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2640?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2620?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Tornei-mundialiti-di-calcio13",
       "title": "Tornei mundialiti di calcio",
       "rawText": "Evento Tornei mundialiti di calcio 3 Luglio 2025 con l'Asd Vela Piedicastello",
       "image": "",
       "candidateKey": "80d93573679c7c5f03c124ab",
-      "candidateSignature": "18f2ade78939f1d2eaacfd85"
+      "candidateSignature": "b9df9b3acd7c6e46f96c5a59"
     },
     {
       "sourceId": "comune_trento_events",
@@ -15393,13 +15371,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2300?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2280?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante14",
       "title": "Mercato contadino di piazza Dante",
       "rawText": "Evento Mercato contadino di piazza Dante 16 Agosto 2025 Il mercato offre una vasta gamma di prodotti genuini del territorio trentino: ortofrutta, produzioni zootecniche, prodotti freschi e trasformati e prodotti biologici.",
       "image": "",
       "candidateKey": "824e01e92945143e5a4202df",
-      "candidateSignature": "9c6c51102b2d4b3d5c146749"
+      "candidateSignature": "c226730c54043858d79aef7e"
     },
     {
       "sourceId": "comune_trento_events",
@@ -15657,13 +15635,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2660?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2640?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Giornate-a-tema",
       "title": "Giornate a tema",
       "rawText": "Evento Giornate a tema 29 Giugno 2025 Universo api",
       "image": "",
       "candidateKey": "850771526b7253a9fbc49b83",
-      "candidateSignature": "dbb1d1652730355dce38d336"
+      "candidateSignature": "c1290c469230e0f135dfca81"
     },
     {
       "sourceId": "comune_trento_events",
@@ -15756,13 +15734,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2660?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2640?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Corso-di-acquerello-Botanico",
       "title": "Corso di acquerello Botanico",
       "rawText": "Evento Corso di acquerello Botanico 29 Giugno 2025 Fiori, steli e insetti: il prato nel disegno botanico",
       "image": "",
       "candidateKey": "85abc0ab8b847367e7b2054a",
-      "candidateSignature": "d82b1a80b107a74e242f83c6"
+      "candidateSignature": "c5c11cef46dae9813d30e820"
     },
     {
       "sourceId": "comune_trento_events",
@@ -15866,24 +15844,24 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2580?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2560?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Vieni-a-provare-il-softball6",
       "title": "Vieni a provare il softball",
       "rawText": "Evento Vieni a provare il softball 6 Settembre 2025 con Sport Senza Frontiere Trentino aps asd",
       "image": "",
       "candidateKey": "8683e96d2d912dbeceea67a2",
-      "candidateSignature": "dbe3557df364b4393b760192"
+      "candidateSignature": "190f65f3f4e8623fbeaa45eb"
     },
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2900?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2880?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi9",
       "title": "Mercato del giovedì",
       "rawText": "Evento Mercato del giovedì 12 Giugno 2025 Mercato settimanale nel centro storico di Trento che si svolge tutti i giovedì dalle 7:15 alle 14:00 nel centro storico della città.",
       "image": "",
       "candidateKey": "86959bf37cf4bb315cff456b",
-      "candidateSignature": "3fa0cac679e545e1b6a31cff"
+      "candidateSignature": "0d462f43c12e4f136a0fb5e0"
     },
     {
       "sourceId": "comune_trento_events",
@@ -16372,13 +16350,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2320?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2300?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/The-Invasion-of-the-Body-Snatchers-L-invasione-degli-ultracorpi2",
       "title": "The Invasion of the Body Snatchers / L’invasione degli ultracorpi",
       "rawText": "Evento The Invasion of the Body Snatchers / L’invasione degli ultracorpi 27 Luglio 2025 HarpoLab Centro culturale per il cinema e l’immagine.",
       "image": "",
       "candidateKey": "8a6b9eccf342fca9b48b5910",
-      "candidateSignature": "1521080fbf55c06cc84044e2"
+      "candidateSignature": "f1cd6ca605f15e6f1798ebbb"
     },
     {
       "sourceId": "comune_trento_events",
@@ -16581,13 +16559,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2800?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2780?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo",
       "title": "Salita alla cantoria del duomo",
       "rawText": "Evento Salita alla cantoria del duomo 14 Giugno 2025 Il percorso darà l’opportunità ai visitatori di solcare i gradini delle scale rampanti che conducono alla cosiddetta cantoria, luogo solitamente chiuso al pubblico.",
       "image": "",
       "candidateKey": "8c67059ed83ca8d9abcceb56",
-      "candidateSignature": "5793fc5117fab5843e018795"
+      "candidateSignature": "3d4c26ff192c1647a214ddb6"
     },
     {
       "sourceId": "comune_trento_events",
@@ -16603,13 +16581,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2740?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2720?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Stridera-Tana2",
       "title": "Stridera Tana",
       "rawText": "Evento Stridera Tana 14 Giugno 2025 Anagramma di Arte in strada, vuole essere un festival ispirato al circo.",
       "image": "",
       "candidateKey": "8c7588aea73c25589a1c5f56",
-      "candidateSignature": "08f7c640a2a1ac691f88d7f9"
+      "candidateSignature": "e67b8c56d4e4b977d1e85124"
     },
     {
       "sourceId": "comune_trento_events",
@@ -16713,13 +16691,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2100?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2080?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Giornate-a-tema3",
       "title": "Giornate a tema",
       "rawText": "Evento Giornate a tema 11 Agosto 2025 Infusione di montagna",
       "image": "",
       "candidateKey": "8d86118df2e00f7ef8874e49",
-      "candidateSignature": "4cb9be813ae1d6aaae1d12fd"
+      "candidateSignature": "363932e6db0defef68e8270b"
     },
     {
       "sourceId": "comune_trento_events",
@@ -17219,13 +17197,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2000?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1980?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-Torre-Civica13",
       "title": "Visita guidata alla Torre Civica",
       "rawText": "Evento Visita guidata alla Torre Civica 21 Agosto 2025 Visitare la Torre Civica è un'esperienza irrinunciabile!",
       "image": "",
       "candidateKey": "926be32466a73a9676ebedb1",
-      "candidateSignature": "6de4a99ca049cad9eabdad9c"
+      "candidateSignature": "9fa7af6579083e50cd500d9e"
     },
     {
       "sourceId": "comune_trento_events",
@@ -17285,24 +17263,24 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2800?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2780?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Notte-bianca-alla-Galleria-Civica",
       "title": "Notte bianca alla Galleria Civica",
       "rawText": "Evento Notte bianca alla Galleria Civica 21 Giugno 2025 Dalle 18.00 alle 23.00 ingresso gratuito alla Galleria Civica di Trento, dove è in corso la mostra Daniele Tamagni Style Is Life. Nella corte, doppio concerto e DJ Set.",
       "image": "",
       "candidateKey": "92ff0f876b2de5a07ddc9768",
-      "candidateSignature": "c31177503ea7474995bf3e7a"
+      "candidateSignature": "365df3c19773b19349c54ba0"
     },
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2620?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2600?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Caccia-bestiale2",
       "title": "Caccia bestiale",
       "rawText": "Evento Caccia bestiale 4 Agosto 2025 Un’attività di scoperta rivolta alle famiglie, durante la quale grandi e piccoli dovranno unire le proprie conoscenze: così, tappa dopo tappa, seguendo gli animali nascosti nel castello, verranno svelati gli ambienti che lo compongono e i loro enigmi.",
       "image": "",
       "candidateKey": "9321c77f413d18b450ce2499",
-      "candidateSignature": "f59a5a4a580084f784706080"
+      "candidateSignature": "3edf2d8d38d410d5311d03b1"
     },
     {
       "sourceId": "comune_trento_events",
@@ -17901,13 +17879,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2280?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2260?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/La-Direttissima-R-K2",
       "title": "La Direttissima® K2",
       "rawText": "Evento La Direttissima® K2 24 Agosto 2025 Vivi la sfida. Accendi la tua passione.",
       "image": "",
       "candidateKey": "973ab13bfd384b2c597916c1",
-      "candidateSignature": "1dd52c99b5e4692f01753bee"
+      "candidateSignature": "c66966c7480a3834fcfd9e1a"
     },
     {
       "sourceId": "comune_trento_events",
@@ -18286,13 +18264,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2820?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2800?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Malghe-sognanti",
       "title": "Malghe sognanti",
       "rawText": "Evento Malghe sognanti 26 Luglio 2025 Malghe Sognanti è uno spettacolo pensato e dedicato alle malghe, agli alpeggi estivi, allemucche ed al formaggio.",
       "image": "",
       "candidateKey": "9aacd063dfd7a98d8bee75d7",
-      "candidateSignature": "b50da02e32691d6a2c839957"
+      "candidateSignature": "d76ca19339962926e6edbec0"
     },
     {
       "sourceId": "comune_trento_events",
@@ -18319,13 +18297,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2600?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2580?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Percorso-salute-ginnastica-morbida7",
       "title": "Percorso salute - ginnastica morbida",
       "rawText": "Evento Percorso salute - ginnastica morbida 3 Settembre 2025 con l'A.P.D. Rèn",
       "image": "",
       "candidateKey": "9ad5eedbbe554a2a4ada4b77",
-      "candidateSignature": "2cf7fade34b3908cf0163ee0"
+      "candidateSignature": "89bd95675c3ef0cde72bb570"
     },
     {
       "sourceId": "comune_trento_events",
@@ -18770,13 +18748,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2100?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2080?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Giornate-a-tema5",
       "title": "Giornate a tema",
       "rawText": "Evento Giornate a tema 10 Agosto 2025 Botanica sensoriale",
       "image": "",
       "candidateKey": "9df5490e3d6c8779d0e909d2",
-      "candidateSignature": "9b438060ccf688020aa929f3"
+      "candidateSignature": "add1de4be047f0f9c2ca4a77"
     },
     {
       "sourceId": "comune_trento_events",
@@ -19089,13 +19067,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2060?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2040?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Aspettando-le-stelle-al-Parco-Langer-20255",
       "title": "Aspettando le stelle al Parco Langer 2025",
       "rawText": "Aspettando le stelle al Parco Langer 2025",
       "image": "",
       "candidateKey": "a0d897c9608f85f7fdd233d8",
-      "candidateSignature": "f8485dfb78af9720f95a5476"
+      "candidateSignature": "a468c7e35dd3ed7b74e4559f"
     },
     {
       "sourceId": "comune_trento_events",
@@ -19166,13 +19144,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2680?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2660?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Insiemealvolo20",
       "title": "#Insiemealvolo",
       "rawText": "Evento #Insiemealvolo 30 Luglio 2025 Apertura alla cittadinanza del campo di pallavolo di Meano",
       "image": "",
       "candidateKey": "a16ebf9509c34eaca894a4e5",
-      "candidateSignature": "6bc6236c1565bf356b3683ea"
+      "candidateSignature": "3f0dee088fa82555ec619f20"
     },
     {
       "sourceId": "comune_trento_events",
@@ -19221,13 +19199,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2000?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1980?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-Torre-Civica11",
       "title": "Visita guidata alla Torre Civica",
       "rawText": "Evento Visita guidata alla Torre Civica 31 Agosto 2025 Visitare la Torre Civica è un'esperienza irrinunciabile!",
       "image": "",
       "candidateKey": "a1c593355039cacc15b01132",
-      "candidateSignature": "9bcab8a7625ca5ca9e6bae4a"
+      "candidateSignature": "dc119a3d5a455b0d87da631a"
     },
     {
       "sourceId": "comune_trento_events",
@@ -19254,13 +19232,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2520?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2500?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Baseball",
       "title": "Baseball",
       "rawText": "Evento Baseball 11 Settembre 2025 con Trento Baseball ASD",
       "image": "",
       "candidateKey": "a1f640cc92c2d3d29ccb3e94",
-      "candidateSignature": "40edea0b229d88785bfb092c"
+      "candidateSignature": "0a23c2c47975582ab0f68fcf"
     },
     {
       "sourceId": "comune_trento_events",
@@ -19441,13 +19419,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2200?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2180?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi35",
       "title": "Mercato del giovedì",
       "rawText": "Evento Mercato del giovedì 18 Dicembre 2025 Mercato settimanale di Trento che si svolge tutti i giovedì dalle 7:15 alle 14:00 nel centro storico della città.",
       "image": "",
       "candidateKey": "a3f7a35f1daa49897456f079",
-      "candidateSignature": "d38904a3b875bec8d5b81ba7"
+      "candidateSignature": "5fd2fa743f46ffb1c09ce5c9"
     },
     {
       "sourceId": "comune_trento_events",
@@ -19969,13 +19947,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2560?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2540?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Zumba-fitness10",
       "title": "Zumba fitness",
       "rawText": "Evento Zumba fitness 17 Luglio 2025 con l'Associazione Pro Loco Ravina aps",
       "image": "",
       "candidateKey": "a96a2275f245ba5840cb5c62",
-      "candidateSignature": "d6d525dd612b7d04badc1b94"
+      "candidateSignature": "c314309d8f41f12b90b965d1"
     },
     {
       "sourceId": "comune_trento_events",
@@ -20365,13 +20343,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2220?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2200?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi13",
       "title": "Mercato del giovedì",
       "rawText": "Evento Mercato del giovedì 17 Luglio 2025 Mercato settimanale nel centro storico di Trento che si svolge tutti i giovedì dalle 7.15 alle 14 nel centro storico della città.",
       "image": "",
       "candidateKey": "ad3d6ac8a992f2bd0cbb5085",
-      "candidateSignature": "903f19dd575eba0c966ce3f7"
+      "candidateSignature": "73542ff8c797575d2fb976e5"
     },
     {
       "sourceId": "comune_trento_events",
@@ -20772,13 +20750,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2600?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2580?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Percorso-salute-ginnastica-morbida6",
       "title": "Percorso salute - ginnastica morbida",
       "rawText": "Evento Percorso salute - ginnastica morbida 23 Luglio 2025 con l'A.P.D. Rèn",
       "image": "",
       "candidateKey": "b17315ef2be80e9672da5fdf",
-      "candidateSignature": "ec209a11709bb13282bb0b4e"
+      "candidateSignature": "0bb8e32aae7a0287a8267523"
     },
     {
       "sourceId": "comune_trento_events",
@@ -20838,13 +20816,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2520?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2500?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Risonanze-Irregolari",
       "title": "Risonanze Irregolari",
       "rawText": "Evento Risonanze Irregolari 4 Luglio 2025 Le Garage Lab",
       "image": "",
       "candidateKey": "b1f200955f7a07732ed5f21b",
-      "candidateSignature": "b4034c0ef1fee631c3324248"
+      "candidateSignature": "2980dfd7b172ed28f3c7916c"
     },
     {
       "sourceId": "comune_trento_events",
@@ -21113,13 +21091,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2840?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2820?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/E-bike-experience-Tour-guidato-tra-i-paesaggi-del-monte-Bondone2",
       "title": "E-bike experience: Tour guidato tra i paesaggi del monte Bondone",
       "rawText": "Evento E-bike experience: Tour guidato tra i paesaggi del monte Bondone 19 Luglio 2025 Escursione guidata con accompagnatore di e-mtb lungo i percorsi più caratteristici e panoramici del Monte Bondone.",
       "image": "",
       "candidateKey": "b4891e6c1f25cc86bc0b45c4",
-      "candidateSignature": "2cb5bcc30103dd31c59343f8"
+      "candidateSignature": "433cd09004502ebb4a54534c"
     },
     {
       "sourceId": "comune_trento_events",
@@ -21201,13 +21179,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2260?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2240?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Pedalando-verso-Nord-Est",
       "title": "Pedalando verso Nord Est",
       "rawText": "Evento Pedalando verso Nord Est 18 Luglio 2025 Movimento di Resistenza al Parkinson 2025",
       "image": "",
       "candidateKey": "b607dca858450cb4fd660bf5",
-      "candidateSignature": "6762d49f453561b0d2d03397"
+      "candidateSignature": "c66dfb591faf36faf3ade639"
     },
     {
       "sourceId": "comune_trento_events",
@@ -21707,13 +21685,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2480?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2460?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Le-forme-dell-acqua-fontane-rogge-e-piscine-di-Trento6",
       "title": "Le forme dell'acqua: fontane, rogge e piscine di Trento",
       "rawText": "Evento Le forme dell'acqua: fontane, rogge e piscine di Trento 3 Luglio 2025 Esposizione di libri e documenti della Biblioteca e dell'Archivio storico nell'ambito dell'iniziativa Fiori al Centro 2025.",
       "image": "",
       "candidateKey": "ba4ff62b5365acb287c08bb9",
-      "candidateSignature": "091f511a264b3ea05e36c9b6"
+      "candidateSignature": "96e5e36210f55e9f3f2c7f72"
     },
     {
       "sourceId": "comune_trento_events",
@@ -22048,13 +22026,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2240?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2220?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi23",
       "title": "Mercato contadino di via Fabio Filzi",
       "rawText": "Evento Mercato contadino di via Fabio Filzi 12 Novembre 2025 Il mercato offre una vasta gamma di prodotti genuini del territorio trentino: ortofrutta, produzioni zootecniche, prodotti freschi e trasformati e prodotti biologici.",
       "image": "",
       "candidateKey": "bd7033fb9e9bf6442c68d217",
-      "candidateSignature": "ce07caaf0a3a169a0697b6f7"
+      "candidateSignature": "3bb3c5e0747bc6ba3aaa9dff"
     },
     {
       "sourceId": "comune_trento_events",
@@ -22334,13 +22312,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2140?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2120?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Il-teatro-delle-stelle9",
       "title": "Il teatro delle stelle",
       "rawText": "Evento Il teatro delle stelle 27 Agosto 2025 Evento",
       "image": "",
       "candidateKey": "bf6145ce708736549bc3ca4c",
-      "candidateSignature": "1e12f508ad3767de125a2362"
+      "candidateSignature": "106cd4960368c50117a2f8eb"
     },
     {
       "sourceId": "comune_trento_events",
@@ -22422,13 +22400,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2320?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2300?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/La-sirene-du-Mississippi-La-mia-droga-si-chiama-Julie",
       "title": "La sirène du Mississippi / La mia droga si chiama Julie",
       "rawText": "Evento La sirène du Mississippi / La mia droga si chiama Julie 21 Luglio 2025 HarpoLab Centro culturale per il cinema e l’immagine.",
       "image": "",
       "candidateKey": "c011e76836ce58043b848a1c",
-      "candidateSignature": "903632dc29e18742fd578c8f"
+      "candidateSignature": "d58ec1eda85a41deed95d237"
     },
     {
       "sourceId": "comune_trento_events",
@@ -22719,13 +22697,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2720?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2700?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Serenate-bellavista2",
       "title": "Serenate bellavista",
       "rawText": "Evento Serenate bellavista 5 Luglio 2025 Aperitivo e cena con musica dal vivo.",
       "image": "",
       "candidateKey": "c2600cce7e83a002480210fc",
-      "candidateSignature": "8300ff442835a261faffbb3e"
+      "candidateSignature": "c3a7db33397272fc03f7ac11"
     },
     {
       "sourceId": "comune_trento_events",
@@ -22928,13 +22906,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2120?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2100?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle9",
       "title": "A tu per tu con le stelle",
       "rawText": "Evento A tu per tu con le stelle 22 Agosto 2025 Incontro scientifico",
       "image": "",
       "candidateKey": "c463d7f4dab791fa523052a5",
-      "candidateSignature": "1565208e2505d42722829517"
+      "candidateSignature": "761573270cc8e2ef408e605f"
     },
     {
       "sourceId": "comune_trento_events",
@@ -22983,24 +22961,24 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2140?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2120?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Viote-MACROtour5",
       "title": "Viote MACROtour",
       "rawText": "Evento Viote MACROtour 22 Agosto 2025 Escursione",
       "image": "",
       "candidateKey": "c4f948d7bc8f7d662e6362c2",
-      "candidateSignature": "33d9508e6d3c8b0754e4234d"
+      "candidateSignature": "2f09cd010583993a05f29094"
     },
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2380?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2360?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Di-tutti-i-colori",
       "title": "Di tutti i colori",
       "rawText": "Evento Di tutti i colori 9 Agosto 2025 Eventi della stagione estiva del Teatro di villazzano.",
       "image": "",
       "candidateKey": "c533c25c82a05bfca04f8a7e",
-      "candidateSignature": "e9ade2ab247dd82f5ce11f18"
+      "candidateSignature": "17d7019312e851275058cb5f"
     },
     {
       "sourceId": "comune_trento_events",
@@ -23269,24 +23247,24 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2880?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2860?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/MovimentiAMOci",
       "title": "MovimentiAMOci",
       "rawText": "Evento MovimentiAMOci 9 Giugno 2025 Sessioni di ginnastica dolce",
       "image": "",
       "candidateKey": "c6e2f8dd1882135d40eb2730",
-      "candidateSignature": "a774316e328db9ceec5c1b08"
+      "candidateSignature": "1eef2bb2f2358472f8220695"
     },
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2480?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2460?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Le-forme-dell-acqua-fontane-rogge-e-piscine-di-Trento5",
       "title": "Le forme dell'acqua: fontane, rogge e piscine di Trento",
       "rawText": "Evento Le forme dell'acqua: fontane, rogge e piscine di Trento 2 Luglio 2025 Esposizione di libri e documenti della Biblioteca e dell'Archivio storico nell'ambito dell'iniziativa Fiori al Centro 2025.",
       "image": "",
       "candidateKey": "c6ef338d6fd933386c15c4c7",
-      "candidateSignature": "82b6a40adc11dd76cd4265af"
+      "candidateSignature": "fcbf10986844c0e8a3c035f4"
     },
     {
       "sourceId": "comune_trento_events",
@@ -23379,13 +23357,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2120?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2100?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle8",
       "title": "A tu per tu con le stelle",
       "rawText": "Evento A tu per tu con le stelle 15 Agosto 2025 Incontro scientifico",
       "image": "",
       "candidateKey": "c7de60849e34eff1eea8679f",
-      "candidateSignature": "69413a4cfa90090f8fba2a8c"
+      "candidateSignature": "be1011adf7996df83953322a"
     },
     {
       "sourceId": "comune_trento_events",
@@ -23511,13 +23489,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2900?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2880?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi4",
       "title": "Mercato contadino di via Fabio Filzi",
       "rawText": "Evento Mercato contadino di via Fabio Filzi 2 Luglio 2025 Il mercato offre una vasta gamma di prodotti genuini del territorio trentino: ortofrutta, produzioni zootecniche, prodotti freschi e trasformati e prodotti biologici.",
       "image": "",
       "candidateKey": "c932c25cbfb6d0144d096455",
-      "candidateSignature": "8d7fe21467fcf9c64a9dda76"
+      "candidateSignature": "7990cd3dff04796a415e5868"
     },
     {
       "sourceId": "comune_trento_events",
@@ -23797,13 +23775,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2640?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2620?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Tornei-mundialiti-di-calcio11",
       "title": "Tornei mundialiti di calcio",
       "rawText": "Evento Tornei mundialiti di calcio 1 Luglio 2025 con l'Asd Vela Piedicastello",
       "image": "",
       "candidateKey": "cc294724150a33f699dbff94",
-      "candidateSignature": "58b5ca285f74f836c8891173"
+      "candidateSignature": "16cf998fb87e627d8e0d31c1"
     },
     {
       "sourceId": "comune_trento_events",
@@ -23852,13 +23830,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2460?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2440?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Visite-guidate-in-mostra-Il-teatro-del-quotidiano7",
       "title": "Visite guidate in mostra \"Il teatro del quotidiano\"",
       "rawText": "Evento Visite guidate in mostra \"Il teatro del quotidiano\" 2 Agosto 2025 Una visita guidata alla scoperta della prima mostra retrospettiva dedicata a Giacomo Francesco Cipper (Feldkirch, 1664 – Milano, 1736), artista di scene di vita quotidiana e di cronaca vera.La mostra, a cura di Maria Silvia Proni e Denis Ton, sarà al Castello del Buonconsiglio fino al 14 settembre.",
       "image": "",
       "candidateKey": "ccc71f5b1fb2c6290970354c",
-      "candidateSignature": "219af4ba7ba1d70394ab0e87"
+      "candidateSignature": "76af274d73df211e27b8de09"
     },
     {
       "sourceId": "comune_trento_events",
@@ -23962,13 +23940,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2600?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2580?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Percorso-salute-ginnastica-morbida8",
       "title": "Percorso salute - ginnastica morbida",
       "rawText": "Evento Percorso salute - ginnastica morbida 10 Settembre 2025 con l'A.P.D. Rèn",
       "image": "",
       "candidateKey": "cdac5bc084422c82bbd8f3b0",
-      "candidateSignature": "964b7a263cb9ddc4867b8749"
+      "candidateSignature": "f7fe1497c30b8a0ac05e75eb"
     },
     {
       "sourceId": "comune_trento_events",
@@ -24105,13 +24083,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2620?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2600?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Le-occasioni-dell-amore-regia-Stephane-Brize",
       "title": "Le occasioni dell'amore, regia Stephane Brizè",
       "rawText": "Evento Le occasioni dell'amore, regia Stephane Brizè 6 Agosto 2025 Cinema Capovolto",
       "image": "",
       "candidateKey": "cf1425d2f9af2a835af8e425",
-      "candidateSignature": "40e1d0bbb9a2bd78c821b488"
+      "candidateSignature": "cb56f2d08b3e3710405e966f"
     },
     {
       "sourceId": "comune_trento_events",
@@ -24281,13 +24259,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2420?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2400?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Le-forme-dell-acqua-fontane-rogge-e-piscine-di-Trento26",
       "title": "Le forme dell'acqua: fontane, rogge e piscine di Trento",
       "rawText": "Evento Le forme dell'acqua: fontane, rogge e piscine di Trento 24 Luglio 2025 Esposizione di libri e documenti della Biblioteca e dell'Archivio storico nell'ambito dell'iniziativa Fiori al Centro 2025.",
       "image": "",
       "candidateKey": "d0bda9a052aad1f5365b44a7",
-      "candidateSignature": "24846b319c5c292ba796ad24"
+      "candidateSignature": "ea7c532328b8820cd19eed95"
     },
     {
       "sourceId": "comune_trento_events",
@@ -24493,10 +24471,10 @@
       "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1960?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Trento-in-bici",
       "title": "Trento in bici",
-      "rawText": "Evento Trento in bici 21 Settembre 2025 Biciclettata cittadina per grandi e piccini.",
+      "rawText": "Evento Trento in bici 20 Settembre 2026 Biciclettata cittadina per grandi e piccini.",
       "image": "",
       "candidateKey": "d287bd22ec4e156008fca88d",
-      "candidateSignature": "208dca6b6a5707f06a39ebaa"
+      "candidateSignature": "5567c95050a5bbfe2e0ffa4c"
     },
     {
       "sourceId": "comune_trento_events",
@@ -24743,13 +24721,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2000?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1980?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-Torre-Civica12",
       "title": "Visita guidata alla Torre Civica",
       "rawText": "Evento Visita guidata alla Torre Civica 20 Agosto 2025 Visitare la Torre Civica è un'esperienza irrinunciabile!",
       "image": "",
       "candidateKey": "d4cf02d165bec95aa6244156",
-      "candidateSignature": "4a6e49ec0546fecf6cf83084"
+      "candidateSignature": "a1dfa158265af52a3b46ad18"
     },
     {
       "sourceId": "comune_trento_events",
@@ -24886,13 +24864,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2680?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2660?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Bombino-Desert-rock-and-blues",
       "title": "Bombino - Desert rock and blues",
       "rawText": "Evento Bombino - Desert rock and blues 25 Luglio 2025 Teatro Capovolto",
       "image": "",
       "candidateKey": "d58601255397891e0aa7e3d8",
-      "candidateSignature": "77a410a0eaed1188a4e6e119"
+      "candidateSignature": "e2fe81650dbaff457293d68c"
     },
     {
       "sourceId": "comune_trento_events",
@@ -24930,24 +24908,24 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2820?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2800?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Benessere-nel-e-dal-bosco4",
       "title": "Benessere nel e dal bosco",
       "rawText": "Evento Benessere nel e dal bosco 29 Agosto 2025 Incontri in natura per prenderci il tempo di creare relazioni con l'ambiente naturale.",
       "image": "",
       "candidateKey": "d5e2989abec9421c2fa91dea",
-      "candidateSignature": "069a43cef88f7f1d203505e9"
+      "candidateSignature": "ae6686dbb9d195d64601ef40"
     },
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2160?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2140?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Tramonti-in-terrazza2",
       "title": "Tramonti in terrazza",
       "rawText": "Evento Tramonti in terrazza 22 Agosto 2025 Cena... a spasso per il mondo",
       "image": "",
       "candidateKey": "d5e8148a010977f9bb55119a",
-      "candidateSignature": "07ad321f4e6d9bf4d6204f8f"
+      "candidateSignature": "8535907582bea00d99e9b974"
     },
     {
       "sourceId": "comune_trento_events",
@@ -25337,13 +25315,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2400?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2380?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Festival-Musica-con-vista",
       "title": "Festival Musica con vista",
       "rawText": "Evento Festival Musica con vista 20 Settembre 2025 Concerti al Castello del Buonconsiglio",
       "image": "",
       "candidateKey": "d9bc333abbd208e144ce94d9",
-      "candidateSignature": "93ab79a3b6498243ce190edb"
+      "candidateSignature": "cc13dbac468afdc476e20cda"
     },
     {
       "sourceId": "comune_trento_events",
@@ -25458,13 +25436,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2300?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2280?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale16",
       "title": "Mercato dell'economia solidale",
       "rawText": "Evento Mercato dell'economia solidale 18 Settembre 2025 Mercato di prodotti provenienti dall'economia solidale.",
       "image": "",
       "candidateKey": "db0e542d8725f6cdbf73f814",
-      "candidateSignature": "270b7b0a83436ace5c2e5a89"
+      "candidateSignature": "e06034c6b040b990f03129d9"
     },
     {
       "sourceId": "comune_trento_events",
@@ -25865,17 +25843,6 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1960?Order=desc",
-      "detailUrl": "https://eventi.comune.trento.it/Eventi/BiblioTrekking",
-      "title": "BiblioTrekking",
-      "rawText": "Evento BiblioTrekking 20 Settembre 2025 Passeggiata alla scoperta delle biblioteche universitarie.",
-      "image": "",
-      "candidateKey": "de28f5e8124fdf72e1ddbcbb",
-      "candidateSignature": "67fbf87ae7e79b662d23ca1b"
-    },
-    {
-      "sourceId": "comune_trento_events",
-      "sourceName": "Agenda Trento - official Comune di Trento agenda",
       "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1080?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/People-Places-and-Things4",
       "title": "People, Places and Things",
@@ -25942,13 +25909,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2700?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2680?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Insiemealvolo3",
       "title": "#Insiemealvolo",
       "rawText": "Evento #Insiemealvolo 19 Giugno 2025 Apertura alla cittadinanza del campo di pallavolo di Meano",
       "image": "",
       "candidateKey": "dee0ffb24d80943410b4a048",
-      "candidateSignature": "e43784045c5c3e812696b61c"
+      "candidateSignature": "5bf217c9cb2338ddec08a7d6"
     },
     {
       "sourceId": "comune_trento_events",
@@ -26646,13 +26613,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1980?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1960?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Vieni-a-giocare-a-minibasket9",
       "title": "Vieni a giocare a minibasket",
       "rawText": "Evento Vieni a giocare a minibasket 21 Settembre 2025 con ASD Minibasket Trento e con i campioni e lo staff di Aquila basket al giardino di Piazza Venezia",
       "image": "",
       "candidateKey": "e4d3d3cd2bed2bc5f1ee6b2a",
-      "candidateSignature": "876501ddf1e06cad251a2829"
+      "candidateSignature": "fa7adba3fc5dd5d31789f094"
     },
     {
       "sourceId": "comune_trento_events",
@@ -26701,13 +26668,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2200?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2180?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi33",
       "title": "Mercato del giovedì",
       "rawText": "Evento Mercato del giovedì 4 Dicembre 2025 Mercato settimanale nel centro storico di Trento che si svolge tutti i giovedì dalle 7:15 alle 14:00 nel centro storico della città.",
       "image": "",
       "candidateKey": "e56be0564db0bc2bf5ac9891",
-      "candidateSignature": "a7ae408f593dcce1f7f0f06d"
+      "candidateSignature": "7ef1461f1d5d68395ac7f199"
     },
     {
       "sourceId": "comune_trento_events",
@@ -27163,13 +27130,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2180?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2160?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Orto-Aperto7",
       "title": "Orto Aperto",
       "rawText": "Evento Orto Aperto 31 Luglio 2025 Verdure, relazioni e idee fresche. Aperto sempre, e per tutt*",
       "image": "",
       "candidateKey": "e9b574c1659e65919cf189d1",
-      "candidateSignature": "2f64ec72e90c97602f1b87b7"
+      "candidateSignature": "8df8f3e30bd34f7bf755cfbe"
     },
     {
       "sourceId": "comune_trento_events",
@@ -27372,13 +27339,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2780?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2760?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/La-Ganzega",
       "title": "La Ganzega",
       "rawText": "Evento La Ganzega 14 Giugno 2025 Un tuffo nel passato. Per la sua sesta edizione, la Ganzega dei Ciusi e dei Gobj si terrà interamente nella suggestiva cornice di piazza Duomo.",
       "image": "",
       "candidateKey": "eb58ffb6196fba7c7637f27b",
-      "candidateSignature": "f6bf3ca9b38df150c0ecc1f9"
+      "candidateSignature": "3e2b097af0ece807399753db"
     },
     {
       "sourceId": "comune_trento_events",
@@ -27405,13 +27372,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2620?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2600?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Le-Assaggiatrici-regia-Silvio-Soldini",
       "title": "Le Assaggiatrici, regia Silvio Soldini",
       "rawText": "Evento Le Assaggiatrici, regia Silvio Soldini 5 Agosto 2025 Cinema Capovolto",
       "image": "",
       "candidateKey": "eb93f54adc91aa682f18aa30",
-      "candidateSignature": "38840f49b412dd1b440b1e80"
+      "candidateSignature": "6e54b10c1d98ed7c19b677b9"
     },
     {
       "sourceId": "comune_trento_events",
@@ -27526,13 +27493,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1980?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/1960?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Vieni-a-giocare-a-minibasket8",
       "title": "Vieni a giocare a minibasket",
       "rawText": "Evento Vieni a giocare a minibasket 14 Settembre 2025 con ASD Minibasket Trento e con i campioni e lo staff di Aquila basket al giardino di Piazza Venezia",
       "image": "",
       "candidateKey": "ecadea58c9f211b46c31405a",
-      "candidateSignature": "00e6f34e9fb74ad488624e47"
+      "candidateSignature": "0f5e5572cff58d99b7959f65"
     },
     {
       "sourceId": "comune_trento_events",
@@ -27614,13 +27581,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2420?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2400?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Le-forme-dell-acqua-fontane-rogge-e-piscine-di-Trento24",
       "title": "Le forme dell'acqua: fontane, rogge e piscine di Trento",
       "rawText": "Evento Le forme dell'acqua: fontane, rogge e piscine di Trento 22 Luglio 2025 Esposizione di libri e documenti della Biblioteca e dell'Archivio storico nell'ambito dell'iniziativa Fiori al Centro 2025.",
       "image": "",
       "candidateKey": "ed681c6fccdc2347f20ac695",
-      "candidateSignature": "f361587989c6ad819e8e7f5d"
+      "candidateSignature": "b9807d46e7fb122794f6db12"
     },
     {
       "sourceId": "comune_trento_events",
@@ -27944,13 +27911,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2320?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2300?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Tommy",
       "title": "Tommy",
       "rawText": "Evento Tommy 24 Luglio 2025 HarpoLab Centro culturale per il cinema e l’immagine.",
       "image": "",
       "candidateKey": "f0be9c9899ed36d0d9a4257e",
-      "candidateSignature": "6bbca8b3d33f7db5f2418d34"
+      "candidateSignature": "bbbf2d0e31dac17a8d3b8e91"
     },
     {
       "sourceId": "comune_trento_events",
@@ -27988,13 +27955,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2020?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2000?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Tut-Gardol-n-Festa-20253",
       "title": "\"Tut Gardol 'n Festa\" 2025",
       "rawText": "Evento \"Tut Gardol 'n Festa\" 2025 14 Settembre 2025 Tre giorni di vita per Gardolo con &quot;Tut Gardol en festa&quot;",
       "image": "",
       "candidateKey": "f1725c49890c8dc7eff3e281",
-      "candidateSignature": "1fdb2b41cd136ab511a860d9"
+      "candidateSignature": "a43d8cdd8c94923c9c458434"
     },
     {
       "sourceId": "comune_trento_events",
@@ -28186,13 +28153,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2560?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2540?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Zumba-fitness9",
       "title": "Zumba fitness",
       "rawText": "Evento Zumba fitness 10 Luglio 2025 con l'Associazione Pro Loco Ravina aps",
       "image": "",
       "candidateKey": "f38bba740491294b800115a3",
-      "candidateSignature": "3fca450db43722e8463ff50e"
+      "candidateSignature": "30a1ff86a6d5a7f4fd096f46"
     },
     {
       "sourceId": "comune_trento_events",
@@ -28307,13 +28274,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2840?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2820?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/E-bike-experience-Tour-guidato-tra-i-paesaggi-del-monte-Bondone",
       "title": "E-bike experience: Tour guidato tra i paesaggi del monte Bondone",
       "rawText": "Evento E-bike experience: Tour guidato tra i paesaggi del monte Bondone 12 Luglio 2025 Escursione guidata con accompagnatore di e-mtb lungo i percorsi più caratteristici e panoramici del Monte Bondone.",
       "image": "",
       "candidateKey": "f42ec109c688fbb003424511",
-      "candidateSignature": "784f59cb1347abc9745e9765"
+      "candidateSignature": "d9f0bb360b2e619551a35f70"
     },
     {
       "sourceId": "comune_trento_events",
@@ -28989,13 +28956,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2020?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2000?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Cena-in-contrada",
       "title": "Cena in contrada",
       "rawText": "Evento Cena in contrada 30 Agosto 2025 Una cena insieme in una fantastica location nel cuore del centro storico di Mattarello",
       "image": "",
       "candidateKey": "fb34021dd5e26c367b9a8576",
-      "candidateSignature": "9f9c5ece356533b7f1d8648a"
+      "candidateSignature": "6d19178978ef1d05af778cf8"
     },
     {
       "sourceId": "comune_trento_events",
@@ -29143,13 +29110,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2040?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2020?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Contrasti-2025-XI-edizione",
       "title": "Contrasti 2025 - XI edizione",
       "rawText": "Evento Contrasti 2025 - XI edizione 20 Agosto 2025 L’Associazione MotoContrario di Trento è orgogliosa di presentare il Festival Contrasti 2025.",
       "image": "",
       "candidateKey": "fc7a0719398b179f007bda0e",
-      "candidateSignature": "9fab727965aba215d1146e70"
+      "candidateSignature": "ec7d260415453efd4edc4bfd"
     },
     {
       "sourceId": "comune_trento_events",
@@ -29253,13 +29220,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2280?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2260?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/La-Direttissima-R-K1000",
       "title": "La Direttissima® K1000",
       "rawText": "Evento La Direttissima® K1000 24 Agosto 2025 Vivi la sfida. Accendi la tua passione.",
       "image": "",
       "candidateKey": "fdb5f5aaf34339ee74a02ef5",
-      "candidateSignature": "0965d51d3e17bbf601be32f7"
+      "candidateSignature": "9f8b4d59e6aaf1aa9ff2cf90"
     },
     {
       "sourceId": "comune_trento_events",
@@ -29429,13 +29396,13 @@
     {
       "sourceId": "comune_trento_events",
       "sourceName": "Agenda Trento - official Comune di Trento agenda",
-      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2360?Order=desc",
+      "pageUrl": "https://eventi.comune.trento.it/content/search/%28offset%29/2340?Order=desc",
       "detailUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-Torre-Civica",
       "title": "Visita guidata alla Torre Civica",
       "rawText": "Evento Visita guidata alla Torre Civica da 4 Luglio 2025 Visitare la Torre Civica è un'esperienza irrinunciabile!",
       "image": "",
       "candidateKey": "fef1c24b17dacf87f6ef3c49",
-      "candidateSignature": "6ff989e86940ded3f1d6dc7c"
+      "candidateSignature": "1635808cee48761fab697603"
     },
     {
       "sourceId": "comune_trento_events",
@@ -29561,35 +29528,57 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
       "title": "Dal fucile alla matita",
       "rawText": "Dal fucile alla matita | 01.06 - 11.10.2026 | Riva del Garda | - Forte Garda | 10:00 - 17:00 | Aerovita | 31.05 - 23.12.2026 (",
       "image": "",
       "candidateKey": "0641941bb03e870dd62b3f2a",
-      "candidateSignature": "23de0248fef590b2a11e8a48"
+      "candidateSignature": "4630662d72e1f17e35846786"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
       "title": "Sagra di Vezzano",
       "rawText": "Sagra di Vezzano | 04.09 - 06.09.2026 | Vezzano | - Piazza S. Valentino 5 | 10:00 - 00:00 | Ultimate Landscapes | 19.12 - 21.12.2026 (",
       "image": "",
       "candidateKey": "08794d88f528a92710d49b06",
-      "candidateSignature": "f141aba9f75cd0cd58ee627e"
+      "candidateSignature": "a354482a30538e494a04b52a"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
       "detailUrl": "",
-      "title": "Reboro, Territorio & Passione",
-      "rawText": "Reboro, Territorio & Passione | 16.10 - 17.10.2026 | Vezzano | 55-63 / 82 | < | Previous | 1",
+      "title": "Riva del Garda’s Weekly Market",
+      "rawText": "Riva del Garda’s Weekly Market | 09.09 2026 | Riva del Garda | 08:00 - 14:00 | Other available dates | Terlago Sport Festival | 09.09 - 13.09.2026",
       "image": "",
-      "candidateKey": "0f17a729d9be80e3f07a945c",
-      "candidateSignature": "7b56b2d05c7fb42d7d32a32e"
+      "candidateKey": "146dbb749f74724ad9ddadcd",
+      "candidateSignature": "17cf24be84b2dbff10b0dccb"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
+      "detailUrl": "",
+      "title": "Frantoi Aperti",
+      "rawText": "Frantoi Aperti | 07.11 - 08.11.2026 | Riva del Garda | 64-72 / 83 | < | Previous | 1",
+      "image": "",
+      "candidateKey": "1552266a5a1f8b255d55de03",
+      "candidateSignature": "2f33d160f1f60721bfe52f54"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
+      "detailUrl": "",
+      "title": "Festa del Broccolo",
+      "rawText": "Festa del Broccolo | 17.01 2027 | Torbole sul Garda | - Piazza Lietzmann | 11:30 - 14:30 | 82-83 / 83 | <",
+      "image": "",
+      "candidateKey": "15a9035fd005b42cf489513f",
+      "candidateSignature": "17729c57e04420c0036e68ea"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -29616,13 +29605,13 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
       "detailUrl": "",
       "title": "Mercato contadino Tenno",
       "rawText": "Mercato contadino Tenno | 25.06 - 30.09.2026 ( | Every Thursday | ) | Tenno | - Loc. Lago di Tenno | 08:00 - 12:00",
       "image": "",
       "candidateKey": "1b84c82383bfe6435fbcbe20",
-      "candidateSignature": "c7b88518ccf57b43cfc5d90d"
+      "candidateSignature": "a1996cc29b2c393042cd32ea"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -29645,17 +29634,6 @@
       "image": "",
       "candidateKey": "1cd15082e42d2a699f08d409",
       "candidateSignature": "b23c684dddd8594bebf6578a"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-      "detailUrl": "",
-      "title": "Festival Intermittenze",
-      "rawText": "Festival Intermittenze | 24.09 - 27.09.2026 | Riva del Garda | top | Sponde. Freshwater fish on the table | 25.09 2026 | Riva del Garda",
-      "image": "",
-      "candidateKey": "1df8b5c19aa295f0ddad7bbc",
-      "candidateSignature": "c14673b042d2661d1a3edc15"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -29693,17 +29671,6 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-      "detailUrl": "",
-      "title": "Farmers' market in Riva del Garda",
-      "rawText": "Farmers' market in Riva del Garda | 01.01 - 28.12.2026 ( | Every Friday | ) | Riva del Garda | 08:30 - 13:00 | Sagra della Lumaca",
-      "image": "",
-      "candidateKey": "27efa3eb70113bd51a0e720e",
-      "candidateSignature": "d614c1210c24b72cee779e9c"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
       "detailUrl": "",
       "title": "Christmas Market in Rango",
@@ -29711,28 +29678,6 @@
       "image": "",
       "candidateKey": "2d9d5e50b2430260256c1d54",
       "candidateSignature": "bacae0e3be5165f176004d18"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-      "detailUrl": "",
-      "title": "Riva del Garda’s Weekly Market",
-      "rawText": "Riva del Garda’s Weekly Market | 09.09 2026 | Riva del Garda | 08:00 - 14:00 | Other available dates | Festival napoletano | 11.09 - 13.09.2026",
-      "image": "",
-      "candidateKey": "304d69226a7e14ac68a10649",
-      "candidateSignature": "ccea06fb533be5d1b1b00afd"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-      "detailUrl": "",
-      "title": "International Chess Tournament Città di Arco",
-      "rawText": "International Chess Tournament Città di Arco | 03.10 - 11.10.2026 | Arco | - Viale delle Palme | 15:00 - 20:00 | Ganzega d'Autunno | 03.10 - 04.10.2026",
-      "image": "",
-      "candidateKey": "3254f32518866632a5333ef8",
-      "candidateSignature": "8a1336447f43bd16f38fb204"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -29759,13 +29704,35 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
       "title": "Aerovita",
       "rawText": "Aerovita | 31.05 - 23.12.2026 ( | Every Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday | ) | Arco | - Via Segantini 9 | 10:00 - 18:00",
       "image": "",
       "candidateKey": "356c1cf1d1c0ee88a1618582",
-      "candidateSignature": "39398e8008040987c3cdb2ed"
+      "candidateSignature": "16ffeeff407b8ed0825fe6a0"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "detailUrl": "",
+      "title": "Bio Bike Tour",
+      "rawText": "Bio Bike Tour | 05.09 2026 | Ronzo Chienis | - Via del Càr 4 | 09:00 - 18:00 | Dalla Svizzera, all'Austria, fino ad Arco | 05.09 2026",
+      "image": "",
+      "candidateKey": "3741ebd1dd630706ec6592bf",
+      "candidateSignature": "156a9148f7d9626279291d8a"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "detailUrl": "",
+      "title": "Mese del Gusto",
+      "rawText": "Mese del Gusto | 25.09 - 27.09.2026 | Riva del Garda | Other available dates | top | Sponde. Freshwater fish on the table | 25.09 2026",
+      "image": "",
+      "candidateKey": "3a2d4ff04c30fc9ee39f22fc",
+      "candidateSignature": "dca7a8b06aa3bdc1283dede3"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -29794,11 +29761,11 @@
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
       "detailUrl": "",
-      "title": "Festa del Broccolo",
-      "rawText": "Festa del Broccolo | 17.01 2027 | Torbole sul Garda | - Piazza Lietzmann | 11:30 - 14:30 | 82-82 / 82 | <",
+      "title": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE",
+      "rawText": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE | 26.12 - 28.12.2026 | Lundo | 17:00 - 21:00 | Festa del Broccolo | 17.01 2027 | Torbole sul Garda",
       "image": "",
-      "candidateKey": "3f44898f4e319e3a2ad29539",
-      "candidateSignature": "657a5cb2e71611b43206f23d"
+      "candidateKey": "421c2197c699e25362327ab2",
+      "candidateSignature": "ea38c3f5345fe23d3466d7f7"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -29825,6 +29792,17 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+      "detailUrl": "",
+      "title": "Judith Hill",
+      "rawText": "Judith Hill | 15.10 2026 | Vezzano | - Via Antonio Stoppani 16 | 21:00 - 22:30 | Bookable online | 55-63 / 83",
+      "image": "",
+      "candidateKey": "4d52de3e37d323a5e5024be9",
+      "candidateSignature": "bfc91f9bce2bb046aad343c9"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
       "detailUrl": "",
       "title": "From Taste to Taste",
@@ -29843,6 +29821,17 @@
       "image": "",
       "candidateKey": "55b96af550351f25a330db25",
       "candidateSignature": "15c951022f6e1c26d5a55b17"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
+      "detailUrl": "",
+      "title": "Reboro, Territorio & Passione",
+      "rawText": "Reboro, Territorio & Passione | 16.10 - 17.10.2026 | Vezzano | Quando la musica racconta | 17.10 2026 | Riva del Garda | - Largo Marconi 5,",
+      "image": "",
+      "candidateKey": "5a2c3ffa5d701ea4cc15a398",
+      "candidateSignature": "220c6a4c49018d0332cceb4f"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -29869,90 +29858,24 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
       "title": "Ultimate Landscapes",
       "rawText": "Ultimate Landscapes | 19.12 - 21.12.2026 ( | Every Friday, Saturday, Sunday | ) | Riva del Garda | - Piazza C. Battisti 3/A | 10:00 - 18:00",
       "image": "",
       "candidateKey": "5efb7171bc237afba9375428",
-      "candidateSignature": "bb68b2a40c27394442607a56"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-      "detailUrl": "",
-      "title": "Gamberi, Festival delle acque",
-      "rawText": "Gamberi, Festival delle acque | 04.09 2026 | Ponte Arche | - Piazza Mercato, | Comano | 17:30 - 19:00 | Other available dates",
-      "image": "",
-      "candidateKey": "5f338e2279044c258889125a",
-      "candidateSignature": "cf31f14962a59add4db0563a"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-      "detailUrl": "",
-      "title": "Judith Hill",
-      "rawText": "Judith Hill | 15.10 2026 | Vezzano | - Via Antonio Stoppani 16 | 21:00 - 22:30 | Bookable online | top",
-      "image": "",
-      "candidateKey": "5fdaf6d81a4914b478717429",
-      "candidateSignature": "43d79cddca04228be01d02bd"
+      "candidateSignature": "06faae8d1203f089abf8a257"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
-      "title": "80 Years of l’Adige",
-      "rawText": "80 Years of l’Adige | 03.09 2026 | Riva del Garda | 18:00 - 21:00 | Mercato contadino Tenno | 25.06 - 30.09.2026 ( | Every Thursday",
-      "image": "",
-      "candidateKey": "6124278d3636c4a6829d54c6",
-      "candidateSignature": "75e37b6cf9ef3448fa1a3100"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-      "detailUrl": "",
-      "title": "Mese del Gusto",
-      "rawText": "Mese del Gusto | 25.09 - 27.09.2026 | Riva del Garda | Other available dates | Trentodoc Festival | 25.09 - 27.09.2026 | Madruzzo",
-      "image": "",
-      "candidateKey": "6187f68961ca349eac0fde54",
-      "candidateSignature": "9b80e5c6b9d8440b1aee60f3"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-      "detailUrl": "",
-      "title": "Fiera di San Michele",
-      "rawText": "Fiera di San Michele | 26.09 2026 | Pieve di Ledro | - Viale A. Foletto | 08:00 - 02:00 | 37-45 / 82 | <",
-      "image": "",
-      "candidateKey": "645001afec903138ee735673",
-      "candidateSignature": "ebe2a978bd062e3c11313c31"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
-      "detailUrl": "",
-      "title": "Frantoi Aperti",
-      "rawText": "Frantoi Aperti | 07.11 - 08.11.2026 | Riva del Garda | top | Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore)",
-      "image": "",
-      "candidateKey": "64d2370f00f8812f357a3eb3",
-      "candidateSignature": "a27ce3aeeef22964352469b4"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-      "detailUrl": "",
       "title": "Sagra della Lumaca",
       "rawText": "Sagra della Lumaca | 04.09 2026 | Varone | - Via Pernone | 19:00 - 00:00 | Other available dates | Sagra di Vezzano",
       "image": "",
       "candidateKey": "6674ef490b26895233b5de78",
-      "candidateSignature": "a6ab222306d1dd4ae3308015"
+      "candidateSignature": "fb3a259a474246d3a5def549"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -29975,6 +29898,28 @@
       "image": "",
       "candidateKey": "7a980c1ea39020461aba7be8",
       "candidateSignature": "bfdb35af4f09556ff3b568fd"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "detailUrl": "",
+      "title": "Market in Pieve di Ledro",
+      "rawText": "Market in Pieve di Ledro | 04.06 - 24.09.2026 ( | Every Thursday | ) | Pieve di Ledro | 08:00 - 17:00 | Festival napoletano",
+      "image": "",
+      "candidateKey": "7b4087b5b6b3f951e3264941",
+      "candidateSignature": "c57e50772a3050a3c280c4d8"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+      "detailUrl": "",
+      "title": "Festa della Pace",
+      "rawText": "Festa della Pace | 19.09 - 20.09.2026 | Arco | - via Donatori di Sangue 2 | 10:00 - 22:00 | 28-36 / 83 | <",
+      "image": "",
+      "candidateKey": "7cf27047f67cfcf0014eb80a",
+      "candidateSignature": "1c8372d6d62193f1d15422d8"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -30012,6 +29957,17 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
+      "detailUrl": "",
+      "title": "Festa della Noce",
+      "rawText": "Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore) | - Cavrasto square | top | Alchimie d'autunno | 07.11 2026",
+      "image": "",
+      "candidateKey": "8fd4f34202b32e4e6958d372",
+      "candidateSignature": "21eed92e326c68279b4a288f"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
       "title": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
@@ -30034,6 +29990,17 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "detailUrl": "",
+      "title": "Garda Lift On Fire",
+      "rawText": "Garda Lift On Fire | 26.09 2026 | Riva del Garda | 15:00 - 00:00 | 37-45 / 83 | < | Previous",
+      "image": "",
+      "candidateKey": "9eb6bf7396abbb44d1c8cfc8",
+      "candidateSignature": "6af0c4fce4fd6303bc780da1"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
       "detailUrl": "",
       "title": "Grasparola",
@@ -30045,17 +30012,6 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-      "detailUrl": "",
-      "title": "Garda Lift On Fire",
-      "rawText": "Garda Lift On Fire | 26.09 2026 | Riva del Garda | 15:00 - 00:00 | Fiera di San Michele | 26.09 2026 | Pieve di Ledro",
-      "image": "",
-      "candidateKey": "a2e4181bcd669e7bf58d76fd",
-      "candidateSignature": "323c864cdce10a53d416cd64"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
       "title": "Beyond the finish line",
@@ -30063,17 +30019,6 @@
       "image": "",
       "candidateKey": "a325f1a073fcd12b7c7aaf85",
       "candidateSignature": "3dae87336ff34b8bceaa2232"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-      "detailUrl": "",
-      "title": "Ganzega d'Autunno",
-      "rawText": "Ganzega d'Autunno | 03.10 - 04.10.2026 | Mori | - Piazza Cal di Ponte | 18:00 - 23:00 | 46-54 / 82 | <",
-      "image": "",
-      "candidateKey": "a72b698d3b315cea917eb499",
-      "candidateSignature": "5dad04542298b7f46f8699ac"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -30100,17 +30045,6 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-      "detailUrl": "",
-      "title": "Il Grimorio, le Leggende e il Castello",
-      "rawText": "Il Grimorio, le Leggende e il Castello | 05.09 - 06.09.2026 | Drena | - Via al Castello | 10:00 - 19:00 | I Forti si raccontano | 06.09 2026",
-      "image": "",
-      "candidateKey": "b00af31f234c21c1e701af2f",
-      "candidateSignature": "4a237026331d205e90b8bbf4"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
       "detailUrl": "",
       "title": "FINE #WineTourism Marketplace Italy",
@@ -30133,13 +30067,13 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
       "title": "Dalla Svizzera, all'Austria, fino ad Arco",
       "rawText": "Dalla Svizzera, all'Austria, fino ad Arco | 05.09 2026 | Bolognano | - Viale Stazione 6 | 18:30 - 21:00 | Other available dates | Ledro Express",
       "image": "",
       "candidateKey": "b961b18d018d41ae5ba1ddd1",
-      "candidateSignature": "499d5a8a4c55a2bbe70868e4"
+      "candidateSignature": "dd56c5d41b8447e67e8dd25a"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -30151,17 +30085,6 @@
       "image": "",
       "candidateKey": "bb3e27226d3c8b94cb2389ba",
       "candidateSignature": "98d28635b5edfd57e821165c"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-      "detailUrl": "",
-      "title": "Bio Bike Tour",
-      "rawText": "Bio Bike Tour | 05.09 2026 | Ronzo Chienis | - Via del Càr 4 | 09:00 - 18:00 | 10-18 / 82 | <",
-      "image": "",
-      "candidateKey": "bc4aa62acdf57d1c6fb2989f",
-      "candidateSignature": "532a4b4ddbc9c102765d9c07"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -30188,6 +30111,28 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "detailUrl": "",
+      "title": "Trentino Gravel",
+      "rawText": "Trentino Gravel | 25.09 - 30.09.2026 | Riva del Garda | Bookable online | Trentodoc Festival | 25.09 - 27.09.2026 | Madruzzo",
+      "image": "",
+      "candidateKey": "c1a67ea232159878bba711c0",
+      "candidateSignature": "8f39543153c84edd46c2ba17"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "detailUrl": "",
+      "title": "Visitate il Garda!",
+      "rawText": "Visitate il Garda! | 04.07 - 30.09.2026 | Riva del Garda | - Piazza C. Battisti 3/A | 10:00 - 18:00 | Other available dates | Sagra della Lumaca",
+      "image": "",
+      "candidateKey": "c2fd6fe777938b7fbfa43ae3",
+      "candidateSignature": "d680131864f6e9c9fe078b35"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
       "detailUrl": "",
       "title": "Museo nella città",
@@ -30210,13 +30155,24 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
       "detailUrl": "",
-      "title": "Festa della Noce",
-      "rawText": "Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore) | - Cavrasto square | 64-72 / 82 | < | Previous",
+      "title": "Ganzega d'Autunno",
+      "rawText": "Ganzega d'Autunno | 03.10 - 04.10.2026 | Mori | - Piazza Cal di Ponte | 18:00 - 23:00 | top | Laghet con gusto",
       "image": "",
-      "candidateKey": "cd82bdf4081f8cc6d89fa13e",
-      "candidateSignature": "1db83b5036b9476659936eca"
+      "candidateKey": "d029933ebb32617025b2fd40",
+      "candidateSignature": "a27c9938c54f3ffa7d585e5e"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "detailUrl": "",
+      "title": "Festival Intermittenze",
+      "rawText": "Festival Intermittenze | 24.09 - 27.09.2026 | Riva del Garda | top | Mese del Gusto | 25.09 - 27.09.2026 | Riva del Garda",
+      "image": "",
+      "candidateKey": "d1d075c6bcbe4d061465b8c6",
+      "candidateSignature": "70117e9286b5ce31d1e96040"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -30245,17 +30201,6 @@
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
       "detailUrl": "",
-      "title": "Festa della Pace",
-      "rawText": "Festa della Pace | 19.09 - 20.09.2026 | Arco | - via Donatori di Sangue 2 | 10:00 - 22:00 | 28-36 / 82 | <",
-      "image": "",
-      "candidateKey": "d7308fb40844c8e15754af3a",
-      "candidateSignature": "947a3a2b4865c48af9a0b4af"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
-      "detailUrl": "",
       "title": "Die Dreigroschenoper",
       "rawText": "Die Dreigroschenoper | 11.09 2026 | Arco | - Via delle Palme, | Riva del Garda | - Viale Rosmini 5 | 21:00 - 23:00",
       "image": "",
@@ -30265,13 +30210,35 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "detailUrl": "",
+      "title": "Display al Forte di Nago",
+      "rawText": "Display al Forte di Nago | 11.07 - 31.10.2026 ( | Every Thursday, Friday, Saturday | ) | Nago | - Via al Castèl Pénede | 10:00 - 12:30",
+      "image": "",
+      "candidateKey": "de0c09633cce0914cfb88371",
+      "candidateSignature": "4c3611dcf07f65b2201da0f4"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
       "detailUrl": "",
       "title": "Aspettando il Natale",
-      "rawText": "Aspettando il Natale | 19.12 2026 | Ronzo Chienis | - Via Teatro 13/B | 16:30 - 20:30 | Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE | 26.12 - 28.12.2026",
+      "rawText": "Aspettando il Natale | 19.12 2026 | Ronzo Chienis | - Via Teatro 13/B | 16:30 - 20:30 | 73-81 / 83 | <",
       "image": "",
-      "candidateKey": "e0494050a63e66a19bc6a4a8",
-      "candidateSignature": "d6e8981f73604c59b8f1788a"
+      "candidateKey": "de6995cc700423deda9f9adc",
+      "candidateSignature": "7ec70e3f08ecdad55ae7ac6e"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+      "detailUrl": "",
+      "title": "Fiera di San Michele",
+      "rawText": "Fiera di San Michele | 26.09 2026 | Pieve di Ledro | - Viale A. Foletto | 08:00 - 02:00 | Gianni Morandi live in Torbole sul Garda | 26.09 2026",
+      "image": "",
+      "candidateKey": "df06fc6f92b2c2606bdfd68a",
+      "candidateSignature": "5b41e827d11627a280658524"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -30287,13 +30254,24 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
       "title": "Ledro Express",
       "rawText": "Ledro Express | 05.09 2026 | Molina di Ledro | - Via al Lago 1 | 10:00 - 17:00 | Il Grimorio, le Leggende e il Castello | 05.09 - 06.09.2026",
       "image": "",
       "candidateKey": "e1411c673969f84b7a1a4b96",
-      "candidateSignature": "be10a9b2530976b3f669c568"
+      "candidateSignature": "50d92fe72340b17d380db91b"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+      "detailUrl": "",
+      "title": "International Chess Tournament Città di Arco",
+      "rawText": "International Chess Tournament Città di Arco | 03.10 - 11.10.2026 | Arco | - Viale delle Palme | 15:00 - 20:00 | 46-54 / 83 | <",
+      "image": "",
+      "candidateKey": "e1f26ddec7e2bf5873b0ae5e",
+      "candidateSignature": "d9e5eb96216d190ffaf62cfe"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -30320,24 +30298,13 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
-      "detailUrl": "",
-      "title": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE",
-      "rawText": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE | 26.12 - 28.12.2026 | Lundo | 17:00 - 21:00 | 73-81 / 82 | < | Previous",
-      "image": "",
-      "candidateKey": "e682bce6cb5491844cdda9fa",
-      "candidateSignature": "05b1e2ccdf7b0e4c8f05e119"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
-      "title": "Market in Pieve di Ledro",
-      "rawText": "Market in Pieve di Ledro | 04.06 - 24.09.2026 ( | Every Thursday | ) | Pieve di Ledro | 08:00 - 17:00 | Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "title": "Gamberi. Il Festival delle acque",
+      "rawText": "Gamberi. Il Festival delle acque | 04.09 2026 | Ponte Arche | - Piazza Mercato, | Comano | 17:30 - 19:00 | Other available dates",
       "image": "",
-      "candidateKey": "e82b73c18735fe331c6e507f",
-      "candidateSignature": "783d7ac9808b7b0d702fb864"
+      "candidateKey": "e88eff76af8f0a22db77b9c2",
+      "candidateSignature": "d86118e6ec8c7ac21bff7ba1"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -30353,17 +30320,6 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-      "detailUrl": "",
-      "title": "Visitate il Garda!",
-      "rawText": "Visitate il Garda! | 04.07 - 30.09.2026 | Riva del Garda | - Piazza C. Battisti 3/A | 10:00 - 18:00 | Other available dates | Market in Pieve di Ledro",
-      "image": "",
-      "candidateKey": "edfe402c96c60f1fba43861a",
-      "candidateSignature": "c2e8de1d2bc41041e3aae9aa"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
       "detailUrl": "",
       "title": "Quando la musica racconta",
@@ -30375,17 +30331,6 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-      "detailUrl": "",
-      "title": "Display al Forte di Nago",
-      "rawText": "Display al Forte di Nago | 11.07 - 06.09.2026 ( | Every Thursday, Friday, Saturday | ) | Nago | - Via al Castèl Pénede | 10:00 - 12:30",
-      "image": "",
-      "candidateKey": "ef8183b03f21fcdda92ebbb4",
-      "candidateSignature": "0d196737b3eea5192fe5c5eb"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
       "detailUrl": "",
       "title": "Traubenkur in Arco",
@@ -30393,6 +30338,17 @@
       "image": "",
       "candidateKey": "f00285e3e73999558e99b804",
       "candidateSignature": "3110e1040c86ae688378dd99"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "detailUrl": "",
+      "title": "Farmers' market in Riva del Garda",
+      "rawText": "Farmers' market in Riva del Garda | 01.01 - 28.12.2026 ( | Every Friday | ) | Riva del Garda | 08:30 - 13:00 | Visitate il Garda!",
+      "image": "",
+      "candidateKey": "f4d37ac8064e70f8e04219e1",
+      "candidateSignature": "fbb4bc440552bfd09000a914"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -30419,6 +30375,17 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "detailUrl": "",
+      "title": "Il Grimorio, le Leggende e il Castello",
+      "rawText": "Il Grimorio, le Leggende e il Castello | 05.09 - 06.09.2026 | Drena | - Via al Castello | 10:00 - 19:00 | Spokes of Design | 05.09 - 25.10.2026 (",
+      "image": "",
+      "candidateKey": "f9f167162ed1b822dc43bd32",
+      "candidateSignature": "6be59cfea05084082595571c"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
       "detailUrl": "",
       "title": "Garda Rookie Fest",
@@ -30426,6 +30393,17 @@
       "image": "",
       "candidateKey": "fa2982954e60403bd423bda5",
       "candidateSignature": "311d46ceece2c05038139c6f"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "detailUrl": "",
+      "title": "Terlago Sport Festival",
+      "rawText": "Terlago Sport Festival | 09.09 - 13.09.2026 | Terlago | Mercato contadino Tenno | 25.06 - 30.09.2026 ( | Every Thursday | )",
+      "image": "",
+      "candidateKey": "fb5798e9578d9a1b09484440",
+      "candidateSignature": "416541eee79c1e7e72a369d0"
     },
     {
       "sourceId": "trentino_cultura_appuntamenti",
@@ -36810,6 +36788,17 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-04&end_event_date=2026-09-04&filter_ref=today",
+      "title": "Oggi",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "11a36381e9c2445a87e57f86",
+      "candidateSignature": "12e5c177af9496bc51129137"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=10",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/a-spasso-con-la-cadalora",
       "title": "A spasso con La Cadalora",
@@ -36883,6 +36872,17 @@
       "image": "https://www.visitrovereto.it/wp-content/uploads/2023/10/Giro-Podistico-Rovereto.png",
       "candidateKey": "25124c1b78abc584ed5be25e",
       "candidateSignature": "0d9342b7c616d1cb535823ce"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-04&end_event_date=2026-09-11&filter_ref=week",
+      "title": "7 giorni",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "257da896fd43b433b2a7918d",
+      "candidateSignature": "f2e3005631b1901edd60c162"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37037,6 +37037,17 @@
       "image": "https://www.visitrovereto.it/wp-content/uploads/2025/05/E-noi-che-ne-sappiamo-Mostra-MITAG.jpg",
       "candidateKey": "444ab9064cdf8e4cf475b30d",
       "candidateSignature": "8a389a4a367866f467af899e"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-04&end_event_date=2026-10-04&filter_ref=month",
+      "title": "30 giorni",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "4955f1d4a3e8a7559bf680da",
+      "candidateSignature": "4022912f504effb73f44647b"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37338,17 +37349,6 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-03&end_event_date=2026-10-03&filter_ref=month",
-      "title": "30 giorni",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "9213eace358729bbc250782a",
-      "candidateSignature": "f371c5044538d6989dd37f6b"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/incontrarti",
       "title": "IncontrArti",
@@ -37404,17 +37404,6 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-03&end_event_date=2026-09-03&filter_ref=today",
-      "title": "Oggi",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "98fc4b2e38862b42c1dde180",
-      "candidateSignature": "38b2b9e4ecd5a09933ff6823"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=11",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/sulle-rotte-del-cioccolato",
       "title": "Sulle rotte del cioccolato",
@@ -37433,17 +37422,6 @@
       "image": "",
       "candidateKey": "a1fdd682053f7170844f0bde",
       "candidateSignature": "4a7b4ca789c4494b63ad1424"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-03&end_event_date=2026-09-10&filter_ref=week",
-      "title": "7 giorni",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "a2372f9bf0237674b818da64",
-      "candidateSignature": "7db4aca3c6040e0d509c6730"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37701,17 +37679,6 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-04&end_event_date=2026-09-04&filter_ref=tomorrow",
-      "title": "Domani",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "d5ebc0a5b1c1ede5ef2b18ee",
-      "candidateSignature": "828f49badc324d20b28e40aa"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=8&lang=it",
       "title": "8",
@@ -37774,6 +37741,17 @@
       "image": "https://www.visitrovereto.it/wp-content/uploads/2026/04/TESORI-NASCOSTI-A-VILLA-LAGARINA-Trekking-urbani-Luca-Matassoni-1.jpg",
       "candidateKey": "db13ffcaf986056f4e47678e",
       "candidateSignature": "05a8bf92afaf6dfacdf596b5"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-05&end_event_date=2026-09-05&filter_ref=tomorrow",
+      "title": "Domani",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "db6c474d5760972270aeb667",
+      "candidateSignature": "9afb38b70f0ea5f48a31024a"
     },
     {
       "sourceId": "visitrovereto_events",
