@@ -4551,6 +4551,39 @@
     ]
   },
   {
+    "id": "perlarte-2026",
+    "name": {
+      "de": "Perlarte",
+      "en": "Perlarte",
+      "it": "Perlarte"
+    },
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Perlarte“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Perlarte” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Perlarte” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/perlarte",
+    "source": "Rovereto Estate programme",
+    "verified": "2026-09-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Perlarte-Mart.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/perlarte"
+    ]
+  },
+  {
     "id": "sagra-della-grotta-2026",
     "name": {
       "de": "Sagra della Grotta 2026",
@@ -4704,6 +4737,38 @@
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
     "verified": "2026-08-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "bio-bike-tour-2026",
+    "name": {
+      "de": "Bio Bike Tour",
+      "en": "Bio Bike Tour",
+      "it": "Bio Bike Tour"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-09-06",
+    "startTime": "09:00",
+    "municipality": "Ronzo Chienis",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Ronzo Chienis",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Bio Bike Tour“ in Ronzo Chienis. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Bio Bike Tour” event in Ronzo Chienis. See the official event page for the latest details.",
+      "it": "Evento “Bio Bike Tour” a Ronzo Chienis. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
@@ -5159,10 +5224,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-28",
+    "verified": "2026-09-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
@@ -5455,6 +5521,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Tra-vita-e-musica-di-un-liutaio-di-montagna-Incontro-con-Nicola-Segatta-autore-del-libro-Di-suoni-di-legni-e-di-tempeste"
+    ]
+  },
+  {
+    "id": "wing-tsun-kung-fu-2026",
+    "name": {
+      "de": "Wing Tsun - Kung Fu",
+      "en": "Wing Tsun - Kung Fu",
+      "it": "Wing Tsun - Kung Fu"
+    },
+    "startDate": "2026-09-08",
+    "endDate": "2026-09-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Wing Tsun - Kung Fu“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Wing Tsun - Kung Fu” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Wing Tsun - Kung Fu” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Wing-Tsun-Kung-Fu3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Wing-Tsun-Kung-Fu3"
     ]
   },
   {
@@ -13974,13 +14072,14 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/it/eventi/mercato-contadino-riva-del-garda_3479",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-04",
+    "verified": "2026-09-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/towns-villages/riva-del-garda",
       "https://www.gardatrentino.it/it/eventi/mercato-contadino-riva-del-garda_3479"
     ],

@@ -1,32 +1,32 @@
 {
   "protocolVersion": 5,
-  "lastRun": "2026-09-04T08:11:38Z",
+  "lastRun": "2026-09-05T07:52:09Z",
   "overallStatus": "PARTIAL",
   "sources": {
     "visittrentino_all_events": {
       "priority": "P0",
-      "lastScan": "2026-09-04T07:56:09Z",
+      "lastScan": "2026-09-05T07:37:06Z",
       "status": "PARTIAL",
-      "reportedTotal": 852,
-      "recordsSeen": 1311,
-      "uniqueCandidates": 1327,
+      "reportedTotal": 830,
+      "recordsSeen": 1259,
+      "uniqueCandidates": 1275,
       "pagesOrBucketsScanned": [
         "https://www.visittrentino.info/it/guida/cosa-fare/eventi"
       ],
       "attachmentsScanned": [],
       "errors": [],
       "notes": [
-        "sitemaps=160, matchingEventUrls=1311",
-        "Live index reports 852; sitemap exposes 1311 event URLs. AI/date filtering must reconcile the live 12-month set."
+        "sitemaps=160, matchingEventUrls=1259",
+        "Live index reports 830; sitemap exposes 1259 event URLs. AI/date filtering must reconcile the live 12-month set."
       ]
     },
     "visitrovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-09-04T07:57:07Z",
+      "lastScan": "2026-09-05T07:37:50Z",
       "status": "COMPLETE",
       "reportedTotal": null,
-      "recordsSeen": 105,
-      "uniqueCandidates": 155,
+      "recordsSeen": 102,
+      "uniqueCandidates": 148,
       "pagesOrBucketsScanned": [
         "https://www.visitrovereto.it/vivi/eventi/",
         "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=2",
@@ -38,8 +38,7 @@
         "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=8",
         "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=9",
         "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=10",
-        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=11",
-        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=12"
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=11"
       ],
       "attachmentsScanned": [],
       "errors": [],
@@ -47,7 +46,7 @@
     },
     "visitrovereto_estate": {
       "priority": "P0",
-      "lastScan": "2026-09-04T07:57:24Z",
+      "lastScan": "2026-09-05T07:38:07Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 26,
@@ -70,7 +69,7 @@
     },
     "comune_rovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-09-04T07:57:28Z",
+      "lastScan": "2026-09-05T07:38:10Z",
       "status": "PARTIAL",
       "reportedTotal": 4601,
       "recordsSeen": 0,
@@ -317,7 +316,7 @@
     },
     "trentino_cultura_appuntamenti": {
       "priority": "P0",
-      "lastScan": "2026-09-04T08:05:59Z",
+      "lastScan": "2026-09-05T07:47:17Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -336,7 +335,7 @@
     },
     "trentino_cultura_rassegne": {
       "priority": "P0",
-      "lastScan": "2026-09-04T08:06:03Z",
+      "lastScan": "2026-09-05T07:47:19Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 545,
@@ -497,11 +496,11 @@
     },
     "garda_trentino_events": {
       "priority": "P0",
-      "lastScan": "2026-09-04T08:08:52Z",
+      "lastScan": "2026-09-05T07:49:43Z",
       "status": "COMPLETE",
       "reportedTotal": 83,
       "recordsSeen": 83,
-      "uniqueCandidates": 83,
+      "uniqueCandidates": 82,
       "pagesOrBucketsScanned": [
         "https://www.gardatrentino.it/en/discover/events",
         "https://www.gardatrentino.it/en/discover/events?page=2",
@@ -520,11 +519,11 @@
     },
     "comune_trento_events": {
       "priority": "P0",
-      "lastScan": "2026-09-04T08:09:00Z",
+      "lastScan": "2026-09-05T07:49:50Z",
       "status": "PARTIAL",
-      "reportedTotal": 3008,
-      "recordsSeen": 2675,
-      "uniqueCandidates": 2675,
+      "reportedTotal": 3009,
+      "recordsSeen": 2676,
+      "uniqueCandidates": 2676,
       "pagesOrBucketsScanned": [
         "https://eventi.comune.trento.it/content/search/?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/20?Order=desc",
@@ -682,12 +681,12 @@
       "errors": [],
       "notes": [
         "sitemaps=2, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=3008 uniqueEventUrls=2675 searchPages=151/151"
+        "OpenAgenda reconciliation: reported=3009 uniqueEventUrls=2676 searchPages=151/151"
       ]
     },
     "visitfiemme_events": {
       "priority": "P1",
-      "lastScan": "2026-09-04T08:11:21Z",
+      "lastScan": "2026-09-05T07:51:56Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -703,7 +702,7 @@
     },
     "valsugana_events": {
       "priority": "P1",
-      "lastScan": "2026-09-04T08:11:24Z",
+      "lastScan": "2026-09-05T07:51:58Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -719,7 +718,7 @@
     },
     "val_di_non_events": {
       "priority": "P1",
-      "lastScan": "2026-09-04T08:11:26Z",
+      "lastScan": "2026-09-05T07:52:00Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 7,
@@ -735,7 +734,7 @@
     },
     "campiglio_rendena_events": {
       "priority": "P1",
-      "lastScan": "2026-09-04T08:11:34Z",
+      "lastScan": "2026-09-05T07:52:05Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -751,7 +750,7 @@
     },
     "alpe_cimbra_events": {
       "priority": "P1",
-      "lastScan": "2026-09-04T08:11:36Z",
+      "lastScan": "2026-09-05T07:52:07Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 6,
@@ -767,7 +766,7 @@
     }
   },
   "coverageWindow": {
-    "from": "2026-09-04",
+    "from": "2026-09-05",
     "semantics": "rolling-12-month-overlap; raw enumerator may include out-of-window rows for AI resolution"
   },
   "p0Status": {
@@ -781,7 +780,7 @@
     "comune_trento_events": "PARTIAL"
   },
   "summary": {
-    "rawCandidates": 4880
+    "rawCandidates": 4821
   },
   "note": "Deterministic enumeration feeds the AI maintenance pass. PARTIAL means the system must not claim complete coverage."
 }
