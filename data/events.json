@@ -4872,6 +4872,38 @@
     ]
   },
   {
+    "id": "dal-fucile-alla-matita-2026-4",
+    "name": {
+      "de": "Dal fucile alla matita",
+      "en": "Dal fucile alla matita",
+      "it": "Dal fucile alla matita"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-10-11",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "festa-dello-sport-dell-argentario-2026",
     "name": {
       "de": "Festa dello sport dell'Argentario",
@@ -4999,6 +5031,38 @@
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
+    ]
+  },
+  {
+    "id": "il-grimorio-le-leggende-e-il-castello-2026-3",
+    "name": {
+      "de": "Il Grimorio, le Leggende e il Castello",
+      "en": "Il Grimorio, le Leggende e il Castello",
+      "it": "Il Grimorio, le Leggende e il Castello"
+    },
+    "startDate": "2026-09-06",
+    "endDate": "2026-12-23",
+    "startTime": "10:00",
+    "municipality": "Drena",
+    "area": "Alto Garda",
+    "venue": "Drena",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Il Grimorio, le Leggende e il Castello“ in Drena. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Il Grimorio, le Leggende e il Castello” event in Drena. See the official event page for the latest details.",
+      "it": "Evento “Il Grimorio, le Leggende e il Castello” a Drena. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
     ]
   },
   {
@@ -6591,6 +6655,38 @@
     ]
   },
   {
+    "id": "festival-napoletano-2026-2",
+    "name": {
+      "de": "Festival napoletano",
+      "en": "Festival napoletano",
+      "it": "Festival napoletano"
+    },
+    "startDate": "2026-09-13",
+    "endDate": "2026-12-28",
+    "startTime": "11:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festival napoletano“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festival napoletano” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Festival napoletano” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
     "id": "garda-rookie-fest-2026",
     "name": {
       "de": "Garda Rookie Fest",
@@ -6719,6 +6815,38 @@
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
     "verified": "2026-09-04",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
+    "id": "terlago-sport-festival-2026-2",
+    "name": {
+      "de": "Terlago Sport Festival",
+      "en": "Terlago Sport Festival",
+      "it": "Terlago Sport Festival"
+    },
+    "startDate": "2026-09-13",
+    "endDate": "2026-09-24",
+    "startTime": null,
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Terlago Sport Festival“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Terlago Sport Festival” event in Ledro. See the official event page for the latest details.",
+      "it": "Evento “Terlago Sport Festival” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-06",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
@@ -8724,6 +8852,38 @@
     ]
   },
   {
+    "id": "dalla-svizzera-all-austria-fino-ad-arco-2026",
+    "name": {
+      "de": "Dalla Svizzera, all'Austria, fino ad Arco",
+      "en": "Dalla Svizzera, all'Austria, fino ad Arco",
+      "it": "Dalla Svizzera, all'Austria, fino ad Arco"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "startTime": "19:00",
+    "municipality": "Torbole",
+    "area": "Alto Garda",
+    "venue": "Torbole",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dalla Svizzera, all'Austria, fino ad Arco“ in Torbole. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dalla Svizzera, all'Austria, fino ad Arco” event in Torbole. See the official event page for the latest details.",
+      "it": "Evento “Dalla Svizzera, all'Austria, fino ad Arco” a Torbole. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
     "id": "festa-dello-sport-della-destra-adige-2026",
     "name": {
       "de": "Festa dello Sport della Destra Adige",
@@ -9375,6 +9535,38 @@
       "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
+    "id": "trentino-gravel-2026-2",
+    "name": {
+      "de": "Trentino Gravel",
+      "en": "Trentino Gravel",
+      "it": "Trentino Gravel"
+    },
+    "startDate": "2026-09-30",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Trade Fair",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Trentino Gravel“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Trentino Gravel” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Trentino Gravel” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
   },
   {
@@ -11239,10 +11431,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-28",
+    "verified": "2026-09-06",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
@@ -11272,10 +11465,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-02",
+    "verified": "2026-09-06",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
@@ -11927,6 +12121,38 @@
     "assetVerified": "2026-08-27",
     "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Garda_Trentino_Half_Marathon_6.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995"
+  },
+  {
+    "id": "gino-pancheri-female-figures-2026",
+    "name": {
+      "de": "Gino Pancheri. Female Figures",
+      "en": "Gino Pancheri. Female Figures",
+      "it": "Gino Pancheri. Female Figures"
+    },
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "startTime": "10:00",
+    "municipality": "Tenno",
+    "area": "Alto Garda",
+    "venue": "Tenno",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Gino Pancheri. Female Figures“ in Tenno. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Gino Pancheri. Female Figures” event in Tenno. See the official event page for the latest details.",
+      "it": "Evento “Gino Pancheri. Female Figures” a Tenno. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
   },
   {
     "id": "danish-string-quartet-2026",
@@ -13887,6 +14113,42 @@
     ]
   },
   {
+    "id": "garda-trentino-xmas-trail-2026",
+    "name": {
+      "de": "Garda Trentino Xmas Trail",
+      "en": "Garda Trentino Xmas Trail",
+      "it": "Garda Trentino Xmas Trail"
+    },
+    "startDate": "2026-12-24",
+    "endDate": "2026-12-24",
+    "startTime": "09:00",
+    "municipality": "Torbole",
+    "area": "Alto Garda",
+    "venue": "Torbole",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Garda Trentino Xmas Trail“ in Torbole. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Garda Trentino Xmas Trail” event in Torbole. See the official event page for the latest details.",
+      "it": "Evento “Garda Trentino Xmas Trail” a Torbole. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/weather/garda-trentino"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "assetVerified": "2026-09-06"
+  },
+  {
     "id": "mercato-del-giovedi-2026-18",
     "name": {
       "de": "Mercato del giovedì",
@@ -13948,6 +14210,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale64"
+    ]
+  },
+  {
+    "id": "nadal-a-dro-2026",
+    "name": {
+      "de": "Nadal a Dro",
+      "en": "Nadal a Dro",
+      "it": "Nadal a Dro"
+    },
+    "startDate": "2026-12-24",
+    "endDate": "2026-12-24",
+    "startTime": "20:00",
+    "municipality": "Dro",
+    "area": "Alto Garda",
+    "venue": "Dro",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Nadal a Dro“ in Dro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Nadal a Dro” event in Dro. See the official event page for the latest details.",
+      "it": "Evento “Nadal a Dro” a Dro. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
   {
@@ -14112,11 +14406,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-06",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=10"
+      "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
   {
@@ -14210,10 +14505,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-02",
+    "verified": "2026-09-06",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
