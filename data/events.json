@@ -5524,6 +5524,38 @@
     "assetVerified": "2026-08-27"
   },
   {
+    "id": "scherma-nel-verde-2026-2",
+    "name": {
+      "de": "Scherma nel Verde",
+      "en": "Scherma nel Verde",
+      "it": "Scherma nel Verde"
+    },
+    "startDate": "2026-09-08",
+    "endDate": "2026-09-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Scherma nel Verde“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Scherma nel Verde” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Scherma nel Verde” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Scherma-nel-Verde5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Scherma-nel-Verde5"
+    ]
+  },
+  {
     "id": "tai-chi-chuan-2026",
     "name": {
       "de": "Tai-Chi Chuan",
@@ -5941,6 +5973,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Storie-di-settembre2"
+    ]
+  },
+  {
+    "id": "a-tu-per-tu-con-le-stelle-2026-3",
+    "name": {
+      "de": "A tu per tu con le stelle",
+      "en": "A tu per tu con le stelle",
+      "it": "A tu per tu con le stelle"
+    },
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-11",
+    "startTime": null,
+    "municipality": "Bondone",
+    "area": "Trento",
+    "venue": "Bondone",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „A tu per tu con le stelle“ in Bondone. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“A tu per tu con le stelle” event in Bondone. See the official event page for the latest details.",
+      "it": "Evento “A tu per tu con le stelle” a Bondone. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle19",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle19"
     ]
   },
   {
@@ -6397,6 +6461,38 @@
     ]
   },
   {
+    "id": "salita-alla-cantoria-del-duomo-2026-2",
+    "name": {
+      "de": "Salita alla cantoria del Duomo",
+      "en": "Salita alla cantoria del Duomo",
+      "it": "Salita alla cantoria del Duomo"
+    },
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Salita alla cantoria del Duomo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Salita alla cantoria del Duomo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Salita alla cantoria del Duomo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-Duomo8",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-Duomo8"
+    ]
+  },
+  {
     "id": "softball-2026-2",
     "name": {
       "de": "Softball",
@@ -6645,10 +6741,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-03",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
@@ -6814,10 +6911,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-04",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
@@ -7016,6 +7114,38 @@
     ]
   },
   {
+    "id": "scherma-nel-verde-2026-3",
+    "name": {
+      "de": "Scherma nel Verde",
+      "en": "Scherma nel Verde",
+      "it": "Scherma nel Verde"
+    },
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Scherma nel Verde“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Scherma nel Verde” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Scherma nel Verde” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Scherma-nel-Verde6",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Scherma-nel-Verde6"
+    ]
+  },
+  {
     "id": "silent-reading-party-2026",
     "name": {
       "de": "Silent Reading Party",
@@ -7077,6 +7207,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Spettacolo-Il-Cantico-delle-Donne-Anteprima-nazionale"
+    ]
+  },
+  {
+    "id": "in-bici-sicuri-2026",
+    "name": {
+      "de": "In bici sicuri",
+      "en": "In bici sicuri",
+      "it": "In bici sicuri"
+    },
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-16",
+    "startTime": null,
+    "municipality": "Bondone",
+    "area": "Trento",
+    "venue": "Bondone",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „In bici sicuri“ in Bondone. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“In bici sicuri” event in Bondone. See the official event page for the latest details.",
+      "it": "Evento “In bici sicuri” a Bondone. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/In-bici-sicuri",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/In-bici-sicuri"
     ]
   },
   {
@@ -7242,6 +7404,38 @@
     ]
   },
   {
+    "id": "al-lavoro-in-bicicletta-2026",
+    "name": {
+      "de": "Al lavoro in bicicletta",
+      "en": "Al lavoro in bicicletta",
+      "it": "Al lavoro in bicicletta"
+    },
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-17",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Al lavoro in bicicletta“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Al lavoro in bicicletta” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Al lavoro in bicicletta” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Al-lavoro-in-bicicletta",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Al-lavoro-in-bicicletta"
+    ]
+  },
+  {
     "id": "ciclo-di-incontri-il-tempo-di-un-dialogo-2026",
     "name": {
       "de": "Ciclo di incontri \"Il Tempo di un Dialogo\"",
@@ -7271,6 +7465,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-Il-Tempo-di-un-Dialogo4"
+    ]
+  },
+  {
+    "id": "in-bici-sicuri-2026-2",
+    "name": {
+      "de": "In bici sicuri",
+      "en": "In bici sicuri",
+      "it": "In bici sicuri"
+    },
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-17",
+    "startTime": null,
+    "municipality": "Bondone",
+    "area": "Trento",
+    "venue": "Bondone",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „In bici sicuri“ in Bondone. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“In bici sicuri” event in Bondone. See the official event page for the latest details.",
+      "it": "Evento “In bici sicuri” a Bondone. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/In-bici-sicuri2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/In-bici-sicuri2"
     ]
   },
   {
@@ -7335,6 +7561,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale50"
+    ]
+  },
+  {
+    "id": "a-tu-per-tu-con-le-stelle-2026-4",
+    "name": {
+      "de": "A tu per tu con le stelle",
+      "en": "A tu per tu con le stelle",
+      "it": "A tu per tu con le stelle"
+    },
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-18",
+    "startTime": null,
+    "municipality": "Bondone",
+    "area": "Trento",
+    "venue": "Bondone",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „A tu per tu con le stelle“ in Bondone. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“A tu per tu con le stelle” event in Bondone. See the official event page for the latest details.",
+      "it": "Evento “A tu per tu con le stelle” a Bondone. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle20",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle20"
     ]
   },
   {
@@ -7593,6 +7851,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Assenza-ed-essenza3"
+    ]
+  },
+  {
+    "id": "bibliotrekking-2026",
+    "name": {
+      "de": "BiblioTrekking",
+      "en": "BiblioTrekking",
+      "it": "BiblioTrekking"
+    },
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „BiblioTrekking“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“BiblioTrekking” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “BiblioTrekking” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/BiblioTrekking",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/BiblioTrekking"
     ]
   },
   {
@@ -7886,6 +8176,38 @@
     ]
   },
   {
+    "id": "visita-alla-scoperta-dell-immagine-di-trento-dal-xvi-al-xx-secolo-2026",
+    "name": {
+      "de": "Visita alla scoperta dell'immagine di Trento dal XVI al XX secolo",
+      "en": "Visita alla scoperta dell'immagine di Trento dal XVI al XX secolo",
+      "it": "Visita alla scoperta dell'immagine di Trento dal XVI al XX secolo"
+    },
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Visita alla scoperta dell'immagine di Trento dal XVI al XX secolo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visita alla scoperta dell'immagine di Trento dal XVI al XX secolo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Visita alla scoperta dell'immagine di Trento dal XVI al XX secolo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-alla-scoperta-dell-immagine-di-Trento-dal-XVI-al-XX-secolo",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-alla-scoperta-dell-immagine-di-Trento-dal-XVI-al-XX-secolo"
+    ]
+  },
+  {
     "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026-4",
     "name": {
       "de": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
@@ -8076,6 +8398,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Camminata-Metabolica20"
+    ]
+  },
+  {
+    "id": "dalla-svizzera-all-austria-fino-ad-arco-2026-2",
+    "name": {
+      "de": "Dalla Svizzera, all'Austria, fino ad Arco",
+      "en": "Dalla Svizzera, all'Austria, fino ad Arco",
+      "it": "Dalla Svizzera, all'Austria, fino ad Arco"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-26",
+    "startTime": "19:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dalla Svizzera, all'Austria, fino ad Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dalla Svizzera, all'Austria, fino ad Arco” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Dalla Svizzera, all'Austria, fino ad Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
     ]
   },
   {
@@ -8331,10 +8685,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-01",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
@@ -8404,6 +8759,38 @@
     ]
   },
   {
+    "id": "scherma-nel-verde-2026-4",
+    "name": {
+      "de": "Scherma nel Verde",
+      "en": "Scherma nel Verde",
+      "it": "Scherma nel Verde"
+    },
+    "startDate": "2026-09-22",
+    "endDate": "2026-09-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Scherma nel Verde“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Scherma nel Verde” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Scherma nel Verde” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Scherma-nel-Verde7",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Scherma-nel-Verde7"
+    ]
+  },
+  {
     "id": "viva-2026",
     "name": {
       "de": "VIVA!",
@@ -8437,6 +8824,39 @@
     "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/viva!-banner/28110577-1-ita-IT/Viva!-banner_opengraph.jpg",
     "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/VIVA",
     "assetVerified": "2026-09-03"
+  },
+  {
+    "id": "viva-2026-2",
+    "name": {
+      "de": "VIVA!",
+      "en": "VIVA!",
+      "it": "VIVA!"
+    },
+    "startDate": "2026-09-22",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „VIVA!“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“VIVA!” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “VIVA!” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/viva-abbondanzabertoni",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/09/VIVA-CRY-VIOLET.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/viva-abbondanzabertoni"
+    ]
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-4",
@@ -8657,6 +9077,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale51"
+    ]
+  },
+  {
+    "id": "a-tu-per-tu-con-le-stelle-2026-5",
+    "name": {
+      "de": "A tu per tu con le stelle",
+      "en": "A tu per tu con le stelle",
+      "it": "A tu per tu con le stelle"
+    },
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "startTime": null,
+    "municipality": "Bondone",
+    "area": "Trento",
+    "venue": "Bondone",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „A tu per tu con le stelle“ in Bondone. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“A tu per tu con le stelle” event in Bondone. See the official event page for the latest details.",
+      "it": "Evento “A tu per tu con le stelle” a Bondone. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle21",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle21"
     ]
   },
   {
@@ -8884,6 +9336,38 @@
     ]
   },
   {
+    "id": "detective-in-museo-caccia-ai-pericoli-nascosti-2026",
+    "name": {
+      "de": "Detective in museo: caccia ai pericoli nascosti",
+      "en": "Detective in museo: caccia ai pericoli nascosti",
+      "it": "Detective in museo: caccia ai pericoli nascosti"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Detective in museo: caccia ai pericoli nascosti“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Detective in museo: caccia ai pericoli nascosti” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Detective in museo: caccia ai pericoli nascosti” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Detective-in-museo-caccia-ai-pericoli-nascosti",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Detective-in-museo-caccia-ai-pericoli-nascosti"
+    ]
+  },
+  {
     "id": "festa-dello-sport-della-destra-adige-2026",
     "name": {
       "de": "Festa dello Sport della Destra Adige",
@@ -9043,6 +9527,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante47"
+    ]
+  },
+  {
+    "id": "proteggere-il-patrimonio-viaggio-nelle-sale-del-museo-tra-tutela-e-resta-2026",
+    "name": {
+      "de": "Proteggere il patrimonio: viaggio nelle sale del Museo tra tutela e restauro",
+      "en": "Proteggere il patrimonio: viaggio nelle sale del Museo tra tutela e restauro",
+      "it": "Proteggere il patrimonio: viaggio nelle sale del Museo tra tutela e restauro"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Proteggere il patrimonio: viaggio nelle sale del Museo tra tutela e restauro“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Proteggere il patrimonio: viaggio nelle sale del Museo tra tutela e restauro” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Proteggere il patrimonio: viaggio nelle sale del Museo tra tutela e restauro” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Proteggere-il-patrimonio-viaggio-nelle-sale-del-Museo-tra-tutela-e-restauro",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Proteggere-il-patrimonio-viaggio-nelle-sale-del-Museo-tra-tutela-e-restauro"
     ]
   },
   {
@@ -9265,10 +9781,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6"
     ]
@@ -9298,10 +9815,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
@@ -9562,10 +10080,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-06",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
   },
@@ -10013,10 +10532,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
@@ -10046,10 +10566,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
@@ -10079,10 +10600,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
@@ -10210,10 +10732,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-27",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -10309,10 +10832,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
@@ -10497,10 +11021,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-30",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
     ]
@@ -10701,6 +11226,38 @@
     ]
   },
   {
+    "id": "dal-fucile-alla-matita-2026-5",
+    "name": {
+      "de": "Dal fucile alla matita",
+      "en": "Dal fucile alla matita",
+      "it": "Dal fucile alla matita"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-12-31",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "festa-del-latte-2026",
     "name": {
       "de": "Festa del Latte",
@@ -10725,10 +11282,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
     ]
@@ -11398,10 +11956,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-28",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
@@ -11527,10 +12086,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
@@ -12147,10 +12707,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-06",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
@@ -12401,11 +12962,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-28",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
@@ -12498,11 +13060,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
@@ -13206,11 +13769,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
