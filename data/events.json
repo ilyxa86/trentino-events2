@@ -5848,6 +5848,38 @@
     "assetVerified": "2026-09-03"
   },
   {
+    "id": "in-dialogo-con-gli-alberi-monumentali-2026",
+    "name": {
+      "de": "In dialogo con gli alberi monumentali",
+      "en": "In dialogo con gli alberi monumentali",
+      "it": "In dialogo con gli alberi monumentali"
+    },
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „In dialogo con gli alberi monumentali“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“In dialogo con gli alberi monumentali” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “In dialogo con gli alberi monumentali” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/In-dialogo-con-gli-alberi-monumentali",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/In-dialogo-con-gli-alberi-monumentali"
+    ]
+  },
+  {
     "id": "mercato-del-giovedi-2026-3",
     "name": {
       "de": "Mercato del giovedì",
@@ -6005,6 +6037,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/A-tu-per-tu-con-le-stelle19"
+    ]
+  },
+  {
+    "id": "inaugurazione-della-mostra-una-storia-quotidiana-ottant-anni-del-giornal-2026",
+    "name": {
+      "de": "Inaugurazione della mostra \"Una storia quotidiana. Ottant'anni del giornale l'Adige\"",
+      "en": "Inaugurazione della mostra \"Una storia quotidiana. Ottant'anni del giornale l'Adige\"",
+      "it": "Inaugurazione della mostra \"Una storia quotidiana. Ottant'anni del giornale l'Adige\""
+    },
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Inaugurazione della mostra \"Una storia quotidiana. Ottant'anni del giornale l'Adige\"“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Inaugurazione della mostra \"Una storia quotidiana. Ottant'anni del giornale l'Adige\"” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Inaugurazione della mostra \"Una storia quotidiana. Ottant'anni del giornale l'Adige\"” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Inaugurazione-della-mostra-Una-storia-quotidiana.-Ottant-anni-del-giornale-l-Adige",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Inaugurazione-della-mostra-Una-storia-quotidiana.-Ottant-anni-del-giornale-l-Adige"
     ]
   },
   {
@@ -6525,6 +6589,38 @@
     ]
   },
   {
+    "id": "sport-nel-verde-bocce-e-pallamano-2026",
+    "name": {
+      "de": "Sport nel Verde - Bocce e Pallamano",
+      "en": "Sport nel Verde - Bocce e Pallamano",
+      "it": "Sport nel Verde - Bocce e Pallamano"
+    },
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sport nel Verde - Bocce e Pallamano“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sport nel Verde - Bocce e Pallamano” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Sport nel Verde - Bocce e Pallamano” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Sport-nel-Verde-Bocce-e-Pallamano",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Sport-nel-Verde-Bocce-e-Pallamano"
+    ]
+  },
+  {
     "id": "tinture-naturali-2026",
     "name": {
       "de": "Tinture naturali",
@@ -6808,10 +6904,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-03",
+    "verified": "2026-09-08",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
     ]
@@ -7758,6 +7855,38 @@
     ]
   },
   {
+    "id": "xix-giornata-nazionale-sla-2026",
+    "name": {
+      "de": "XIX Giornata nazionale SLA",
+      "en": "XIX Giornata nazionale SLA",
+      "it": "XIX Giornata nazionale SLA"
+    },
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-18",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „XIX Giornata nazionale SLA“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“XIX Giornata nazionale SLA” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “XIX Giornata nazionale SLA” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/XIX-Giornata-nazionale-SLA",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/XIX-Giornata-nazionale-SLA"
+    ]
+  },
+  {
     "id": "alla-corte-di-re-mello-2026",
     "name": {
       "de": "Alla corte di Re Mello",
@@ -7851,6 +7980,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Assenza-ed-essenza3"
+    ]
+  },
+  {
+    "id": "beyblade-x-park-experience-2026-2",
+    "name": {
+      "de": "Beyblade X Park Experience",
+      "en": "Beyblade X Park Experience",
+      "it": "Beyblade X Park Experience"
+    },
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Beyblade X Park Experience“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Beyblade X Park Experience” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Beyblade X Park Experience” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Beyblade-X-Park-Experience4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Beyblade-X-Park-Experience4"
     ]
   },
   {
@@ -9080,6 +9241,38 @@
     ]
   },
   {
+    "id": "presentazione-libro-sette-volte-bosco-2026",
+    "name": {
+      "de": "Presentazione libro Sette volte bosco",
+      "en": "Presentazione libro Sette volte bosco",
+      "it": "Presentazione libro Sette volte bosco"
+    },
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Presentazione libro Sette volte bosco“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Presentazione libro Sette volte bosco” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Presentazione libro Sette volte bosco” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Sette-volte-bosco",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Sette-volte-bosco"
+    ]
+  },
+  {
     "id": "a-tu-per-tu-con-le-stelle-2026-5",
     "name": {
       "de": "A tu per tu con le stelle",
@@ -9368,6 +9561,38 @@
     ]
   },
   {
+    "id": "festa-dello-sport-a-mattarello-2026",
+    "name": {
+      "de": "Festa dello sport a Mattarello",
+      "en": "Festa dello sport a Mattarello",
+      "it": "Festa dello sport a Mattarello"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festa dello sport a Mattarello“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festa dello sport a Mattarello” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Festa dello sport a Mattarello” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Festa-dello-sport-a-Mattarello",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Festa-dello-sport-a-Mattarello"
+    ]
+  },
+  {
     "id": "festa-dello-sport-della-destra-adige-2026",
     "name": {
       "de": "Festa dello Sport della Destra Adige",
@@ -9650,10 +9875,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-09-08",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6"
     ]
@@ -9923,6 +10149,39 @@
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6"
+    ]
+  },
+  {
+    "id": "viva-2026-3",
+    "name": {
+      "de": "VIVA!",
+      "en": "VIVA!",
+      "it": "VIVA!"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „VIVA!“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“VIVA!” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “VIVA!” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/viva-abbondanzabertoni",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-09-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/09/VIVA-CRY-VIOLET.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/viva-abbondanzabertoni"
     ]
   },
   {
@@ -12645,6 +12904,38 @@
     ]
   },
   {
+    "id": "frantoi-aperti-2026-2",
+    "name": {
+      "de": "Frantoi Aperti",
+      "en": "Frantoi Aperti",
+      "it": "Frantoi Aperti"
+    },
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-14",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Frantoi Aperti“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Frantoi Aperti” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Frantoi Aperti” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=8"
+    ]
+  },
+  {
     "id": "garda-trentino-half-marathon-2026",
     "name": {
       "de": "Garda Trentino Half Marathon",
@@ -13067,6 +13358,38 @@
       "https://www.gardatrentino.it/en/discover/events?page=10",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
+    ]
+  },
+  {
+    "id": "gruppo-di-conversazione-sul-cinema-2026",
+    "name": {
+      "de": "Gruppo di conversazione sul cinema",
+      "en": "Gruppo di conversazione sul cinema",
+      "it": "Gruppo di conversazione sul cinema"
+    },
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Gruppo di conversazione sul cinema“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Gruppo di conversazione sul cinema” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Gruppo di conversazione sul cinema” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema7",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema7"
     ]
   },
   {
@@ -14576,6 +14899,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "gruppo-di-conversazione-sul-cinema-2026-2",
+    "name": {
+      "de": "Gruppo di conversazione sul cinema",
+      "en": "Gruppo di conversazione sul cinema",
+      "it": "Gruppo di conversazione sul cinema"
+    },
+    "startDate": "2026-12-21",
+    "endDate": "2026-12-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Gruppo di conversazione sul cinema“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Gruppo di conversazione sul cinema” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Gruppo di conversazione sul cinema” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema8",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema8"
     ]
   },
   {
