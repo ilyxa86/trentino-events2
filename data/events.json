@@ -5848,6 +5848,38 @@
     "assetVerified": "2026-09-03"
   },
   {
+    "id": "giornata-mondiale-per-la-prevenzione-del-suicidio-2026",
+    "name": {
+      "de": "Giornata mondiale per la prevenzione del suicidio",
+      "en": "Giornata mondiale per la prevenzione del suicidio",
+      "it": "Giornata mondiale per la prevenzione del suicidio"
+    },
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Giornata mondiale per la prevenzione del suicidio“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Giornata mondiale per la prevenzione del suicidio” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Giornata mondiale per la prevenzione del suicidio” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-per-la-prevenzione-del-suicidio",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-per-la-prevenzione-del-suicidio"
+    ]
+  },
+  {
     "id": "in-dialogo-con-gli-alberi-monumentali-2026",
     "name": {
       "de": "In dialogo con gli alberi monumentali",
@@ -8305,6 +8337,38 @@
     ]
   },
   {
+    "id": "passeggiata-del-benessere-2026",
+    "name": {
+      "de": "Passeggiata del benessere",
+      "en": "Passeggiata del benessere",
+      "it": "Passeggiata del benessere"
+    },
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Passeggiata del benessere“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Passeggiata del benessere” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Passeggiata del benessere” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Passeggiata-del-benessere2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Passeggiata-del-benessere2"
+    ]
+  },
+  {
     "id": "softball-2026-3",
     "name": {
       "de": "Softball",
@@ -8885,6 +8949,70 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
+    "id": "giornata-mondiale-dell-alzheimer-2026",
+    "name": {
+      "de": "Giornata mondiale dell'Alzheimer",
+      "en": "Giornata mondiale dell'Alzheimer",
+      "it": "Giornata mondiale dell'Alzheimer"
+    },
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Giornata mondiale dell'Alzheimer“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Giornata mondiale dell'Alzheimer” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Giornata mondiale dell'Alzheimer” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-dell-Alzheimer",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-dell-Alzheimer"
+    ]
+  },
+  {
+    "id": "european-mobility-week-2026",
+    "name": {
+      "de": "European Mobility Week",
+      "en": "European Mobility Week",
+      "it": "European Mobility Week"
+    },
+    "startDate": "2026-09-22",
+    "endDate": "2026-09-22",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „European Mobility Week“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“European Mobility Week” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “European Mobility Week” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
   {
@@ -10313,6 +10441,42 @@
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
+  },
+  {
+    "id": "riva-del-garda-s-weekly-market-2026-2",
+    "name": {
+      "de": "Riva del Garda’s Weekly Market",
+      "en": "Riva del Garda’s Weekly Market",
+      "it": "Riva del Garda’s Weekly Market"
+    },
+    "startDate": "2026-09-30",
+    "endDate": "2026-09-30",
+    "startTime": "08:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Riva del Garda’s Weekly Market“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Riva del Garda’s Weekly Market” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Riva del Garda’s Weekly Market” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
+    "assetVerified": "2026-09-09"
   },
   {
     "id": "trentino-gravel-2026-2",
@@ -11967,6 +12131,41 @@
     ]
   },
   {
+    "id": "eugenio-montale-temi-modelli-figure-2026",
+    "name": {
+      "de": "Eugenio Montale: temi, modelli, figure",
+      "en": "Eugenio Montale: temi, modelli, figure",
+      "it": "Eugenio Montale: temi, modelli, figure"
+    },
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Eugenio Montale: temi, modelli, figure“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Eugenio Montale: temi, modelli, figure” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Eugenio Montale: temi, modelli, figure” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/montale/28117114-1-ita-IT/montale_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure",
+    "assetVerified": "2026-09-09"
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-8",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -13007,6 +13206,38 @@
     ]
   },
   {
+    "id": "la-gallinella-rossa-2026",
+    "name": {
+      "de": "La gallinella rossa",
+      "en": "La gallinella rossa",
+      "it": "La gallinella rossa"
+    },
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-09",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La gallinella rossa“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La gallinella rossa” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “La gallinella rossa” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-gallinella-rossa",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-gallinella-rossa"
+    ]
+  },
+  {
     "id": "danish-string-quartet-2026",
     "name": {
       "de": "Danish String Quartet",
@@ -13393,6 +13624,71 @@
     ]
   },
   {
+    "id": "vai-via-2026",
+    "name": {
+      "de": "Vai via",
+      "en": "Vai via",
+      "it": "Vai via"
+    },
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Vai via“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Vai via” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Vai via” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Vai-via",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Vai-via"
+    ]
+  },
+  {
+    "id": "la-storia-del-rock-1-2026",
+    "name": {
+      "de": "La storia del Rock 1",
+      "en": "La storia del Rock 1",
+      "it": "La storia del Rock 1"
+    },
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-18",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La storia del Rock 1“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La storia del Rock 1” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “La storia del Rock 1” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1",
+      "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1-replica"
+    ]
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-12",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -13486,6 +13782,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale59"
+    ]
+  },
+  {
+    "id": "event-2026",
+    "name": {
+      "de": "<<",
+      "en": "<<",
+      "it": "<<"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „<<“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“<<” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “<<” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=1&lang=it",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=1&lang=it"
     ]
   },
   {
@@ -13811,6 +14139,70 @@
     ]
   },
   {
+    "id": "un-mare-di-avventure-2026",
+    "name": {
+      "de": "Un mare di avventure",
+      "en": "Un mare di avventure",
+      "it": "Un mare di avventure"
+    },
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-23",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Un mare di avventure“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Un mare di avventure” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Un mare di avventure” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Un-mare-di-avventure",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Un-mare-di-avventure"
+    ]
+  },
+  {
+    "id": "storia-di-un-no-2026",
+    "name": {
+      "de": "Storia di un no",
+      "en": "Storia di un no",
+      "it": "Storia di un no"
+    },
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Storia di un no“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Storia di un no” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Storia di un no” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Storia-di-un-no",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Storia-di-un-no"
+    ]
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-13",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -14131,6 +14523,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Giornata-internazionale-di-Cities-for-Life-Citta-per-la-vita-Citta-contro-la-pena-di-morte2"
+    ]
+  },
+  {
+    "id": "la-fiaba-di-celeste-2026",
+    "name": {
+      "de": "La fiaba di Celeste",
+      "en": "La fiaba di Celeste",
+      "it": "La fiaba di Celeste"
+    },
+    "startDate": "2026-11-30",
+    "endDate": "2026-11-30",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La fiaba di Celeste“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La fiaba di Celeste” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “La fiaba di Celeste” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-fiaba-di-Celeste",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-fiaba-di-Celeste"
     ]
   },
   {
@@ -15429,6 +15853,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
+    "id": "l-officina-del-sapone-2026-2",
+    "name": {
+      "de": "L'officina del sapone",
+      "en": "L'officina del sapone",
+      "it": "L'officina del sapone"
+    },
+    "startDate": "2026-12-31",
+    "endDate": "2026-12-31",
+    "startTime": "15:00",
+    "municipality": "Stenico",
+    "area": "Other Trentino",
+    "venue": "Stenico",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „L'officina del sapone“ in Stenico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“L'officina del sapone” event in Stenico. See the official event page for the latest details.",
+      "it": "Evento “L'officina del sapone” a Stenico. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
