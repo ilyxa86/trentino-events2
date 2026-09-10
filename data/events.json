@@ -5912,6 +5912,38 @@
     ]
   },
   {
+    "id": "la-spassaora-performance-di-alice-visentin-con-magda-antoniazzi-2026",
+    "name": {
+      "de": "La Spassaora - Performance di Alice Visentin con Magda Antoniazzi",
+      "en": "La Spassaora - Performance di Alice Visentin con Magda Antoniazzi",
+      "it": "La Spassaora - Performance di Alice Visentin con Magda Antoniazzi"
+    },
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La Spassaora - Performance di Alice Visentin con Magda Antoniazzi“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La Spassaora - Performance di Alice Visentin con Magda Antoniazzi” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “La Spassaora - Performance di Alice Visentin con Magda Antoniazzi” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-Spassaora-Performance-di-Alice-Visentin-con-Magda-Antoniazzi",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-Spassaora-Performance-di-Alice-Visentin-con-Magda-Antoniazzi"
+    ]
+  },
+  {
     "id": "mercato-del-giovedi-2026-3",
     "name": {
       "de": "Mercato del giovedì",
@@ -6133,6 +6165,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Parchi-per-crescere14"
+    ]
+  },
+  {
+    "id": "proloco-e20-2026",
+    "name": {
+      "de": "ProLoco e20",
+      "en": "ProLoco e20",
+      "it": "ProLoco e20"
+    },
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „ProLoco e20“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“ProLoco e20” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “ProLoco e20” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/ProLoco-e20",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/ProLoco-e20"
     ]
   },
   {
@@ -6618,6 +6682,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Softball6"
+    ]
+  },
+  {
+    "id": "spazio-oltre-in-festa-2026",
+    "name": {
+      "de": "Spazio Oltre in Festa",
+      "en": "Spazio Oltre in Festa",
+      "it": "Spazio Oltre in Festa"
+    },
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Spazio Oltre in Festa“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Spazio Oltre in Festa” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Spazio Oltre in Festa” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Spazio-Oltre-in-Festa",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Spazio-Oltre-in-Festa"
     ]
   },
   {
@@ -10215,6 +10311,42 @@
     ]
   },
   {
+    "id": "riva-del-garda-s-weekly-market-2026-3",
+    "name": {
+      "de": "Riva del Garda’s Weekly Market",
+      "en": "Riva del Garda’s Weekly Market",
+      "it": "Riva del Garda’s Weekly Market"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTime": "08:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Riva del Garda’s Weekly Market“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Riva del Garda’s Weekly Market” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Riva del Garda’s Weekly Market” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
+      "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
+    "assetVerified": "2026-09-10"
+  },
+  {
     "id": "trentino-gravel-2026",
     "name": {
       "de": "Trentino Gravel",
@@ -10310,6 +10442,38 @@
     "image": "https://www.visitrovereto.it/wp-content/uploads/2026/09/VIVA-CRY-VIOLET.jpg",
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/viva-abbondanzabertoni"
+    ]
+  },
+  {
+    "id": "gruppo-di-lettura-presso-la-biblioteca-di-montevaccino-castello-di-carta-2026-2",
+    "name": {
+      "de": "Gruppo di lettura presso la Biblioteca di Montevaccino Castello di Carta",
+      "en": "Gruppo di lettura presso la Biblioteca di Montevaccino Castello di Carta",
+      "it": "Gruppo di lettura presso la Biblioteca di Montevaccino Castello di Carta"
+    },
+    "startDate": "2026-09-29",
+    "endDate": "2026-09-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Gruppo di lettura presso la Biblioteca di Montevaccino Castello di Carta“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Gruppo di lettura presso la Biblioteca di Montevaccino Castello di Carta” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Gruppo di lettura presso la Biblioteca di Montevaccino Castello di Carta” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Gruppo-di-lettura-presso-la-Biblioteca-di-Montevaccino-Castello-di-Carta",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Gruppo-di-lettura-presso-la-Biblioteca-di-Montevaccino-Castello-di-Carta"
     ]
   },
   {
@@ -10798,6 +10962,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Assenza-ed-essenza5"
+    ]
+  },
+  {
+    "id": "letture-laboratori-e-merenda-assieme-al-giardino-ex-caserme-duca-d-aosta-2026",
+    "name": {
+      "de": "Letture, laboratori e merenda assieme al Giardino Ex Caserme Duca D'Aosta",
+      "en": "Letture, laboratori e merenda assieme al Giardino Ex Caserme Duca D'Aosta",
+      "it": "Letture, laboratori e merenda assieme al Giardino Ex Caserme Duca D'Aosta"
+    },
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-02",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Letture, laboratori e merenda assieme al Giardino Ex Caserme Duca D'Aosta“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Letture, laboratori e merenda assieme al Giardino Ex Caserme Duca D'Aosta” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Letture, laboratori e merenda assieme al Giardino Ex Caserme Duca D'Aosta” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Letture-laboratori-e-merenda-assieme-al-Giardino-Ex-Caserme-Duca-D-Aosta",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Letture-laboratori-e-merenda-assieme-al-Giardino-Ex-Caserme-Duca-D-Aosta"
     ]
   },
   {
@@ -11681,6 +11877,38 @@
     ]
   },
   {
+    "id": "dal-fucile-alla-matita-2026-6",
+    "name": {
+      "de": "Dal fucile alla matita",
+      "en": "Dal fucile alla matita",
+      "it": "Dal fucile alla matita"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-25",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "festa-del-latte-2026",
     "name": {
       "de": "Festa del Latte",
@@ -12164,6 +12392,41 @@
     "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/montale/28117114-1-ita-IT/montale_opengraph.png",
     "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure",
     "assetVerified": "2026-09-09"
+  },
+  {
+    "id": "eugenio-montale-temi-modelli-figure-2026-2",
+    "name": {
+      "de": "Eugenio Montale: temi, modelli, figure",
+      "en": "Eugenio Montale: temi, modelli, figure",
+      "it": "Eugenio Montale: temi, modelli, figure"
+    },
+    "startDate": "2026-10-21",
+    "endDate": "2026-11-26",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Eugenio Montale: temi, modelli, figure“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Eugenio Montale: temi, modelli, figure” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Eugenio Montale: temi, modelli, figure” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/montale/28117114-1-ita-IT/montale_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure",
+    "assetVerified": "2026-09-10"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-8",
@@ -15070,6 +15333,38 @@
     ]
   },
   {
+    "id": "gli-ultimi-orsi-polari-2026",
+    "name": {
+      "de": "Gli ultimi orsi polari",
+      "en": "Gli ultimi orsi polari",
+      "it": "Gli ultimi orsi polari"
+    },
+    "startDate": "2026-12-16",
+    "endDate": "2026-12-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Gli ultimi orsi polari“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Gli ultimi orsi polari” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Gli ultimi orsi polari” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Gli-ultimi-orsi-polari",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Gli-ultimi-orsi-polari"
+    ]
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-16",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -16050,6 +16345,38 @@
     ]
   },
   {
+    "id": "fragolina-2027",
+    "name": {
+      "de": "Fragolina",
+      "en": "Fragolina",
+      "it": "Fragolina"
+    },
+    "startDate": "2027-01-15",
+    "endDate": "2027-01-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Fragolina“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Fragolina” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Fragolina” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Fragolina",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Fragolina"
+    ]
+  },
+  {
     "id": "expo-riva-shuh-2027",
     "name": {
       "en": "Expo Riva Schuh",
@@ -16077,6 +16404,137 @@
     "verified": "2026-08-25"
   },
   {
+    "id": "roveretopop-2027",
+    "name": {
+      "de": "RoveretoPOP 2027",
+      "en": "RoveretoPOP 2027",
+      "it": "RoveretoPOP 2027"
+    },
+    "startDate": "2027-01-16",
+    "endDate": "2027-04-17",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „RoveretoPOP 2027“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“RoveretoPOP 2027” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “RoveretoPOP 2027” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/RoveretoPOP-2027",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/RoveretoPOP-2027"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/roveretopop26-27-generiche_sitoimm800x600/28120011-1-ita-IT/RoveretoPOP26-27-generiche_sitoimm800x600_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/RoveretoPOP-2027",
+    "assetVerified": "2026-09-10"
+  },
+  {
+    "id": "hansel-e-gretel-infanzia-in-guerra-2027",
+    "name": {
+      "de": "Hansel e Gretel. Infanzia in guerra",
+      "en": "Hansel e Gretel. Infanzia in guerra",
+      "it": "Hansel e Gretel. Infanzia in guerra"
+    },
+    "startDate": "2027-01-20",
+    "endDate": "2027-01-20",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Hansel e Gretel. Infanzia in guerra“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Hansel e Gretel. Infanzia in guerra” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Hansel e Gretel. Infanzia in guerra” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
+    ]
+  },
+  {
+    "id": "storie-da-mangiare-2027",
+    "name": {
+      "de": "Storie da mangiare",
+      "en": "Storie da mangiare",
+      "it": "Storie da mangiare"
+    },
+    "startDate": "2027-01-22",
+    "endDate": "2027-01-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Storie da mangiare“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Storie da mangiare” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Storie da mangiare” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Storie-da-mangiare",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Storie-da-mangiare"
+    ]
+  },
+  {
+    "id": "come-fu-che-la-iena-2027",
+    "name": {
+      "de": "Come fu che la iena",
+      "en": "Come fu che la iena",
+      "it": "Come fu che la iena"
+    },
+    "startDate": "2027-01-29",
+    "endDate": "2027-01-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Come fu che la iena“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Come fu che la iena” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Come fu che la iena” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Come-fu-che-la-iena",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Come-fu-che-la-iena"
+    ]
+  },
+  {
     "id": "hospitality-2027",
     "name": {
       "en": "Hospitality – Il Salone dell'Accoglienza",
@@ -16102,6 +16560,166 @@
     "officialUrl": "https://hospitalityriva.it/it/visitare",
     "source": "Official organizer",
     "verified": "2026-08-25"
+  },
+  {
+    "id": "via-pal-2027",
+    "name": {
+      "de": "Via Pál",
+      "en": "Via Pál",
+      "it": "Via Pál"
+    },
+    "startDate": "2027-02-02",
+    "endDate": "2027-02-02",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Via Pál“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Via Pál” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Via Pál” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Via-Pal",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Via-Pal"
+    ]
+  },
+  {
+    "id": "l-amore-delle-tre-melarance-2027",
+    "name": {
+      "de": "L’amore delle tre melarance",
+      "en": "L’amore delle tre melarance",
+      "it": "L’amore delle tre melarance"
+    },
+    "startDate": "2027-02-05",
+    "endDate": "2027-02-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „L’amore delle tre melarance“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“L’amore delle tre melarance” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “L’amore delle tre melarance” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/L-amore-delle-tre-melarance",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/L-amore-delle-tre-melarance"
+    ]
+  },
+  {
+    "id": "rosaluna-e-i-lupi-2027",
+    "name": {
+      "de": "Rosaluna e i lupi",
+      "en": "Rosaluna e i lupi",
+      "it": "Rosaluna e i lupi"
+    },
+    "startDate": "2027-02-12",
+    "endDate": "2027-02-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Rosaluna e i lupi“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Rosaluna e i lupi” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Rosaluna e i lupi” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Rosaluna-e-i-lupi",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Rosaluna-e-i-lupi"
+    ]
+  },
+  {
+    "id": "alfonsina-corridora-replica-serale-aperta-al-pubblico-2027",
+    "name": {
+      "de": "Alfonsina corridora - replica serale aperta al pubblico",
+      "en": "Alfonsina corridora - replica serale aperta al pubblico",
+      "it": "Alfonsina corridora - replica serale aperta al pubblico"
+    },
+    "startDate": "2027-02-16",
+    "endDate": "2027-02-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Alfonsina corridora - replica serale aperta al pubblico“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Alfonsina corridora - replica serale aperta al pubblico” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Alfonsina corridora - replica serale aperta al pubblico” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Alfonsina-corridora-replica-serale-aperta-al-pubblico",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Alfonsina-corridora-replica-serale-aperta-al-pubblico"
+    ]
+  },
+  {
+    "id": "alfonsina-corridora-2027",
+    "name": {
+      "de": "Alfonsina corridora",
+      "en": "Alfonsina corridora",
+      "it": "Alfonsina corridora"
+    },
+    "startDate": "2027-02-17",
+    "endDate": "2027-02-17",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Alfonsina corridora“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Alfonsina corridora” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Alfonsina corridora” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Alfonsina-corridora",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Alfonsina-corridora"
+    ]
   },
   {
     "id": "lake-garda-42-2027",
