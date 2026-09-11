@@ -6845,6 +6845,38 @@
     ]
   },
   {
+    "id": "baricentri-identita-urbane-dei-quartieri-2-giugno-e-degasperi-2026-4",
+    "name": {
+      "de": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "en": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "it": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi"
+    },
+    "startDate": "2026-09-13",
+    "endDate": "2026-09-20",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "botanica-sensoriale-2026",
     "name": {
       "de": "Botanica sensoriale",
@@ -7008,6 +7040,38 @@
     ]
   },
   {
+    "id": "festival-napoletano-2026-3",
+    "name": {
+      "de": "Festival napoletano",
+      "en": "Festival napoletano",
+      "it": "Festival napoletano"
+    },
+    "startDate": "2026-09-13",
+    "endDate": "2026-09-20",
+    "startTime": "11:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festival napoletano“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festival napoletano” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Festival napoletano” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "garda-rookie-fest-2026",
     "name": {
       "de": "Garda Rookie Fest",
@@ -7032,10 +7096,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-08",
+    "verified": "2026-09-11",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
@@ -7174,6 +7239,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
+    "id": "terlago-sport-festival-2026-3",
+    "name": {
+      "de": "Terlago Sport Festival",
+      "en": "Terlago Sport Festival",
+      "it": "Terlago Sport Festival"
+    },
+    "startDate": "2026-09-13",
+    "endDate": "2026-09-13",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Terlago Sport Festival“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Terlago Sport Festival” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Terlago Sport Festival” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -9080,6 +9177,38 @@
     ]
   },
   {
+    "id": "human-forever-trento-una-comunita-che-si-prende-cura-2026",
+    "name": {
+      "de": "Human Forever: Trento, una comunità che si prende cura",
+      "en": "Human Forever: Trento, una comunità che si prende cura",
+      "it": "Human Forever: Trento, una comunità che si prende cura"
+    },
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Human Forever: Trento, una comunità che si prende cura“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Human Forever: Trento, una comunità che si prende cura” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Human Forever: Trento, una comunità che si prende cura” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Human-Forever-Trento-una-comunita-che-si-prende-cura",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Human-Forever-Trento-una-comunita-che-si-prende-cura"
+    ]
+  },
+  {
     "id": "european-mobility-week-2026",
     "name": {
       "de": "European Mobility Week",
@@ -9105,6 +9234,38 @@
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
     "verified": "2026-09-09",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
+    "id": "european-mobility-week-2026-2",
+    "name": {
+      "de": "European Mobility Week",
+      "en": "European Mobility Week",
+      "it": "European Mobility Week"
+    },
+    "startDate": "2026-09-22",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Markets & Shopping",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „European Mobility Week“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“European Mobility Week” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “European Mobility Week” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-11",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
@@ -9750,6 +9911,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "dalla-svizzera-all-austria-fino-ad-arco-2026-3",
+    "name": {
+      "de": "Dalla Svizzera, all'Austria, fino ad Arco",
+      "en": "Dalla Svizzera, all'Austria, fino ad Arco",
+      "it": "Dalla Svizzera, all'Austria, fino ad Arco"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-12-21",
+    "startTime": "19:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dalla Svizzera, all'Austria, fino ad Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dalla Svizzera, all'Austria, fino ad Arco” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Dalla Svizzera, all'Austria, fino ad Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
     ]
   },
   {
@@ -11613,6 +11806,39 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento17"
+    ]
+  },
+  {
+    "id": "greenwalkexperience-2026",
+    "name": {
+      "de": "Greenwalkexperience",
+      "en": "Greenwalkexperience",
+      "it": "Greenwalkexperience"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-17",
+    "startTime": null,
+    "municipality": "Vallarsa",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Vallarsa",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Greenwalkexperience“ in Vallarsa. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Greenwalkexperience” event in Vallarsa. See the official event page for the latest details.",
+      "it": "Evento “Greenwalkexperience” a Vallarsa. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/09/Greenwalkexperience-Luca-Matassoni-.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience"
     ]
   },
   {
@@ -16248,6 +16474,38 @@
     ]
   },
   {
+    "id": "missione-al-forte-2026-2",
+    "name": {
+      "de": "Missione al forte",
+      "en": "Missione al forte",
+      "it": "Missione al forte"
+    },
+    "startDate": "2026-12-31",
+    "endDate": "2026-12-31",
+    "startTime": "10:30",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Missione al forte“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Missione al forte” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Missione al forte” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
     "id": "vandelli-canta-battisti-2026",
     "name": {
       "de": "Vandelli canta Battisti...",
@@ -16722,6 +16980,166 @@
     ]
   },
   {
+    "id": "poco-piu-in-la-2027",
+    "name": {
+      "de": "Poco più in là",
+      "en": "Poco più in là",
+      "it": "Poco più in là"
+    },
+    "startDate": "2027-02-19",
+    "endDate": "2027-02-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Poco più in là“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Poco più in là” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Poco più in là” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Poco-piu-in-la",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Poco-piu-in-la"
+    ]
+  },
+  {
+    "id": "terra-replica-serale-aperta-al-pubblico-2027",
+    "name": {
+      "de": "Terra | Replica serale aperta al pubblico",
+      "en": "Terra | Replica serale aperta al pubblico",
+      "it": "Terra | Replica serale aperta al pubblico"
+    },
+    "startDate": "2027-03-02",
+    "endDate": "2027-03-02",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Terra | Replica serale aperta al pubblico“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Terra | Replica serale aperta al pubblico” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Terra | Replica serale aperta al pubblico” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Terra-Replica-serale-aperta-al-pubblico",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Terra-Replica-serale-aperta-al-pubblico"
+    ]
+  },
+  {
+    "id": "terra-2027",
+    "name": {
+      "de": "Terra",
+      "en": "Terra",
+      "it": "Terra"
+    },
+    "startDate": "2027-03-03",
+    "endDate": "2027-03-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Terra“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Terra” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Terra” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Terra",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Terra"
+    ]
+  },
+  {
+    "id": "la-fata-arrabbiata-2027",
+    "name": {
+      "de": "La fata arrabbiata",
+      "en": "La fata arrabbiata",
+      "it": "La fata arrabbiata"
+    },
+    "startDate": "2027-03-09",
+    "endDate": "2027-03-09",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La fata arrabbiata“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La fata arrabbiata” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “La fata arrabbiata” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-fata-arrabbiata",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-fata-arrabbiata"
+    ]
+  },
+  {
+    "id": "pinocchio-nel-ventre-della-balena-2027",
+    "name": {
+      "de": "Pinocchio nel ventre della balena",
+      "en": "Pinocchio nel ventre della balena",
+      "it": "Pinocchio nel ventre della balena"
+    },
+    "startDate": "2027-03-23",
+    "endDate": "2027-03-23",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Pinocchio nel ventre della balena“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Pinocchio nel ventre della balena” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Pinocchio nel ventre della balena” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pinocchio-nel-ventre-della-balena",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Pinocchio-nel-ventre-della-balena"
+    ]
+  },
+  {
     "id": "lake-garda-42-2027",
     "name": {
       "en": "Lake Garda 42 – 2027 edition",
@@ -16750,6 +17168,103 @@
     "image": "https://lakegarda42.com/wp-content/uploads/2026/05/Webseite-Bild.png",
     "imageSourceUrl": "https://lakegarda42.com/it/",
     "assetVerified": "2026-08-27"
+  },
+  {
+    "id": "mi-chiamavano-tina-2027",
+    "name": {
+      "de": "Mi chiamavano Tina",
+      "en": "Mi chiamavano Tina",
+      "it": "Mi chiamavano Tina"
+    },
+    "startDate": "2027-04-08",
+    "endDate": "2027-04-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mi chiamavano Tina“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mi chiamavano Tina” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Mi chiamavano Tina” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mi-chiamavano-Tina",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Mi-chiamavano-Tina"
+    ]
+  },
+  {
+    "id": "la-storia-del-rock-2-2027",
+    "name": {
+      "de": "La storia del Rock 2",
+      "en": "La storia del Rock 2",
+      "it": "La storia del Rock 2"
+    },
+    "startDate": "2027-04-16",
+    "endDate": "2027-04-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La storia del Rock 2“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La storia del Rock 2” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “La storia del Rock 2” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-2",
+      "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22"
+    ]
+  },
+  {
+    "id": "la-stanza-di-agnese-2027",
+    "name": {
+      "de": "La stanza di Agnese",
+      "en": "La stanza di Agnese",
+      "it": "La stanza di Agnese"
+    },
+    "startDate": "2027-04-22",
+    "endDate": "2027-04-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La stanza di Agnese“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La stanza di Agnese” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “La stanza di Agnese” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese"
+    ]
   },
   {
     "id": "trento-film-2027",
