@@ -6452,11 +6452,12 @@
     "price": "See official page",
     "officialUrl": "https://eventi.comune.trento.it/Eventi/BUIO3",
     "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
+    "verified": "2026-09-12",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/BUIO3"
+      "https://eventi.comune.trento.it/Eventi/BUIO3",
+      "https://eventi.comune.trento.it/Eventi/Buio3"
     ]
   },
   {
@@ -6717,6 +6718,39 @@
     ]
   },
   {
+    "id": "spor-gran-party-2026",
+    "name": {
+      "de": "Spor Gran Party",
+      "en": "Spor Gran Party",
+      "it": "Spor Gran Party"
+    },
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "startTime": null,
+    "municipality": "Spormaggiore",
+    "area": "Other Trentino",
+    "venue": "Spormaggiore",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Spor Gran Party“ in Spormaggiore. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Spor Gran Party” event in Spormaggiore. See the official event page for the latest details.",
+      "it": "Evento “Spor Gran Party” a Spormaggiore. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/spor-gran-party_e_88184177",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-09-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitdolomitipaganella-it/spor-gran-party_88184177/7872705/image-thumb__7872705__moodboard_list/spor-gran-party_88184177_2.55f1cf3a.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/spor-gran-party_e_88184177"
+    ]
+  },
+  {
     "id": "sport-nel-verde-bocce-e-pallamano-2026",
     "name": {
       "de": "Sport nel Verde - Bocce e Pallamano",
@@ -6845,6 +6879,38 @@
     ]
   },
   {
+    "id": "volti-e-natura-2026",
+    "name": {
+      "de": "Volti e Natura",
+      "en": "Volti e Natura",
+      "it": "Volti e Natura"
+    },
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Volti e Natura“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Volti e Natura” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Volti e Natura” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Volti-e-Natura",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Volti-e-Natura"
+    ]
+  },
+  {
     "id": "baricentri-identita-urbane-dei-quartieri-2-giugno-e-degasperi-2026-4",
     "name": {
       "de": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
@@ -6933,11 +6999,12 @@
     "price": "See official page",
     "officialUrl": "https://eventi.comune.trento.it/Eventi/BUIO4",
     "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
+    "verified": "2026-09-12",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/BUIO4"
+      "https://eventi.comune.trento.it/Eventi/BUIO4",
+      "https://eventi.comune.trento.it/Eventi/Buio4"
     ]
   },
   {
@@ -6970,6 +7037,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Camminata-Metabolica19"
+    ]
+  },
+  {
+    "id": "dalla-svizzera-all-austria-fino-ad-arco-2026-4",
+    "name": {
+      "de": "Dalla Svizzera, all'Austria, fino ad Arco",
+      "en": "Dalla Svizzera, all'Austria, fino ad Arco",
+      "it": "Dalla Svizzera, all'Austria, fino ad Arco"
+    },
+    "startDate": "2026-09-13",
+    "endDate": "2026-09-26",
+    "startTime": "19:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dalla Svizzera, all'Austria, fino ad Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dalla Svizzera, all'Austria, fino ad Arco” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Dalla Svizzera, all'Austria, fino ad Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
     ]
   },
   {
@@ -7401,6 +7500,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Baseball5"
+    ]
+  },
+  {
+    "id": "ogni-vita-e-un-capolavoro-2026",
+    "name": {
+      "de": "Ogni vita è un capolavoro",
+      "en": "Ogni vita è un capolavoro",
+      "it": "Ogni vita è un capolavoro"
+    },
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ogni vita è un capolavoro“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ogni vita è un capolavoro” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ogni vita è un capolavoro” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ogni-vita-e-un-capolavoro",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ogni-vita-e-un-capolavoro"
     ]
   },
   {
@@ -9501,6 +9632,38 @@
     ]
   },
   {
+    "id": "attraverso-i-tuoi-occhi-di-giovanni-dallape-2026",
+    "name": {
+      "de": "Attraverso i tuoi occhi di Giovanni Dallapé",
+      "en": "Attraverso i tuoi occhi di Giovanni Dallapé",
+      "it": "Attraverso i tuoi occhi di Giovanni Dallapé"
+    },
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Attraverso i tuoi occhi di Giovanni Dallapé“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Attraverso i tuoi occhi di Giovanni Dallapé” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Attraverso i tuoi occhi di Giovanni Dallapé” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Attraverso-i-tuoi-occhi-di-Giovanni-Dallape",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Attraverso-i-tuoi-occhi-di-Giovanni-Dallape"
+    ]
+  },
+  {
     "id": "educa-2026",
     "name": {
       "en": "EDUCA – Education Festival",
@@ -9559,6 +9722,38 @@
       "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
+    "id": "memorie-difettose-prospettive-multidisciplinari-2026",
+    "name": {
+      "de": "Memorie difettose. Prospettive multidisciplinari",
+      "en": "Memorie difettose. Prospettive multidisciplinari",
+      "it": "Memorie difettose. Prospettive multidisciplinari"
+    },
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Memorie difettose. Prospettive multidisciplinari“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Memorie difettose. Prospettive multidisciplinari” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Memorie difettose. Prospettive multidisciplinari” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Memorie-difettose.-Prospettive-multidisciplinari",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Memorie-difettose.-Prospettive-multidisciplinari"
     ]
   },
   {
@@ -9751,6 +9946,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Parchi-per-crescere19"
+    ]
+  },
+  {
+    "id": "perche-dimentichiamo-una-scienza-dell-oblio-2026",
+    "name": {
+      "de": "Perché dimentichiamo. Una scienza dell'oblio",
+      "en": "Perché dimentichiamo. Una scienza dell'oblio",
+      "it": "Perché dimentichiamo. Una scienza dell'oblio"
+    },
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Perché dimentichiamo. Una scienza dell'oblio“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Perché dimentichiamo. Una scienza dell'oblio” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Perché dimentichiamo. Una scienza dell'oblio” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Perche-dimentichiamo.-Una-scienza-dell-oblio",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Perche-dimentichiamo.-Una-scienza-dell-oblio"
     ]
   },
   {
@@ -12127,11 +12354,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-10",
+    "verified": "2026-09-12",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -15876,6 +16104,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema8"
+    ]
+  },
+  {
+    "id": "l-arte-racconta-la-guerra-2026",
+    "name": {
+      "de": "L'arte racconta la guerra",
+      "en": "L'arte racconta la guerra",
+      "it": "L'arte racconta la guerra"
+    },
+    "startDate": "2026-12-21",
+    "endDate": "2026-12-21",
+    "startTime": "17:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „L'arte racconta la guerra“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“L'arte racconta la guerra” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “L'arte racconta la guerra” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
     ]
   },
   {
