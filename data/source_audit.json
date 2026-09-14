@@ -1,13 +1,13 @@
 {
   "protocolVersion": 5,
-  "lastRun": "2026-09-13T08:31:22Z",
+  "lastRun": "2026-09-14T09:10:19Z",
   "overallStatus": "PARTIAL",
   "sources": {
     "visittrentino_all_events": {
       "priority": "P0",
-      "lastScan": "2026-09-13T08:15:00Z",
+      "lastScan": "2026-09-14T08:50:07Z",
       "status": "PARTIAL",
-      "reportedTotal": 662,
+      "reportedTotal": 599,
       "recordsSeen": 1100,
       "uniqueCandidates": 1116,
       "pagesOrBucketsScanned": [
@@ -17,16 +17,16 @@
       "errors": [],
       "notes": [
         "sitemaps=160, matchingEventUrls=1100",
-        "Live index reports 662; sitemap exposes 1100 event URLs. AI/date filtering must reconcile the live 12-month set."
+        "Live index reports 599; sitemap exposes 1100 event URLs. AI/date filtering must reconcile the live 12-month set."
       ]
     },
     "visitrovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-09-13T08:15:44Z",
+      "lastScan": "2026-09-14T08:51:05Z",
       "status": "COMPLETE",
       "reportedTotal": null,
-      "recordsSeen": 92,
-      "uniqueCandidates": 132,
+      "recordsSeen": 89,
+      "uniqueCandidates": 129,
       "pagesOrBucketsScanned": [
         "https://www.visitrovereto.it/vivi/eventi/",
         "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=2",
@@ -45,11 +45,11 @@
     },
     "visitrovereto_estate": {
       "priority": "P0",
-      "lastScan": "2026-09-13T08:15:57Z",
+      "lastScan": "2026-09-14T08:51:20Z",
       "status": "PARTIAL",
       "reportedTotal": null,
-      "recordsSeen": 21,
-      "uniqueCandidates": 21,
+      "recordsSeen": 19,
+      "uniqueCandidates": 19,
       "pagesOrBucketsScanned": [
         "https://www.visitrovereto.it/rovereto-estate/"
       ],
@@ -68,7 +68,7 @@
     },
     "comune_rovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-09-13T08:16:01Z",
+      "lastScan": "2026-09-14T08:51:24Z",
       "status": "PARTIAL",
       "reportedTotal": 4603,
       "recordsSeen": 0,
@@ -315,7 +315,7 @@
     },
     "trentino_cultura_appuntamenti": {
       "priority": "P0",
-      "lastScan": "2026-09-13T08:26:39Z",
+      "lastScan": "2026-09-14T09:05:01Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -334,7 +334,7 @@
     },
     "trentino_cultura_rassegne": {
       "priority": "P0",
-      "lastScan": "2026-09-13T08:26:42Z",
+      "lastScan": "2026-09-14T09:05:05Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 484,
@@ -489,11 +489,11 @@
     },
     "garda_trentino_events": {
       "priority": "P0",
-      "lastScan": "2026-09-13T08:28:55Z",
+      "lastScan": "2026-09-14T09:07:35Z",
       "status": "COMPLETE",
-      "reportedTotal": 77,
-      "recordsSeen": 77,
-      "uniqueCandidates": 77,
+      "reportedTotal": 70,
+      "recordsSeen": 70,
+      "uniqueCandidates": 70,
       "pagesOrBucketsScanned": [
         "https://www.gardatrentino.it/en/discover/events",
         "https://www.gardatrentino.it/en/discover/events?page=2",
@@ -502,8 +502,7 @@
         "https://www.gardatrentino.it/en/discover/events?page=5",
         "https://www.gardatrentino.it/en/discover/events?page=6",
         "https://www.gardatrentino.it/en/discover/events?page=7",
-        "https://www.gardatrentino.it/en/discover/events?page=8",
-        "https://www.gardatrentino.it/en/discover/events?page=9"
+        "https://www.gardatrentino.it/en/discover/events?page=8"
       ],
       "attachmentsScanned": [],
       "errors": [],
@@ -511,11 +510,11 @@
     },
     "comune_trento_events": {
       "priority": "P0",
-      "lastScan": "2026-09-13T08:29:02Z",
+      "lastScan": "2026-09-14T09:07:42Z",
       "status": "PARTIAL",
-      "reportedTotal": 3070,
-      "recordsSeen": 2737,
-      "uniqueCandidates": 2737,
+      "reportedTotal": 3074,
+      "recordsSeen": 2741,
+      "uniqueCandidates": 2741,
       "pagesOrBucketsScanned": [
         "https://eventi.comune.trento.it/content/search/?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/20?Order=desc",
@@ -676,12 +675,12 @@
       "errors": [],
       "notes": [
         "sitemaps=2, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=3070 uniqueEventUrls=2737 searchPages=154/154"
+        "OpenAgenda reconciliation: reported=3074 uniqueEventUrls=2741 searchPages=154/154"
       ]
     },
     "visitfiemme_events": {
       "priority": "P1",
-      "lastScan": "2026-09-13T08:31:08Z",
+      "lastScan": "2026-09-14T09:10:04Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -697,7 +696,7 @@
     },
     "valsugana_events": {
       "priority": "P1",
-      "lastScan": "2026-09-13T08:31:11Z",
+      "lastScan": "2026-09-14T09:10:06Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -713,7 +712,7 @@
     },
     "val_di_non_events": {
       "priority": "P1",
-      "lastScan": "2026-09-13T08:31:13Z",
+      "lastScan": "2026-09-14T09:10:09Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 7,
@@ -729,7 +728,7 @@
     },
     "campiglio_rendena_events": {
       "priority": "P1",
-      "lastScan": "2026-09-13T08:31:17Z",
+      "lastScan": "2026-09-14T09:10:13Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -745,7 +744,7 @@
     },
     "alpe_cimbra_events": {
       "priority": "P1",
-      "lastScan": "2026-09-13T08:31:20Z",
+      "lastScan": "2026-09-14T09:10:17Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 6,
@@ -761,7 +760,7 @@
     }
   },
   "coverageWindow": {
-    "from": "2026-09-13",
+    "from": "2026-09-14",
     "semantics": "rolling-12-month-overlap; raw enumerator may include out-of-window rows for AI resolution"
   },
   "p0Status": {
@@ -775,7 +774,7 @@
     "comune_trento_events": "PARTIAL"
   },
   "summary": {
-    "rawCandidates": 4633
+    "rawCandidates": 4625
   },
   "note": "Deterministic enumeration feeds the AI maintenance pass. PARTIAL means the system must not claim complete coverage."
 }
