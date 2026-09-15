@@ -7916,11 +7916,12 @@
     "price": "See official page",
     "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-del-libro-DONNE.-RESISTENZA.-LIBERTA.-Storie-di-ventuno-afghane-in-lotta-per-la-vita",
     "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
+    "verified": "2026-09-15",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Presentazione-del-libro-DONNE.-RESISTENZA.-LIBERTA.-Storie-di-ventuno-afghane-in-lotta-per-la-vita"
+      "https://eventi.comune.trento.it/Eventi/Presentazione-del-libro-DONNE.-RESISTENZA.-LIBERTA.-Storie-di-ventuno-afghane-in-lotta-per-la-vita",
+      "https://eventi.comune.trento.it/Eventi/Presentazione-del-libro-Donne.-Resistenza.-Liberta-.-Storie-di-ventuno-afghane-in-lotta-per-la-vita"
     ]
   },
   {
@@ -9954,6 +9955,41 @@
     "verified": "2026-08-25"
   },
   {
+    "id": "intermittenze-2026",
+    "name": {
+      "de": "Intermittenze 2026",
+      "en": "Intermittenze 2026",
+      "it": "Intermittenze 2026"
+    },
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Intermittenze 2026“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Intermittenze 2026” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Intermittenze 2026” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Intermittenze-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-09-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Intermittenze-2026"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/intermittenze4/28123909-1-ita-IT/intermittenze_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Intermittenze-2026",
+    "assetVerified": "2026-09-15"
+  },
+  {
     "id": "market-in-pieve-di-ledro-2026",
     "name": {
       "de": "Market in Pieve di Ledro",
@@ -10241,6 +10277,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Perche-dimentichiamo.-Una-scienza-dell-oblio"
+    ]
+  },
+  {
+    "id": "trento-fringe-2026",
+    "name": {
+      "de": "Trento Fringe",
+      "en": "Trento Fringe",
+      "it": "Trento Fringe"
+    },
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Trento Fringe“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Trento Fringe” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Trento Fringe” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Trento-Fringe",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Trento-Fringe"
     ]
   },
   {
@@ -10959,6 +11027,38 @@
     ]
   },
   {
+    "id": "fiera-di-san-michele-2026",
+    "name": {
+      "de": "Fiera di San Michele",
+      "en": "Fiera di San Michele",
+      "it": "Fiera di San Michele"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTime": "08:00",
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Trade Fair",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Fiera di San Michele“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Fiera di San Michele” event in Ledro. See the official event page for the latest details.",
+      "it": "Evento “Fiera di San Michele” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4"
+    ]
+  },
+  {
     "id": "mese-del-gusto-2026",
     "name": {
       "de": "Mese del Gusto",
@@ -10983,10 +11083,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-07",
+    "verified": "2026-09-15",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -11066,6 +11167,38 @@
     "assetVerified": "2026-09-10"
   },
   {
+    "id": "traubenkur-in-arco-2026-2",
+    "name": {
+      "de": "Traubenkur in Arco",
+      "en": "Traubenkur in Arco",
+      "it": "Traubenkur in Arco"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTime": "10:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Traubenkur in Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Traubenkur in Arco” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Traubenkur in Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4"
+    ]
+  },
+  {
     "id": "trentino-gravel-2026",
     "name": {
       "de": "Trentino Gravel",
@@ -11090,10 +11223,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-04",
+    "verified": "2026-09-15",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
   },
