@@ -8215,6 +8215,38 @@
     ]
   },
   {
+    "id": "al-lavoro-in-bicicletta-2026-2",
+    "name": {
+      "de": "Al lavoro in bicicletta",
+      "en": "Al lavoro in bicicletta",
+      "it": "Al lavoro in bicicletta"
+    },
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-18",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Al lavoro in bicicletta“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Al lavoro in bicicletta” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Al lavoro in bicicletta” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Al-lavoro-in-bicicletta",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-17",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Al-lavoro-in-bicicletta"
+    ]
+  },
+  {
     "id": "block-my-mind-2026-2",
     "name": {
       "de": "Block my Mind",
@@ -8374,6 +8406,39 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Pigiama-Run-2026"
+    ]
+  },
+  {
+    "id": "sagra-dell-addolorata-di-calliano-2026",
+    "name": {
+      "de": "Sagra dell’Addolorata di Calliano",
+      "en": "Sagra dell’Addolorata di Calliano",
+      "it": "Sagra dell’Addolorata di Calliano"
+    },
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-20",
+    "startTime": null,
+    "municipality": "Calliano",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Calliano",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sagra dell’Addolorata di Calliano“ in Calliano. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sagra dell’Addolorata di Calliano” event in Calliano. See the official event page for the latest details.",
+      "it": "Evento “Sagra dell’Addolorata di Calliano” a Calliano. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/sagra-dell-addolorata",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-09-17",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/09/Sagra-dell-Addollorata-@visitrovereto-foto-di-Luca-Matassoni.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/sagra-dell-addolorata"
     ]
   },
   {
@@ -8823,6 +8888,41 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Festivolare"
     ]
+  },
+  {
+    "id": "intermittenze-2026-2",
+    "name": {
+      "de": "Intermittenze 2026",
+      "en": "Intermittenze 2026",
+      "it": "Intermittenze 2026"
+    },
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Intermittenze 2026“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Intermittenze 2026” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Intermittenze 2026” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Intermittenze-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-09-17",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Intermittenze-2026"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/intermittenze4/28123909-1-ita-IT/intermittenze_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Intermittenze-2026",
+    "assetVerified": "2026-09-17"
   },
   {
     "id": "mercato-contadino-di-piazza-dante-2026-4",
@@ -9767,6 +9867,70 @@
     ]
   },
   {
+    "id": "european-mobility-week-2026-4",
+    "name": {
+      "de": "European Mobility Week",
+      "en": "European Mobility Week",
+      "it": "European Mobility Week"
+    },
+    "startDate": "2026-09-22",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „European Mobility Week“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“European Mobility Week” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “European Mobility Week” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-17",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "european-mobility-week-2026-5",
+    "name": {
+      "de": "European Mobility Week",
+      "en": "European Mobility Week",
+      "it": "European Mobility Week"
+    },
+    "startDate": "2026-09-22",
+    "endDate": "2026-09-24",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „European Mobility Week“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“European Mobility Week” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “European Mobility Week” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-17",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "parchi-per-crescere-2026-8",
     "name": {
       "de": "Parchi per crescere",
@@ -9823,10 +9987,11 @@
     "price": "See official page",
     "officialUrl": "https://eventi.comune.trento.it/Eventi/Quel-turbine-che-nessuno-risparmia-presentazione",
     "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-16",
+    "verified": "2026-09-17",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Quel-turbine-che-nessuno-risparmia",
       "https://eventi.comune.trento.it/Eventi/Quel-turbine-che-nessuno-risparmia-presentazione"
     ]
   },
@@ -10668,6 +10833,38 @@
     ]
   },
   {
+    "id": "dalla-svizzera-all-austria-fino-ad-arco-2026-6",
+    "name": {
+      "de": "Dalla Svizzera, all'Austria, fino ad Arco",
+      "en": "Dalla Svizzera, all'Austria, fino ad Arco",
+      "it": "Dalla Svizzera, all'Austria, fino ad Arco"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-10-25",
+    "startTime": "19:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dalla Svizzera, all'Austria, fino ad Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dalla Svizzera, all'Austria, fino ad Arco” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Dalla Svizzera, all'Austria, fino ad Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-17",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "detective-in-museo-caccia-ai-pericoli-nascosti-2026",
     "name": {
       "de": "Detective in museo: caccia ai pericoli nascosti",
@@ -10958,6 +11155,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Proteggere-il-patrimonio-viaggio-nelle-sale-del-Museo-tra-tutela-e-restauro"
+    ]
+  },
+  {
+    "id": "rassegna-modellistica-2026",
+    "name": {
+      "de": "Rassegna modellistica",
+      "en": "Rassegna modellistica",
+      "it": "Rassegna modellistica"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Rassegna modellistica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Rassegna modellistica” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Rassegna modellistica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Rassegna-modellistica",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-17",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Rassegna-modellistica"
     ]
   },
   {
@@ -11422,10 +11651,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-17",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6"
@@ -12509,10 +12739,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-07",
+    "verified": "2026-09-17",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
