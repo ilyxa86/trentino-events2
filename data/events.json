@@ -8474,6 +8474,39 @@
     ]
   },
   {
+    "id": "un-canto-d-amore-per-l-etiopia-memorie-etiopi-2026",
+    "name": {
+      "de": "Un canto d'amore per l'Etiopia - memorie etiopi",
+      "en": "Un canto d'amore per l'Etiopia - memorie etiopi",
+      "it": "Un canto d'amore per l'Etiopia - memorie etiopi"
+    },
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-18",
+    "startTime": null,
+    "municipality": "Levico Terme",
+    "area": "Other Trentino",
+    "venue": "Levico Terme",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Un canto d'amore per l'Etiopia - memorie etiopi“ in Levico Terme. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Un canto d'amore per l'Etiopia - memorie etiopi” event in Levico Terme. See the official event page for the latest details.",
+      "it": "Evento “Un canto d'amore per l'Etiopia - memorie etiopi” a Levico Terme. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/un-canto-d-amore-per-l-etiopia-memorie-etiopi_e_135151703",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-09-18",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/un-canto-d-27amore-per-l-27etiopia---memorie-etiopi_135151703/7873185/image-thumb__7873185__moodboard_list/un-canto-d-27amore-per-l-27etiopia---memorie-etiopi_135151703_1.73f08de0.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/un-canto-d-amore-per-l-etiopia-memorie-etiopi_e_135151703"
+    ]
+  },
+  {
     "id": "un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso-2026",
     "name": {
       "de": "Un libro ben scelto ti salva da tutto, persino da te stesso",
@@ -8890,6 +8923,38 @@
     ]
   },
   {
+    "id": "ginnastica-artistica-2026-2",
+    "name": {
+      "de": "Ginnastica Artistica",
+      "en": "Ginnastica Artistica",
+      "it": "Ginnastica Artistica"
+    },
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ginnastica Artistica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ginnastica Artistica” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ginnastica Artistica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ginnastica-Artistica",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-18",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ginnastica-Artistica"
+    ]
+  },
+  {
     "id": "intermittenze-2026-2",
     "name": {
       "de": "Intermittenze 2026",
@@ -9279,6 +9344,70 @@
     ]
   },
   {
+    "id": "baricentri-identita-urbane-dei-quartieri-2-giugno-e-degasperi-2026-5",
+    "name": {
+      "de": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "en": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "it": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-12-28",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-18",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
+    "id": "baricentri-identita-urbane-dei-quartieri-2-giugno-e-degasperi-2026-6",
+    "name": {
+      "de": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "en": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
+      "it": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-10-25",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-18",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
     "id": "camminata-delle-teragnole-2026",
     "name": {
       "de": "Camminata delle Teragnóle",
@@ -9368,11 +9497,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-07",
+    "verified": "2026-09-18",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -9767,6 +9897,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Human-Forever-Trento-una-comunita-che-si-prende-cura"
+    ]
+  },
+  {
+    "id": "baseball-2026-2",
+    "name": {
+      "de": "Baseball",
+      "en": "Baseball",
+      "it": "Baseball"
+    },
+    "startDate": "2026-09-22",
+    "endDate": "2026-09-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Baseball“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Baseball” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Baseball” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Baseball5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-18",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Baseball5"
     ]
   },
   {
@@ -10632,9 +10794,10 @@
     "price": "Varies by event",
     "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
     "source": "Visit Trentino",
-    "verified": "2026-08-26",
+    "verified": "2026-09-18",
     "image": "https://www.visittrentino.info/assets-basic/events/garda-trentino/trentodoc-festival_55749253/5691059/image-thumb__5691059__moodboard_list/trentodoc-festival_55749253_2.4e4ce224.jpg",
     "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Trentodoc-Festival2",
       "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trentodoc-festival_e_52904155"
     ]
@@ -10960,6 +11123,38 @@
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/festa-dello-sport-della-destra-adige",
       "https://www.visitrovereto.it/vivi/eventi/festa-dello-sport-della-destra-adige/"
+    ]
+  },
+  {
+    "id": "ginnastica-artistica-2026-3",
+    "name": {
+      "de": "Ginnastica Artistica",
+      "en": "Ginnastica Artistica",
+      "it": "Ginnastica Artistica"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ginnastica Artistica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ginnastica Artistica” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ginnastica Artistica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ginnastica-Artistica2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-18",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ginnastica-Artistica2"
     ]
   },
   {
@@ -11493,6 +11688,42 @@
     "assetVerified": "2026-08-27"
   },
   {
+    "id": "mese-del-gusto-2026-2",
+    "name": {
+      "de": "Mese del Gusto",
+      "en": "Mese del Gusto",
+      "it": "Mese del Gusto"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mese del Gusto“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mese del Gusto” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Mese del Gusto” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-18",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "assetVerified": "2026-09-18"
+  },
+  {
     "id": "mori-dance-festival-2026",
     "name": {
       "de": "Mori Dance Festival",
@@ -11627,6 +11858,38 @@
     ]
   },
   {
+    "id": "trento-half-marathon-2026",
+    "name": {
+      "de": "Trento Half Marathon",
+      "en": "Trento Half Marathon",
+      "it": "Trento Half Marathon"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Trento Half Marathon“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Trento Half Marathon” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Trento Half Marathon” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Trento-Half-Marathon",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-18",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Trento-Half-Marathon"
+    ]
+  },
+  {
     "id": "trentodoc-festival-2026",
     "name": {
       "de": "Trentodoc Festival",
@@ -11692,6 +11955,38 @@
     "image": "https://www.visitrovereto.it/wp-content/uploads/2026/09/VIVA-CRY-VIOLET.jpg",
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/viva-abbondanzabertoni"
+    ]
+  },
+  {
+    "id": "baseball-2026-3",
+    "name": {
+      "de": "Baseball",
+      "en": "Baseball",
+      "it": "Baseball"
+    },
+    "startDate": "2026-09-29",
+    "endDate": "2026-09-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Baseball“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Baseball” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Baseball” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Baseball6",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-18",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Baseball6"
     ]
   },
   {
@@ -11881,11 +12176,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-09",
+    "verified": "2026-09-18",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels"
     ],
     "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
@@ -11917,10 +12213,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-07",
+    "verified": "2026-09-18",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
