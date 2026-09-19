@@ -1,13 +1,13 @@
 {
   "protocolVersion": 5,
-  "lastRun": "2026-09-18T08:31:06Z",
+  "lastRun": "2026-09-19T08:17:07Z",
   "overallStatus": "PARTIAL",
   "sources": {
     "visittrentino_all_events": {
       "priority": "P0",
-      "lastScan": "2026-09-18T08:11:21Z",
+      "lastScan": "2026-09-19T07:59:39Z",
       "status": "PARTIAL",
-      "reportedTotal": 615,
+      "reportedTotal": 610,
       "recordsSeen": 998,
       "uniqueCandidates": 1014,
       "pagesOrBucketsScanned": [
@@ -17,16 +17,16 @@
       "errors": [],
       "notes": [
         "sitemaps=160, matchingEventUrls=998",
-        "Live index reports 615; sitemap exposes 998 event URLs. AI/date filtering must reconcile the live 12-month set."
+        "Live index reports 610; sitemap exposes 998 event URLs. AI/date filtering must reconcile the live 12-month set."
       ]
     },
     "visitrovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-09-18T08:12:20Z",
+      "lastScan": "2026-09-19T08:00:24Z",
       "status": "COMPLETE",
       "reportedTotal": null,
-      "recordsSeen": 90,
-      "uniqueCandidates": 130,
+      "recordsSeen": 89,
+      "uniqueCandidates": 129,
       "pagesOrBucketsScanned": [
         "https://www.visitrovereto.it/vivi/eventi/",
         "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=2",
@@ -45,11 +45,11 @@
     },
     "visitrovereto_estate": {
       "priority": "P0",
-      "lastScan": "2026-09-18T08:12:33Z",
+      "lastScan": "2026-09-19T08:00:38Z",
       "status": "PARTIAL",
       "reportedTotal": null,
-      "recordsSeen": 19,
-      "uniqueCandidates": 19,
+      "recordsSeen": 18,
+      "uniqueCandidates": 18,
       "pagesOrBucketsScanned": [
         "https://www.visitrovereto.it/rovereto-estate/"
       ],
@@ -68,7 +68,7 @@
     },
     "comune_rovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-09-18T08:12:37Z",
+      "lastScan": "2026-09-19T08:00:41Z",
       "status": "PARTIAL",
       "reportedTotal": 4609,
       "recordsSeen": 0,
@@ -315,7 +315,7 @@
     },
     "trentino_cultura_appuntamenti": {
       "priority": "P0",
-      "lastScan": "2026-09-18T08:25:58Z",
+      "lastScan": "2026-09-19T08:12:56Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -334,7 +334,7 @@
     },
     "trentino_cultura_rassegne": {
       "priority": "P0",
-      "lastScan": "2026-09-18T08:26:01Z",
+      "lastScan": "2026-09-19T08:12:58Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 471,
@@ -503,7 +503,7 @@
     },
     "garda_trentino_events": {
       "priority": "P0",
-      "lastScan": "2026-09-18T08:27:58Z",
+      "lastScan": "2026-09-19T08:14:34Z",
       "status": "COMPLETE",
       "reportedTotal": 71,
       "recordsSeen": 71,
@@ -524,11 +524,11 @@
     },
     "comune_trento_events": {
       "priority": "P0",
-      "lastScan": "2026-09-18T08:28:04Z",
+      "lastScan": "2026-09-19T08:14:40Z",
       "status": "PARTIAL",
-      "reportedTotal": 3092,
-      "recordsSeen": 2757,
-      "uniqueCandidates": 2757,
+      "reportedTotal": 3099,
+      "recordsSeen": 2764,
+      "uniqueCandidates": 2764,
       "pagesOrBucketsScanned": [
         "https://eventi.comune.trento.it/content/search/?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/20?Order=desc",
@@ -690,12 +690,12 @@
       "errors": [],
       "notes": [
         "sitemaps=3, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=3092 uniqueEventUrls=2757 searchPages=155/155"
+        "OpenAgenda reconciliation: reported=3099 uniqueEventUrls=2764 searchPages=155/155"
       ]
     },
     "visitfiemme_events": {
       "priority": "P1",
-      "lastScan": "2026-09-18T08:30:52Z",
+      "lastScan": "2026-09-19T08:16:56Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -711,7 +711,7 @@
     },
     "valsugana_events": {
       "priority": "P1",
-      "lastScan": "2026-09-18T08:30:54Z",
+      "lastScan": "2026-09-19T08:16:59Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -727,7 +727,7 @@
     },
     "val_di_non_events": {
       "priority": "P1",
-      "lastScan": "2026-09-18T08:30:56Z",
+      "lastScan": "2026-09-19T08:17:01Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 7,
@@ -743,7 +743,7 @@
     },
     "campiglio_rendena_events": {
       "priority": "P1",
-      "lastScan": "2026-09-18T08:30:59Z",
+      "lastScan": "2026-09-19T08:17:04Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -759,7 +759,7 @@
     },
     "alpe_cimbra_events": {
       "priority": "P1",
-      "lastScan": "2026-09-18T08:31:04Z",
+      "lastScan": "2026-09-19T08:17:05Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 6,
@@ -775,7 +775,7 @@
     }
   },
   "coverageWindow": {
-    "from": "2026-09-18",
+    "from": "2026-09-19",
     "semantics": "rolling-12-month-overlap; raw enumerator may include out-of-window rows for AI resolution"
   },
   "p0Status": {
@@ -789,7 +789,7 @@
     "comune_trento_events": "PARTIAL"
   },
   "summary": {
-    "rawCandidates": 4529
+    "rawCandidates": 4534
   },
   "note": "Deterministic enumeration feeds the AI maintenance pass. PARTIAL means the system must not claim complete coverage."
 }

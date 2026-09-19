@@ -9541,6 +9541,38 @@
     ]
   },
   {
+    "id": "festa-della-pace-2026-2",
+    "name": {
+      "de": "Festa della Pace",
+      "en": "Festa della Pace",
+      "it": "Festa della Pace"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-26",
+    "startTime": "10:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festa della Pace“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festa della Pace” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Festa della Pace” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
     "id": "l-officina-del-sapone-2026",
     "name": {
       "de": "L'officina del sapone",
@@ -9761,10 +9793,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-16",
+    "verified": "2026-09-19",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
@@ -10608,6 +10641,42 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Sette-volte-bosco"
     ]
+  },
+  {
+    "id": "riva-del-garda-s-weekly-market-2026-4",
+    "name": {
+      "de": "Riva del Garda’s Weekly Market",
+      "en": "Riva del Garda’s Weekly Market",
+      "it": "Riva del Garda’s Weekly Market"
+    },
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "startTime": "08:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Riva del Garda’s Weekly Market“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Riva del Garda’s Weekly Market” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Riva del Garda’s Weekly Market” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
+    "assetVerified": "2026-09-19"
   },
   {
     "id": "a-tu-per-tu-con-le-stelle-2026-5",
@@ -11617,6 +11686,38 @@
     ]
   },
   {
+    "id": "festival-intermittenze-2026-2",
+    "name": {
+      "de": "Festival Intermittenze",
+      "en": "Festival Intermittenze",
+      "it": "Festival Intermittenze"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Markets & Shopping",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festival Intermittenze“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festival Intermittenze” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Festival Intermittenze” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
     "id": "fiera-di-san-michele-2026",
     "name": {
       "de": "Fiera di San Michele",
@@ -11724,6 +11825,42 @@
     "assetVerified": "2026-09-18"
   },
   {
+    "id": "mese-del-gusto-2026-3",
+    "name": {
+      "de": "Mese del Gusto",
+      "en": "Mese del Gusto",
+      "it": "Mese del Gusto"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-12-28",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mese del Gusto“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mese del Gusto” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Mese del Gusto” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "assetVerified": "2026-09-19"
+  },
+  {
     "id": "mori-dance-festival-2026",
     "name": {
       "de": "Mori Dance Festival",
@@ -11791,6 +11928,39 @@
     "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
     "assetVerified": "2026-09-10"
+  },
+  {
+    "id": "san-mate-descargar-la-malga-2026",
+    "name": {
+      "de": "San Matè – Descargar la malga",
+      "en": "San Matè – Descargar la malga",
+      "it": "San Matè – Descargar la malga"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Brentonico",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Brentonico",
+    "category": "Agriculture & Tradition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „San Matè – Descargar la malga“ in Brentonico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“San Matè – Descargar la malga” event in Brentonico. See the official event page for the latest details.",
+      "it": "Evento “San Matè – Descargar la malga” a Brentonico. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/san-mate-transumanza-monte-baldo",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-09-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2015/08/san-mate-transumanza-parco-del-monte-baldo.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/san-mate-transumanza-monte-baldo"
+    ]
   },
   {
     "id": "traubenkur-in-arco-2026-2",
@@ -11987,6 +12157,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Baseball6"
+    ]
+  },
+  {
+    "id": "curainsieme-2026",
+    "name": {
+      "de": "Curainsieme",
+      "en": "Curainsieme",
+      "it": "Curainsieme"
+    },
+    "startDate": "2026-09-29",
+    "endDate": "2026-09-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Curainsieme“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Curainsieme” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Curainsieme” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Curainsieme",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Curainsieme"
     ]
   },
   {
@@ -13047,6 +13249,38 @@
     ]
   },
   {
+    "id": "curainsieme-2026-2",
+    "name": {
+      "de": "Curainsieme",
+      "en": "Curainsieme",
+      "it": "Curainsieme"
+    },
+    "startDate": "2026-10-06",
+    "endDate": "2026-10-06",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Curainsieme“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Curainsieme” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Curainsieme” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Curainsieme2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Curainsieme2"
+    ]
+  },
+  {
     "id": "haydn-stagione-sinfonica-27-2026",
     "name": {
       "de": "Haydn Stagione Sinfonica 2026/27",
@@ -13733,6 +13967,38 @@
     ]
   },
   {
+    "id": "curainsieme-2026-3",
+    "name": {
+      "de": "Curainsieme",
+      "en": "Curainsieme",
+      "it": "Curainsieme"
+    },
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Curainsieme“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Curainsieme” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Curainsieme” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Curainsieme3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Curainsieme3"
+    ]
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-7",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -14047,6 +14313,38 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
+    ]
+  },
+  {
+    "id": "curainsieme-2026-4",
+    "name": {
+      "de": "Curainsieme",
+      "en": "Curainsieme",
+      "it": "Curainsieme"
+    },
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-20",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Curainsieme“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Curainsieme” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Curainsieme” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Curainsieme4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Curainsieme4"
     ]
   },
   {
@@ -14481,6 +14779,38 @@
     ]
   },
   {
+    "id": "curainsieme-2026-5",
+    "name": {
+      "de": "Curainsieme",
+      "en": "Curainsieme",
+      "it": "Curainsieme"
+    },
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Curainsieme“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Curainsieme” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Curainsieme” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Curainsieme5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Curainsieme5"
+    ]
+  },
+  {
     "id": "fine-wine-tourism-2026",
     "name": {
       "en": "FINE #WineTourism Marketplace Italy",
@@ -14763,6 +15093,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52"
+    ]
+  },
+  {
+    "id": "curainsieme-2026-6",
+    "name": {
+      "de": "Curainsieme",
+      "en": "Curainsieme",
+      "it": "Curainsieme"
+    },
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Curainsieme“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Curainsieme” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Curainsieme” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Curainsieme6",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Curainsieme6"
     ]
   },
   {
