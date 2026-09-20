@@ -9248,6 +9248,38 @@
     ]
   },
   {
+    "id": "accordion-festival-in-ledro-2026-2",
+    "name": {
+      "de": "Accordion Festival in Ledro",
+      "en": "Accordion Festival in Ledro",
+      "it": "Accordion Festival in Ledro"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-20",
+    "startTime": "20:30",
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Accordion Festival in Ledro“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Accordion Festival in Ledro” event in Ledro. See the official event page for the latest details.",
+      "it": "Evento “Accordion Festival in Ledro” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-20",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "baricentri-identita-urbane-dei-quartieri-2-giugno-e-degasperi-2026",
     "name": {
       "de": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
@@ -9506,6 +9538,39 @@
     ]
   },
   {
+    "id": "desmalgada-la-festa-del-ritorno-dall-alpeggio-2026",
+    "name": {
+      "de": "Desmalgada – La festa del ritorno dall’alpeggio",
+      "en": "Desmalgada – La festa del ritorno dall’alpeggio",
+      "it": "Desmalgada – La festa del ritorno dall’alpeggio"
+    },
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-20",
+    "startTime": null,
+    "municipality": "Molveno",
+    "area": "Other Trentino",
+    "venue": "Molveno",
+    "category": "Markets & Shopping",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Desmalgada – La festa del ritorno dall’alpeggio“ in Molveno. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Desmalgada – La festa del ritorno dall’alpeggio” event in Molveno. See the official event page for the latest details.",
+      "it": "Evento “Desmalgada – La festa del ritorno dall’alpeggio” a Molveno. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/desmalgada-la-festa-del-ritorno-dall-alpeggio_e_136381258",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-09-20",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/paganella/desmalgada---la-festa-del-ritorno-dall-alpeggio_136381258/7873657/image-thumb__7873657__moodboard_list/desmalgada---la-festa-del-ritorno-dall-alpeggio_136381258_2.1d22c0f0.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/desmalgada-la-festa-del-ritorno-dall-alpeggio_e_136381258"
+    ]
+  },
+  {
     "id": "festa-della-pace-2026",
     "name": {
       "de": "Festa della Pace",
@@ -9565,10 +9630,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-19",
+    "verified": "2026-09-20",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
@@ -13823,11 +13889,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-20",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
