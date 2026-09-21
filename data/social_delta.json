@@ -1,5 +1,48 @@
 {
-  "generatedAt": "2026-09-14T09:58:38.023457Z",
+  "generatedAt": "2026-09-21T09:54:32.829748Z",
   "newFacebookEvents": [],
-  "facebookBackfills": []
+  "facebookBackfills": [
+    {
+      "id": "fb-educa-festival-dell-educazione-rovereto-2026",
+      "name": "EDUCA — Festival dell'educazione (Rovereto)",
+      "date": "2026-09-25",
+      "municipality": "Rovereto"
+    },
+    {
+      "id": "fb-mese-del-gusto-garda-trentino-2026",
+      "name": "Mese del Gusto (Garda Trentino)",
+      "date": "2026-09-25",
+      "municipality": "Riva del Garda"
+    },
+    {
+      "id": "fb-sponde-pesce-d-acqua-dolce-in-tavola-parte-di-mese-del-gusto-2026",
+      "name": "Sponde — Pesce d'acqua dolce in tavola (parte di Mese del Gusto)",
+      "date": "2026-09-25",
+      "municipality": "Riva del Garda"
+    },
+    {
+      "id": "fb-rock-master-arco-40th-edition-2026",
+      "name": "Rock Master — Arco (40th edition)",
+      "date": "2026-10-02",
+      "municipality": "Arco"
+    },
+    {
+      "id": "fb-mercatini-di-natale-di-arco-christmas-market-2026",
+      "name": "Mercatini di Natale di Arco (Christmas Market)",
+      "date": "2026-11-13",
+      "municipality": "Arco"
+    },
+    {
+      "id": "fb-expo-riva-schuh-gardabags-106-edition-2027",
+      "name": "Expo Riva Schuh & Gardabags (106° edition)",
+      "date": "2027-01-16",
+      "municipality": "Riva del Garda"
+    },
+    {
+      "id": "fb-trento-film-festival-75th-edition-2027",
+      "name": "Trento Film Festival (75th edition)",
+      "date": "2027-04-24",
+      "municipality": "Trento"
+    }
+  ]
 }

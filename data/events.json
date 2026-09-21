@@ -10810,6 +10810,42 @@
     ]
   },
   {
+    "id": "fb-educa-festival-dell-educazione-rovereto-2026",
+    "name": {
+      "de": "EDUCA — Festival dell'educazione (Rovereto)",
+      "en": "EDUCA — Festival dell'educazione (Rovereto)",
+      "it": "EDUCA — Festival dell'educazione (Rovereto)"
+    },
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Facebook / Local",
+    "venue": "various venues in Rovereto (citywide festival)",
+    "category": "Conference / Festival / Education",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Festival der Bildung mit Treffen, Workshops und Konzerten rund um Erziehung, Schule und Wohlbefinden (25.–27.09.2026, Rovereto).",
+      "en": "Education festival with talks, labs and performances on schooling, wellbeing and community (25–27 Sep 2026) held in multiple Rovereto venues.",
+      "it": "Festival dell'educazione con incontri, laboratori e spettacoli su scuola, benessere e comunità (25–27 settembre 2026) in varie sedi di Rovereto."
+    },
+    "organizer": "Consolida in collaborazione con Provincia autonoma di Trento e partner locali",
+    "price": "many free sessions; some ticketed activities",
+    "officialUrl": "https://www.vivoscuola.it/Schede-informative/Progetti-di-educazione-alla-salute-promossi-dall-Azienda-Sanitaria-Universitaria-Integrata-del-Trentino",
+    "source": "Se te sei de Rovereto",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://www.vivoscuola.it/Schede-informative/Progetti-di-educazione-alla-salute-promossi-dall-Azienda-Sanitaria-Universitaria-Integrata-del-Trentino",
+      "https://www.vivoscuola.it/content/search/(offset)/80?SearchText=trentino&activeFacets%5Bclass:Content+type%5D=Comunicato+stampa (press listing: Presentato il programma di EDUCA, a Rovereto dal 25 al 27 settembre 2026)"
+    ],
+    "verified": "2026-09-21",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "public-social-corroborated",
+    "assetVerified": "2026-09-21"
+  },
+  {
     "id": "festa-della-biblioteca-2026",
     "name": {
       "de": "Festa della biblioteca",
@@ -10840,6 +10876,43 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Festa-della-biblioteca"
     ]
+  },
+  {
+    "id": "fb-mese-del-gusto-garda-trentino-2026",
+    "name": {
+      "de": "Mese del Gusto (Garda Trentino)",
+      "en": "Mese del Gusto (Garda Trentino)",
+      "it": "Mese del Gusto (Garda Trentino)"
+    },
+    "startDate": "2026-09-25",
+    "endDate": "2026-11-08",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Facebook / Local",
+    "venue": "various / Riva del Garda & Garda Trentino",
+    "category": "Food & Drink / Festival",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Regionale Genussveranstaltungen im Garda Trentino: dezentraler Festivalzeitraum mit Märkten, Degustationen und lokalen Themenveranstaltungen (25.09.–08.11.2026).",
+      "en": "Autumn food festival across Garda Trentino (25 Sep–8 Nov 2026): markets, tastings and themed local food events with venues in Riva del Garda, Arco, Torbole and surrounding valleys.",
+      "it": "Rassegna enogastronomica diffusa nel Garda Trentino (25/09–08/11/2026): mercati, degustazioni e appuntamenti dedicati ai prodotti locali con eventi anche a Riva del Garda."
+    },
+    "organizer": "APT Garda Dolomiti / Garda Dolomiti S.p.A.",
+    "price": "varies / many free events",
+    "officialUrl": "https://www.comune.rivadelgarda.tn.it/Novita/Notizie/Mese-del-gusto-l-autunno-del-Garda-trentino-con-i-suoi-sapori",
+    "source": "Sei di Riva se…",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://www.comune.rivadelgarda.tn.it/Novita/Notizie/Mese-del-gusto-l-autunno-del-Garda-trentino-con-i-suoi-sapori"
+    ],
+    "verified": "2026-09-21",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "official-corroborated",
+    "image": "https://s3-eu-west-1.amazonaws.com/static.opencity.opencontent.it/var/rivadelgardapnrr/storage/images/media/images/festa-della-zucca-lasino/563599-1-ita-IT/Festa-della-zucca-Lasino_large.jpg",
+    "imageSourceUrl": "https://www.comune.rivadelgarda.tn.it/Novita/Notizie/Mese-del-gusto-l-autunno-del-Garda-trentino-con-i-suoi-sapori",
+    "assetVerified": "2026-09-21"
   },
   {
     "id": "parchi-per-crescere-2026-10",
@@ -10904,6 +10977,40 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Perche-dimentichiamo.-Una-scienza-dell-oblio"
     ]
+  },
+  {
+    "id": "fb-sponde-pesce-d-acqua-dolce-in-tavola-parte-di-mese-del-gusto-2026",
+    "name": {
+      "de": "Sponde — Pesce d'acqua dolce in tavola (parte di Mese del Gusto)",
+      "en": "Sponde — Pesce d'acqua dolce in tavola (parte di Mese del Gusto)",
+      "it": "Sponde — Pesce d'acqua dolce in tavola (parte di Mese del Gusto)"
+    },
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Facebook / Local",
+    "venue": "Via Maffei / Palazzo Martini (Riva del Garda) - specific venues vary by program",
+    "category": "Food & Drink / Local food event",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Ein Tag mit dem Schwerpunkt Süßwasserfischküche im Rahmen des Mese del Gusto – Verkostungen, Street food und besondere Menüs (25.09.2026, Riva del Garda).",
+      "en": "One-day program focused on freshwater fish cuisine within Mese del Gusto: tastings, street-food and special menus in Riva del Garda (25 Sep 2026).",
+      "it": "Appuntamento dedicato al pesce d’acqua dolce all'interno del Mese del Gusto: degustazioni e proposte gastronomiche a Riva del Garda (25/09/2026)."
+    },
+    "organizer": "APT Garda Dolomiti / partner locali",
+    "price": "varies",
+    "officialUrl": "https://www.gardatrentino.it/it/event/mese-del-gusto_61067",
+    "source": "Sei di Riva se…",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/it/event/mese-del-gusto_61067"
+    ],
+    "verified": "2026-09-21",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "official-corroborated"
   },
   {
     "id": "trento-fringe-2026",
@@ -12911,6 +13018,43 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Letture-laboratori-e-merenda-assieme-al-Giardino-Ex-Caserme-Duca-D-Aosta"
     ]
+  },
+  {
+    "id": "fb-rock-master-arco-40th-edition-2026",
+    "name": {
+      "de": "Rock Master — Arco (40th edition)",
+      "en": "Rock Master — Arco (40th edition)",
+      "it": "Rock Master — Arco (40th edition)"
+    },
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-04",
+    "startTime": null,
+    "municipality": "Arco",
+    "area": "Facebook / Local",
+    "venue": "Rock Master Climbing Stadium, Via dei Legionari Cecoslovacchi 26",
+    "category": "Sport / Climbing",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Internationales Kletter-Event (Rock Master) mit Wettkämpfen, Talks und Rahmenprogramm im Climbing Stadium von Arco (2.–4.10.2026).",
+      "en": "Rock Master international climbing event with competitions, talks and public activities at the Arco Climbing Stadium (2–4 Oct 2026).",
+      "it": "Evento internazionale di arrampicata Rock Master con gare, incontri e attività pubbliche al Climbing Stadium di Arco (2–4 ottobre 2026)."
+    },
+    "organizer": "Rock Master organisation in partnership with Comune di Arco / Apt Garda Dolomiti",
+    "price": "many activities free; tickets/registration for some competitions (see organizer)",
+    "officialUrl": "https://rockmaster.com/it",
+    "source": "Sei di Arco se…",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://rockmaster.com/it"
+    ],
+    "verified": "2026-09-21",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "official-corroborated",
+    "image": "https://rockmaster.com/website_images_rockmaster/climbing-stadium/image-thumb__70338__fb-thumb/2025_APTGARDADOLOMITI_EmilianoVillani_ROCKMASTER25__61A4740.jpg",
+    "imageSourceUrl": "https://rockmaster.com/it",
+    "assetVerified": "2026-09-21"
   },
   {
     "id": "alla-scoperta-di-trento-2026-6",
@@ -15961,6 +16105,41 @@
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213"
   },
   {
+    "id": "fb-mercatini-di-natale-di-arco-christmas-market-2026",
+    "name": {
+      "de": "Mercatini di Natale di Arco (Christmas Market)",
+      "en": "Mercatini di Natale di Arco (Christmas Market)",
+      "it": "Mercatini di Natale di Arco (Christmas Market)"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2027-01-06",
+    "startTime": null,
+    "municipality": "Arco",
+    "area": "Facebook / Local",
+    "venue": "Centro storico di Arco (piazze e vie, incl. Piazzale Segantini)",
+    "category": "Market / Christmas",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Weihnachtsmarkt im historischen Zentrum von Arco mit rund 40 Holzhütten, Lichtern, Handwerk und Familienprogramm (13.11.2026–06.01.2027).",
+      "en": "Christmas market in Arco historic centre with ~40 wooden stalls, lights, artisan products and family activities (13 Nov 2026–6 Jan 2027).",
+      "it": "Mercatino di Natale nel centro storico di Arco con circa 40 casette in legno, installazioni luminose, spettacoli e attività per famiglie (13/11/2026–06/01/2027)."
+    },
+    "organizer": "Mercatini di Natale di Arco / Assocentro (organizzazione locale)",
+    "price": "free entry (individual activities may have fees)",
+    "officialUrl": "https://www.mercatininatalearco.com/",
+    "source": "Sei di Arco se…",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://www.mercatininatalearco.com/"
+    ],
+    "verified": "2026-09-21",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "official-corroborated",
+    "image": "https://www.mercatininatalearco.com/?photo=foto-Arco02"
+  },
+  {
     "id": "arco-christmas-2026",
     "name": {
       "en": "Arco Christmas Market",
@@ -18933,6 +19112,40 @@
     "verified": "2026-08-25"
   },
   {
+    "id": "fb-expo-riva-schuh-gardabags-106-edition-2027",
+    "name": {
+      "de": "Expo Riva Schuh & Gardabags (106° edition)",
+      "en": "Expo Riva Schuh & Gardabags (106° edition)",
+      "it": "Expo Riva Schuh & Gardabags (106° edition)"
+    },
+    "startDate": "2027-01-16",
+    "endDate": "2027-01-19",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Facebook / Local",
+    "venue": "Quartiere Fieristico / Exhibition Centre (Via Baltera 20)",
+    "category": "Trade fair / Footwear & Leather goods",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Internationale Fachmesse für Volumen-Schuhmode und Lederwaren in Riva del Garda (16.–19.01.2027).",
+      "en": "International trade fair for volume footwear and leather goods in Riva del Garda (16–19 Jan 2027).",
+      "it": "Fiera internazionale dedicata alla calzatura di volume e alla pelletteria a Riva del Garda (16–19 gennaio 2027)."
+    },
+    "organizer": "Riva del Garda Fierecongressi S.p.A. (Expo Riva Schuh)",
+    "price": "professional trade fair — registration/ticket required for exhibitors/visitors",
+    "officialUrl": "https://exporivaschuh.it/it/date-orari-biglietti",
+    "source": "Sei di Riva se…",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://exporivaschuh.it/it/date-orari-biglietti"
+    ],
+    "verified": "2026-09-21",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "official-corroborated"
+  },
+  {
     "id": "roveretopop-2027",
     "name": {
       "de": "RoveretoPOP 2027",
@@ -19566,6 +19779,43 @@
     "image": "https://trentofestival.it/wp-content/themes/trento-film-festival/images/opengraph.jpg",
     "imageSourceUrl": "https://trentofestival.it/",
     "assetVerified": "2026-08-27"
+  },
+  {
+    "id": "fb-trento-film-festival-75th-edition-2027",
+    "name": {
+      "de": "Trento Film Festival (75th edition)",
+      "en": "Trento Film Festival (75th edition)",
+      "it": "Trento Film Festival (75th edition)"
+    },
+    "startDate": "2027-04-24",
+    "endDate": "2027-05-02",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Facebook / Local",
+    "venue": "various cinemas and venues in Trento",
+    "category": "Film festival / Culture",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Internationales Filmfestival zur Bergwelt, Exploration und Umwelt — zahlreiche Filmprogramme und Events (24.04.–02.05.2027).",
+      "en": "International mountain and exploration film festival with film screenings, meetings and exhibitions across Trento (24 Apr–2 May 2027).",
+      "it": "Rassegna internazionale di cinema di montagna e esplorazione con proiezioni, incontri e mostre a Trento (24 aprile–2 maggio 2027)."
+    },
+    "organizer": "Trento Film Festival (organizzazione ufficiale)",
+    "price": "ticketed screenings / passes",
+    "officialUrl": "https://trentofestival.it/en/",
+    "source": "Sei di Trento se…",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://trentofestival.it/en/"
+    ],
+    "verified": "2026-09-21",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "official-corroborated",
+    "image": "https://trentofestival.it/wp-content/themes/trento-film-festival/images/opengraph.jpg",
+    "imageSourceUrl": "https://trentofestival.it/en/",
+    "assetVerified": "2026-09-21"
   },
   {
     "id": "bike-festival-2027",
