@@ -10289,6 +10289,39 @@
     ]
   },
   {
+    "id": "serata-informativa-i-funghi-tossici-e-i-loro-sosia-commestibili-2026",
+    "name": {
+      "de": "Serata informativa - I funghi tossici e i loro sosia commestibili",
+      "en": "Serata informativa - I funghi tossici e i loro sosia commestibili",
+      "it": "Serata informativa - I funghi tossici e i loro sosia commestibili"
+    },
+    "startDate": "2026-09-22",
+    "endDate": "2026-09-22",
+    "startTime": null,
+    "municipality": "Mezzolombardo",
+    "area": "Other Trentino",
+    "venue": "Mezzolombardo",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Serata informativa - I funghi tossici e i loro sosia commestibili“ in Mezzolombardo. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Serata informativa - I funghi tossici e i loro sosia commestibili” event in Mezzolombardo. See the official event page for the latest details.",
+      "it": "Evento “Serata informativa - I funghi tossici e i loro sosia commestibili” a Mezzolombardo. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/serata-informativa-i-funghi-tossici-e-i-loro-sosia-commestibili_e_136381261",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-09-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/paganella/serata-informativa---i-funghi-tossici-e-i-loro-sosia-commestibili_136381261/7873660/image-thumb__7873660__moodboard_list/serata-informativa---i-funghi-tossici-e-i-loro-sosia-commestibili_136381261_2.da16acd1.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/serata-informativa-i-funghi-tossici-e-i-loro-sosia-commestibili_e_136381261"
+    ]
+  },
+  {
     "id": "viva-2026",
     "name": {
       "de": "VIVA!",
@@ -11195,6 +11228,38 @@
     ]
   },
   {
+    "id": "dolomiti-e-alpi-neozelandesi-montagne-agli-opposti-del-mondo-2026",
+    "name": {
+      "de": "Dolomiti e Alpi Neozelandesi. Montagne agli opposti del mondo",
+      "en": "Dolomiti e Alpi Neozelandesi. Montagne agli opposti del mondo",
+      "it": "Dolomiti e Alpi Neozelandesi. Montagne agli opposti del mondo"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "startTime": "17:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dolomiti e Alpi Neozelandesi. Montagne agli opposti del mondo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dolomiti e Alpi Neozelandesi. Montagne agli opposti del mondo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Dolomiti e Alpi Neozelandesi. Montagne agli opposti del mondo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Dolomiti-e-Alpi-Neozelandesi.-Montagne-agli-opposti-del-mondo",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Dolomiti-e-Alpi-Neozelandesi.-Montagne-agli-opposti-del-mondo"
+    ]
+  },
+  {
     "id": "festa-dello-sport-a-mattarello-2026",
     "name": {
       "de": "Festa dello sport a Mattarello",
@@ -11776,10 +11841,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-19",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
@@ -11840,10 +11906,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-15",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -12053,10 +12120,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-15",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
     ]
   },
@@ -12085,10 +12153,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-15",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
@@ -13068,10 +13137,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-07",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
@@ -13134,10 +13204,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-16",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
@@ -13202,10 +13273,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-16",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
@@ -13922,10 +13994,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-07",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
@@ -13990,10 +14063,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-16",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
@@ -14929,10 +15003,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-07",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
@@ -15609,10 +15684,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-08",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
     ]
   },
@@ -15641,10 +15717,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9",
@@ -16098,11 +16175,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-07",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
@@ -17064,11 +17142,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-07",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
@@ -18058,12 +18137,13 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-29",
+    "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2"
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
   {
