@@ -10192,6 +10192,38 @@
     ]
   },
   {
+    "id": "european-mobility-week-2026-6",
+    "name": {
+      "de": "European Mobility Week",
+      "en": "European Mobility Week",
+      "it": "European Mobility Week"
+    },
+    "startDate": "2026-09-22",
+    "endDate": "2026-12-23",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „European Mobility Week“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“European Mobility Week” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “European Mobility Week” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-22",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "parchi-per-crescere-2026-8",
     "name": {
       "de": "Parchi per crescere",
@@ -10776,6 +10808,38 @@
     "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
     "assetVerified": "2026-09-19"
+  },
+  {
+    "id": "sette-volte-bosco-2026",
+    "name": {
+      "de": "Sette volte bosco",
+      "en": "Sette volte bosco",
+      "it": "Sette volte bosco"
+    },
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sette volte bosco“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sette volte bosco” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Sette volte bosco” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Sette-volte-bosco",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-22",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Sette-volte-bosco"
+    ]
   },
   {
     "id": "a-tu-per-tu-con-le-stelle-2026-5",
@@ -11981,10 +12045,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-15",
+    "verified": "2026-09-22",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
     ]
   },
@@ -12099,6 +12164,42 @@
     "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "assetVerified": "2026-09-19"
+  },
+  {
+    "id": "mese-del-gusto-2026-4",
+    "name": {
+      "de": "Mese del Gusto",
+      "en": "Mese del Gusto",
+      "it": "Mese del Gusto"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-12-21",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mese del Gusto“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mese del Gusto” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Mese del Gusto” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-22",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "assetVerified": "2026-09-22"
   },
   {
     "id": "mori-dance-festival-2026",
@@ -12697,6 +12798,38 @@
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "autumnus-2026-2",
+    "name": {
+      "de": "Autumnus",
+      "en": "Autumnus",
+      "it": "Autumnus"
+    },
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Autumnus“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Autumnus” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Autumnus” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Autumnus2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-22",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Autumnus2"
     ]
   },
   {
@@ -14591,10 +14724,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-22",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
@@ -16128,16 +16262,18 @@
     },
     "organizer": "Mercatini di Natale di Arco / Assocentro (organizzazione locale)",
     "price": "free entry (individual activities may have fees)",
-    "officialUrl": "https://www.mercatininatalearco.com/",
+    "officialUrl": "https://www.mercatininatalearco.com/it/pagine-varie/accessibilita/dichiarazione-di-accessibilita-mercatininatalearco-it",
     "source": "Sei di Arco se…",
     "sourceType": "facebook",
     "sourceUrls": [
-      "https://www.mercatininatalearco.com/"
+      "https://www.mercatininatalearco.com/",
+      "https://www.mercatininatalearco.com/it/pagine-varie/accessibilita/dichiarazione-di-accessibilita-mercatininatalearco-it"
     ],
     "verified": "2026-09-21",
     "discoveredVia": "facebook_backfill",
     "confidence": "official-corroborated",
-    "image": "https://www.mercatininatalearco.com/?photo=foto-Arco02"
+    "image": "https://www.mercatininatalearco.com/?photo=foto-Arco02",
+    "assetVerified": "2026-09-22"
   },
   {
     "id": "arco-christmas-2026",
@@ -17617,6 +17753,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante57"
+    ]
+  },
+  {
+    "id": "night-of-burning-stills-2026",
+    "name": {
+      "de": "Night of Burning Stills",
+      "en": "Night of Burning Stills",
+      "it": "Night of Burning Stills"
+    },
+    "startDate": "2026-12-08",
+    "endDate": "2026-12-08",
+    "startTime": null,
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Night of Burning Stills“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Night of Burning Stills” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Night of Burning Stills” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-22",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
   {
