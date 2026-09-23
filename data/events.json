@@ -11657,6 +11657,38 @@
     ]
   },
   {
+    "id": "oltre-il-tempo-2026",
+    "name": {
+      "de": "Oltre il tempo",
+      "en": "Oltre il tempo",
+      "it": "Oltre il tempo"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Oltre il tempo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Oltre il tempo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Oltre il tempo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Oltre-il-tempo",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Oltre-il-tempo"
+    ]
+  },
+  {
     "id": "ottobre-a-teatro-2026",
     "name": {
       "de": "Ottobre a teatro 2026",
@@ -11977,10 +12009,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -12234,6 +12267,38 @@
     ]
   },
   {
+    "id": "pulizia-ambientale-per-il-world-cleanup-day-2026",
+    "name": {
+      "de": "Pulizia ambientale per il World Cleanup Day",
+      "en": "Pulizia ambientale per il World Cleanup Day",
+      "it": "Pulizia ambientale per il World Cleanup Day"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Pulizia ambientale per il World Cleanup Day“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Pulizia ambientale per il World Cleanup Day” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Pulizia ambientale per il World Cleanup Day” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pulizia-ambientale-per-il-World-Cleanup-Day",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Pulizia-ambientale-per-il-World-Cleanup-Day"
+    ]
+  },
+  {
     "id": "riva-del-garda-s-weekly-market-2026-3",
     "name": {
       "de": "Riva del Garda’s Weekly Market",
@@ -12258,10 +12323,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels"
@@ -12301,6 +12367,38 @@
     "image": "https://www.visitrovereto.it/wp-content/uploads/2015/08/san-mate-transumanza-parco-del-monte-baldo.jpg",
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/san-mate-transumanza-monte-baldo"
+    ]
+  },
+  {
+    "id": "sulle-tracce-dell-era-glaciale-2026",
+    "name": {
+      "de": "Sulle tracce dell'era glaciale",
+      "en": "Sulle tracce dell'era glaciale",
+      "it": "Sulle tracce dell'era glaciale"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-09-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sulle tracce dell'era glaciale“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sulle tracce dell'era glaciale” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Sulle tracce dell'era glaciale” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Sulle-tracce-dell-era-glaciale",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Sulle-tracce-dell-era-glaciale"
     ]
   },
   {
@@ -12361,10 +12459,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
@@ -12427,10 +12526,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-17",
+    "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -13057,6 +13157,38 @@
     ]
   },
   {
+    "id": "oltre-il-tempo-2026-2",
+    "name": {
+      "de": "Oltre il tempo",
+      "en": "Oltre il tempo",
+      "it": "Oltre il tempo"
+    },
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Oltre il tempo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Oltre il tempo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Oltre il tempo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Oltre-il-tempo2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Oltre-il-tempo2"
+    ]
+  },
+  {
     "id": "assenza-ed-essenza-2026-3",
     "name": {
       "de": "Assenza ed essenza",
@@ -13379,10 +13511,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -13516,10 +13649,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
@@ -13585,10 +13719,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
@@ -14306,10 +14441,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
@@ -14732,6 +14868,38 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
+    ]
+  },
+  {
+    "id": "pietre-di-pane-memorie-di-geografie-fragili-installazione-site-specific-2026",
+    "name": {
+      "de": "Pietre di pane. Memorie di Geografie fragili - Installazione site specific",
+      "en": "Pietre di pane. Memorie di Geografie fragili - Installazione site specific",
+      "it": "Pietre di pane. Memorie di Geografie fragili - Installazione site specific"
+    },
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Pietre di pane. Memorie di Geografie fragili - Installazione site specific“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Pietre di pane. Memorie di Geografie fragili - Installazione site specific” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Pietre di pane. Memorie di Geografie fragili - Installazione site specific” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane.-Memorie-di-Geografie-fragili-Installazione-site-specific",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Pietre-di-pane.-Memorie-di-Geografie-fragili-Installazione-site-specific"
     ]
   },
   {
@@ -15928,10 +16096,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
@@ -18583,10 +18752,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9",
       "https://www.gardatrentino.it/en/weather/garda-trentino"
@@ -18684,10 +18854,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
@@ -18894,6 +19065,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi60"
+    ]
+  },
+  {
+    "id": "accordion-festival-in-ledro-2026-3",
+    "name": {
+      "de": "Accordion Festival in Ledro",
+      "en": "Accordion Festival in Ledro",
+      "it": "Accordion Festival in Ledro"
+    },
+    "startDate": "2026-12-31",
+    "endDate": "2026-12-31",
+    "startTime": "20:30",
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Accordion Festival in Ledro“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Accordion Festival in Ledro” event in Ledro. See the official event page for the latest details.",
+      "it": "Evento “Accordion Festival in Ledro” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
   {
