@@ -11657,6 +11657,38 @@
     ]
   },
   {
+    "id": "muse-party-un-mondo-sommerso-2026",
+    "name": {
+      "de": "MUSE Party - Un mondo sommerso",
+      "en": "MUSE Party - Un mondo sommerso",
+      "it": "MUSE Party - Un mondo sommerso"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „MUSE Party - Un mondo sommerso“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“MUSE Party - Un mondo sommerso” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “MUSE Party - Un mondo sommerso” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/MUSE-Party-Un-mondo-sommerso",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/MUSE-Party-Un-mondo-sommerso"
+    ]
+  },
+  {
     "id": "oltre-il-tempo-2026",
     "name": {
       "de": "Oltre il tempo",
@@ -12051,6 +12083,38 @@
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
+    "id": "festival-intermittenze-2026-3",
+    "name": {
+      "de": "Festival Intermittenze",
+      "en": "Festival Intermittenze",
+      "it": "Festival Intermittenze"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-12-23",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festival Intermittenze“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festival Intermittenze” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Festival Intermittenze” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
     ]
   },
   {
@@ -12858,10 +12922,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-18",
+    "verified": "2026-09-24",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
@@ -12965,6 +13030,38 @@
       "https://www.visittrentino.info/it/guida/cosa-fare/eventi/feste-sagre-autunno/autumnus-i-frutti-della-terra_e_91861872"
     ],
     "assetVerified": "2026-08-27"
+  },
+  {
+    "id": "bauhaus-musicantica-2026",
+    "name": {
+      "de": "Bauhaus - Musicantica",
+      "en": "Bauhaus - Musicantica",
+      "it": "Bauhaus - Musicantica"
+    },
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Bauhaus - Musicantica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Bauhaus - Musicantica” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Bauhaus - Musicantica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Bauhaus-Musicantica",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Bauhaus-Musicantica"
+    ]
   },
   {
     "id": "festival-sport-2026",
@@ -13520,6 +13617,38 @@
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
+    ]
+  },
+  {
+    "id": "eddy-serafini-codex-discantas-musicantica-2026",
+    "name": {
+      "de": "Eddy Serafini Codex Discantas - Musicantica",
+      "en": "Eddy Serafini Codex Discantas - Musicantica",
+      "it": "Eddy Serafini Codex Discantas - Musicantica"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Eddy Serafini Codex Discantas - Musicantica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Eddy Serafini Codex Discantas - Musicantica” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Eddy Serafini Codex Discantas - Musicantica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Eddy-Serafini-Codex-Discantas-Musicantica",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Eddy-Serafini-Codex-Discantas-Musicantica"
     ]
   },
   {
@@ -14487,6 +14616,38 @@
     ]
   },
   {
+    "id": "la-scuola-policorale-romana-del-sei-settecento-musicantica-2026",
+    "name": {
+      "de": "La Scuola policorale romana del Sei-Settecento - Musicantica",
+      "en": "La Scuola policorale romana del Sei-Settecento - Musicantica",
+      "it": "La Scuola policorale romana del Sei-Settecento - Musicantica"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La Scuola policorale romana del Sei-Settecento - Musicantica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La Scuola policorale romana del Sei-Settecento - Musicantica” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “La Scuola policorale romana del Sei-Settecento - Musicantica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-Scuola-policorale-romana-del-Sei-Settecento-Musicantica",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-Scuola-policorale-romana-del-Sei-Settecento-Musicantica"
+    ]
+  },
+  {
     "id": "ram-film-festival-2026",
     "name": {
       "de": "RAM film festival",
@@ -15037,6 +15198,38 @@
     ]
   },
   {
+    "id": "viaggio-nella-memoria-del-medioevo-latino-2026",
+    "name": {
+      "de": "Viaggio nella memoria del Medioevo Latino",
+      "en": "Viaggio nella memoria del Medioevo Latino",
+      "it": "Viaggio nella memoria del Medioevo Latino"
+    },
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Viaggio nella memoria del Medioevo Latino“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Viaggio nella memoria del Medioevo Latino” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Viaggio nella memoria del Medioevo Latino” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino"
+    ]
+  },
+  {
     "id": "le-consort-2026",
     "name": {
       "de": "Le Consort",
@@ -15524,6 +15717,38 @@
     ]
   },
   {
+    "id": "madre-courage-e-i-suoi-figli-2026",
+    "name": {
+      "de": "Madre Courage e i suoi figli",
+      "en": "Madre Courage e i suoi figli",
+      "it": "Madre Courage e i suoi figli"
+    },
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Madre Courage e i suoi figli“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Madre Courage e i suoi figli” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Madre Courage e i suoi figli” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli"
+    ]
+  },
+  {
     "id": "mercato-del-giovedi-2026-10",
     "name": {
       "de": "Mercato del giovedì",
@@ -15585,6 +15810,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56"
+    ]
+  },
+  {
+    "id": "sia-laudato-san-francesco-2026",
+    "name": {
+      "de": "Sia Laudato San Francesco",
+      "en": "Sia Laudato San Francesco",
+      "it": "Sia Laudato San Francesco"
+    },
+    "startDate": "2026-10-30",
+    "endDate": "2026-10-30",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sia Laudato San Francesco“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sia Laudato San Francesco” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Sia Laudato San Francesco” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco"
     ]
   },
   {
@@ -16040,6 +16297,38 @@
     ]
   },
   {
+    "id": "sicut-luna-perfecta-musicantica-2026",
+    "name": {
+      "de": "Sicut Luna Perfecta - Musicantica",
+      "en": "Sicut Luna Perfecta - Musicantica",
+      "it": "Sicut Luna Perfecta - Musicantica"
+    },
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Sicut Luna Perfecta - Musicantica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Sicut Luna Perfecta - Musicantica” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Sicut Luna Perfecta - Musicantica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Sicut-Luna-Perfecta-Musicantica",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Sicut-Luna-Perfecta-Musicantica"
+    ]
+  },
+  {
     "id": "festa-della-noce-2026",
     "name": {
       "de": "Festa della Noce",
@@ -16306,6 +16595,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi53"
+    ]
+  },
+  {
+    "id": "le-ultime-lune-con-alessandro-haber-2026",
+    "name": {
+      "de": "Le ultime lune con Alessandro Haber",
+      "en": "Le ultime lune con Alessandro Haber",
+      "it": "Le ultime lune con Alessandro Haber"
+    },
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Le ultime lune con Alessandro Haber“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Le ultime lune con Alessandro Haber” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Le ultime lune con Alessandro Haber” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Le-ultime-lune-con-Alessandro-Haber",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Le-ultime-lune-con-Alessandro-Haber"
     ]
   },
   {
@@ -17119,6 +17440,38 @@
     ]
   },
   {
+    "id": "codici-trentini-del-quattrocento-musicantica-2026",
+    "name": {
+      "de": "Codici trentini del Quattrocento - Musicantica",
+      "en": "Codici trentini del Quattrocento - Musicantica",
+      "it": "Codici trentini del Quattrocento - Musicantica"
+    },
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Codici trentini del Quattrocento - Musicantica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Codici trentini del Quattrocento - Musicantica” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Codici trentini del Quattrocento - Musicantica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Codici-trentini-del-Quattrocento-Musicantica",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Codici-trentini-del-Quattrocento-Musicantica"
+    ]
+  },
+  {
     "id": "letture-in-cinese-2026-2",
     "name": {
       "de": "Letture in cinese",
@@ -17535,6 +17888,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento24"
+    ]
+  },
+  {
+    "id": "il-mondo-musicantica-2026",
+    "name": {
+      "de": "Il mondo - Musicantica",
+      "en": "Il mondo - Musicantica",
+      "it": "Il mondo - Musicantica"
+    },
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-28",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Il mondo - Musicantica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Il mondo - Musicantica” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Il mondo - Musicantica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-mondo-Musicantica",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Il-mondo-Musicantica"
     ]
   },
   {
@@ -19424,6 +19809,41 @@
     ]
   },
   {
+    "id": "teatro-per-le-scuole-2027",
+    "name": {
+      "de": "Teatro per le scuole",
+      "en": "Teatro per le scuole",
+      "it": "Teatro per le scuole"
+    },
+    "startDate": "2027-01-12",
+    "endDate": "2027-04-07",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Teatro per le scuole“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Teatro per le scuole” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Teatro per le scuole” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Teatro-per-le-scuole",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Teatro-per-le-scuole"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/scuole-1/28143149-1-ita-IT/Scuole-1_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Teatro-per-le-scuole",
+    "assetVerified": "2026-09-24"
+  },
+  {
     "id": "fragolina-2027",
     "name": {
       "de": "Fragolina",
@@ -19705,6 +20125,41 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Via-Pal"
     ]
+  },
+  {
+    "id": "fuoristagione-musica-2027",
+    "name": {
+      "de": "Fuoristagione Musica",
+      "en": "Fuoristagione Musica",
+      "it": "Fuoristagione Musica"
+    },
+    "startDate": "2027-02-05",
+    "endDate": "2027-02-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Fuoristagione Musica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Fuoristagione Musica” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Fuoristagione Musica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Fuoristagione-Musica",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-09-24",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Fuoristagione-Musica"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/fuoristagione2/28143205-1-ita-IT/Fuoristagione_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Fuoristagione-Musica",
+    "assetVerified": "2026-09-24"
   },
   {
     "id": "l-amore-delle-tre-melarance-2027",
