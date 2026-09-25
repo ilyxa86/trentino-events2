@@ -11820,6 +11820,39 @@
     ]
   },
   {
+    "id": "scopriamo-il-doss-trento-2026",
+    "name": {
+      "de": "Scopriamo il Doss Trento",
+      "en": "Scopriamo il Doss Trento",
+      "it": "Scopriamo il Doss Trento"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Scopriamo il Doss Trento“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Scopriamo il Doss Trento” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Scopriamo il Doss Trento” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Scopriamo-il-Doss-Trento2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-25",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Scopriamo-il-Doss-Trento",
+      "https://eventi.comune.trento.it/Eventi/Scopriamo-il-Doss-Trento2"
+    ]
+  },
+  {
     "id": "softball-2026-4",
     "name": {
       "de": "Softball",
@@ -12041,11 +12074,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-23",
+    "verified": "2026-09-25",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -12297,6 +12331,42 @@
     "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "assetVerified": "2026-09-22"
+  },
+  {
+    "id": "mese-del-gusto-2026-5",
+    "name": {
+      "de": "Mese del Gusto",
+      "en": "Mese del Gusto",
+      "it": "Mese del Gusto"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-12-23",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mese del Gusto“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mese del Gusto” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Mese del Gusto” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-25",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "assetVerified": "2026-09-25"
   },
   {
     "id": "mori-dance-festival-2026",
@@ -12795,6 +12865,38 @@
     ]
   },
   {
+    "id": "corso-di-base-per-amministratore-trice-di-sostegno-2026",
+    "name": {
+      "de": "Corso di base per amministratore/trice di sostegno",
+      "en": "Corso di base per amministratore/trice di sostegno",
+      "it": "Corso di base per amministratore/trice di sostegno"
+    },
+    "startDate": "2026-09-30",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Corso di base per amministratore/trice di sostegno“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Corso di base per amministratore/trice di sostegno” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Corso di base per amministratore/trice di sostegno” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Corso-di-base-per-amministratore-trice-di-sostegno4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-25",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Corso-di-base-per-amministratore-trice-di-sostegno4"
+    ]
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-5",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -12930,6 +13032,38 @@
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
+    ]
+  },
+  {
+    "id": "trentino-gravel-2026-3",
+    "name": {
+      "de": "Trentino Gravel",
+      "en": "Trentino Gravel",
+      "it": "Trentino Gravel"
+    },
+    "startDate": "2026-09-30",
+    "endDate": "2026-12-23",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Trentino Gravel“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Trentino Gravel” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Trentino Gravel” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-25",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -13917,10 +14051,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-17",
+    "verified": "2026-09-25",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -13957,6 +14092,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Curainsieme2"
+    ]
+  },
+  {
+    "id": "corso-di-base-per-amministratore-trice-di-sostegno-2026-2",
+    "name": {
+      "de": "Corso di base per amministratore/trice di sostegno",
+      "en": "Corso di base per amministratore/trice di sostegno",
+      "it": "Corso di base per amministratore/trice di sostegno"
+    },
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-07",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Corso di base per amministratore/trice di sostegno“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Corso di base per amministratore/trice di sostegno” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Corso di base per amministratore/trice di sostegno” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Corso-di-base-per-amministratore-trice-di-sostegno5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-25",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Corso-di-base-per-amministratore-trice-di-sostegno5"
     ]
   },
   {
@@ -14507,6 +14674,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "dal-fucile-alla-matita-2026-8",
+    "name": {
+      "de": "Dal fucile alla matita",
+      "en": "Dal fucile alla matita",
+      "it": "Dal fucile alla matita"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-12-28",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-25",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
@@ -15717,6 +15916,38 @@
     ]
   },
   {
+    "id": "lilt-for-women-2026",
+    "name": {
+      "de": "Lilt for Women",
+      "en": "Lilt for Women",
+      "it": "Lilt for Women"
+    },
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Lilt for Women“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Lilt for Women” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Lilt for Women” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-25",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2"
+    ]
+  },
+  {
     "id": "madre-courage-e-i-suoi-figli-2026",
     "name": {
       "de": "Madre Courage e i suoi figli",
@@ -15973,6 +16204,38 @@
     ]
   },
   {
+    "id": "in-cammino-con-il-museo-2026",
+    "name": {
+      "de": "In cammino con il museo",
+      "en": "In cammino con il museo",
+      "it": "In cammino con il museo"
+    },
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-03",
+    "startTime": "14:00",
+    "municipality": "Fiave",
+    "area": "Other Trentino",
+    "venue": "Fiave",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „In cammino con il museo“ in Fiave. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“In cammino con il museo” event in Fiave. See the official event page for the latest details.",
+      "it": "Evento “In cammino con il museo” a Fiave. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-25",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ]
+  },
+  {
     "id": "stagione-audipop-2026",
     "name": {
       "de": "Stagione AudiPOP 2026/2027",
@@ -16068,6 +16331,38 @@
     "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/csc_immscappo-a-teatro26-27_scuole_sitoimm800x600/28089225-1-ita-IT/CSC_immSCAPPO-A-TEATRO26-27_Scuole_sitoimm800x600_imagefull.jpg",
     "sourceUrls": [
       "https://www.cultura.trentino.it/Rassegne/Scappo-a-Teatro-SCUOLE-2026-2027"
+    ]
+  },
+  {
+    "id": "lilt-for-men-2026",
+    "name": {
+      "de": "Lilt for Men",
+      "en": "Lilt for Men",
+      "it": "Lilt for Men"
+    },
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Lilt for Men“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Lilt for Men” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Lilt for Men” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Lilt-for-Men",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-25",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Lilt-for-Men"
     ]
   },
   {
