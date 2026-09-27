@@ -12209,10 +12209,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
@@ -12560,12 +12561,45 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4"
+    ]
+  },
+  {
+    "id": "traubenkur-in-arco-2026-3",
+    "name": {
+      "de": "Traubenkur in Arco",
+      "en": "Traubenkur in Arco",
+      "it": "Traubenkur in Arco"
+    },
+    "startDate": "2026-09-27",
+    "endDate": "2026-11-08",
+    "startTime": "10:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Traubenkur in Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Traubenkur in Arco” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Traubenkur in Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -12963,6 +12997,38 @@
     ]
   },
   {
+    "id": "riscopriamo-le-piu-belle-favole-classiche-e-moderne-2026",
+    "name": {
+      "de": "Riscopriamo le più belle favole classiche e moderne",
+      "en": "Riscopriamo le più belle favole classiche e moderne",
+      "it": "Riscopriamo le più belle favole classiche e moderne"
+    },
+    "startDate": "2026-09-30",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Riscopriamo le più belle favole classiche e moderne“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Riscopriamo le più belle favole classiche e moderne” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Riscopriamo le più belle favole classiche e moderne” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Riscopriamo-le-piu-belle-favole-classiche-e-moderne",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Riscopriamo-le-piu-belle-favole-classiche-e-moderne"
+    ]
+  },
+  {
     "id": "riva-del-garda-s-weekly-market-2026-2",
     "name": {
       "de": "Riva del Garda’s Weekly Market",
@@ -12998,6 +13064,38 @@
     "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
     "assetVerified": "2026-09-09"
+  },
+  {
+    "id": "somatomica-cosi-prendo-corpo-2026",
+    "name": {
+      "de": "SomAtomica, così prendo corpo",
+      "en": "SomAtomica, così prendo corpo",
+      "it": "SomAtomica, così prendo corpo"
+    },
+    "startDate": "2026-09-30",
+    "endDate": "2026-09-30",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „SomAtomica, così prendo corpo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“SomAtomica, così prendo corpo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “SomAtomica, così prendo corpo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/SomAtomica-cosi-prendo-corpo",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/SomAtomica-cosi-prendo-corpo"
+    ]
   },
   {
     "id": "trentino-gravel-2026-2",
@@ -13064,6 +13162,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "trentino-gravel-2026-4",
+    "name": {
+      "de": "Trentino Gravel",
+      "en": "Trentino Gravel",
+      "it": "Trentino Gravel"
+    },
+    "startDate": "2026-09-30",
+    "endDate": "2026-12-31",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Trentino Gravel“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Trentino Gravel” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Trentino Gravel” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
   {
@@ -13257,6 +13387,38 @@
     ]
   },
   {
+    "id": "identita-e-lingua-nella-costruzione-europea-2026",
+    "name": {
+      "de": "Identità e lingua nella costruzione europea",
+      "en": "Identità e lingua nella costruzione europea",
+      "it": "Identità e lingua nella costruzione europea"
+    },
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Identità e lingua nella costruzione europea“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Identità e lingua nella costruzione europea” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Identità e lingua nella costruzione europea” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Identita-e-lingua-nella-costruzione-europea",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Identita-e-lingua-nella-costruzione-europea"
+    ]
+  },
+  {
     "id": "il-festival-dello-sport-di-trento-2026",
     "name": {
       "de": "Il Festival dello Sport di Trento",
@@ -13417,6 +13579,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Oltre-il-tempo2"
+    ]
+  },
+  {
+    "id": "ottobre-in-biblioteca-2026",
+    "name": {
+      "de": "Ottobre in biblioteca",
+      "en": "Ottobre in biblioteca",
+      "it": "Ottobre in biblioteca"
+    },
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ottobre in biblioteca“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ottobre in biblioteca” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ottobre in biblioteca” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca"
     ]
   },
   {
@@ -13582,6 +13776,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento16"
+    ]
+  },
+  {
+    "id": "biblio-tour-2026-3",
+    "name": {
+      "de": "Biblio Tour",
+      "en": "Biblio Tour",
+      "it": "Biblio Tour"
+    },
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Biblio Tour“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Biblio Tour” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Biblio Tour” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Biblio-Tour10",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Biblio-Tour10"
     ]
   },
   {
@@ -13810,10 +14036,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -13850,6 +14077,39 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=6"
+    ]
+  },
+  {
+    "id": "festival-dei-piccoli-2026",
+    "name": {
+      "de": "Festival dei Piccoli",
+      "en": "Festival dei Piccoli",
+      "it": "Festival dei Piccoli"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-12-20",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festival dei Piccoli“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festival dei Piccoli” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Festival dei Piccoli” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/festival-dei-piccoli",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2025/08/Il-Festival-dei-Piccoli.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/festival-dei-piccoli"
     ]
   },
   {
@@ -14063,6 +14323,38 @@
     ]
   },
   {
+    "id": "tra-silenzi-e-colori-un-esperienza-pratica-per-scoprire-la-comunicazione-2026",
+    "name": {
+      "de": "Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole",
+      "en": "Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole",
+      "it": "Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole"
+    },
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Tra-silenzi-e-colori-un-esperienza-pratica-per-scoprire-la-comunicazione-con-i-nostri-figli-oltre-le-parole",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Tra-silenzi-e-colori-un-esperienza-pratica-per-scoprire-la-comunicazione-con-i-nostri-figli-oltre-le-parole"
+    ]
+  },
+  {
     "id": "curainsieme-2026-2",
     "name": {
       "de": "Curainsieme",
@@ -14092,6 +14384,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Curainsieme2"
+    ]
+  },
+  {
+    "id": "ottobre-a-gardolo-2026",
+    "name": {
+      "de": "Ottobre a Gardolo!",
+      "en": "Ottobre a Gardolo!",
+      "it": "Ottobre a Gardolo!"
+    },
+    "startDate": "2026-10-06",
+    "endDate": "2026-10-06",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ottobre a Gardolo!“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ottobre a Gardolo!” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ottobre a Gardolo!” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-a-Gardolo",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ottobre-a-Gardolo"
     ]
   },
   {
@@ -14162,6 +14486,38 @@
     "assetVerified": "2026-09-16"
   },
   {
+    "id": "il-finto-tedesco-2026",
+    "name": {
+      "de": "Il finto tedesco",
+      "en": "Il finto tedesco",
+      "it": "Il finto tedesco"
+    },
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-07",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Il finto tedesco“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Il finto tedesco” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Il finto tedesco” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-finto-tedesco",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Il-finto-tedesco"
+    ]
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-6",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -14194,6 +14550,38 @@
     ]
   },
   {
+    "id": "ottobre-a-povo-2026",
+    "name": {
+      "de": "Ottobre a Povo",
+      "en": "Ottobre a Povo",
+      "it": "Ottobre a Povo"
+    },
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-07",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ottobre a Povo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ottobre a Povo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ottobre a Povo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-a-Povo",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ottobre-a-Povo"
+    ]
+  },
+  {
     "id": "ram-film-2026",
     "name": {
       "en": "RAM Film Festival",
@@ -14219,6 +14607,70 @@
     "officialUrl": "https://www.ramfilmfestival.it/RAMfilmfestival",
     "source": "Official organizer",
     "verified": "2026-08-25"
+  },
+  {
+    "id": "cadono-le-storie-2026",
+    "name": {
+      "de": "Cadono le storie",
+      "en": "Cadono le storie",
+      "it": "Cadono le storie"
+    },
+    "startDate": "2026-10-08",
+    "endDate": "2026-10-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Cadono le storie“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Cadono le storie” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Cadono le storie” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Cadono-le-storie",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Cadono-le-storie"
+    ]
+  },
+  {
+    "id": "la-dimensione-mistica-secondo-raimon-panikkar-2026",
+    "name": {
+      "de": "La dimensione mistica secondo Raimon Panikkar",
+      "en": "La dimensione mistica secondo Raimon Panikkar",
+      "it": "La dimensione mistica secondo Raimon Panikkar"
+    },
+    "startDate": "2026-10-08",
+    "endDate": "2026-10-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La dimensione mistica secondo Raimon Panikkar“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La dimensione mistica secondo Raimon Panikkar” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “La dimensione mistica secondo Raimon Panikkar” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-dimensione-mistica-secondo-Raimon-Panikkar",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-dimensione-mistica-secondo-Raimon-Panikkar"
+    ]
   },
   {
     "id": "mercato-del-giovedi-2026-7",
@@ -14282,6 +14734,70 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale53"
+    ]
+  },
+  {
+    "id": "ottobre-a-povo-2026-2",
+    "name": {
+      "de": "Ottobre a Povo",
+      "en": "Ottobre a Povo",
+      "it": "Ottobre a Povo"
+    },
+    "startDate": "2026-10-08",
+    "endDate": "2026-10-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ottobre a Povo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ottobre a Povo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ottobre a Povo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-a-Povo2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ottobre-a-Povo2"
+    ]
+  },
+  {
+    "id": "ottobre-in-liberty-2026",
+    "name": {
+      "de": "Ottobre in Liberty",
+      "en": "Ottobre in Liberty",
+      "it": "Ottobre in Liberty"
+    },
+    "startDate": "2026-10-09",
+    "endDate": "2026-10-09",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ottobre in Liberty“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ottobre in Liberty” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ottobre in Liberty” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty2"
     ]
   },
   {
@@ -14374,10 +14890,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
@@ -14512,6 +15029,71 @@
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno",
       "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno/"
+    ]
+  },
+  {
+    "id": "accordion-festival-in-ledro-2026-4",
+    "name": {
+      "de": "Accordion Festival in Ledro",
+      "en": "Accordion Festival in Ledro",
+      "it": "Accordion Festival in Ledro"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": "20:30",
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Accordion Festival in Ledro“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Accordion Festival in Ledro” event in Ledro. See the official event page for the latest details.",
+      "it": "Evento “Accordion Festival in Ledro” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "autunno-divino-2026",
+    "name": {
+      "de": "Autunno DiVino",
+      "en": "Autunno DiVino",
+      "it": "Autunno DiVino"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Besenello",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Besenello",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Autunno DiVino“ in Besenello. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Autunno DiVino” event in Besenello. See the official event page for the latest details.",
+      "it": "Evento “Autunno DiVino” a Besenello. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/autunno-divino",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2015/09/Moscato-Giallo-Autunno-DiVino-Luca-Matassoni-2.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/autunno-divino"
     ]
   },
   {
@@ -14734,10 +15316,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
@@ -14769,10 +15352,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-23",
+    "verified": "2026-09-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -14804,10 +15388,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -14910,6 +15495,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Curainsieme3"
+    ]
+  },
+  {
+    "id": "ottobre-a-gardolo-2026-2",
+    "name": {
+      "de": "Ottobre a Gardolo!",
+      "en": "Ottobre a Gardolo!",
+      "it": "Ottobre a Gardolo!"
+    },
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ottobre a Gardolo!“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ottobre a Gardolo!” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ottobre a Gardolo!” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-a-Gardolo2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ottobre-a-Gardolo2"
     ]
   },
   {
@@ -15070,6 +15687,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Prisma-Aurea"
+    ]
+  },
+  {
+    "id": "ottobre-in-liberty-2026-2",
+    "name": {
+      "de": "Ottobre in Liberty",
+      "en": "Ottobre in Liberty",
+      "it": "Ottobre in Liberty"
+    },
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ottobre in Liberty“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ottobre in Liberty” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ottobre in Liberty” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty"
     ]
   },
   {
@@ -15677,10 +16326,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
@@ -16041,6 +16691,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56"
+    ]
+  },
+  {
+    "id": "ottobre-in-biblioteca-2026-2",
+    "name": {
+      "de": "Ottobre in biblioteca",
+      "en": "Ottobre in biblioteca",
+      "it": "Ottobre in biblioteca"
+    },
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ottobre in biblioteca“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ottobre in biblioteca” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ottobre in biblioteca” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2"
     ]
   },
   {
@@ -16648,10 +17330,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-30",
+    "verified": "2026-09-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
   },
@@ -19632,11 +20315,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
