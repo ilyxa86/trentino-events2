@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T09:26:22Z",
+  "generatedAt": "2026-09-28T09:56:49Z",
   "records": [
     {
       "sourceId": "alpe_cimbra_events",
@@ -30914,24 +30914,13 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-      "detailUrl": "",
-      "title": "Christmas Market in Arco",
-      "rawText": "Christmas Market in Arco | 13.11 2026 | Arco | - Towncentre | 10:00 - 19:00 | Other available dates | 46-54 / 64",
-      "image": "",
-      "candidateKey": "0029f4876232751df4a6c318",
-      "candidateSignature": "d917c0ec5a1fcfed8b7a8175"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
       "detailUrl": "",
       "title": "49° Mostra Ornitologica Internazionale Trentina",
       "rawText": "49° Mostra Ornitologica Internazionale Trentina | 24.10 2026 | Riva del Garda | - Via Baltera 20 | 09:00 - 18:00 | Other available dates | FINE #WineTourism Marketplace Italy",
       "image": "",
       "candidateKey": "0064b7945a987f0338894252",
-      "candidateSignature": "604cffb3fb9b48c44305217f"
+      "candidateSignature": "5508ed374bfb2e8d2b546c7b"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -30947,46 +30936,35 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-      "detailUrl": "",
-      "title": "4th National Trophy “Cori d’Italia”",
-      "rawText": "4th National Trophy “Cori d’Italia” | 24.10 - 25.10.2026 | Locca | - Via di Carpeà 6, | Bezzecca | 49° Mostra Ornitologica Internazionale Trentina | 24.10 2026",
-      "image": "",
-      "candidateKey": "03f5d562da4f180c5a9bc107",
-      "candidateSignature": "3434f4f7ac95f3d0cfe2e4c7"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-      "detailUrl": "",
-      "title": "Accordion Meeting – Festival di Fisarmoniche ed Ensemble",
-      "rawText": "Accordion Meeting – Festival di Fisarmoniche ed Ensemble | 11.12 2026 | Arco | - Viale delle Palme | 20:45 | top | Garda Trentino Xmas Trail",
-      "image": "",
-      "candidateKey": "12ea1590b83fa4aa05821413",
-      "candidateSignature": "0f1e7aaeaf64f5bf0156c15d"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "detailUrl": "",
+      "title": "Fiera di San Francesco",
+      "rawText": "Fiera di San Francesco | 03.10 2026 | Tiarno di Sotto | top | Mese del Gusto | 03.10 - 04.10.2026 | Riva del Garda",
+      "image": "",
+      "candidateKey": "03dd1238f37ab97831411eb1",
+      "candidateSignature": "f8cad671faa229949996105d"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
       "title": "Gino Pancheri. Female Figures",
       "rawText": "Gino Pancheri. Female Figures | 06.09 - 08.11.2026 ( | Every Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday | ) | Canale di Tenno | - Villa Canale 49 | 10:00 - 12:00",
       "image": "",
       "candidateKey": "1506deacabd44d7fc3ca7ec5",
-      "candidateSignature": "a7d09118d15295c6da777ca1"
+      "candidateSignature": "cad7d45c159dd14b838eeeaa"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
       "detailUrl": "",
       "title": "Riva del Garda’s Weekly Market",
       "rawText": "Riva del Garda’s Weekly Market | 14.10 2026 | Riva del Garda | 08:00 - 14:00 | Other available dates | Judith Hill | 15.10 2026",
       "image": "",
       "candidateKey": "1a5e3885191bc1b90d2de7d6",
-      "candidateSignature": "fb87687091b4ac25724dfa48"
+      "candidateSignature": "cb250e18e97a0cede8320f5b"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -31002,46 +30980,24 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
       "title": "Festa della Zucca e degli Ortaggi Invernali",
       "rawText": "Festa della Zucca e degli Ortaggi Invernali | 03.10 - 04.10.2026 | Lasino | top | Fiera di San Francesco | 03.10 2026 | Tiarno di Sotto",
       "image": "",
       "candidateKey": "1ba194acfe7a047281ebc788",
-      "candidateSignature": "efbd128cc42b8c4dfbb3743a"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-      "detailUrl": "",
-      "title": "Farmers' market in Riva del Garda",
-      "rawText": "Farmers' market in Riva del Garda | 01.01 - 28.12.2026 ( | Every Friday | ) | Riva del Garda | 08:30 - 13:00 | top",
-      "image": "",
-      "candidateKey": "1ccc4a7928237e21033a1fb4",
-      "candidateSignature": "2495ba41140bd9619c200571"
+      "candidateSignature": "d1960bbc3c759726766fb5ce"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
-      "title": "Traubenkur in Arco",
-      "rawText": "Traubenkur in Arco | 26.09 - 27.09.2026 | Arco | - Piazzale Segantini | 10:00 - 18:00 | Gino Pancheri. Female Figures | 06.09 - 08.11.2026 (",
+      "title": "Farmers' market in Riva del Garda",
+      "rawText": "Farmers' market in Riva del Garda | 01.01 - 28.12.2026 ( | Every Friday | ) | Riva del Garda | 08:30 - 13:00 | top",
       "image": "",
-      "candidateKey": "1e086d2bddb9e9168d71fba5",
-      "candidateSignature": "dc85160e628f82d8bd541908"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-      "detailUrl": "",
-      "title": "RS Feva European Championships",
-      "rawText": "RS Feva European Championships | 30.09 - 03.10.2026 | Riva del Garda | - Via Giancarlo Maroni 2 | 09:00 - 17:00 | top | Rock Master 2026",
-      "image": "",
-      "candidateKey": "2271a58473a9368acfbd03af",
-      "candidateSignature": "06a50a45835eb2208b01c737"
+      "candidateKey": "1ccc4a7928237e21033a1fb4",
+      "candidateSignature": "289f7ff8aa60132bb2ab1dd2"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -31057,35 +31013,46 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "detailUrl": "",
+      "title": "International Chess Tournament Città di Arco",
+      "rawText": "International Chess Tournament Città di Arco | 03.10 - 11.10.2026 | Arco | - Viale delle Palme | 15:00 - 20:00 | top | Laghet con gusto",
+      "image": "",
+      "candidateKey": "24c750d77a1bf7d9af671bf3",
+      "candidateSignature": "1d1efdecb2aa758ff12a4a13"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
       "title": "Spokes of Design",
       "rawText": "Spokes of Design | 05.09 - 25.10.2026 ( | Every Thursday, Friday, Saturday | ) | Torbole sul Garda - Nago | - Via della Lova 18 | 16:00 - 20:00",
       "image": "",
       "candidateKey": "254f12e1586322e817b88772",
-      "candidateSignature": "c342688bd98dca3325678774"
+      "candidateSignature": "644da41710cd635513c31191"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-      "detailUrl": "",
-      "title": "I Forti si raccontano",
-      "rawText": "I Forti si raccontano | 27.09 2026 | Riva del Garda | - Forte Garda, | Riva del Garda | 10:00 - 13:00 | Other available dates",
-      "image": "",
-      "candidateKey": "25690c44a1f245673e2a2169",
-      "candidateSignature": "ea4a5305cb591fd3b437ea61"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
       "detailUrl": "",
       "title": "Christmas Market in Rango",
       "rawText": "Christmas Market in Rango | 14.11 - 15.11.2026 | Rango | 09:30 - 18:30 | Other available dates | top | Christmas Market in Canale di Tenno",
       "image": "",
       "candidateKey": "2d9d5e50b2430260256c1d54",
-      "candidateSignature": "c8ccb2a9e155d9037ce85451"
+      "candidateSignature": "e50b63443262171e303a4c39"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+      "detailUrl": "",
+      "title": "Festa della Noce",
+      "rawText": "Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore) | - Cavrasto square | top | Frantoi Aperti | 07.11 - 08.11.2026",
+      "image": "",
+      "candidateKey": "3534a2c286099040dff7a0af",
+      "candidateSignature": "be76b2c87973579b270b5928"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -31101,68 +31068,57 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+      "detailUrl": "",
+      "title": "Accordion Meeting – Festival di Fisarmoniche ed Ensemble",
+      "rawText": "Accordion Meeting – Festival di Fisarmoniche ed Ensemble | 11.12 2026 | Arco | - Viale delle Palme | 20:45 | 46-54 / 60 | <",
+      "image": "",
+      "candidateKey": "3c132dc90c0f6a3a9bc77fef",
+      "candidateSignature": "8c8ad357efa29a48f67d84ca"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "detailUrl": "",
+      "title": "Maroni in Festa",
+      "rawText": "Maroni in Festa | 24.10 - 25.10.2026 | Drena | - Via Don Camillo Corradini 5 | top | Festa della Patata del Lomaso | 24.10 - 25.10.2026",
+      "image": "",
+      "candidateKey": "453b6ebfecc32078993bfead",
+      "candidateSignature": "b7d5285f2f764c6fd251664e"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
-      "title": "Accordion Festival in Ledro",
-      "rawText": "Accordion Festival in Ledro | 27.09 2026 | Pieve di Ledro | 20:30 - 21:30 | Other available dates | Dal fucile alla matita | 01.06 - 11.10.2026",
+      "title": "Sponde. Freshwater fish on the table",
+      "rawText": "Sponde. Freshwater fish on the table | 03.10 2026 | Riva del Garda | - Via Maffei 18, | Torbole sul Garda | - Piazza Lietzmann, | Arco",
       "image": "",
-      "candidateKey": "388fff062ffaf571cb90dcab",
-      "candidateSignature": "40b2b3ced829b1397f2376ed"
+      "candidateKey": "481865454e80b1effd21d8fd",
+      "candidateSignature": "e245c6f6678b18cc0bf2e2b2"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+      "detailUrl": "",
+      "title": "From Taste to Taste",
+      "rawText": "From Taste to Taste | 13.11 - 14.11.2026 | Riva del Garda | - Piazza Garibaldi, | Riva del Garda | - Piazza Battisti | 10:30 - 21:00",
+      "image": "",
+      "candidateKey": "4f25e2f19ce9bb444d0ff287",
+      "candidateSignature": "c29027f6575f326f09c27b7f"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
-      "title": "Festival Intermittenze",
-      "rawText": "Festival Intermittenze | 24.09 - 27.09.2026 | Riva del Garda | 1-9 / 64 | 1 | 2 | 3",
+      "title": "RS Feva European Championships",
+      "rawText": "RS Feva European Championships | 30.09 - 03.10.2026 | Riva del Garda | - Via Giancarlo Maroni 2 | 09:00 - 17:00 | Spokes of Design | 05.09 - 25.10.2026 (",
       "image": "",
-      "candidateKey": "3920151061c45b93ff9e4a1d",
-      "candidateSignature": "6358a68923c543c8adc9bb06"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-      "detailUrl": "",
-      "title": "Maroni in Festa",
-      "rawText": "Maroni in Festa | 24.10 - 25.10.2026 | Drena | - Via Don Camillo Corradini 5 | 4th National Trophy “Cori d’Italia” | 24.10 - 25.10.2026 | Locca",
-      "image": "",
-      "candidateKey": "43416c48f25e54f879a8b580",
-      "candidateSignature": "8676be78429abe948b516e4f"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-      "detailUrl": "",
-      "title": "From Taste to Taste",
-      "rawText": "From Taste to Taste | 13.11 - 14.11.2026 | Riva del Garda | - Piazza Garibaldi, | Riva del Garda | - Piazza Battisti | 10:30 - 21:00",
-      "image": "",
-      "candidateKey": "4f25e2f19ce9bb444d0ff287",
-      "candidateSignature": "c348fdb8fa6451e1b9e41b04"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-      "detailUrl": "",
-      "title": "International Chess Tournament Città di Arco",
-      "rawText": "International Chess Tournament Città di Arco | 03.10 - 11.10.2026 | Arco | - Viale delle Palme | 15:00 - 20:00 | 19-27 / 64 | <",
-      "image": "",
-      "candidateKey": "4f678bfe421c4dbd4176c55e",
-      "candidateSignature": "3571568fe8e0f9a38962857a"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-      "detailUrl": "",
-      "title": "Festa della Noce",
-      "rawText": "Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore) | - Cavrasto square | top | Christmas Market in Arco | 13.11 2026",
-      "image": "",
-      "candidateKey": "54c26b58230249eecb6c15c1",
-      "candidateSignature": "a9090d45b0877c6261d2299b"
+      "candidateKey": "53b86e0dcbae83dadee18431",
+      "candidateSignature": "1519d4df4355ae6a3a2cbfc9"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -31178,24 +31134,35 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
-      "title": "Reboro, Territorio & Passione",
-      "rawText": "Reboro, Territorio & Passione | 16.10 - 17.10.2026 | Vezzano | Quando la musica racconta | 17.10 2026 | Riva del Garda | - Largo Marconi 5,",
+      "title": "Rock Master 2026",
+      "rawText": "Rock Master 2026 | 02.10 - 04.10.2026 | Arco | - Via Caproni Maini 26 | 10:00 - 00:00 | Bookable online | Ultimate Landscapes",
       "image": "",
-      "candidateKey": "5a2c3ffa5d701ea4cc15a398",
-      "candidateSignature": "9c2dc769d81a57a7b3201f42"
+      "candidateKey": "59521b09514bfa6c1cac73c1",
+      "candidateSignature": "f08a113ec7c7eef6f312dbcf"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
       "detailUrl": "",
-      "title": "Trentodoc Festival",
-      "rawText": "Trentodoc Festival | 25.09 - 27.09.2026 | Madruzzo | - Via Longa, 1, | Arco | - Via Linfano, 81 81, | Pergolese",
+      "title": "Il Castello della Natività - Castel Toblino",
+      "rawText": "Il Castello della Natività - Castel Toblino | 28.12 - 03.01.2027 | Calavino | - Località Castel Toblino 1 | 11:00 - 17:00 | Festa del Broccolo | 17.01 2027",
       "image": "",
-      "candidateKey": "5eeb301ad25c0df29930232e",
-      "candidateSignature": "0cde8ca4a5b582ccca652caa"
+      "candidateKey": "5a744392115445ccffec7201",
+      "candidateSignature": "0bcd195062c01ab01267897a"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "detailUrl": "",
+      "title": "4th National Trophy “Cori d’Italia”",
+      "rawText": "4th National Trophy “Cori d’Italia” | 24.10 - 25.10.2026 | Locca | - Via di Carpeà 6, | Bezzecca | Festa dei Maroni | 24.10 - 25.10.2026",
+      "image": "",
+      "candidateKey": "5ebc4e786e1cb97668465ede",
+      "candidateSignature": "a4a5dd2409ddd891c6f884d9"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -31211,112 +31178,68 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
       "detailUrl": "",
       "title": "Judith Hill",
       "rawText": "Judith Hill | 15.10 2026 | Vezzano | - Via Antonio Stoppani 16 | 21:00 - 22:30 | Bookable online | top",
       "image": "",
       "candidateKey": "5fdaf6d81a4914b478717429",
-      "candidateSignature": "6ed2195980a232a91c2ea8f3"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-      "detailUrl": "",
-      "title": "Rock Master 2026",
-      "rawText": "Rock Master 2026 | 02.10 - 04.10.2026 | Arco | - Via Caproni Maini 26 | 10:00 - 00:00 | Bookable online | IT.A.CÀ. - Responsible Tourism Festival",
-      "image": "",
-      "candidateKey": "63a8800e6b53cf5e55cd46ad",
-      "candidateSignature": "02da71998748039fc4e79941"
+      "candidateSignature": "fed8d32131fee3aeadd3afe4"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
-      "title": "Sponde. Freshwater fish on the table",
-      "rawText": "Sponde. Freshwater fish on the table | 27.09 2026 | Riva del Garda | - Via Maffei 18, | Torbole sul Garda | - Piazza Lietzmann, | Arco",
+      "title": "Visitate il Garda!",
+      "rawText": "Visitate il Garda! | 04.07 - 30.09.2026 | Riva del Garda | - Piazza C. Battisti 3/A | 10:00 - 18:00 | Other available dates | Dal fucile alla matita",
       "image": "",
-      "candidateKey": "65e657f4921072b161d7f03f",
-      "candidateSignature": "b45ae68333e23ff3237b20c8"
+      "candidateKey": "64251af3b58f8a399e946889",
+      "candidateSignature": "3baa9d84c907ad30ac819d97"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
       "title": "Trentino Gravel",
       "rawText": "Trentino Gravel | 25.09 - 30.09.2026 | Riva del Garda | Bookable online | Farmers' market Arco | 02.01 - 31.12.2026 ( | Every Tuesday",
       "image": "",
       "candidateKey": "666afd3457cdd1a05b815a01",
-      "candidateSignature": "75f207bbd31bdcde292e0db7"
+      "candidateSignature": "c9ce93da8674de04f99152b6"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
       "detailUrl": "",
-      "title": "Farmers' market Arco",
-      "rawText": "Farmers' market Arco | 02.01 - 31.12.2026 ( | Every Tuesday | ) | Arco | 08:00 - 13:00 | top",
+      "title": "Night of Burning Stills",
+      "rawText": "Night of Burning Stills | 05.12 - 08.12.2026 | Santa Massenza | - Piazza San Vigilio | Accordion Meeting – Festival di Fisarmoniche ed Ensemble | 11.12 2026 | Arco",
       "image": "",
-      "candidateKey": "676ec6852270ba593f5cd968",
-      "candidateSignature": "848c95a92eb62edcaa6118ba"
+      "candidateKey": "7399ce4268fbe7de7893ace8",
+      "candidateSignature": "6c96f0c24b9b225016dc88fe"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
       "detailUrl": "",
-      "title": "Dal fucile alla matita",
-      "rawText": "Dal fucile alla matita | 01.06 - 11.10.2026 | Riva del Garda | - Forte Garda | 10:00 - 17:00 | Spokes of Design | 05.09 - 25.10.2026 (",
+      "title": "Christmas Market in Arco",
+      "rawText": "Christmas Market in Arco | 13.11 2026 | Arco | - Towncentre | 10:00 - 19:00 | Other available dates | top",
       "image": "",
-      "candidateKey": "696b43627d4f2e2ed8e8302c",
-      "candidateSignature": "c207206b426b3cdd0f7cbffa"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-      "detailUrl": "",
-      "title": "Mostra mercato della Val di Gresta",
-      "rawText": "Mostra mercato della Val di Gresta | 27.09 2026 | Ronzo Chienis | - Via Longa 86/92 | top | Sponde. Freshwater fish on the table | 27.09 2026",
-      "image": "",
-      "candidateKey": "6b191c93f56bbc2b35ef8720",
-      "candidateSignature": "3761bcf8716d5631722c3f09"
+      "candidateKey": "864175fe388cf38062bb8367",
+      "candidateSignature": "73cdfc1f089651a2d28d26e3"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
       "detailUrl": "",
-      "title": "Garbage Ride & Walk",
-      "rawText": "Garbage Ride & Walk | 10.10 2026 | Arco | - Via Caproni Maini 26 | 14:00 - 22:00 | 28-36 / 64 | <",
+      "title": "Reboro, Territorio & Passione",
+      "rawText": "Reboro, Territorio & Passione | 16.10 - 17.10.2026 | Vezzano | 28-36 / 60 | < | Previous | 1",
       "image": "",
-      "candidateKey": "6e4c20c792e54b5b51c3307e",
-      "candidateSignature": "7117a7c1e69562bba2fd0f8d"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-      "detailUrl": "",
-      "title": "Night of Burning Stills",
-      "rawText": "Night of Burning Stills | 05.12 - 08.12.2026 | Santa Massenza | - Piazza San Vigilio | Accordion Meeting – Festival di Fisarmoniche ed Ensemble | 11.12 2026 | Arco",
-      "image": "",
-      "candidateKey": "7399ce4268fbe7de7893ace8",
-      "candidateSignature": "25fdc570b8dede09f09568c6"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-      "detailUrl": "",
-      "title": "Una polenta per la Pace",
-      "rawText": "Una polenta per la Pace | 27.09 2026 | Pieve di Ledro | - Via A. Foletto | 08:00 - 18:00 | Bookable online | Ultimate Landscapes",
-      "image": "",
-      "candidateKey": "739fd30e6fc7a372d76b1d36",
-      "candidateSignature": "c7fb485406d3d5df447fc37a"
+      "candidateKey": "8b847dd35991e11af67233bc",
+      "candidateSignature": "e3a2fe2528f2e1bd59ce4705"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -31332,24 +31255,35 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "detailUrl": "",
+      "title": "Mese del Gusto",
+      "rawText": "Mese del Gusto | 03.10 - 04.10.2026 | Riva del Garda | Other available dates | 10-18 / 60 | < | Previous",
+      "image": "",
+      "candidateKey": "947fc7e6de203e1203a2885a",
+      "candidateSignature": "fc07576ffbf921aaa17ffccd"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
       "detailUrl": "",
       "title": "100 e + anni di turismo nel Garda Trentino",
       "rawText": "100 e + anni di turismo nel Garda Trentino | 05.10 2026 | Riva del Garda | 18:00 - 20:00 | Other available dates | Arco’s Weekly Market | 07.10 2026",
       "image": "",
       "candidateKey": "959e6acd6cc0245f031f0875",
-      "candidateSignature": "2a8a3cecf06b8854bb2fb0ab"
+      "candidateSignature": "0c4209f4ddd39a9e9baaad85"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
       "detailUrl": "",
       "title": "Arco’s Weekly Market",
       "rawText": "Arco’s Weekly Market | 07.10 2026 | Arco | - Towncentre | 08:00 - 14:00 | Other available dates | top",
       "image": "",
       "candidateKey": "9887409d426bce869f494d2d",
-      "candidateSignature": "b4621b6bba692bd6dd40d1ac"
+      "candidateSignature": "b9ba246d87dcde6c3a4e44fe"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -31365,123 +31299,167 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
       "detailUrl": "",
-      "title": "Festa del Broccolo",
-      "rawText": "Festa del Broccolo | 17.01 2027 | Torbole sul Garda | - Piazza Lietzmann | 11:30 - 14:30 | 64-64 / 64 | <",
+      "title": "Accordion Festival in Ledro",
+      "rawText": "Accordion Festival in Ledro | 04.10 2026 | Pieve di Ledro | 20:30 - 21:30 | Other available dates | Caccia ai tesori del PAR IERI | 04.10 2026",
       "image": "",
-      "candidateKey": "a1899f2d588f11c6ff907d37",
-      "candidateSignature": "cee32f2be429ae13afc35a66"
+      "candidateKey": "a8e9f3a6d9df0ab289ba7db4",
+      "candidateSignature": "c48f4ce5c56baaa0fa73c49f"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
       "detailUrl": "",
-      "title": "Beyond the finish line",
-      "rawText": "Beyond the finish line | 01.02 - 27.09.2026 ( | Every Tuesday, Wednesday, Thursday, Friday | ) | Trento | - Corso del Lavoro e della Scienza 3 | 10:00 - 18:00",
+      "title": "I Forti si raccontano",
+      "rawText": "I Forti si raccontano | 04.10 2026 | Riva del Garda | - Forte Garda, | Riva del Garda | 10:00 - 16:00 | Accordion Festival in Ledro",
       "image": "",
-      "candidateKey": "a325f1a073fcd12b7c7aaf85",
-      "candidateSignature": "3dae87336ff34b8bceaa2232"
+      "candidateKey": "aef9cc94e0ea8ac957f2ce9c",
+      "candidateSignature": "4d14a1305d4712dc39215a9b"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-      "detailUrl": "",
-      "title": "Mese del Gusto",
-      "rawText": "Mese del Gusto | 25.09 - 27.09.2026 | Riva del Garda | Other available dates | top | Mostra mercato della Val di Gresta | 27.09 2026",
-      "image": "",
-      "candidateKey": "a9bb943891846141f3e8f0e5",
-      "candidateSignature": "448ee2d4c676b0cb6e835141"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
       "detailUrl": "",
       "title": "Castagnata al Monte Corno di Nago",
       "rawText": "Castagnata al Monte Corno di Nago | 11.10 2026 | Nago | 11:00 - 17:00 | In cammino con il museo | 11.10 2026 | Fiavè",
       "image": "",
       "candidateKey": "b3ad6bd0d24071f5480fa68d",
-      "candidateSignature": "15e18757fed441ffbb0c56f5"
+      "candidateSignature": "31669891486b1dac746457c5"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
       "detailUrl": "",
       "title": "FINE #WineTourism Marketplace Italy",
       "rawText": "FINE #WineTourism Marketplace Italy | 27.10 - 28.10.2026 | Riva del Garda | - Via Baltera 20 | 09:00 - 18:00 | top | Garda Trentino Half Marathon",
       "image": "",
       "candidateKey": "b5c198b84aa28623d8da6f69",
-      "candidateSignature": "74df9599035e524929efbca4"
+      "candidateSignature": "3bbc75e5d8525048391c15c8"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
-      "title": "Traubenkur in Arco",
-      "rawText": "Traubenkur in Arco | 26.09 - 27.09.2026 | Arco | - Piazzale Segantini | 10:00 - 18:00 | Trentodoc Festival | 25.09 - 27.09.2026",
+      "title": "Farmers' market Arco",
+      "rawText": "Farmers' market Arco | 02.01 - 31.12.2026 ( | Every Tuesday | ) | Arco | 08:00 - 13:00 | Aerovita",
       "image": "",
-      "candidateKey": "b8e6ec69c6c525d925243bd1",
-      "candidateSignature": "f24956fbfdf2fa337ff6e0ed"
+      "candidateKey": "b717966beb294986b74f0310",
+      "candidateSignature": "50339567a3a64ff8ebedef32"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
       "detailUrl": "",
-      "title": "Gruppo Cassa Centrale - Trentino Business Run",
-      "rawText": "Gruppo Cassa Centrale - Trentino Business Run | 08.10 2026 | Riva del Garda | - Via Baltera 20 | 15:00 - 20:30 | Grasparola | 09.10 - 10.10.2026",
+      "title": "Laghet con gusto",
+      "rawText": "Laghet con gusto | 04.10 2026 | Tenno | - Loc. Lago di Tenno | I Forti si raccontano | 04.10 2026 | Riva del Garda",
       "image": "",
-      "candidateKey": "bb3e27226d3c8b94cb2389ba",
-      "candidateSignature": "656e9b916f515b83d708928e"
+      "candidateKey": "b88e9e3bce40fcd1fec35789",
+      "candidateSignature": "4356b3b5c80ebad5f7e2d9db"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "detailUrl": "",
+      "title": "Ganzega d'Autunno",
+      "rawText": "Ganzega d'Autunno | 03.10 - 04.10.2026 | Mori | - Piazza Cal di Ponte | 18:00 - 23:00 | International Chess Tournament Città di Arco | 03.10 - 11.10.2026",
+      "image": "",
+      "candidateKey": "bf82fdc40dba5f20b15484b3",
+      "candidateSignature": "87c55e397612f4d64df10bea"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "detailUrl": "",
+      "title": "Festa della Patata del Lomaso",
+      "rawText": "Festa della Patata del Lomaso | 24.10 - 25.10.2026 | Comano Terme | - Frazione Dasindo 1 | 4th National Trophy “Cori d’Italia” | 24.10 - 25.10.2026 | Locca",
+      "image": "",
+      "candidateKey": "bfb855268c1815af5f6de351",
+      "candidateSignature": "fb25904f90548770c205866d"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
       "detailUrl": "",
       "title": "In cammino con il museo",
       "rawText": "In cammino con il museo | 11.10 2026 | Fiavè | - Via 3 Novembre 53 | 14:00 - 16:00 | 5th Stage of the Triveneto BMX Trophy | 11.10 2026",
       "image": "",
       "candidateKey": "c0498aa545cc5a98eefccb39",
-      "candidateSignature": "3257c33319f6dd5ef921b9fa"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
-      "detailUrl": "",
-      "title": "Ganzega d'Autunno",
-      "rawText": "Ganzega d'Autunno | 03.10 - 04.10.2026 | Mori | - Piazza Cal di Ponte | 18:00 - 23:00 | top | Laghet con gusto",
-      "image": "",
-      "candidateKey": "d029933ebb32617025b2fd40",
-      "candidateSignature": "1aaa1868034164a01cad92c1"
+      "candidateSignature": "b19263b8c823b9efb2db57a5"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
       "detailUrl": "",
-      "title": "5th Stage of the Triveneto BMX Trophy",
-      "rawText": "5th Stage of the Triveneto BMX Trophy | 11.10 2026 | Torbole sul Garda - Nago | - Località ai Bersagli | 10:30 - 15:30 | Riva del Garda’s Weekly Market | 14.10 2026",
+      "title": "Garda Trentino Half Marathon",
+      "rawText": "Garda Trentino Half Marathon | 06.11 - 08.11.2026 | Arco | , | Riva del Garda | 09:00 - 15:00 | 37-45 / 60",
       "image": "",
-      "candidateKey": "d4e0658f045a06e239a7acfc",
-      "candidateSignature": "bf16e6459db06f2f2f1d9a1b"
+      "candidateKey": "c9385e1615dc7708bda09ea7",
+      "candidateSignature": "1b00b665d8f765e4d8b64967"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+      "detailUrl": "",
+      "title": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE",
+      "rawText": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE | 26.12 - 28.12.2026 | Lundo | 17:00 - 21:00 | top | Il Castello della Natività - Castel Toblino | 28.12 - 03.01.2027",
+      "image": "",
+      "candidateKey": "ce409da9ac05f50501028c07",
+      "candidateSignature": "dcbc5a587005351ad24ff6e9"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
       "detailUrl": "",
+      "title": "Garbage Ride & Walk",
+      "rawText": "Garbage Ride & Walk | 10.10 2026 | Arco | - Via Caproni Maini 26 | 14:00 - 22:00 | Castagnata al Monte Corno di Nago | 11.10 2026",
+      "image": "",
+      "candidateKey": "d3685fa3c1d07402da8e279a",
+      "candidateSignature": "b90e857a27f0b4b831a350e8"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+      "detailUrl": "",
+      "title": "Festa del Broccolo",
+      "rawText": "Festa del Broccolo | 17.01 2027 | Torbole sul Garda | - Piazza Lietzmann | 11:30 - 14:30 | 55-60 / 60 | <",
+      "image": "",
+      "candidateKey": "d38dcc726af1273e2e225a96",
+      "candidateSignature": "74c0c516481ca7a7161e676d"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+      "detailUrl": "",
+      "title": "5th Stage of the Triveneto BMX Trophy",
+      "rawText": "5th Stage of the Triveneto BMX Trophy | 11.10 2026 | Torbole sul Garda - Nago | - Località ai Bersagli | 10:30 - 15:30 | Riva del Garda’s Weekly Market | 14.10 2026",
+      "image": "",
+      "candidateKey": "d4e0658f045a06e239a7acfc",
+      "candidateSignature": "2451911aa714cb4b451efb8f"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "detailUrl": "",
       "title": "Caccia ai tesori del PAR IERI",
       "rawText": "Caccia ai tesori del PAR IERI | 04.10 2026 | Stenico | - Via al Castello 2 | 15:00 - 17:30 | top | 100 e + anni di turismo nel Garda Trentino",
       "image": "",
       "candidateKey": "d7fa953fff5c63b457426197",
-      "candidateSignature": "68a02593da583226bcd0ac7e"
+      "candidateSignature": "876251aaa9a9bb585a8e2bf4"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -31497,13 +31475,13 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
-      "title": "Laghet con gusto",
-      "rawText": "Laghet con gusto | 04.10 2026 | Tenno | - Loc. Lago di Tenno | Caccia ai tesori del PAR IERI | 04.10 2026 | Stenico",
+      "title": "Display al Forte di Nago",
+      "rawText": "Display al Forte di Nago | 11.07 - 31.10.2026 ( | Every Thursday, Friday, Saturday | ) | Nago | - Via al Castèl Pénede | 10:00 - 12:30",
       "image": "",
-      "candidateKey": "dd5ee90eb93520054f97babf",
-      "candidateSignature": "14638bf54f2c2feb4f9a66ef"
+      "candidateKey": "de0c09633cce0914cfb88371",
+      "candidateSignature": "41a40848011c6f54b3574a9f"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -31522,21 +31500,43 @@
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
       "detailUrl": "",
       "title": "Frantoi Aperti",
-      "rawText": "Frantoi Aperti | 07.11 - 08.11.2026 | Riva del Garda | top | Alchimie d'autunno | 07.11 2026 | Santa Massenza",
+      "rawText": "Frantoi Aperti | 07.11 - 08.11.2026 | Riva del Garda | top | From Taste to Taste | 13.11 - 14.11.2026 | Riva del Garda",
       "image": "",
-      "candidateKey": "e1ae37aa97e3db8b8a3841b8",
-      "candidateSignature": "27da69a4a1b5bb3eaac07786"
+      "candidateKey": "e102cef82634379309041258",
+      "candidateSignature": "554d05f7f5b3e45b0a221737"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+      "detailUrl": "",
+      "title": "Festa dei Maroni",
+      "rawText": "Festa dei Maroni | 24.10 - 25.10.2026 | Pranzo | - Piazza San Leonardo | 10:00 - 17:00 | 49° Mostra Ornitologica Internazionale Trentina | 24.10 2026",
+      "image": "",
+      "candidateKey": "e212d0ca15bd23aaf08983ff",
+      "candidateSignature": "1bd17a253984a4f8ce9bcdb5"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
       "detailUrl": "",
       "title": "Christmas Market in Canale di Tenno",
       "rawText": "Christmas Market in Canale di Tenno | 28.11 - 29.11.2026 | Canale di Tenno | 09:30 - 18:00 | Other available dates | top | Night of Burning Stills",
       "image": "",
       "candidateKey": "e51d34ac73771c26b2e5e421",
-      "candidateSignature": "873bfc7bf0dc70b219f1d9eb"
+      "candidateSignature": "4de34076096777efc20d8ed5"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "detailUrl": "",
+      "title": "Dal fucile alla matita",
+      "rawText": "Dal fucile alla matita | 01.06 - 11.10.2026 | Riva del Garda | - Forte Garda | 10:00 - 17:00 | Gino Pancheri. Female Figures | 06.09 - 08.11.2026 (",
+      "image": "",
+      "candidateKey": "eb2974d41e5939037c15cd97",
+      "candidateSignature": "2a584c3fedf6344112018c96"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -31552,57 +31552,24 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
       "title": "IT.A.CÀ. - Responsible Tourism Festival",
       "rawText": "IT.A.CÀ. - Responsible Tourism Festival | 02.10 2026 | Pieve di Ledro | , | Riva del Garda | 20:30 - 22:30 | Other available dates",
       "image": "",
       "candidateKey": "f142db7ff394d77dc9b902f4",
-      "candidateSignature": "e1d7c9194de397325d6c2f58"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-      "detailUrl": "",
-      "title": "Festa della Patata del Lomaso",
-      "rawText": "Festa della Patata del Lomaso | 24.10 - 25.10.2026 | Comano Terme | - Frazione Dasindo 1 | 37-45 / 64 | < | Previous",
-      "image": "",
-      "candidateKey": "f71fff5fac5b996a1c39a074",
-      "candidateSignature": "2e60ad60753bd3b123934889"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-      "detailUrl": "",
-      "title": "Garda Trentino Half Marathon",
-      "rawText": "Garda Trentino Half Marathon | 06.11 - 08.11.2026 | Arco | , | Riva del Garda | 09:00 - 15:00 | top",
-      "image": "",
-      "candidateKey": "f72196d260509f3211daa045",
-      "candidateSignature": "b4fe61f42d741e72a3ce65eb"
+      "candidateSignature": "fb45ceea375dc3672b7c4b7e"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
       "detailUrl": "",
-      "title": "Fiera di San Francesco",
-      "rawText": "Fiera di San Francesco | 03.10 2026 | Tiarno di Sotto | International Chess Tournament Città di Arco | 03.10 - 11.10.2026 | Arco | - Viale delle Palme",
+      "title": "Gruppo Cassa Centrale - Trentino Business Run",
+      "rawText": "Gruppo Cassa Centrale - Trentino Business Run | 08.10 2026 | Riva del Garda | - Via Baltera 20 | 15:00 - 20:30 | 19-27 / 60 | <",
       "image": "",
-      "candidateKey": "f9ebae5201f168e02a451baa",
-      "candidateSignature": "c38a6e038d88f3b7418b8e79"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-      "detailUrl": "",
-      "title": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE",
-      "rawText": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE | 26.12 - 28.12.2026 | Lundo | 17:00 - 21:00 | 55-63 / 64 | < | Previous",
-      "image": "",
-      "candidateKey": "fb2303312aa09caab06273de",
-      "candidateSignature": "468738843517a9cf5da95320"
+      "candidateKey": "f2e0d3a6a6dbd9e5bb988445",
+      "candidateSignature": "5537127bfbdd7bc99220eeb5"
     },
     {
       "sourceId": "trentino_cultura_appuntamenti",
@@ -36654,28 +36621,6 @@
       "candidateSignature": "38d330bce380236c1bc8b40a"
     },
     {
-      "sourceId": "val_di_non_events",
-      "sourceName": "APT Val di Non - day-by-day events",
-      "pageUrl": "https://www.visitvaldinon.it/eventi",
-      "detailUrl": "http://www.kumbe.it/",
-      "title": "Testi",
-      "rawText": "Credits Sito Web ufficiale Azienda per il Turismo Val di Non Ringraziamo tutte le persone che hanno collaborato alla creazione di questo portale. Concept, Design, Web KUMBE HUMAN TO DIGITAL www.kumbe.it Destination Management System Il portale integra il DMS Deskline 3.0 per le funzionalità di prenotazione alloggi ed esperienze. feratel media technologies www.feratel.it Foto e video Per le immagini si ringraziano: Francesca Padovan Elisa Fedrizzi Paolo Crocetta Diego Marini Elena Marini Silvestri Gilberto Seppi Giulia Stringari IDM Südtirol Tourismusverein Deutschnonsberg Alex Filz Hannes Niederkofler Karlheinz Sollbauer Georg Mair Alessio Pellegrini Andrea Pizzato APT Trento, Bondone, Valle dei Laghi Testi Staff APT, KUMBE",
-      "image": "https://www.visitvaldinon.it/files/getbyname/icon-round-close.svg?WebbinsCacheVersion=9",
-      "candidateKey": "78c319bbd070e5f74d8311fe",
-      "candidateSignature": "dfd88c82c8540d2eaa14a5a3"
-    },
-    {
-      "sourceId": "val_di_non_events",
-      "sourceName": "APT Val di Non - day-by-day events",
-      "pageUrl": "https://www.visitvaldinon.it/eventi",
-      "detailUrl": "https://www.visitvaldinon.it/privacy",
-      "title": "Richiedi informazioni",
-      "rawText": "Richiedi informazioni Nome Cognome Email Telefono Nazione Il tuo messaggio Per prenotare Arrivo e partenza - Adulti N° Adulti 1 2 3 4 5 Bambini N° Bambini 1 2 3 4 I dati verranno trattati in conformità alla vigente normativa sulla protezione dei dati personali. Tutte le informazioni sono disponibili nella Privacy Policy Iscrivimi alla newsletter (ti verrà inviata una mail con un link di conferma). Privacy Policy * Campo obbligatorio Invia la richiesta Azienda per il Turismo Val di Non Via Roma, 21 - 38013 Borgo d'Anaunia TN Se preferisci la mail diretta o parlare con qualcuno: info@visitvaldinon.it - +39 0463 830133 Newsletter Area media Staff - Lavora con noi Suite operatori Termini e condizioni Privacy Cookies Preferenze cookies Credits Trasparenza Sostenitori Copyright © 2026 AZIENDA PER IL TURISMO VAL DI NON soc. coop. | VIA ROMA 21, 38013 BORGO D'ANAUNIA TN | CF. e P.Iva 01899140220 | REA TN186069 | Cap. Soc. €247.750 | Powered by feratel media technologies Made in Kumbe with passion",
-      "image": "https://www.visitvaldinon.it/files/getbyname/icon-marker.svg?WebbinsCacheVersion=9",
-      "candidateKey": "b8e89a2c82571e45025251fe",
-      "candidateSignature": "a9455077f8b140de0c9e9c35"
-    },
-    {
       "sourceId": "visitrovereto_estate",
       "sourceName": "Rovereto Estate programme",
       "pageUrl": "https://www.visitrovereto.it/rovereto-estate",
@@ -36685,17 +36630,6 @@
       "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Estate-con-il-museo-Fondazione-MCR-@visitrovereto-Luca-Matassoni.png",
       "candidateKey": "064167a10e7b07a26e044eb1",
       "candidateSignature": "6327b39b8ebece19c7b342af"
-    },
-    {
-      "sourceId": "visitrovereto_estate",
-      "sourceName": "Rovereto Estate programme",
-      "pageUrl": "https://www.visitrovereto.it/rovereto-estate",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/educa-festival-educazione",
-      "title": "Educa",
-      "rawText": "Educa Rovereto Da giovedì 24 a domenica 27 settembre 2026",
-      "image": "https://www.visitrovereto.it/wp-content/uploads/2015/04/Educa-Luca-Matassoni.jpg",
-      "candidateKey": "221974d05b6b17ee65a43a2d",
-      "candidateSignature": "b0f5c23ac3565ee593070876"
     },
     {
       "sourceId": "visitrovereto_estate",
@@ -36769,10 +36703,10 @@
       "pageUrl": "https://www.visitrovereto.it/rovereto-estate",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/ram-film-festival",
       "title": "RAM film festival",
-      "rawText": "Trekking urbani Rovereto Da sabato 2 maggio a sabato 12 dicembre 2026 Ci vado anch’io! Rovereto, Vallagarina e Monte Baldo dal 02-01- 20 26 al 30-12- 20 26 E noi che ne sappiamo? MITAG Museo Storico Italiano della Guerra Dal 23 maggio 2025 all'8 dicembre 2026 (R)estate in biblioteca Biblioteca Civica Girolamo Tartarotti, Rovereto Da giugno a settembre 2026 Estate con il museo Rovereto e Vallagarina Da giugno a settembre 2026 Eventi Orto San Marco – Setàp Orto San Marco - Setàp, Rovereto Da giugno a ottobre 2026 Educa Rovereto Da giovedì 24 a domenica 27 settembre 2026 Giacomo Balla – Lo stile dell’Avanguardia Rovereto dal 16-05- 20 26 al 18-10- 20 26 RAM film festival Rovereto Da mercoledì 7 a domenica 11 ottobre Di quadro in quadro Mart Da sabato 13 giugno a domenica 1 novembre",
+      "rawText": "Trekking urbani Rovereto Da sabato 2 maggio a sabato 12 dicembre 2026 Ci vado anch’io! Rovereto, Vallagarina e Monte Baldo dal 02-01- 20 26 al 30-12- 20 26 E noi che ne sappiamo? MITAG Museo Storico Italiano della Guerra Dal 23 maggio 2025 all'8 dicembre 2026 (R)estate in biblioteca Biblioteca Civica Girolamo Tartarotti, Rovereto Da giugno a settembre 2026 Estate con il museo Rovereto e Vallagarina Da giugno a settembre 2026 Eventi Orto San Marco – Setàp Orto San Marco - Setàp, Rovereto Da giugno a ottobre 2026 Giacomo Balla – Lo stile dell’Avanguardia Rovereto dal 16-05- 20 26 al 18-10- 20 26 RAM film festival Rovereto Da mercoledì 7 a domenica 11 ottobre Di quadro in quadro Mart Da sabato 13 giugno a domenica 1 novembre",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2021/09/RAM-Film-Festival-2.jpg",
       "candidateKey": "99715a195f702156b61d6648",
-      "candidateSignature": "a9ec886f859280c15b603853"
+      "candidateSignature": "8ba9ebbfb878f52be7b1e796"
     },
     {
       "sourceId": "visitrovereto_estate",
@@ -36802,10 +36736,10 @@
       "pageUrl": "https://www.visitrovereto.it/rovereto-estate",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/di-quadro-in-quadro",
       "title": "Di quadro in quadro",
-      "rawText": "Trekking urbani Rovereto Da sabato 2 maggio a sabato 12 dicembre 2026 Ci vado anch’io! Rovereto, Vallagarina e Monte Baldo dal 02-01- 20 26 al 30-12- 20 26 E noi che ne sappiamo? MITAG Museo Storico Italiano della Guerra Dal 23 maggio 2025 all'8 dicembre 2026 (R)estate in biblioteca Biblioteca Civica Girolamo Tartarotti, Rovereto Da giugno a settembre 2026 Estate con il museo Rovereto e Vallagarina Da giugno a settembre 2026 Eventi Orto San Marco – Setàp Orto San Marco - Setàp, Rovereto Da giugno a ottobre 2026 Educa Rovereto Da giovedì 24 a domenica 27 settembre 2026 Giacomo Balla – Lo stile dell’Avanguardia Rovereto dal 16-05- 20 26 al 18-10- 20 26 RAM film festival Rovereto Da mercoledì 7 a domenica 11 ottobre Di quadro in quadro Mart Da sabato 13 giugno a domenica 1 novembre",
+      "rawText": "Trekking urbani Rovereto Da sabato 2 maggio a sabato 12 dicembre 2026 Ci vado anch’io! Rovereto, Vallagarina e Monte Baldo dal 02-01- 20 26 al 30-12- 20 26 E noi che ne sappiamo? MITAG Museo Storico Italiano della Guerra Dal 23 maggio 2025 all'8 dicembre 2026 (R)estate in biblioteca Biblioteca Civica Girolamo Tartarotti, Rovereto Da giugno a settembre 2026 Estate con il museo Rovereto e Vallagarina Da giugno a settembre 2026 Eventi Orto San Marco – Setàp Orto San Marco - Setàp, Rovereto Da giugno a ottobre 2026 Giacomo Balla – Lo stile dell’Avanguardia Rovereto dal 16-05- 20 26 al 18-10- 20 26 RAM film festival Rovereto Da mercoledì 7 a domenica 11 ottobre Di quadro in quadro Mart Da sabato 13 giugno a domenica 1 novembre",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Di-quadro-in-quadro-Mart.jpg",
       "candidateKey": "c0151f0dbdc0ab261548a756",
-      "candidateSignature": "e037b89e3ef16b0c8226f078"
+      "candidateSignature": "542fa7085854a6bdab295b2f"
     },
     {
       "sourceId": "visitrovereto_estate",
@@ -36854,24 +36788,13 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-27&end_event_date=2026-09-27&filter_ref=today",
-      "title": "Oggi",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "11045e4b53251d3e3dac844f",
-      "candidateSignature": "743630e99c70b4ab1cc24c63"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=8",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/a-spasso-con-la-cadalora",
       "title": "A spasso con La Cadalora",
       "rawText": "A spasso con La Cadalora La Cadalora - Ala - Dal 1 gennaio 2026 al 31 dicembre 2026 Sulla Strada dell'Ora: trekking, storia e calici con La Cadalora. Due passi in pieno relax fra i verdi vigneti della bassa Vallagarina alla scoperta della sua natura, della sua storia e di uno ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2021/04/Alla-scoperta-dei-vitigni-autoctoni-de-La-Cadalora-Azienda-Agricola-La-Cadalora.jpg",
       "candidateKey": "125b284281161e20e882aefa",
-      "candidateSignature": "869ff1d37710515f851b2774"
+      "candidateSignature": "800832a164e1d8eca7a390e0"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -36887,17 +36810,6 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/il-trentodoc-festival-incontra-la-vallagarina",
-      "title": "Il Trentodoc Festival incontra la Vallagarina",
-      "rawText": "Il Trentodoc Festival incontra la Vallagarina Vallagarina - Da venerdì 25 a domenica 27 settembre 2026 Le bollicine di montagna protagoniste di uno dei festival del vino più amati d'Italia. Dal 25 al 27 settembre, appuntamenti gustosi e profumati da non perdere. Tre giornate fra cantine e palazzi ...",
-      "image": "https://www.visitrovereto.it/wp-content/uploads/2026/09/Trento-doc-festival.png",
-      "candidateKey": "1c412f4b2fcd5b13386f13cf",
-      "candidateSignature": "eabf5f45b15ef40a9040e9dc"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/seguendo-un-filo-di-seta",
       "title": "Seguendo un filo di seta",
@@ -36905,17 +36817,6 @@
       "image": "https://www.visitrovereto.it/wp-content/uploads/2023/04/SEGUENDO-UN-FILO-DI-SETA-Trekking-urbani-Luca-Matassoni-2.jpg",
       "candidateKey": "1d80ad9c3acffd87aaabf2c1",
       "candidateSignature": "80368c6ae34a7402617a38d7"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/educa-festival-educazione",
-      "title": "Educa",
-      "rawText": "Educa Rovereto - Da giovedì 24 a domenica 27 settembre 2026 Il festival dell'educazione. Dialoghi e incontri, spettacoli, laboratori e attività animative. Per scoprire che la felicità non è perfezione, ma qualcosa a cui dare forma insieme. Educa rimette ...",
-      "image": "https://www.visitrovereto.it/wp-content/uploads/2015/04/Educa-Luca-Matassoni.jpg",
-      "candidateKey": "1dc6950d07f46494055a7810",
-      "candidateSignature": "932827f4e521d58fa654323f"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -36934,10 +36835,10 @@
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/giro-podistico-internazionale-di-rovereto",
       "title": "Giro podistico internazionale di Rovereto",
-      "rawText": "Giro podistico internazionale di Rovereto Rovereto il 10-10- 20 26 78esima edizione. Corsa Internazionale su strada maschile di 10km. L’Unione Sportiva Quercia di Rovereto organizza, con l’approvazione della F.I.D.A.L., la 78ª edizione del Giro Podistico ...",
+      "rawText": "Giro podistico internazionale di Rovereto Rovereto - Sabato 10 ottobre 2026 78esima edizione. Corsa Internazionale su strada maschile di 10km. L’Unione Sportiva Quercia di Rovereto organizza, con l’approvazione della F.I.D.A.L., la 78ª edizione del Giro Podistico ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2023/10/Giro-Podistico-Rovereto.png",
       "candidateKey": "25124c1b78abc584ed5be25e",
-      "candidateSignature": "722d41ba109060411761790e"
+      "candidateSignature": "1769bfd1138c43f91ade210d"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -36976,17 +36877,6 @@
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/san-mate-transumanza-monte-baldo",
-      "title": "San Matè – Descargar la malga",
-      "rawText": "San Matè – Descargar la malga Saccone di Brentonico - Domenica 27 settembre 2026 La transumanza sul Monte Baldo. Una tradizione che si ripete da sempre, segno del forte legame che la comunità mantiene ancora oggi con i cicli della natura e i costumi contadini. La manifestazione ...",
-      "image": "https://www.visitrovereto.it/wp-content/uploads/2015/08/san-mate-transumanza-parco-del-monte-baldo.jpg",
-      "candidateKey": "280ed8362d703462be35f6bd",
-      "candidateSignature": "7040b0b9d171d43dc20a0c8d"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/la-vigna-eccellente",
       "title": "La Vigna Eccellente",
       "rawText": "Scopri Punti di interesse e territorio Un sabato con il Sole sul Monte Zugna Punti di interesse e territorio Borghi, vigneti, montagne Musei, cibo per la mente Castelli Luoghi storici Siti naturalistici In Malga Palazzi Chiese e luoghi sacri I Comuni della Vallagarina Vivi Eventi, cultura e outdoor Esperienze outdoor Luoghi della Grande Guerra Eventi, cultura e outdoor Eventi Esperienze Itinerari culturali Outdoor Mercati Centri benessere In famiglia Gusta Enogastronomia e prodotti tipici La Vigna Eccellente Il Marzemino Enogastronomia e prodotti tipici Ristoranti Vini Prodotti tipici Esperienze enogastronomiche Ricette Dove mangiare e dormire in Vallagarina Prenota Strutture ricettive e idee vacanza Il Kilometro delle Meraviglie per gruppi- innamorati di Rovereto❤ CLIMA COSA FAI? Strutture ricettive e idee vacanza Booking Dove dormire Regala la Vallagarina Noleggia la tua bici Idee vacanza Proposte per la scuola Offerte per gruppi Info Suggerimenti e contatti Card turistiche Uffici turistici a Rovereto e in Vallagarina Suggerimenti e contatti Uffici turistici Ricerca personale Come arrivare Come muoversi Mappe Card turistiche Guide App Cataloghi Webcam it en de Cerca:",
@@ -36997,35 +36887,35 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=6",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/tra-chiostri-e-chiese",
       "title": "Tra chiostri e chiese",
       "rawText": "Tra chiostri e chiese Rovereto - I sabati da maggio a dicembre 2026 Passeggiata nell'arte sacra. Un viaggio nel tempo alla scoperta di chiostri affrescati, antichi oratori e chiese monumentali. Si parte dal quartiere di Santa Maria, dall’omonima chiesa barocca ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2026/04/TRA-CHIOSTRI-E-CHIESE-Trekking-urbani-Luca-Matassoni.jpg",
       "candidateKey": "302ce17b824502d305ddbc1a",
-      "candidateSignature": "7f0825d4a2cae678616bccb0"
+      "candidateSignature": "ca752989e66a433ebdf84e1c"
     },
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/sulle-tracce-dei-dinosauri",
       "title": "Sulle tracce dei dinosauri",
       "rawText": "Sulle tracce dei dinosauri Orme dei dinosauri, Rovereto dal 14-02- 20 26 al 28-11- 20 26 Un tuffo nel passato. Visite guidate con gli esperti della Fondazione Museo Civico di Rovereto. Scopri gli appuntamenti al sito paleontologico dei Lavini di Marco, tra i più importanti e spettacolari ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2025/04/Sulle-tracce-dei-dinosauri.jpg",
       "candidateKey": "33b568ca78096cada78d4ce3",
-      "candidateSignature": "19a9130f98bc67c6c8f444e5"
+      "candidateSignature": "c59e88d118eae7a2768eab37"
     },
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=6",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/visite-guidate-rovereto",
       "title": "Trekking urbani",
       "rawText": "Trekking urbani Rovereto - Da sabato 2 maggio a sabato 12 dicembre 2026 Itinerari a tema per scoprire Rovereto e le vie della seta. Da maggio a dicembre itinerari guidati a tema per scoprire Rovereto e i tesori nascosti della Vallagarina. Cinque piacevoli percorsi ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2018/09/Trekking-urbani-Luca-Matassoni.jpg",
       "candidateKey": "34030b8201613df2e9297ff9",
-      "candidateSignature": "a351e4350e18f7bd90aa1b29"
+      "candidateSignature": "ba40cb30127398018c404aa9"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37064,6 +36954,28 @@
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-28&end_event_date=2026-09-28&filter_ref=today",
+      "title": "Oggi",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "44b22de94a1a12bd6eab42cf",
+      "candidateSignature": "1855a81c595a99b8017d4cc6"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-28&end_event_date=2026-10-28&filter_ref=month",
+      "title": "30 giorni",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "48962fd219b6980833508de2",
+      "candidateSignature": "19acf6c3b11e1eb602337b2b"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/adotta-una-mucca",
       "title": "Adotta una mucca",
       "rawText": "Adotta una mucca Malga Zocchi, Trambileno - Da giugno a settembre 2026 Adotta, scopri, gusta. Vuoi vivere un’esperienza autentica a stretto contatto con la natura e i sapori della tradizione? A Malga Zocchi, struttura nel Massiccio del Pasubio gestita dall’ ...",
@@ -37074,13 +36986,13 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/crea-il-tuo-tour-e-bike",
       "title": "E-Bike tours guidati",
       "rawText": "E-Bike tours guidati Vallagarina, Monte Baldo, Valli del Leno e Lessinia trentina - Da giugno a settembre Esplora la Vallagarina a ritmo di bicicletta: scopri le nostre esperienze personalizzate tra storia e natura. Sogni di vivere il basso Trentino a bordo di una comoda E-Bike, senza rinunciare ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2022/04/E-MTB_Tommaso-Prug-3-Pasubio-Malga-Valli.jpg",
       "candidateKey": "58c4d2581b4f51fc59208676",
-      "candidateSignature": "ccdad6c433eed95f2fa94e20"
+      "candidateSignature": "f6159bef033fa562a85c8c89"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37103,6 +37015,17 @@
       "image": "",
       "candidateKey": "637623d348b60de0530d9464",
       "candidateSignature": "addba64933ecc23cf2d6b1de"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-28&end_event_date=2026-10-05&filter_ref=week",
+      "title": "7 giorni",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "63f2a0f4f5ea19b4d14c4a8b",
+      "candidateSignature": "90756c70349e7c75b373d643"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37136,6 +37059,17 @@
       "image": "https://www.visitrovereto.it/wp-content/uploads/2017/04/7900_Rov-Teatro-Zandonai-interno-Settenovecento.jpg",
       "candidateKey": "6b9cd61098b60370a8448ab0",
       "candidateSignature": "363fd24d04b232efe0389f12"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina",
+      "title": "Foliage",
+      "rawText": "Foliage Lago di Cei - Domenica 18 ottobre 2026 Colore, musica e arte. Una passeggiata libera adatta a tutti per trascorrere una giornata speciale, in un luogo incantevole, in un periodo magico. Una giornata d ...",
+      "image": "https://www.visitrovereto.it/wp-content/uploads/2023/10/Lago-di-Cei-_-Ilaria-Clappa.png",
+      "candidateKey": "79950d7a40f6506e919ff422",
+      "candidateSignature": "528b40d3b6aabfec4cbc14a7"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37184,35 +37118,35 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/estate-con-il-museo",
       "title": "Estate con il museo",
       "rawText": "Estate con il museo Rovereto e Vallagarina - Da giugno a settembre 2026 Quest’estate la Vallagarina si trasforma nel tuo laboratorio a cielo aperto! Insieme alla Fondazione Museo Civico di Rovereto, ti aspetta un calendario ricchissimo di appuntamenti per imparare ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Estate-con-il-museo-Fondazione-MCR-@visitrovereto-Luca-Matassoni.png",
       "candidateKey": "8132d8aedab70a8284216929",
-      "candidateSignature": "0439a518a0bbf8015fadcdbe"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno",
-      "title": "Sapori d’autunno",
-      "rawText": "Sapori d’autunno Parco C. Battisti, Brentonico - Sabato 10 e domenica 11 ottobre 2026 Weekend di festa con protagonisti i prodotti del Monte Baldo. Mercatino di montagna, antichi mestieri, attività per tutta la famiglia e tante altre novità! Vino, birra, formaggi, confetture ...",
-      "image": "https://www.visitrovereto.it/wp-content/uploads/2017/10/sapori-dautunno-2.png",
-      "candidateKey": "833ab361992453b60ce1034a",
-      "candidateSignature": "d3c4cbb34fde2d57edd165ad"
+      "candidateSignature": "e87fdf1da86a295ba96f7bce"
     },
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno",
+      "title": "Sapori d’autunno",
+      "rawText": "Sapori d’autunno Parco C. Battisti, Brentonico - Sabato 10 e domenica 11 ottobre 2026 Weekend di festa con protagonisti i prodotti del Monte Baldo. Mercatino di montagna, antichi mestieri, attività per tutta la famiglia e tante altre novità! Vino, birra, formaggi, confetture ...",
+      "image": "https://www.visitrovereto.it/wp-content/uploads/2017/10/sapori-dautunno-2.png",
+      "candidateKey": "833ab361992453b60ce1034a",
+      "candidateSignature": "3d75e70f0c523ec925f414bd"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/ecologica",
       "title": "EcoLogica",
       "rawText": "EcoLogica Manifattura Tabacchi il 03-10- 20 26 Laboratori ed idee per uno sviluppo sostenibile. Progetto Manifattura come un luogo da attraversare, scoprire e vivere insieme. Sabato 3 ottobre Progetto Manifattura si trasforma in un grande ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2025/10/EcoLogica-@visitrovereto-foto-di-Luca-Matassoni.png",
       "candidateKey": "86b18105e493eaeedaea8c2f",
-      "candidateSignature": "e0dae90f7b8b9528b9691071"
+      "candidateSignature": "3c2c0cf96d93860da9e279ef"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37239,24 +37173,24 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/incontrarti",
       "title": "IncontrArti",
       "rawText": "IncontrArti Manifattura Tabacchi, Rovereto - Da sabato 3 ottobre a mercoledì 28 ottobre 2026 Dalle ceneri dalla colpa il fiorire del perdono. Amedeo Marchetti, Luigi Meregalli e Rabarama. Un percorso espositivo, realizzato all ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2024/09/IncontrArti-Manifattura-Tabacchi-Rovereto.jpg",
       "candidateKey": "959b343898da67ab281a10f5",
-      "candidateSignature": "7953f4e05733baa0f55f5199"
+      "candidateSignature": "b142c97164bc67deda9dc5f5"
     },
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/esplorazioni-urbane-family",
       "title": "Esplorazioni urbane family",
       "rawText": "Esplorazioni urbane family Rovereto - Domenica 3 maggio e domenica 4 ottobre 2026 Trekking urbano per famiglie. Cosa ci fa un leone di San Marco a Rovereto? Perché c’è una quercia nello stemma comunale? Una divertente caccia al dettaglio tra le vie del centro alla ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2026/04/ESPLORAZIONI-URBANE-Trekking-urbani-Luca-Matassoni-3.jpg",
       "candidateKey": "95fc694ad28c82e60e22291c",
-      "candidateSignature": "2c306da3871c523d395d0c6c"
+      "candidateSignature": "bd0256a6cf2a688e65a02774"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37283,17 +37217,6 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-27&end_event_date=2026-10-27&filter_ref=month",
-      "title": "30 giorni",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "9abe3c633690dca734895a1a",
-      "candidateSignature": "4023bd59d1a00cd429569f00"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/visita-e-degustazione-da-sondelaite",
       "title": "Visita e degustazione da Sondelaite",
@@ -37305,35 +37228,35 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=8",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/interpretazioni-in-cantina-con-la-cadalora-2",
       "title": "Interpretazioni in cantina de La Cadalora",
       "rawText": "Interpretazioni in cantina de La Cadalora La Cadalora - Ala - Dal 1 gennaio 2026 al 31 dicembre 2026 Un viaggio tra antiche tradizioni e nuove visioni, racchiuso in tre calici d'eccezione. Un viaggio sensoriale tra i segreti della nostra cantina, dove il racconto della storia e l’emozione ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2026/04/Azienda-Agricola-La-Cadalora.jpg",
       "candidateKey": "a507767054c3bc28fc01e5f6",
-      "candidateSignature": "f4f107acebbca980b328567e"
+      "candidateSignature": "2879d3788d5c31ee3622db93"
     },
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=6",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/visita-e-degustazione-da-balter",
       "title": "Visita e Degustazione da Balter",
       "rawText": "Visita e Degustazione da Balter Azienda Agricola Balter - Dal 1 gennaio 2026 al 31 dicembre 2026 Territorio, struttura, vinificazione e focus sul Trentodoc. C’era una volta un antico Castelliere cinquecentesco con una storia da condividere. La visita verrà accompagnata da una spiegazione ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2024/03/Cantina-Balter.jpg",
       "candidateKey": "b08c673e0826ea12c5d6c604",
-      "candidateSignature": "c55c513fd6f229002473385b"
+      "candidateSignature": "f6ea705fe1ac38763d62bb29"
     },
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/anselmo-bucci",
-      "title": "Anselmo Bucci",
-      "rawText": "Anselmo Bucci Mart, Museo di arte moderna e contemporanea di Trento e Rovereto - Da sabato 28 marzo a domenica 27 settembre 2026 Il tempo del Novecento tra Italia e Europa. La più ampia mostra mai dedicata ad Anselmo Bucci (1887-1955), una delle figure più complesse, colte e indipendenti del XX secolo. Il percorso espositivo ...",
-      "image": "https://www.visitrovereto.it/wp-content/uploads/2026/03/31_Anselmo-Bucci-Juliette-1910.jpg",
-      "candidateKey": "b1068aa40bc171703aa4d7cc",
-      "candidateSignature": "968d3794f0b3b08aaa4375e2"
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca",
+      "title": "Fiera di San Luca",
+      "rawText": "Fiera di San Luca Parrocchia, Vallarsa - Sabato 17 e domenica 18 ottobre 2026 La sagra d'autunno di tutta la Vallarsa. Torna la Fiera di San Luca, l’antica fiera del bestiame che negli anni si è trasformata in un’occasione per stare assieme in allegria! Nella ...",
+      "image": "https://www.visitrovereto.it/wp-content/uploads/2018/10/Fiera-di-San-Luca-Alessandro-Casagrande.jpg",
+      "candidateKey": "b09aac64354394e9784f0044",
+      "candidateSignature": "7eaf3d0a911cd38980964309"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37393,6 +37316,17 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-29&end_event_date=2026-09-29&filter_ref=tomorrow",
+      "title": "Domani",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "b9ac90387bf0afc538a9bc7d",
+      "candidateSignature": "74dcf9f1d65b8ada47880d7f"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/il-kilometro-delle-meraviglie",
       "title": "Rovereto – Kilometro delle Meraviglie",
@@ -37426,13 +37360,13 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/eventi-orto-san-marco",
       "title": "Eventi Orto San Marco – Setàp",
       "rawText": "Eventi Orto San Marco – Setàp Orto San Marco - Setàp, Rovereto - Da giugno a ottobre 2026 C’è un Orto in città... ed è pieno di vita! Un’estate ricca di cultura, laboratori, musica ed eventi all’Orto San Marco. L’Orto San Marco riaccende i motori con un palinsesto estivo ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Eventi-Orto-san-Marco-@visitrovereto-Luca-Matassoni-.png",
       "candidateKey": "c44ea7004347bd040d691862",
-      "candidateSignature": "f019927791b274625c2bb6b4"
+      "candidateSignature": "8b09759bbe78f3d125b60f01"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37492,6 +37426,28 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=8",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/larte-di-fare-il-vino",
+      "title": "L’arte di fare il vino",
+      "rawText": "L’arte di fare il vino Cantina Vivallis - Nogaredo - Dal 1 gennaio 2026 al 31 dicembre 2026 La Cantina Vivallis ti apre le sue porte. C’è qualcosa di più affascinante che esplorare la filosofia produttiva di una cantina in prima persona? Vieni a scoprire da vicino la Vallagarina ...",
+      "image": "https://www.visitrovereto.it/wp-content/uploads/2021/09/L-ARTE-DI-FARE-IL-VINO-FOTO-DI-LUCA-MATASSONI.jpg",
+      "candidateKey": "d8bb59439b685f825c3f4a94",
+      "candidateSignature": "e3431be83f28e67ce0a6fd49"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=8",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/mercatini-di-natale-rovereto-trentino",
+      "title": "Rintocchi di Luce. Natale a Rovereto",
+      "rawText": "Rintocchi di Luce. Natale a Rovereto Centro storico di Rovereto - Dal 20 novembre 2026 al 6 gennaio 2027 Vivi la magica atmosfera natalizia di Rovereto. A Natale la città di Rovereto ti regalerà momenti di magia, emozioni, suoni e una calda atmosfera caratterizzata dall ... Durante il periodo ...",
+      "image": "https://www.visitrovereto.it/wp-content/uploads/2015/06/Rintocchi-di-Luce.-Natale-a-Rovereto-1.jpg",
+      "candidateKey": "d918caf3f9aac40e815f44f8",
+      "candidateSignature": "8be85f53a55f002f5fe81eb8"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/di-quadro-in-quadro",
       "title": "Di quadro in quadro",
@@ -37525,28 +37481,6 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-28&end_event_date=2026-09-28&filter_ref=tomorrow",
-      "title": "Domani",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "dbec4a9fa87cfd67944a110f",
-      "candidateSignature": "7fb837d51acf1053765cd164"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-09-27&end_event_date=2026-10-04&filter_ref=week",
-      "title": "7 giorni",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "de889b6e2cc89d8787a6c4d5",
-      "candidateSignature": "35d7f1220e29f80980ef7518"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=6&lang=it",
       "title": "6",
@@ -37558,24 +37492,24 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/festival-meteorologia",
       "title": "Festivalmeteorologia",
       "rawText": "Festivalmeteorologia Rovereto dal 19-11- 20 26 al 22-11- 20 26 IL TEMPO NEL TEMPO - Meteo, clima e storia. Un ... Il Festivalmeteorologia, giunto alla sua XII edizione, offre un ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2018/08/festivalmeteorologia-luca-mercalli.jpg",
       "candidateKey": "e61f7b2a82cda29e237e0f3f",
-      "candidateSignature": "ec0d7547c81193f799991a89"
+      "candidateSignature": "e45d47d8c64c493cb784f9ea"
     },
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/ram-film-festival",
       "title": "RAM film festival",
       "rawText": "RAM film festival Rovereto - Da mercoledì 7 a domenica 11 ottobre Sguardi sulle città - cinque giornate di cinema e cultura diffusa. Torna a Rovereto il RAM film festival, la manifestazione che racconta l’archeologia e il patrimonio culturale attraverso il cinema",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2021/09/RAM-Film-Festival-2.jpg",
       "candidateKey": "e809d927953322e51a18962e",
-      "candidateSignature": "688a7d820399c268ab46fd46"
+      "candidateSignature": "4a67882d9ccf799d826e0427"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37602,24 +37536,24 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=6",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/visita-e-degustazione-da-letrari",
       "title": "Visita e Degustazione da Letrari",
       "rawText": "Visita e Degustazione da Letrari Letrari Soc. Agr. - Dal 1 gennaio 2026 al 31 dicembre 2026 Letrari – Tradizione di famiglia e bollicine di montagna. Nel cuore del Trentino, in Vallagarina, la cantina Letrari accoglie gli ospiti in un viaggio alla scoperta del Trentodoc, espressione ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2025/06/Azienda-Agricola-Letrari-6.png",
       "candidateKey": "f223be2f2ef5f973b64e78bb",
-      "candidateSignature": "e62bfbdb568e376e8cb2df41"
+      "candidateSignature": "3b52ad112a4eb5c1a0ed3e79"
     },
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/autunno-divino",
       "title": "Autunno DiVino",
       "rawText": "Autunno DiVino Centro storico di Besenello - Da venerdì 9 a domenica 11 ottobre 2026 Tre giorni alla scoperta del Moscato Giallo di Castel Beseno. La grande festa di fine vendemmia giunta alla sua 13° edizione. Un appuntamento che ogni anno accende il centro storico del paese ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2015/09/Moscato-Giallo-Autunno-DiVino-Luca-Matassoni-2.jpg",
       "candidateKey": "f4efc6420386f3fe3683fcb7",
-      "candidateSignature": "85243fd30f60ddb720239057"
+      "candidateSignature": "47286fde0b3d32f9725f644c"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -37675,17 +37609,6 @@
       "image": "",
       "candidateKey": "023af02f829cc71614eae9f2",
       "candidateSignature": "322525c1ec69f1e19f50c8db"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-notte-dei-krampus_e_98942830",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "027babd461c5803d27c1b72c",
-      "candidateSignature": "7b625679f8bb3bd6005823ef"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -37785,17 +37708,6 @@
       "image": "",
       "candidateKey": "04c7120a7c57cc4975068547",
       "candidateSignature": "190f367756917337ecf5c809"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/levico-terme-il-centro-e-la-torre-belvedere_e_134673916",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "04f458f8a5b5e36a3b2a684b",
-      "candidateSignature": "bc2f6cf8fe617ab4e2a084ba"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -37955,34 +37867,12 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/gran-festa-del-desmontegar-benvenuti-in-fattoria_e_133502804",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "095e5d80c31d5e39b6b61793",
-      "candidateSignature": "0cd76fc44273c52048a3974d"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/occhi-su-saturno_e_97169384",
       "title": "",
       "rawText": "",
       "image": "",
       "candidateKey": "0965beed9a14eb32c8c93c2f",
       "candidateSignature": "66635eb33d96399fa55e476e"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/prenotazione-esperienze-con-dolomeet-card_e_92495596",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "09b6a536a989443755fbdcd5",
-      "candidateSignature": "e2d65a0e3bae2ced7241e8df"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -38038,6 +37928,17 @@
       "image": "",
       "candidateKey": "0c1a604e372c36801b25b243",
       "candidateSignature": "97166b60e9744335384215be"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/autunno-divino_e_310328",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "0c52e2ee762fb8529c6bba94",
+      "candidateSignature": "e24513f7f54c09f1daf5ec17"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -38153,12 +38054,12 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/micologia-divulgativa-sin-biosys_e_136369983",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-femminile-ihlw_e_136542497",
       "title": "",
       "rawText": "",
       "image": "",
-      "candidateKey": "0ea33eecafc2432b89b2b394",
-      "candidateSignature": "2530980e53223b1e01bbb639"
+      "candidateKey": "0eaba4d1d5f58f073e8ad7ff",
+      "candidateSignature": "53b610824ddf5d799d477974"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -38170,6 +38071,17 @@
       "image": "",
       "candidateKey": "0ee59c7eab886454de35451c",
       "candidateSignature": "64dc52bc741e6861863d9c2b"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-per-gli-ottavi-di-finale-coppa-italia-ihl-senior_e_136542512",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "0f137c14aadae98166a7930d",
+      "candidateSignature": "6fec093772fac495a38ae577"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -38296,17 +38208,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/gran-festa-del-desmontegar-festa-della-birra_e_133502626",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "12b5f43e47f2b05d1d3ac10c",
-      "candidateSignature": "224286f9609541c6757f7bc3"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/area-archeologica-palazzo-lodron_e_93544584",
       "title": "",
       "rawText": "",
@@ -38379,17 +38280,6 @@
       "image": "",
       "candidateKey": "140cdd7494c5fbb5cbf643a8",
       "candidateSignature": "2044c29faf1beef88d267787"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/biodanza-a-sostegno-di-medici-senza-frontiere_e_135764617",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "1419976f9610a37863c92d68",
-      "candidateSignature": "32452ffbb54f7dcb82098406"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -38538,6 +38428,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-maschile-ihl-senior_e_136542621",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "17f2785a62b73a5b1c079519",
+      "candidateSignature": "521acb576ac0e9e916f4b9d1"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/in-bici-nel-lomaso-terra-di-coltivatori_e_113685040",
       "title": "",
       "rawText": "",
@@ -38604,12 +38505,12 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trentodoc-festival_e_94354421",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-calendula-preparazione-dell-unguento-con-linda-martinello_e_136535776",
       "title": "",
       "rawText": "",
       "image": "",
-      "candidateKey": "18f8421cb9ff4431893fa646",
-      "candidateSignature": "85477f201d66b7c283316e9e"
+      "candidateKey": "19939e1b921fbbd4e65a6649",
+      "candidateSignature": "556206f3d7bfca3cb94b0d4a"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -38643,17 +38544,6 @@
       "image": "",
       "candidateKey": "1a92ccdbc28ba12b600aab12",
       "candidateSignature": "ce27074e1e520e5434ce6686"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/gianni-morandi-in-concerto_e_134079238",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "1c0ff127255bf352cac19041",
-      "candidateSignature": "d82e6fc0ac98d062ef9755c6"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -38720,17 +38610,6 @@
       "image": "",
       "candidateKey": "1e5b39ea4e8d6fab8711b40a",
       "candidateSignature": "2c432ef086dc4152f3393047"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/notte-internazionale-di-osservazione-della-luna_e_55289406",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "1e74baa59076315f63c8d311",
-      "candidateSignature": "bdb835e3d5d06951856d6be6"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -38813,17 +38692,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/saperi-e-sapori_e_133502834",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "1fe1eb0606b1d11d4cd8f4af",
-      "candidateSignature": "c272440416ba97e5c045930f"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/sulle-tracce-dei-dinosauri_e_110347935",
       "title": "",
       "rawText": "",
@@ -38835,23 +38703,23 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-pratica-della-coesistenza_e_133491178",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "2159f806f0150502ec20a42a",
-      "candidateSignature": "3f11b2d202e36307b42c222d"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/cantine-vivallis-trentodoc-tasting_e_121760879",
       "title": "",
       "rawText": "",
       "image": "",
       "candidateKey": "216b790dedd16dca1039ebc5",
       "candidateSignature": "cf5846e96652752b61e09f72"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/rassegna-teatrale-ldquo-fon-teatro-in-primiero-rdquo_e_136532176",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "226a53393ae51c4980ef33a8",
+      "candidateSignature": "f8605754bdaa90e3fb43bd7e"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -38879,17 +38747,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/festival-intermittenze_e_135317223",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "22d7445b1c78013a7baac3cb",
-      "candidateSignature": "05b7e6cccac040ca9abcd1c6"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/vini-del-trentino-a-palazzo_e_91402712",
       "title": "",
       "rawText": "",
@@ -38907,28 +38764,6 @@
       "image": "",
       "candidateKey": "23086a603d49897da6090412",
       "candidateSignature": "cec68caef9ae166a31d9a83c"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/camminata-avisat-cammina-pedala-respira-un-abbraccio-alla-natura-un-dono-per-la-vita_e_100979134",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "2311a7249bf53113ac7de5a1",
-      "candidateSignature": "40d1e637a6600c00d5534a2d"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/sconcerto-a-4-mani_e_135732509",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "2312b280ac0e6fe40c8f52b2",
-      "candidateSignature": "0800bac44b86da611231fb2c"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -38962,17 +38797,6 @@
       "image": "",
       "candidateKey": "237c3d4f96e87b5345839371",
       "candidateSignature": "b93784d6fb1dcfe40f96431f"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/gran-festa-del-desmontegar-atmosfere-e-tradizioni-contadine_e_136317223",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "23cb738b7d1868e1528d3876",
-      "candidateSignature": "a9d4cd5abecbc492988bb010"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -39110,17 +38934,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-grande-sfilata-della-brava-part_e_64436995",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "27af3f6a88110cc19cd03f23",
-      "candidateSignature": "dcf82c2e731362e8fe0da813"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-alla-segheria-sog-van-rindel_e_64131347",
       "title": "",
       "rawText": "",
@@ -39171,17 +38984,6 @@
       "image": "",
       "candidateKey": "27fd50695d2eafd3940f2d34",
       "candidateSignature": "2dc4ce0d00186ede9a46f91b"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/superpark-il-bosco-che-cambia_e_92495488",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "28206640e4fca10942d2191a",
-      "candidateSignature": "bd37eb80634ea289cd302f5d"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -39286,17 +39088,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/pesca-laghetto-madonna-di-campiglio_e_136456073",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "2c833f06cb0e8fa5ff504f55",
-      "candidateSignature": "3c2b890e4ee71135fffdde08"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/i-suoni-delle-dolomiti-musica-verticale_e_131835466",
       "title": "",
       "rawText": "",
@@ -39391,28 +39182,6 @@
       "image": "",
       "candidateKey": "2f2f51eb04de393c68d4334a",
       "candidateSignature": "0d313ed4a46f9b83a37a2f03"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/mostra-quot-il-bosco-e-le-piante-nella-crisi-climatica-attuale-quot_e_133788820",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "2f3c4106dfbe468b3435d8eb",
-      "candidateSignature": "68cd39a50287071535efa8b3"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/aperitivi-e-cene-a-maso-poli_e_123312716",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "2f57e3aa8cb4cc9abe869fc1",
-      "candidateSignature": "17540343dd19670480e77d3e"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -39517,23 +39286,23 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-maschile-ihl-senior_e_136542655",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "31ef3ac610f6a4b8888eb78e",
+      "candidateSignature": "b4a68dd6ad486f74433359d0"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-bramito-del-cervo-di-notte_e_134248671",
       "title": "",
       "rawText": "",
       "image": "",
       "candidateKey": "31fbfae2dc17d70f2c577937",
       "candidateSignature": "c6b5e5470d15e7af20ef896f"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/brozzin-gourmet-sin-biosys_e_136369928",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "32252bf4944143d7cb47a4ba",
-      "candidateSignature": "4ca772b0c9b2272f938d7451"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -39572,17 +39341,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trentodoc-festival-in-rotaliana-konigsberg_e_118581563",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "32a94ffe997e26551ae9eb28",
-      "candidateSignature": "15a0fe27ebf8103940d43a34"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/contadini-di-montagna_e_90575327",
       "title": "",
       "rawText": "",
@@ -39605,23 +39363,23 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/sounds-of-sauna-autumn_e_133743571",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "339261fdd98526dacc5d2a7c",
-      "candidateSignature": "164a5d52e45fc1b43f884bc8"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-scoperta-della-melavispa_e_92495978",
       "title": "",
       "rawText": "",
       "image": "",
       "candidateKey": "339b8429c8ff1bc5ecbd7abf",
       "candidateSignature": "5b09600679b87df08352f277"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/sconcerto-a-4-mani.spettacolo-per-bambini_e_116581000",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "33af437e79828f70844db3a8",
+      "candidateSignature": "4f1559a043eff1ac8fbf25b3"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -39677,6 +39435,28 @@
       "image": "",
       "candidateKey": "347ec2c86e0785ae4bde2117",
       "candidateSignature": "479d76a237541a30fb280f53"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/festival-dei-piccoli_e_118743163",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "3595e68ae5f52ebe6003f5f3",
+      "candidateSignature": "bf0f69d7c1f9d12c4d21d25b"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-settimana-dell-accoglienza-presentazione-del-progetto-quot-parole-sicure-quot_e_136542649",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "362d5124c56b8b3424cc7cdc",
+      "candidateSignature": "e8595b2731b3f81b20faa51d"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -39957,34 +39737,12 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/scaldagambe_e_97460230",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "3ba5bb83a82fb5dbc1a77438",
-      "candidateSignature": "7374047dffc9e707e16e26b6"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/4-trofeo-nazionale-cori-d-italia_e_128201481",
       "title": "",
       "rawText": "",
       "image": "",
       "candidateKey": "3baf0745dc866a119482dd40",
       "candidateSignature": "81d8d6f750b73ba23fdbf209"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-maschile-ihl-senior_e_136520104",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "3bb161404a7eed7d52e127b8",
-      "candidateSignature": "c8635eb1be5c6afbf31bcb82"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -40078,6 +39836,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-categoria-u14_e_136542607",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "3e110c3d0b408a64c388ce12",
+      "candidateSignature": "462f88b376c5aac905dda4ab"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/festival-del-canederlo_e_101401373",
       "title": "",
       "rawText": "",
@@ -40106,6 +39875,17 @@
       "image": "",
       "candidateKey": "3ef6072c29905516c6cce58d",
       "candidateSignature": "db0fa6aae91c7dcba978defd"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-maschile-ihl-senior_e_136542513",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "3f0bb35a6aad05b84200567f",
+      "candidateSignature": "16814611a0556fb2b5fbab7e"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -40172,17 +39952,6 @@
       "image": "",
       "candidateKey": "40387b5f1c57efc56f9a9637",
       "candidateSignature": "814926d7a3a8ac77d735dbeb"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/mostra-z-snaiwet-di-neve-di-sci-e-di-campioni_e_135298300",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "40737ffb9083c08345e8d44f",
-      "candidateSignature": "db30fe151ba433b4cec3da4d"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -40282,6 +40051,17 @@
       "image": "",
       "candidateKey": "41a1191cf824f1dd21eb99c3",
       "candidateSignature": "9274402d91d5205ba255b4ea"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-maschile-ihl-senior_e_136542600",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "41d4001b0ef7d127000b9cdb",
+      "candidateSignature": "e9b4128b0a0ee4924b22df6f"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -40408,34 +40188,12 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/nono-trofeo-quot-una-cima-per-gli-amici-quot_e_136478956",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "45876171f769e2d71ee777b5",
-      "candidateSignature": "1a74534eeab71f2659581b1d"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/spettacolo-in-occasione-degli-800-anni-dalla-morte-di-san-francesco_e_133804003",
       "title": "",
       "rawText": "",
       "image": "",
       "candidateKey": "458d180f6cc12ca5d9b676a6",
       "candidateSignature": "76183d633d8cbd7d792d08a1"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-trentodoc-festival-incontra-la-vallagarina_e_136211340",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "45c8b9fa8a18f7bd7b9eaf19",
-      "candidateSignature": "75c8e3ac3ab3d03895222f99"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -40579,6 +40337,17 @@
       "image": "",
       "candidateKey": "47d121fa90d787259733d656",
       "candidateSignature": "87663d6802051043eef6a351"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-maschile-ihl_e_136542520",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "4800126cec654371248f73ac",
+      "candidateSignature": "0ed69fbe3e7ffb9ce7d37c12"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -40782,17 +40551,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/solo-la-verita-in-maschera-spettacolo-teatrale_e_115724527",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "4d973e20a34dfd046b3f3886",
-      "candidateSignature": "4f65c3fdc7c396957db39e81"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-guidata-alla-fattoria-e-degustazione-adulti_e_111112965",
       "title": "",
       "rawText": "",
@@ -40870,6 +40628,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/quarta-notte-dei-krampus_e_98942830",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "506aba323edfcbcef4a69a46",
+      "candidateSignature": "5f53553c647e98a5cf2dd7a7"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/sapori-d-autunno_e_2177448",
       "title": "",
       "rawText": "",
@@ -40887,17 +40656,6 @@
       "image": "",
       "candidateKey": "51030f138bb009faf8a584a7",
       "candidateSignature": "bf6621cc74b124e5cf8c4688"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alessandro-castriota-scanderberg-quot-canti-arb-euml-resh-antica-lingua-degli-albanesi_e_134906674",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "513ecbeb63f03fc5f8915fdd",
-      "candidateSignature": "cb5d84e5c68a9804db6c4ede"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -40953,17 +40711,6 @@
       "image": "",
       "candidateKey": "51b19297305a09cae2533ab4",
       "candidateSignature": "6d8ae5e789f064c5bf079ee3"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-al-mulino-zeni_e_92496060",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "51e096a8309d0e5875e8dc42",
-      "candidateSignature": "0027fb29b82b810a3b9c7544"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -41112,17 +40859,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/i-suoni-delle-dolomiti-anna-castiglia_e_131835478",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "53ca8d5270c760d0136517da",
-      "candidateSignature": "7328cbed33cf60944c40f9cc"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/un-sabato-con-il-sole-sul-monte-zugna_e_92495694",
       "title": "",
       "rawText": "",
@@ -41200,17 +40936,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/eventi-a-malga-pontara_e_91856641",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "54e7730a6473a3b799cc9329",
-      "candidateSignature": "6ad0d21760567258c79a6f56"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/diaz_e_113685041",
       "title": "",
       "rawText": "",
@@ -41228,17 +40953,6 @@
       "image": "",
       "candidateKey": "55e2054a44a2edb6d2351fd0",
       "candidateSignature": "9473bf2e98cdbd81ef510bda"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/vivi-il-castello-sostieni-la-bellezza-che-sfida-i-secoli_e_136297485",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "561da4d846469ed615da0ad4",
-      "candidateSignature": "c8a2f9a7fe55470a86daeb2e"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -41420,17 +41134,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-filo-della-tradizione-nella-citta-azzurra_e_136006968",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "5a41278a8610eba91ec1dd1d",
-      "candidateSignature": "01089317db08393579b53e71"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/festa-d-autunno_e_120377211",
       "title": "",
       "rawText": "",
@@ -41514,17 +41217,6 @@
       "image": "",
       "candidateKey": "5c20c9a4fac94d72ddc3e165",
       "candidateSignature": "b93ef3eccaafaf39c0e12c47"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/dalla-svizzera-all-austria-fino-ad-arco_e_134991144",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "5c31d2aa47a9aa3cd3623bb0",
-      "candidateSignature": "ef356333423c4a78dd8d24f2"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -41805,34 +41497,23 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/traubenkur_e_123685372",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "60db93606ac52ac0e31a9ef7",
-      "candidateSignature": "56a792b308ca97ca3e72501f"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trento-half-marathon_e_96857085",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "612c2c1b18e835ed12d561e1",
-      "candidateSignature": "bbda65c00ab57f35a0c8655b"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/area-faunistica-caoria_e_92495748",
       "title": "",
       "rawText": "",
       "image": "",
       "candidateKey": "6152c69431f477b5139efab9",
       "candidateSignature": "4543ca675902b6ae8d67db2c"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/al-chiaro-di-luna_e_118545110",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "619613bb48caafc68e169a15",
+      "candidateSignature": "87667a4da6fe98df4f4c7063"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -42234,39 +41915,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/festival-delle-associazioni-della-solidarieta-5-edizione_e_119315061",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "6d17c14c38a2be759c1d4e87",
-      "candidateSignature": "a4ff632f13d9602dbc6ccb32"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/scampagnate-in-fattoria-a-maso-flonkeri_e_136457029",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "6d66b81d7e47b39272b6f860",
-      "candidateSignature": "6e44153320fba7cc174147a5"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/educa_e_63843463",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "6e138cb149d3f1e343d5fc5b",
-      "candidateSignature": "53b3174b1eafc0f160b1faea"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/presentazione-del-libro-quot-viaggiare-in-scala.piccoli-treni-grandi-passioni-quot_e_135763864",
       "title": "",
       "rawText": "",
@@ -42306,17 +41954,6 @@
       "image": "",
       "candidateKey": "6ea3b6316342ccbf86bdfe7c",
       "candidateSignature": "7328ab990b9c0fb3e8302a3b"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/gran-festa-del-desmontegar-atmosfere-e-tradizioni-contadine_e_136317247",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "6ebf8ef0fc77f1a5ec9ccbc2",
-      "candidateSignature": "676fc39a469057e9817c3c54"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -42520,17 +42157,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/mostra-anthology_e_135367793",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "750512efd0bc70c60360edba",
-      "candidateSignature": "2699d43b39621f92cc287f8a"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trekking-a-spasso-nel-tempo-cantina-klinger_e_92495817",
       "title": "",
       "rawText": "",
@@ -42630,34 +42256,12 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-guidata-a-castel-belasi_e_135760731",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "77e225a8f63b4ee90e6add78",
-      "candidateSignature": "a626054c150d2b5e486a36d2"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/kayak-al-lago-di-santa-giustina_e_92496047",
       "title": "",
       "rawText": "",
       "image": "",
       "candidateKey": "783859d78344857d47a6304d",
       "candidateSignature": "1996439afaa67ec6ef7a2b04"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-al-forte-di-tenna_e_69483841",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "7908fcb3b9f6242df3008b3c",
-      "candidateSignature": "a4cb0ff71c2a922a24de8a72"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -42971,6 +42575,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-femminile-ihlw_e_136542528",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "8035cbe76a113d956c3b4507",
+      "candidateSignature": "4fdc2b6cd8c05736d9fdb187"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/sapori-in-tavola_e_113685036",
       "title": "",
       "rawText": "",
@@ -42999,6 +42614,17 @@
       "image": "",
       "candidateKey": "80a7921bd1fbd29229e128d1",
       "candidateSignature": "0d72c5a81032d40bfe451e30"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/campionato-nazionale-u16_e_136542527",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "80edf61253f5d6854cbcd6ba",
+      "candidateSignature": "fba7700e941a533b2d04a32c"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -43120,28 +42746,6 @@
       "image": "",
       "candidateKey": "8415e00d6b248aeb593b1ec2",
       "candidateSignature": "95eec4f0bfc28d37fb45cb29"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/una-lezione-in-piazza-con-unimarconi_e_136402894",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "842eb4dd49d0d07c0107112f",
-      "candidateSignature": "027b0a15c4c8f50c15c95992"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/i-reti-e-le-antiche-genti-della-val-di-non_e_83985967",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "84316059c4b28d9a5c649809",
-      "candidateSignature": "fe0cbd799ef32c27aa1726fb"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -43290,17 +42894,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/mostra-mercato-della-val-di-gresta_e_135412227",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "8765b898b72467862b9cf6a0",
-      "candidateSignature": "d2aecd44e39e1ba0385ed35b"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/buono-garda-trentino_e_117365585",
       "title": "",
       "rawText": "",
@@ -43318,17 +42911,6 @@
       "image": "",
       "candidateKey": "877203b1e813523098228e9e",
       "candidateSignature": "e979079bcbab497436c12a10"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/i-suoni-delle-dolomiti-ialoni_e_131940967",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "8858cfe0e490a2b9a12671bc",
-      "candidateSignature": "0dd7f4b64bdf64b12735b351"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -43576,17 +43158,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-al-mulino-zeni_e_21202565",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "8c156110a6d44d4eec2241d3",
-      "candidateSignature": "cf3d1ccc999a472a60457f59"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/fis-coppa-del-mondo-telemark_e_122564711",
       "title": "",
       "rawText": "",
@@ -43741,34 +43312,12 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/camminata-metabolica-al-lago-calaita_e_136183721",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "909ce5ac417b0d7eccf2f416",
-      "candidateSignature": "94d6590c387f88a5a2844bd3"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trekking-la-magia-dell-acqua_e_113685231",
       "title": "",
       "rawText": "",
       "image": "",
       "candidateKey": "90a18ba3641aaee35f2851f4",
       "candidateSignature": "50323fc3bca314cd0af43810"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/oltre-il-traguardo_e_133613937",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "90a1d405ca161e5347e892c9",
-      "candidateSignature": "bcc554fc719fb9ccd6b8333a"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -43862,17 +43411,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/garda-lift-on-fire_e_126437255",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "920a2dbfc25f6d574143908f",
-      "candidateSignature": "54732eab8e18ef2949344e84"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/i-lunedi-del-formaggio_e_109509668",
       "title": "",
       "rawText": "",
@@ -43890,6 +43428,17 @@
       "image": "",
       "candidateKey": "92a4c1ce9d5502b3958005cb",
       "candidateSignature": "8b8d960867cc54b821353eb1"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/pianeti-ultimo-tribute-band_e_136542505",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "92f1202ffe72676a1e14ee2c",
+      "candidateSignature": "3f450f3ad3dcc8261c1f8385"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -43939,17 +43488,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/valbeat_e_135083689",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "94a1ac3c6c05149df4609e4b",
-      "candidateSignature": "64f8f2c42e40104428ba4f01"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/gran-festa-del-desmontegar_e_455978",
       "title": "",
       "rawText": "",
@@ -43994,17 +43532,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/escursione-a-pampeago-loc.tresca-suoni-delle-dolomiti_e_92495862",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "9582d51d5870fdffcb634a23",
-      "candidateSignature": "2bc6978d7b63479e0292c3fa"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/antiche-storie-d-acqua-a-cappella-vantini-torna-la-realta-virtuale_e_99289496",
       "title": "",
       "rawText": "",
@@ -44022,17 +43549,6 @@
       "image": "",
       "candidateKey": "95be1493d8fca8141663d7b9",
       "candidateSignature": "293379cc0fc7bc3b78bf2b5f"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trekking-tra-storia-e-natura-la-forra-del-lupo_e_113685075",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "95de09890fdb2656f51c642a",
-      "candidateSignature": "24e986f260c6999815266fcc"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -44088,17 +43604,6 @@
       "image": "",
       "candidateKey": "966fff9309b0fb787469b335",
       "candidateSignature": "3abed1e7c23dc90aebb94843"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/anselmo-bucci_e_131932041",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "96773a740f945efed06fb40a",
-      "candidateSignature": "883b6c0dd9ac6a2dfa36a287"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -44236,17 +43741,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/5-festival-dell-arrampicata-inclusiva_e_58040000",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "9a1cf1f01d64ed4850cb9912",
-      "candidateSignature": "db03ce4db5760c33a4b46dc1"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/oltre-la-sella-un-mattino-d-inverno-tra-cavalli-e-sapori-artigianali_e_125116739",
       "title": "",
       "rawText": "",
@@ -44269,6 +43763,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/musicautunno.note-degne-di-note_e_136542511",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "9a874b57bc8034a1bbd6f86f",
+      "candidateSignature": "eba756151c715097efb9e898"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-al-museo-pietra-viva_e_134398980",
       "title": "",
       "rawText": "",
@@ -44286,17 +43791,6 @@
       "image": "",
       "candidateKey": "9a8d9d8fbd9459b78b38c5ba",
       "candidateSignature": "e9e93724294f9ad8557f0579"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/a-spas-per-i-lomeri_e_90157675",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "9a9a8a8c12b63ddd3be25c4d",
-      "candidateSignature": "58b310ee4041e5a49bc4c8d7"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -44555,12 +44049,12 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/cunciar-el-tep_e_135114336",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-femminile-ihlw_e_136542605",
       "title": "",
       "rawText": "",
       "image": "",
-      "candidateKey": "a0cffcd11463891bdd76bb54",
-      "candidateSignature": "b23a698b9dfe657792fec483"
+      "candidateKey": "a0ca90268d82f2164b6451d4",
+      "candidateSignature": "8c12fd356f2db245b74ee0c6"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -44720,17 +44214,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-festa-di-quot-fassa-fall.in-love-with-food-quot_e_135668077",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "a4e224db3baf5c71035f115e",
-      "candidateSignature": "795ce1f4368048bea3181eae"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/gran-festa-del-desmontegar-d-igrave-del-formai_e_133502839",
       "title": "",
       "rawText": "",
@@ -44814,6 +44297,17 @@
       "image": "",
       "candidateKey": "a7dbd69b279d5b01bb1c6e24",
       "candidateSignature": "4b59199547adc7319389435d"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/rassegna-teatrale-ldquo-fon-teatro-in-primiero-rdquo_e_136531993",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "a82016865c4033ce91d3ddd4",
+      "candidateSignature": "ab8de0c5839988c6d4f81960"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -44979,17 +44473,6 @@
       "image": "",
       "candidateKey": "aba2de962d9a21045686dc36",
       "candidateSignature": "58701000cbc4e1087cff6296"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/tradizionale-salita-alla-croce-della-anastasia_e_134137117",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "abd3a705cbdce418df34749e",
-      "candidateSignature": "ac1228f87713c895a7a2665f"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -45193,6 +44676,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/rassegna-teatrale-ldquo-fon-teatro-in-primiero-rdquo_e_136531991",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "b01f3272de73e2c978e63a1d",
+      "candidateSignature": "96e5a29d4960c1f4e015ac35"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/vivallis-blind_e_92495693",
       "title": "",
       "rawText": "",
@@ -45232,17 +44726,6 @@
       "image": "",
       "candidateKey": "b2280c19d092c826b9195572",
       "candidateSignature": "c228d761984b2d43016a41c6"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/canyoning-lagorai_e_54399922",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "b2896323aecbe27f44f0fcf3",
-      "candidateSignature": "934dc109eb0d41445ef2213e"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -45435,6 +44918,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-femminile-ihlw_e_136542596",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "b5879061e677e1b4ddca53cc",
+      "candidateSignature": "a6a84e4eae3423cfdac827e8"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/nadal-a-dro_e_136100907",
       "title": "",
       "rawText": "",
@@ -45468,17 +44962,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trento-film-festival-365_e_134987448",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "b63b670331119eee5e71bb8e",
-      "candidateSignature": "82a8f8bce7899113ae810431"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/aquila-basket_e_92269634",
       "title": "",
       "rawText": "",
@@ -45496,6 +44979,17 @@
       "image": "",
       "candidateKey": "b6e99bf395a87a89dc493217",
       "candidateSignature": "695b657dc1c27e177aa9db82"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-settimana-dell-accoglienza-incontro-con-raffaele-crocco_e_136542593",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "b6f3c74da50e9e1b9d7e60c6",
+      "candidateSignature": "38acad6bf0d83e476ecb7293"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -45650,17 +45144,6 @@
       "image": "",
       "candidateKey": "ba2ce6eefb99bc7ce1dcc8d2",
       "candidateSignature": "c5d95505f997219338c165ec"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/fiera-di-san-michele_e_125361577",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "ba6240301926955e929be36e",
-      "candidateSignature": "9da37e854c78b776b63335ff"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -45864,17 +45347,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/mercato-contadino-a-cles_e_69270979",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "c0abdae02f7eb0741a758125",
-      "candidateSignature": "bdee89026b216f2422db88cd"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/mostra-sui-presepi-torre-mirana_e_99973465",
       "title": "",
       "rawText": "",
@@ -45963,6 +45435,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/ars-modi-concorso-pianistico-la-finale_e_136542514",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "c35e0d286e380ac9e6c0a4ce",
+      "candidateSignature": "d0bf957d5d4c0195b7463b0b"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/un-capodanno-dei-bambini-magico-tra-giochi-balli-sfrenati-e-una-ricca-tombola_e_100990107",
       "title": "",
       "rawText": "",
@@ -46029,17 +45512,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/canyoning-lagorai_e_94292729",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "c592df521032054a09a9292c",
-      "candidateSignature": "cf92c12f62bb575ce0452636"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/aperitortel_e_92495506",
       "title": "",
       "rawText": "",
@@ -46057,17 +45529,6 @@
       "image": "",
       "candidateKey": "c66b09691229f36cba17dafb",
       "candidateSignature": "fb4de7fdd053ddce69547f47"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/37-deg-marcia-dell-uva_e_134793429",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "c679c2a0cf9911e79d909384",
-      "candidateSignature": "4a045e7dceda8c73fde336df"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -46112,17 +45573,6 @@
       "image": "",
       "candidateKey": "c7162d63a83ba1f8557fc876",
       "candidateSignature": "992427e6444bbb3b7a20acda"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-guidata-alla-mostra-don-t-break-my-heart_e_135760729",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "c790b92b1c2760e13aeae1e0",
-      "candidateSignature": "7d1567a9a0f9e8e0aff97a67"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -46304,17 +45754,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/judicaria-eco-festival_e_118323332",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "cb62a090e0062a1b6deb1efe",
-      "candidateSignature": "4b4f332c52a3b49e37f51596"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-bellezza-e-la-profezia-di-san-francesco-nella-divina-commedia_e_136489380",
       "title": "",
       "rawText": "",
@@ -46365,17 +45804,6 @@
       "image": "",
       "candidateKey": "cbdddc89307dbb8969ba6514",
       "candidateSignature": "aad7ee40b665514db0ef9422"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/hockey-su-ghiaccio-fassa-falcons-vs.hcmv-varese-hockey_e_98941026",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "cc4e69d09e3130647fbb9c89",
-      "candidateSignature": "71c8a1de9beff5e11e7a0b30"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -46442,17 +45870,6 @@
       "image": "",
       "candidateKey": "cdb19a62887a9b7ad684c547",
       "candidateSignature": "16cf2ced0d6b3e8bda0e7184"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/pranzo-olato_e_120463969",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "cdef6a292ff9e8c01765775a",
-      "candidateSignature": "860289f89b492ae943e0db13"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -46541,17 +45958,6 @@
       "image": "",
       "candidateKey": "cf92449f1082f407a4031c8b",
       "candidateSignature": "3ce2b9ad849c83c87abf7c33"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/acropark-alpe-cimbra_e_133657897",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "cfd783790f604d4b68874346",
-      "candidateSignature": "922a0aa1e49f455d0a4e432a"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -46700,6 +46106,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-maschile-ihl-senior_e_136542581",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "d3efc1b9e225ec2cbd5e8db0",
+      "candidateSignature": "1657ab0ff5a3d88f4778914c"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visite-e-degustazioni-in-cantina-monfort_e_127898990",
       "title": "",
       "rawText": "",
@@ -46711,12 +46128,12 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/sagra-degli-angeli-custodi-di-stramentizzo_e_135416486",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/in-gita-con-l-associazione-culturale-la-bifora-di-castello_e_136542526",
       "title": "",
       "rawText": "",
       "image": "",
-      "candidateKey": "d4375052d2979935bd752624",
-      "candidateSignature": "438328bf2d6a6f6f5484ad6b"
+      "candidateKey": "d49d8afb40e4d7afa1f7a46a",
+      "candidateSignature": "016237bb3528232275b2229b"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -46799,17 +46216,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/gua-forest-farm-visita-al-giardino-degustazione-e-shop_e_134269870",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "d61a8af2835c51ef215156d5",
-      "candidateSignature": "766412c2b369dd62903a41a7"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-magnalonga-dell-alta-vallagarina_e_1875674",
       "title": "",
       "rawText": "",
@@ -46876,17 +46282,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/fiera-di-san-michele_e_134226193",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "d7ff2725c1a267028c4c5943",
-      "candidateSignature": "943da9dd38e6c1930310d947"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trekking-alla-fortezza-gota_e_133592324",
       "title": "",
       "rawText": "",
@@ -46926,17 +46321,6 @@
       "image": "",
       "candidateKey": "da8eb038822a3b933e90e865",
       "candidateSignature": "6fd844c1c89220c520b02567"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-guidata-al-mulino-lenzi_e_130854944",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "db12c1426074579be34ad9b5",
-      "candidateSignature": "04c411e2b56d1f53091447c7"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -47019,12 +46403,12 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/sulle-tracce-dell-era-glaciale-alle-viote-torna-l-ice-age-europe-day_e_97013090",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/chi-sono-io-e-chi-sono-gli-altri_e_136542573",
       "title": "",
       "rawText": "",
       "image": "",
-      "candidateKey": "dc499ffa76376cd120f4411c",
-      "candidateSignature": "6fcd0a9a6db6564ec18d3f93"
+      "candidateKey": "dc5d7fb4a795b38afa9a7c6d",
+      "candidateSignature": "75632357189a47ae7eda1592"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -47118,17 +46502,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-femminile-ihlw_e_136520058",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "de44d2ffca7dd3f18d4c1e49",
-      "candidateSignature": "d1c98414976229b02b718641"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-con-degustazione-cantina-terre-del-lagorai_e_64185507",
       "title": "",
       "rawText": "",
@@ -47201,6 +46574,17 @@
       "image": "",
       "candidateKey": "e0c83d91cce388ea52d0f83f",
       "candidateSignature": "be2971c71385406257fb4540"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/laboratori-di-cucina-alla-locanda-2-camini_e_100576692",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "e0ddc4e02c91eae85647246b",
+      "candidateSignature": "634395b717c3ea7765669ac8"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -47426,17 +46810,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/spazi-vitali-un-dialogo-tra-arte-e-scienza_e_136433617",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "e6bcadebd5c37b713a38bb96",
-      "candidateSignature": "2dcb9d90e13226a35564f089"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/comai-wine-experience-vigneto-cantina-e-degustazione_e_113685571",
       "title": "",
       "rawText": "",
@@ -47514,17 +46887,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/tra-monti-e-lune-piene-d-estate_e_92495602",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "e7d4f74c61a801cd62edb944",
-      "candidateSignature": "dbec8a6daa861e784228278c"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/aula-del-simonino_e_105654912",
       "title": "",
       "rawText": "",
@@ -47542,17 +46904,6 @@
       "image": "",
       "candidateKey": "e82f81f610f6957ae7bc858b",
       "candidateSignature": "0cce1ef7e1df4aee158873b9"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/arte-e-mestieri_e_136213370",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "e8e973d2136d6d68ff3a1ab3",
-      "candidateSignature": "fdbdf84eaa81f4f7b0f54ba2"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -47597,17 +46948,6 @@
       "image": "",
       "candidateKey": "e945d8e3082502cb49368819",
       "candidateSignature": "28449f36bbcb2babea223909"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/albiano-e-le-sue-frazioni-curiosi-tutto-l-anno_e_133978588",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "e9ca02face64d6a56aa66b13",
-      "candidateSignature": "9fe3fd5aba52d37d51aa0581"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -47855,17 +47195,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/le-notti-del-vino_e_136036511",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "f06c3c14a2ea8fd36e68385a",
-      "candidateSignature": "f13752020ef4bb53bedb52a9"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/aperitivo-nel-borgo_e_133932848",
       "title": "",
       "rawText": "",
@@ -47883,6 +47212,17 @@
       "image": "",
       "candidateKey": "f0a88a10eb5c59cc8c89f11a",
       "candidateSignature": "c3c475f18828ee40a6a96ec8"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-categoria-u19_e_136542636",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "f123a9a8e286aa1b6867909a",
+      "candidateSignature": "696ba635b42fcb5b39b0f403"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -47927,6 +47267,17 @@
       "image": "",
       "candidateKey": "f2d46daa3d5463c53de15df4",
       "candidateSignature": "c6713becb417a7b90be8cb2d"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/garbage-ride-walk_e_136560507",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "f2dbd44bd3bcba624b823c70",
+      "candidateSignature": "5cdb6d571161815f462495b4"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -47987,34 +47338,12 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/festa-dello-sport-della-destra-adige_e_135687903",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "f6ecc72a4af00323f6420663",
-      "candidateSignature": "c7cf1db23c2b7d6ca0f4c298"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/don-cesare-trail_e_84310442",
       "title": "",
       "rawText": "",
       "image": "",
       "candidateKey": "f71b28585d7df0534829e91f",
       "candidateSignature": "c23540a717d35cb533999d4d"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/finali-nazionali-di-poetry-slam_e_136499847",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "f72b57804cabc1067ae428d2",
-      "candidateSignature": "5dc0c32f1a1d515de5400b7d"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -48048,17 +47377,6 @@
       "image": "",
       "candidateKey": "f7849da732c886c7d16e2d84",
       "candidateSignature": "2c13ce174caf42fd29392c9d"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/una-polenta-per-la-pace_e_136496516",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "f85d7c80d7660ef84d1282d6",
-      "candidateSignature": "1a3f653e26b4a5e56ac10de6"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -48191,6 +47509,17 @@
       "image": "",
       "candidateKey": "fa3be30039c7218063bdab0f",
       "candidateSignature": "6c87894412ae7be93cf0b78a"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/partita-di-hockey-nazionale-femminile-ihlw_e_136542637",
+      "title": "",
+      "rawText": "",
+      "image": "",
+      "candidateKey": "fa7b69dda45ed41cf19b7ba1",
+      "candidateSignature": "f1946ca735f092c1c61ab18b"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -48372,17 +47701,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trentodoc-festival_e_135828047",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "fc5d69b977cfcb6f89d63d20",
-      "candidateSignature": "218dc759e0baa57a5257823e"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-alla-chiesetta-di-san-biagio-a-levico-terme_e_54399928",
       "title": "",
       "rawText": "",
@@ -48554,17 +47872,6 @@
       "image": "",
       "candidateKey": "ffe7703e487c15542b3b330a",
       "candidateSignature": "785ce7c7def0ba942e9ea8b7"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/chi-cerca-trova-argilla-ma-che-bel-materiale_e_91521005",
-      "title": "",
-      "rawText": "",
-      "image": "",
-      "candidateKey": "ffe9959debb80fb4b4daa001",
-      "candidateSignature": "332ea2267f956a5da2bd0053"
     },
     {
       "sourceId": "visittrentino_all_events",

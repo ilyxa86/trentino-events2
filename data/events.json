@@ -13189,10 +13189,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-27",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
@@ -13980,6 +13981,38 @@
     ]
   },
   {
+    "id": "rs-feva-european-championships-2026-2",
+    "name": {
+      "de": "RS Feva European Championships",
+      "en": "RS Feva European Championships",
+      "it": "RS Feva European Championships"
+    },
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-25",
+    "startTime": "09:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „RS Feva European Championships“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“RS Feva European Championships” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “RS Feva European Championships” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "eddy-serafini-codex-discantas-musicantica-2026",
     "name": {
       "de": "Eddy Serafini Codex Discantas - Musicantica",
@@ -14036,10 +14069,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-27",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -14137,10 +14171,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -14207,10 +14242,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -14287,6 +14323,42 @@
     ]
   },
   {
+    "id": "mese-del-gusto-2026-6",
+    "name": {
+      "de": "Mese del Gusto",
+      "en": "Mese del Gusto",
+      "it": "Mese del Gusto"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mese del Gusto“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mese del Gusto” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Mese del Gusto” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "assetVerified": "2026-09-28"
+  },
+  {
     "id": "rock-master-2026",
     "name": {
       "de": "Rock Master 2026",
@@ -14311,10 +14383,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-25",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -14830,6 +14903,39 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento17"
+    ]
+  },
+  {
+    "id": "giro-podistico-internazionale-di-rovereto-2026",
+    "name": {
+      "de": "Giro podistico internazionale di Rovereto",
+      "en": "Giro podistico internazionale di Rovereto",
+      "it": "Giro podistico internazionale di Rovereto"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Giro podistico internazionale di Rovereto“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Giro podistico internazionale di Rovereto” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Giro podistico internazionale di Rovereto” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/giro-podistico-internazionale-di-rovereto",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-09-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2023/10/Giro-Podistico-Rovereto.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/giro-podistico-internazionale-di-rovereto"
     ]
   },
   {
@@ -15813,6 +15919,39 @@
     ]
   },
   {
+    "id": "fiera-di-san-luca-2026",
+    "name": {
+      "de": "Fiera di San Luca",
+      "en": "Fiera di San Luca",
+      "it": "Fiera di San Luca"
+    },
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-18",
+    "startTime": null,
+    "municipality": "Vallarsa",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Vallarsa",
+    "category": "Trade Fair",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Fiera di San Luca“ in Vallarsa. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Fiera di San Luca” event in Vallarsa. See the official event page for the latest details.",
+      "it": "Evento “Fiera di San Luca” a Vallarsa. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-09-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2018/10/Fiera-di-San-Luca-Alessandro-Casagrande.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca"
+    ]
+  },
+  {
     "id": "mercato-contadino-di-piazza-dante-2026-8",
     "name": {
       "de": "Mercato contadino di piazza Dante",
@@ -15869,10 +16008,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-22",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
@@ -16362,10 +16502,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
@@ -16491,10 +16632,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
@@ -16910,10 +17052,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-25",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
   },
@@ -17398,10 +17541,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
     ]
@@ -17431,10 +17575,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
@@ -17827,11 +17972,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
@@ -17958,11 +18104,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
@@ -18989,11 +19136,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-21",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
@@ -19312,10 +19460,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-22",
+    "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -20753,6 +20902,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento29"
+    ]
+  },
+  {
+    "id": "il-castello-della-nativita-castel-toblino-2027",
+    "name": {
+      "de": "Il Castello della Natività - Castel Toblino",
+      "en": "Il Castello della Natività - Castel Toblino",
+      "it": "Il Castello della Natività - Castel Toblino"
+    },
+    "startDate": "2027-01-03",
+    "endDate": "2027-01-03",
+    "startTime": "11:00",
+    "municipality": "Calavino",
+    "area": "Other Trentino",
+    "venue": "Calavino",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Il Castello della Natività - Castel Toblino“ in Calavino. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Il Castello della Natività - Castel Toblino” event in Calavino. See the official event page for the latest details.",
+      "it": "Evento “Il Castello della Natività - Castel Toblino” a Calavino. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
   {
