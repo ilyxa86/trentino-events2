@@ -13198,6 +13198,38 @@
     ]
   },
   {
+    "id": "trentino-gravel-2026-5",
+    "name": {
+      "de": "Trentino Gravel",
+      "en": "Trentino Gravel",
+      "it": "Trentino Gravel"
+    },
+    "startDate": "2026-09-30",
+    "endDate": "2026-10-03",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Trentino Gravel“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Trentino Gravel” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Trentino Gravel” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "visitate-il-garda-2026",
     "name": {
       "de": "Visitate il Garda!",
@@ -13326,6 +13358,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Bauhaus-Musicantica"
+    ]
+  },
+  {
+    "id": "blocchi-di-partenza-2026",
+    "name": {
+      "de": "Blocchi di partenza",
+      "en": "Blocchi di partenza",
+      "it": "Blocchi di partenza"
+    },
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Blocchi di partenza“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Blocchi di partenza” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Blocchi di partenza” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Blocchi-di-partenza2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Blocchi-di-partenza2"
     ]
   },
   {
@@ -13812,6 +13876,38 @@
     ]
   },
   {
+    "id": "blocchi-di-partenza-2026-2",
+    "name": {
+      "de": "Blocchi di partenza",
+      "en": "Blocchi di partenza",
+      "it": "Blocchi di partenza"
+    },
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Blocchi di partenza“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Blocchi di partenza” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Blocchi di partenza” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Blocchi-di-partenza",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Blocchi-di-partenza"
+    ]
+  },
+  {
     "id": "coderdojo-crea-il-tuo-videogioco-2026",
     "name": {
       "de": "Coderdojo - Crea il tuo videogioco!",
@@ -14013,6 +14109,38 @@
     ]
   },
   {
+    "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026-6",
+    "name": {
+      "de": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
+      "en": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
+      "it": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\""
+    },
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio12",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio12"
+    ]
+  },
+  {
     "id": "eddy-serafini-codex-discantas-musicantica-2026",
     "name": {
       "de": "Eddy Serafini Codex Discantas - Musicantica",
@@ -14207,10 +14335,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-23",
+    "verified": "2026-09-29",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -14278,10 +14407,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-23",
+    "verified": "2026-09-29",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -14393,6 +14523,102 @@
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
+    ]
+  },
+  {
+    "id": "storie-dall-antico-egitto-2026",
+    "name": {
+      "de": "Storie dall'antico Egitto",
+      "en": "Storie dall'antico Egitto",
+      "it": "Storie dall'antico Egitto"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Storie dall'antico Egitto“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Storie dall'antico Egitto” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Storie dall'antico Egitto” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Storie-dall-antico-Egitto",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Storie-dall-antico-Egitto"
+    ]
+  },
+  {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-3",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Visita guidata al Castello del Buonconsiglio“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visita guidata al Castello del Buonconsiglio” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Visita guidata al Castello del Buonconsiglio” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio11",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio11"
+    ]
+  },
+  {
+    "id": "blocchi-di-partenza-2026-3",
+    "name": {
+      "de": "Blocchi di partenza",
+      "en": "Blocchi di partenza",
+      "it": "Blocchi di partenza"
+    },
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Blocchi di partenza“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Blocchi di partenza” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Blocchi di partenza” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Blocchi-di-partenza3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Blocchi-di-partenza3"
     ]
   },
   {
@@ -15138,6 +15364,38 @@
     ]
   },
   {
+    "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026-7",
+    "name": {
+      "de": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
+      "en": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
+      "it": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\""
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio13",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio13"
+    ]
+  },
+  {
     "id": "accordion-festival-in-ledro-2026-4",
     "name": {
       "de": "Accordion Festival in Ledro",
@@ -15398,6 +15656,38 @@
     ]
   },
   {
+    "id": "e-arrivato-un-bastimento-carico-di-2026",
+    "name": {
+      "de": "È arrivato un bastimento carico di...",
+      "en": "È arrivato un bastimento carico di...",
+      "it": "È arrivato un bastimento carico di..."
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „È arrivato un bastimento carico di...“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“È arrivato un bastimento carico di...” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “È arrivato un bastimento carico di...” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di"
+    ]
+  },
+  {
     "id": "festa-del-latte-2026",
     "name": {
       "de": "Festa del Latte",
@@ -15572,6 +15862,70 @@
     ]
   },
   {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-4",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Visita guidata al Castello del Buonconsiglio“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visita guidata al Castello del Buonconsiglio” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Visita guidata al Castello del Buonconsiglio” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio12",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio12"
+    ]
+  },
+  {
+    "id": "ottobre-in-biblioteca-2026-3",
+    "name": {
+      "de": "Ottobre in biblioteca",
+      "en": "Ottobre in biblioteca",
+      "it": "Ottobre in biblioteca"
+    },
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ottobre in biblioteca“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ottobre in biblioteca” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ottobre in biblioteca” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca4"
+    ]
+  },
+  {
     "id": "curainsieme-2026-3",
     "name": {
       "de": "Curainsieme",
@@ -15665,6 +16019,105 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi49"
+    ]
+  },
+  {
+    "id": "ti-presento-l-opera-2026",
+    "name": {
+      "de": "Ti presento l'opera",
+      "en": "Ti presento l'opera",
+      "it": "Ti presento l'opera"
+    },
+    "startDate": "2026-10-14",
+    "endDate": "2026-10-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ti presento l'opera“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ti presento l'opera” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ti presento l'opera” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ti-presento-l-opera5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ti-presento-l-opera5"
+    ]
+  },
+  {
+    "id": "altri-quadri-2026",
+    "name": {
+      "de": "Altri Quadri 2026/2027",
+      "en": "Altri Quadri 2026/2027",
+      "it": "Altri Quadri 2026/2027"
+    },
+    "startDate": "2026-10-15",
+    "endDate": "2027-03-04",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Altri Quadri 2026/2027“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Altri Quadri 2026/2027” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Altri Quadri 2026/2027” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Altri-Quadri-2026-2027",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Altri-Quadri-2026-2027"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/auditorium-melotti-tdalltina-3/28146915-1-ita-IT/Auditorium-Melotti-tdalltina-3_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Altri-Quadri-2026-2027",
+    "assetVerified": "2026-09-29"
+  },
+  {
+    "id": "ciclo-di-incontri-a-tema-salute-e-prevenzione-2026",
+    "name": {
+      "de": "Ciclo di incontri a tema salute e prevenzione",
+      "en": "Ciclo di incontri a tema salute e prevenzione",
+      "it": "Ciclo di incontri a tema salute e prevenzione"
+    },
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ciclo di incontri a tema salute e prevenzione“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ciclo di incontri a tema salute e prevenzione” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ciclo di incontri a tema salute e prevenzione” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione"
     ]
   },
   {
@@ -15793,6 +16246,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Prisma-Aurea"
+    ]
+  },
+  {
+    "id": "casteldi-sera-2026",
+    "name": {
+      "de": "Casteldì sera",
+      "en": "Casteldì sera",
+      "it": "Casteldì sera"
+    },
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Casteldì sera“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Casteldì sera” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Casteldì sera” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Casteldi-sera5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Casteldi-sera5"
     ]
   },
   {
@@ -16020,6 +16505,198 @@
     ]
   },
   {
+    "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026-8",
+    "name": {
+      "de": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
+      "en": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
+      "it": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\""
+    },
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-17",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14"
+    ]
+  },
+  {
+    "id": "un-amuleto-per-l-eternita-2026",
+    "name": {
+      "de": "Un amuleto per l'eternità",
+      "en": "Un amuleto per l'eternità",
+      "it": "Un amuleto per l'eternità"
+    },
+    "startDate": "2026-10-18",
+    "endDate": "2026-10-18",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Un amuleto per l'eternità“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Un amuleto per l'eternità” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Un amuleto per l'eternità” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita"
+    ]
+  },
+  {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-10-18",
+    "endDate": "2026-10-18",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Visita guidata al Castello del Buonconsiglio“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visita guidata al Castello del Buonconsiglio” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Visita guidata al Castello del Buonconsiglio” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio13",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio13"
+    ]
+  },
+  {
+    "id": "crepe-nel-mondo-2026",
+    "name": {
+      "de": "Crepe nel mondo",
+      "en": "Crepe nel mondo",
+      "it": "Crepe nel mondo"
+    },
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Crepe nel mondo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Crepe nel mondo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Crepe nel mondo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo"
+    ]
+  },
+  {
+    "id": "gruppo-di-conversazione-sul-cinema-2026-3",
+    "name": {
+      "de": "Gruppo di conversazione sul cinema",
+      "en": "Gruppo di conversazione sul cinema",
+      "it": "Gruppo di conversazione sul cinema"
+    },
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Gruppo di conversazione sul cinema“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Gruppo di conversazione sul cinema” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Gruppo di conversazione sul cinema” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema9",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema9"
+    ]
+  },
+  {
+    "id": "ottobre-in-biblioteca-2026-4",
+    "name": {
+      "de": "Ottobre in biblioteca",
+      "en": "Ottobre in biblioteca",
+      "it": "Ottobre in biblioteca"
+    },
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ottobre in biblioteca“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ottobre in biblioteca” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ottobre in biblioteca” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca3"
+    ]
+  },
+  {
     "id": "pietre-di-pane-memorie-di-geografie-fragili-installazione-site-specific-2026",
     "name": {
       "de": "Pietre di pane. Memorie di Geografie fragili - Installazione site specific",
@@ -16218,6 +16895,70 @@
     ]
   },
   {
+    "id": "ciclo-di-incontri-a-tema-salute-e-prevenzione-2026-2",
+    "name": {
+      "de": "Ciclo di incontri a tema salute e prevenzione",
+      "en": "Ciclo di incontri a tema salute e prevenzione",
+      "it": "Ciclo di incontri a tema salute e prevenzione"
+    },
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ciclo di incontri a tema salute e prevenzione“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ciclo di incontri a tema salute e prevenzione” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ciclo di incontri a tema salute e prevenzione” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2"
+    ]
+  },
+  {
+    "id": "crepe-nel-mondo-2026-2",
+    "name": {
+      "de": "Crepe nel mondo",
+      "en": "Crepe nel mondo",
+      "it": "Crepe nel mondo"
+    },
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Crepe nel mondo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Crepe nel mondo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Crepe nel mondo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2"
+    ]
+  },
+  {
     "id": "le-consort-2026",
     "name": {
       "de": "Le Consort",
@@ -16378,6 +17119,38 @@
     ]
   },
   {
+    "id": "l-orso-di-shakespeare-2026",
+    "name": {
+      "de": "L'orso di Shakespeare",
+      "en": "L'orso di Shakespeare",
+      "it": "L'orso di Shakespeare"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „L'orso di Shakespeare“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“L'orso di Shakespeare” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “L'orso di Shakespeare” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/L-orso-di-Shakespeare",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/L-orso-di-Shakespeare"
+    ]
+  },
+  {
     "id": "mercatino-dei-gaudenti-di-piazza-dante-2026-2",
     "name": {
       "de": "Mercatino dei Gaudenti di piazza Dante",
@@ -16439,6 +17212,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante51"
+    ]
+  },
+  {
+    "id": "e-arrivato-un-bastimento-carico-di-2026-2",
+    "name": {
+      "de": "È arrivato un bastimento carico di...",
+      "en": "È arrivato un bastimento carico di...",
+      "it": "È arrivato un bastimento carico di..."
+    },
+    "startDate": "2026-10-25",
+    "endDate": "2026-10-25",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „È arrivato un bastimento carico di...“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“È arrivato un bastimento carico di...” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “È arrivato un bastimento carico di...” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2"
     ]
   },
   {
@@ -16549,6 +17354,70 @@
     ]
   },
   {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-6",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-10-25",
+    "endDate": "2026-10-25",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Visita guidata al Castello del Buonconsiglio“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Visita guidata al Castello del Buonconsiglio” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Visita guidata al Castello del Buonconsiglio” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio14",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio14"
+    ]
+  },
+  {
+    "id": "crepe-nel-mondo-2026-3",
+    "name": {
+      "de": "Crepe nel mondo",
+      "en": "Crepe nel mondo",
+      "it": "Crepe nel mondo"
+    },
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Crepe nel mondo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Crepe nel mondo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Crepe nel mondo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo3"
+    ]
+  },
+  {
     "id": "curainsieme-2026-5",
     "name": {
       "de": "Curainsieme",
@@ -16606,6 +17475,38 @@
     "officialUrl": "https://rivadelgardafierecongressi.it/it/quartierefieristico",
     "source": "Official organizer",
     "verified": "2026-08-25"
+  },
+  {
+    "id": "crepe-nel-mondo-2026-4",
+    "name": {
+      "de": "Crepe nel mondo",
+      "en": "Crepe nel mondo",
+      "it": "Crepe nel mondo"
+    },
+    "startDate": "2026-10-28",
+    "endDate": "2026-10-28",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Crepe nel mondo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Crepe nel mondo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Crepe nel mondo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo4"
+    ]
   },
   {
     "id": "fine-winetourism-marketplace-italy-2026",
@@ -16705,6 +17606,70 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Anabel-Montesinos-Linus-Roth"
+    ]
+  },
+  {
+    "id": "ciclo-di-incontri-a-tema-salute-e-prevenzione-2026-3",
+    "name": {
+      "de": "Ciclo di incontri a tema salute e prevenzione",
+      "en": "Ciclo di incontri a tema salute e prevenzione",
+      "it": "Ciclo di incontri a tema salute e prevenzione"
+    },
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ciclo di incontri a tema salute e prevenzione“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ciclo di incontri a tema salute e prevenzione” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Ciclo di incontri a tema salute e prevenzione” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione3"
+    ]
+  },
+  {
+    "id": "crepe-nel-mondo-2026-5",
+    "name": {
+      "de": "Crepe nel mondo",
+      "en": "Crepe nel mondo",
+      "it": "Crepe nel mondo"
+    },
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Crepe nel mondo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Crepe nel mondo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Crepe nel mondo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5"
     ]
   },
   {
@@ -16993,6 +17958,70 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52"
+    ]
+  },
+  {
+    "id": "crepe-nel-mondo-2026-6",
+    "name": {
+      "de": "Crepe nel mondo",
+      "en": "Crepe nel mondo",
+      "it": "Crepe nel mondo"
+    },
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-02",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Crepe nel mondo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Crepe nel mondo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Crepe nel mondo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo6",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo6"
+    ]
+  },
+  {
+    "id": "crepe-nel-mondo-2026-7",
+    "name": {
+      "de": "Crepe nel mondo",
+      "en": "Crepe nel mondo",
+      "it": "Crepe nel mondo"
+    },
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Crepe nel mondo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Crepe nel mondo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Crepe nel mondo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo7",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo7"
     ]
   },
   {
