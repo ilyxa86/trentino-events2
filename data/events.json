@@ -13122,10 +13122,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-24",
+    "verified": "2026-09-30",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
@@ -14109,6 +14110,38 @@
     ]
   },
   {
+    "id": "rs-feva-european-championships-2026-3",
+    "name": {
+      "de": "RS Feva European Championships",
+      "en": "RS Feva European Championships",
+      "it": "RS Feva European Championships"
+    },
+    "startDate": "2026-10-03",
+    "endDate": "2026-12-23",
+    "startTime": "09:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „RS Feva European Championships“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“RS Feva European Championships” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “RS Feva European Championships” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026-6",
     "name": {
       "de": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
@@ -14335,10 +14368,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-29",
+    "verified": "2026-09-30",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -15132,6 +15166,70 @@
     ]
   },
   {
+    "id": "escape-room-la-lacrima-dell-ultimo-atto-2026",
+    "name": {
+      "de": "Escape Room - La Lacrima dell’ultimo atto",
+      "en": "Escape Room - La Lacrima dell’ultimo atto",
+      "it": "Escape Room - La Lacrima dell’ultimo atto"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Escape Room - La Lacrima dell’ultimo atto“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Escape Room - La Lacrima dell’ultimo atto” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Escape Room - La Lacrima dell’ultimo atto” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto"
+    ]
+  },
+  {
+    "id": "giornata-mondiale-della-salute-mentale-2026",
+    "name": {
+      "de": "Giornata mondiale della salute mentale",
+      "en": "Giornata mondiale della salute mentale",
+      "it": "Giornata mondiale della salute mentale"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Giornata mondiale della salute mentale“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Giornata mondiale della salute mentale” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Giornata mondiale della salute mentale” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-della-salute-mentale",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-della-salute-mentale"
+    ]
+  },
+  {
     "id": "giro-podistico-internazionale-di-rovereto-2026",
     "name": {
       "de": "Giro podistico internazionale di Rovereto",
@@ -15653,6 +15751,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "dal-fucile-alla-matita-2026-9",
+    "name": {
+      "de": "Dal fucile alla matita",
+      "en": "Dal fucile alla matita",
+      "it": "Dal fucile alla matita"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-31",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
     ]
   },
   {
@@ -16404,6 +16534,38 @@
     ]
   },
   {
+    "id": "escape-room-la-lacrima-dell-ultimo-atto-2026-2",
+    "name": {
+      "de": "Escape Room - La Lacrima dell’ultimo atto",
+      "en": "Escape Room - La Lacrima dell’ultimo atto",
+      "it": "Escape Room - La Lacrima dell’ultimo atto"
+    },
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-17",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Escape Room - La Lacrima dell’ultimo atto“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Escape Room - La Lacrima dell’ultimo atto” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Escape Room - La Lacrima dell’ultimo atto” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2"
+    ]
+  },
+  {
     "id": "fiera-di-san-luca-2026",
     "name": {
       "de": "Fiera di San Luca",
@@ -16534,6 +16696,39 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14"
+    ]
+  },
+  {
+    "id": "festa-della-castagna-2026",
+    "name": {
+      "de": "Festa della Castagna",
+      "en": "Festa della Castagna",
+      "it": "Festa della Castagna"
+    },
+    "startDate": "2026-10-18",
+    "endDate": "2026-10-18",
+    "startTime": null,
+    "municipality": "Brentonico",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Brentonico",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festa della Castagna“ in Brentonico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festa della Castagna” event in Brentonico. See the official event page for the latest details.",
+      "it": "Evento “Festa della Castagna” a Brentonico. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/festa-castagna-castione",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-09-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2020/10/Castagne_Luca-Matassoni-3.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/festa-castagna-castione"
     ]
   },
   {
@@ -17116,6 +17311,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate"
+    ]
+  },
+  {
+    "id": "escape-room-la-lacrima-dell-ultimo-atto-2026-3",
+    "name": {
+      "de": "Escape Room - La Lacrima dell’ultimo atto",
+      "en": "Escape Room - La Lacrima dell’ultimo atto",
+      "it": "Escape Room - La Lacrima dell’ultimo atto"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Escape Room - La Lacrima dell’ultimo atto“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Escape Room - La Lacrima dell’ultimo atto” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Escape Room - La Lacrima dell’ultimo atto” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-09-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3"
     ]
   },
   {
@@ -21608,6 +21835,42 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi60"
     ]
+  },
+  {
+    "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-4",
+    "name": {
+      "de": "100 e + anni di turismo nel Garda Trentino",
+      "en": "100 e + anni di turismo nel Garda Trentino",
+      "it": "100 e + anni di turismo nel Garda Trentino"
+    },
+    "startDate": "2026-12-31",
+    "endDate": "2026-12-31",
+    "startTime": "18:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „100 e + anni di turismo nel Garda Trentino“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“100 e + anni di turismo nel Garda Trentino” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “100 e + anni di turismo nel Garda Trentino” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "source": "Garda Trentino - events",
+    "verified": "2026-09-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/weather/garda-trentino"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "assetVerified": "2026-09-30"
   },
   {
     "id": "accordion-festival-in-ledro-2026-3",

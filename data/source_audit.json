@@ -1,56 +1,72 @@
 {
   "protocolVersion": 5,
-  "lastRun": "2026-09-29T10:03:11Z",
+  "lastRun": "2026-09-30T09:53:30Z",
   "overallStatus": "PARTIAL",
   "sources": {
     "visittrentino_all_events": {
       "priority": "P0",
-      "lastScan": "2026-09-29T09:45:05Z",
+      "lastScan": "2026-09-30T09:37:20Z",
       "status": "PARTIAL",
-      "reportedTotal": 507,
-      "recordsSeen": 933,
-      "uniqueCandidates": 949,
+      "reportedTotal": 515,
+      "recordsSeen": 939,
+      "uniqueCandidates": 955,
       "pagesOrBucketsScanned": [
         "https://www.visittrentino.info/it/guida/cosa-fare/eventi"
       ],
       "attachmentsScanned": [],
       "errors": [],
       "notes": [
-        "sitemaps=160, matchingEventUrls=933",
-        "Live index reports 507; sitemap exposes 933 event URLs. AI/date filtering must reconcile the live 12-month set."
+        "sitemaps=160, matchingEventUrls=939",
+        "Live index reports 515; sitemap exposes 939 event URLs. AI/date filtering must reconcile the live 12-month set."
       ]
     },
     "visitrovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-09-29T09:45:53Z",
-      "status": "PARTIAL",
+      "lastScan": "2026-09-30T09:38:09Z",
+      "status": "COMPLETE",
       "reportedTotal": null,
-      "recordsSeen": 0,
-      "uniqueCandidates": 0,
-      "pagesOrBucketsScanned": [],
-      "attachmentsScanned": [],
-      "errors": [
-        "page 1: HTTPSConnectionPool(host='www.visitrovereto.it', port=443): Max retries exceeded with url: /vivi/eventi/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+      "recordsSeen": 74,
+      "uniqueCandidates": 106,
+      "pagesOrBucketsScanned": [
+        "https://www.visitrovereto.it/vivi/eventi/",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=2",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=3",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=4",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=5",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=6",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=7",
+        "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=8"
       ],
+      "attachmentsScanned": [],
+      "errors": [],
       "notes": []
     },
     "visitrovereto_estate": {
       "priority": "P0",
-      "lastScan": "2026-09-29T09:45:54Z",
-      "status": "FAILED",
+      "lastScan": "2026-09-30T09:38:21Z",
+      "status": "PARTIAL",
       "reportedTotal": null,
-      "recordsSeen": 0,
-      "uniqueCandidates": 0,
-      "pagesOrBucketsScanned": [],
-      "attachmentsScanned": [],
-      "errors": [
-        "HTTPSConnectionPool(host='www.visitrovereto.it', port=443): Max retries exceeded with url: /rovereto-estate/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+      "recordsSeen": 13,
+      "uniqueCandidates": 13,
+      "pagesOrBucketsScanned": [
+        "https://www.visitrovereto.it/rovereto-estate/"
       ],
-      "notes": []
+      "attachmentsScanned": [
+        {
+          "url": "https://www.visitrovereto.it/wp-content/uploads/2026/07/rovereto-estate-26_CALENDARIO.pdf",
+          "bytes": 13018664,
+          "contentType": "application/pdf",
+          "inspection": "downloaded_for_AI_attachment_review"
+        }
+      ],
+      "errors": [],
+      "notes": [
+        "Linked programme PDF downloaded but semantic contents must be reconciled by the AI pass before source can be COMPLETE."
+      ]
     },
     "comune_rovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-09-29T09:45:54Z",
+      "lastScan": "2026-09-30T09:38:24Z",
       "status": "PARTIAL",
       "reportedTotal": 4616,
       "recordsSeen": 0,
@@ -297,7 +313,7 @@
     },
     "trentino_cultura_appuntamenti": {
       "priority": "P0",
-      "lastScan": "2026-09-29T09:57:44Z",
+      "lastScan": "2026-09-30T09:48:49Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -316,7 +332,7 @@
     },
     "trentino_cultura_rassegne": {
       "priority": "P0",
-      "lastScan": "2026-09-29T09:57:46Z",
+      "lastScan": "2026-09-30T09:48:51Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 464,
@@ -487,7 +503,7 @@
     },
     "garda_trentino_events": {
       "priority": "P0",
-      "lastScan": "2026-09-29T09:59:46Z",
+      "lastScan": "2026-09-30T09:51:03Z",
       "status": "COMPLETE",
       "reportedTotal": 60,
       "recordsSeen": 60,
@@ -507,11 +523,11 @@
     },
     "comune_trento_events": {
       "priority": "P0",
-      "lastScan": "2026-09-29T09:59:51Z",
+      "lastScan": "2026-09-30T09:51:08Z",
       "status": "PARTIAL",
-      "reportedTotal": 3174,
-      "recordsSeen": 2835,
-      "uniqueCandidates": 2835,
+      "reportedTotal": 3179,
+      "recordsSeen": 2839,
+      "uniqueCandidates": 2839,
       "pagesOrBucketsScanned": [
         "https://eventi.comune.trento.it/content/search/?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/20?Order=desc",
@@ -677,12 +693,12 @@
       "errors": [],
       "notes": [
         "sitemaps=3, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=3174 uniqueEventUrls=2835 searchPages=159/159"
+        "OpenAgenda reconciliation: reported=3179 uniqueEventUrls=2839 searchPages=159/159"
       ]
     },
     "visitfiemme_events": {
       "priority": "P1",
-      "lastScan": "2026-09-29T10:03:02Z",
+      "lastScan": "2026-09-30T09:53:21Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -698,7 +714,7 @@
     },
     "valsugana_events": {
       "priority": "P1",
-      "lastScan": "2026-09-29T10:03:04Z",
+      "lastScan": "2026-09-30T09:53:23Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -714,7 +730,7 @@
     },
     "val_di_non_events": {
       "priority": "P1",
-      "lastScan": "2026-09-29T10:03:05Z",
+      "lastScan": "2026-09-30T09:53:24Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 7,
@@ -730,7 +746,7 @@
     },
     "campiglio_rendena_events": {
       "priority": "P1",
-      "lastScan": "2026-09-29T10:03:07Z",
+      "lastScan": "2026-09-30T09:53:26Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -746,7 +762,7 @@
     },
     "alpe_cimbra_events": {
       "priority": "P1",
-      "lastScan": "2026-09-29T10:03:09Z",
+      "lastScan": "2026-09-30T09:53:29Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 6,
@@ -762,13 +778,13 @@
     }
   },
   "coverageWindow": {
-    "from": "2026-09-29",
+    "from": "2026-09-30",
     "semantics": "rolling-12-month-overlap; raw enumerator may include out-of-window rows for AI resolution"
   },
   "p0Status": {
     "visittrentino_all_events": "PARTIAL",
-    "visitrovereto_events": "PARTIAL",
-    "visitrovereto_estate": "FAILED",
+    "visitrovereto_events": "COMPLETE",
+    "visitrovereto_estate": "PARTIAL",
     "comune_rovereto_events": "PARTIAL",
     "trentino_cultura_appuntamenti": "PARTIAL",
     "trentino_cultura_rassegne": "PARTIAL",
@@ -776,7 +792,7 @@
     "comune_trento_events": "PARTIAL"
   },
   "summary": {
-    "rawCandidates": 4378
+    "rawCandidates": 4507
   },
   "note": "Deterministic enumeration feeds the AI maintenance pass. PARTIAL means the system must not claim complete coverage."
 }
