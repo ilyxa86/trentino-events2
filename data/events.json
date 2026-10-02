@@ -14098,10 +14098,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-23",
+    "verified": "2026-10-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -14690,6 +14691,39 @@
     ]
   },
   {
+    "id": "insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta-2026",
+    "name": {
+      "de": "Insieme facciamo la differenza: prendiamoci cura della nostra città",
+      "en": "Insieme facciamo la differenza: prendiamoci cura della nostra città",
+      "it": "Insieme facciamo la differenza: prendiamoci cura della nostra città"
+    },
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Insieme facciamo la differenza: prendiamoci cura della nostra città“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Insieme facciamo la differenza: prendiamoci cura della nostra città” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Insieme facciamo la differenza: prendiamoci cura della nostra città” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta7",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta7",
+      "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta8"
+    ]
+  },
+  {
     "id": "tra-silenzi-e-colori-un-esperienza-pratica-per-scoprire-la-comunicazione-2026",
     "name": {
       "de": "Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole",
@@ -14815,6 +14849,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Corso-di-base-per-amministratore-trice-di-sostegno5"
+    ]
+  },
+  {
+    "id": "emozioni-sguardi-e-ricordi-2026",
+    "name": {
+      "de": "Emozioni, sguardi e ricordi",
+      "en": "Emozioni, sguardi e ricordi",
+      "it": "Emozioni, sguardi e ricordi"
+    },
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-07",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Emozioni, sguardi e ricordi“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Emozioni, sguardi e ricordi” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Emozioni, sguardi e ricordi” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Emozioni-sguardi-e-ricordi",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Emozioni-sguardi-e-ricordi"
     ]
   },
   {
@@ -15232,6 +15298,38 @@
     ]
   },
   {
+    "id": "fare-comunita-la-ricreazione-in-piazza-2026",
+    "name": {
+      "de": "Fare Comunità - La ricreazione in Piazza",
+      "en": "Fare Comunità - La ricreazione in Piazza",
+      "it": "Fare Comunità - La ricreazione in Piazza"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Agriculture & Tradition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Fare Comunità - La ricreazione in Piazza“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Fare Comunità - La ricreazione in Piazza” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Fare Comunità - La ricreazione in Piazza” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Fare-Comunita-La-ricreazione-in-Piazza",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Fare-Comunita-La-ricreazione-in-Piazza"
+    ]
+  },
+  {
     "id": "giornata-mondiale-della-salute-mentale-2026",
     "name": {
       "de": "Giornata mondiale della salute mentale",
@@ -15618,11 +15716,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events",
     "source": "Garda Trentino - events",
-    "verified": "2026-08-31",
+    "verified": "2026-10-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -15950,10 +16049,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-27",
+    "verified": "2026-10-02",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -16061,6 +16161,38 @@
     ]
   },
   {
+    "id": "scacciapensieri-in-museo-un-opera-di-famiglia-2026",
+    "name": {
+      "de": "Scacciapensieri in museo: un’opera di famiglia",
+      "en": "Scacciapensieri in museo: un’opera di famiglia",
+      "it": "Scacciapensieri in museo: un’opera di famiglia"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Scacciapensieri in museo: un’opera di famiglia“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Scacciapensieri in museo: un’opera di famiglia” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Scacciapensieri in museo: un’opera di famiglia” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Scacciapensieri-in-museo-un-opera-di-famiglia",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Scacciapensieri-in-museo-un-opera-di-famiglia"
+    ]
+  },
+  {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-4",
     "name": {
       "de": "Visita guidata al Castello del Buonconsiglio",
@@ -16090,6 +16222,39 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio12"
+    ]
+  },
+  {
+    "id": "insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta-2026-2",
+    "name": {
+      "de": "Insieme facciamo la differenza: prendiamoci cura della nostra città",
+      "en": "Insieme facciamo la differenza: prendiamoci cura della nostra città",
+      "it": "Insieme facciamo la differenza: prendiamoci cura della nostra città"
+    },
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Insieme facciamo la differenza: prendiamoci cura della nostra città“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Insieme facciamo la differenza: prendiamoci cura della nostra città” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Insieme facciamo la differenza: prendiamoci cura della nostra città” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta10",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta10",
+      "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta9"
     ]
   },
   {
@@ -16576,6 +16741,38 @@
     ]
   },
   {
+    "id": "nicolo-dorigati-nel-segno-del-barocco-2026",
+    "name": {
+      "de": "NICOLÒ DORIGATI. Nel segno del Barocco",
+      "en": "NICOLÒ DORIGATI. Nel segno del Barocco",
+      "it": "NICOLÒ DORIGATI. Nel segno del Barocco"
+    },
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „NICOLÒ DORIGATI. Nel segno del Barocco“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“NICOLÒ DORIGATI. Nel segno del Barocco” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “NICOLÒ DORIGATI. Nel segno del Barocco” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2"
+    ]
+  },
+  {
     "id": "ottobre-in-liberty-2026-2",
     "name": {
       "de": "Ottobre in Liberty",
@@ -16829,6 +17026,38 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
+    ]
+  },
+  {
+    "id": "salita-alla-cantoria-del-duomo-2026-3",
+    "name": {
+      "de": "Salita alla cantoria del duomo",
+      "en": "Salita alla cantoria del duomo",
+      "it": "Salita alla cantoria del duomo"
+    },
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-17",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Salita alla cantoria del duomo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Salita alla cantoria del duomo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Salita alla cantoria del duomo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9"
     ]
   },
   {
@@ -17639,6 +17868,70 @@
     ]
   },
   {
+    "id": "nicolo-dorigati-nel-segno-del-barocco-2026-2",
+    "name": {
+      "de": "“Nicolò Dorigati. Nel segno del Barocco”",
+      "en": "“Nicolò Dorigati. Nel segno del Barocco”",
+      "it": "“Nicolò Dorigati. Nel segno del Barocco”"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „“Nicolò Dorigati. Nel segno del Barocco”“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "““Nicolò Dorigati. Nel segno del Barocco”” event in Trento. See the official event page for the latest details.",
+      "it": "Evento ““Nicolò Dorigati. Nel segno del Barocco”” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco"
+    ]
+  },
+  {
+    "id": "accordion-festival-in-ledro-2026-5",
+    "name": {
+      "de": "Accordion Festival in Ledro",
+      "en": "Accordion Festival in Ledro",
+      "it": "Accordion Festival in Ledro"
+    },
+    "startDate": "2026-10-25",
+    "endDate": "2026-10-25",
+    "startTime": "20:30",
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Accordion Festival in Ledro“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Accordion Festival in Ledro” event in Ledro. See the official event page for the latest details.",
+      "it": "Evento “Accordion Festival in Ledro” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
     "id": "e-arrivato-un-bastimento-carico-di-2026-2",
     "name": {
       "de": "È arrivato un bastimento carico di...",
@@ -17807,6 +18100,39 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio14"
+    ]
+  },
+  {
+    "id": "insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta-2026-3",
+    "name": {
+      "de": "Insieme facciamo la differenza: prendiamoci cura della nostra città",
+      "en": "Insieme facciamo la differenza: prendiamoci cura della nostra città",
+      "it": "Insieme facciamo la differenza: prendiamoci cura della nostra città"
+    },
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Insieme facciamo la differenza: prendiamoci cura della nostra città“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Insieme facciamo la differenza: prendiamoci cura della nostra città” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Insieme facciamo la differenza: prendiamoci cura della nostra città” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta11",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta11",
+      "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta12"
     ]
   },
   {
@@ -18129,6 +18455,38 @@
     ]
   },
   {
+    "id": "luci-e-ombre-di-una-carriera-misteriosa-nicolo-dorigati-pittore-2026",
+    "name": {
+      "de": "Luci e ombre di una carriera misteriosa: Nicolò Dorigati pittore",
+      "en": "Luci e ombre di una carriera misteriosa: Nicolò Dorigati pittore",
+      "it": "Luci e ombre di una carriera misteriosa: Nicolò Dorigati pittore"
+    },
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Business & Networking",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Luci e ombre di una carriera misteriosa: Nicolò Dorigati pittore“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Luci e ombre di una carriera misteriosa: Nicolò Dorigati pittore” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Luci e ombre di una carriera misteriosa: Nicolò Dorigati pittore” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore"
+    ]
+  },
+  {
     "id": "madre-courage-e-i-suoi-figli-2026",
     "name": {
       "de": "Madre Courage e i suoi figli",
@@ -18257,6 +18615,38 @@
     ]
   },
   {
+    "id": "pietre-di-pane-memorie-di-geografie-fragili-finissage-2026",
+    "name": {
+      "de": "Pietre di pane - Memorie di geografie fragili - Finissage",
+      "en": "Pietre di pane - Memorie di geografie fragili - Finissage",
+      "it": "Pietre di pane - Memorie di geografie fragili - Finissage"
+    },
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Pietre di pane - Memorie di geografie fragili - Finissage“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Pietre di pane - Memorie di geografie fragili - Finissage” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Pietre di pane - Memorie di geografie fragili - Finissage” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage"
+    ]
+  },
+  {
     "id": "sia-laudato-san-francesco-2026",
     "name": {
       "de": "Sia Laudato San Francesco",
@@ -18350,6 +18740,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/L-equivoco"
+    ]
+  },
+  {
+    "id": "la-citta-dei-morti-2026",
+    "name": {
+      "de": "La città dei morti",
+      "en": "La città dei morti",
+      "it": "La città dei morti"
+    },
+    "startDate": "2026-10-31",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La città dei morti“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La città dei morti” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “La città dei morti” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2"
     ]
   },
   {
