@@ -11593,6 +11593,39 @@
     ]
   },
   {
+    "id": "levico-terme-il-centro-e-la-torre-belvedere-2026",
+    "name": {
+      "de": "Levico Terme, il centro e la Torre Belvedere",
+      "en": "Levico Terme, il centro e la Torre Belvedere",
+      "it": "Levico Terme, il centro e la Torre Belvedere"
+    },
+    "startDate": "2026-09-26",
+    "endDate": "2026-10-03",
+    "startTime": "09:30",
+    "municipality": "Levico Terme",
+    "area": "Other Trentino",
+    "venue": "Levico Terme",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Levico Terme, il centro e la Torre Belvedere“ in Levico Terme. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Levico Terme, il centro e la Torre Belvedere” event in Levico Terme. See the official event page for the latest details.",
+      "it": "Evento “Levico Terme, il centro e la Torre Belvedere” a Levico Terme. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/levico-terme-il-centro-e-la-torre-belvedere_e_134673916",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-10-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/levico-terme-2c-il-centro-e-la-torre-belvedere-_134673916/7843825/image-thumb__7843825__moodboard_list/levico-terme-2c-il-centro-e-la-torre-belvedere-_134673916_1.14c836d7.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/levico-terme-il-centro-e-la-torre-belvedere_e_134673916"
+    ]
+  },
+  {
     "id": "mercatino-dei-gaudenti-di-piazza-dante-2026",
     "name": {
       "de": "Mercatino dei Gaudenti di piazza Dante",
@@ -13941,6 +13974,38 @@
     ]
   },
   {
+    "id": "fiera-di-san-francesco-2026-3",
+    "name": {
+      "de": "Fiera di San Francesco",
+      "en": "Fiera di San Francesco",
+      "it": "Fiera di San Francesco"
+    },
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-03",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Trade Fair",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Fiera di San Francesco“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Fiera di San Francesco” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Fiera di San Francesco” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "incontrarti-2026",
     "name": {
       "de": "IncontrArti",
@@ -14263,10 +14328,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
+    "verified": "2026-10-03",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
@@ -14450,6 +14516,38 @@
     ]
   },
   {
+    "id": "ganzega-d-autunno-2026-3",
+    "name": {
+      "de": "Ganzega d'Autunno",
+      "en": "Ganzega d'Autunno",
+      "it": "Ganzega d'Autunno"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-12-21",
+    "startTime": "18:00",
+    "municipality": "Mori",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Mori",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Ganzega d'Autunno“ in Mori. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Ganzega d'Autunno” event in Mori. See the official event page for the latest details.",
+      "it": "Evento “Ganzega d'Autunno” a Mori. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "international-chess-tournament-citta-di-arco-2026",
     "name": {
       "de": "International Chess Tournament Città di Arco",
@@ -14545,10 +14643,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
+    "verified": "2026-10-03",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
     ],
@@ -14785,6 +14884,39 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Curainsieme2"
+    ]
+  },
+  {
+    "id": "la-citta-biblioteca-2026-2",
+    "name": {
+      "de": "La Città Biblioteca",
+      "en": "La Città Biblioteca",
+      "it": "La Città Biblioteca"
+    },
+    "startDate": "2026-10-06",
+    "endDate": "2026-10-06",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La Città Biblioteca“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La Città Biblioteca” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “La Città Biblioteca” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/la-citta-biblioteca-un-viaggio-nel-labirinto-dei-racconti",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/La-Citta-Biblioteca.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/la-citta-biblioteca-un-viaggio-nel-labirinto-dei-racconti"
     ]
   },
   {
@@ -15392,6 +15524,38 @@
     "image": "https://www.visitrovereto.it/wp-content/uploads/2023/10/Giro-Podistico-Rovereto.png",
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/giro-podistico-internazionale-di-rovereto"
+    ]
+  },
+  {
+    "id": "grasparola-2026",
+    "name": {
+      "de": "Grasparola",
+      "en": "Grasparola",
+      "it": "Grasparola"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-12-28",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Grasparola“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Grasparola” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Grasparola” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
   {
@@ -16059,6 +16223,38 @@
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
+    ]
+  },
+  {
+    "id": "international-chess-tournament-citta-di-arco-2026-3",
+    "name": {
+      "de": "International Chess Tournament Città di Arco",
+      "en": "International Chess Tournament Città di Arco",
+      "it": "International Chess Tournament Città di Arco"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-31",
+    "startTime": "15:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „International Chess Tournament Città di Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“International Chess Tournament Città di Arco” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “International Chess Tournament Città di Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -17214,11 +17410,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-01",
+    "verified": "2026-10-03",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -23073,6 +23270,38 @@
     "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/roveretopop26-27-generiche_sitoimm800x600/28120011-1-ita-IT/RoveretoPOP26-27-generiche_sitoimm800x600_opengraph.jpg",
     "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/RoveretoPOP-2027",
     "assetVerified": "2026-09-10"
+  },
+  {
+    "id": "expo-riva-schuh-and-gardabags-2027",
+    "name": {
+      "de": "Expo Riva Schuh and Gardabags",
+      "en": "Expo Riva Schuh and Gardabags",
+      "it": "Expo Riva Schuh and Gardabags"
+    },
+    "startDate": "2027-01-19",
+    "endDate": "2027-01-19",
+    "startTime": "09:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Trade Fair",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Expo Riva Schuh and Gardabags“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Expo Riva Schuh and Gardabags” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Expo Riva Schuh and Gardabags” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=7"
+    ]
   },
   {
     "id": "hansel-e-gretel-infanzia-in-guerra-2027",
