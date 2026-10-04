@@ -1,15 +1,545 @@
 {
-  "generatedAt": "2026-10-03T09:19:21Z",
+  "generatedAt": "2026-10-04T09:58:10Z",
   "counts": {
-    "ADDED": 32,
-    "CHANGED": 9,
-    "MISSING": 31,
-    "TOTAL": 72
+    "ADDED": 30,
+    "CHANGED": 19,
+    "MISSING": 32,
+    "TOTAL": 81
   },
   "missingSafety": "MISSING is emitted only when both previous and current source audits were COMPLETE.",
   "changes": [
     {
       "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "detailUrl": "",
+        "title": "Dal fucile alla matita",
+        "rawText": "Dal fucile alla matita | 01.06 - 11.10.2026 | Riva del Garda | - Forte Garda | 10:00 - 17:00 | Caccia ai tesori del PAR IERI | 04.10 2026",
+        "image": "",
+        "candidateKey": "02452dadafb4171f6fe0d21e",
+        "candidateSignature": "cd63a40c4887dc692f2d631c"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+        "detailUrl": "",
+        "title": "Maroni in Festa",
+        "rawText": "Maroni in Festa | 24.10 - 25.10.2026 | Drena | - Via Don Camillo Corradini 5 | 28-36 / 59 | < | Previous",
+        "image": "",
+        "candidateKey": "0fbcc68ab24b2cc72b8f457a",
+        "candidateSignature": "8f80261113e5843bd1d1613d"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+        "detailUrl": "",
+        "title": "I Forti si raccontano",
+        "rawText": "I Forti si raccontano | 04.10 2026 | Riva del Garda | - Forte Garda, | Riva del Garda | 10:00 - 16:00 | Ganzega d'Autunno",
+        "image": "",
+        "candidateKey": "13a2b2f1a2e57244357da1f7",
+        "candidateSignature": "01a8a42a35d28eb7819ef19e"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+        "detailUrl": "",
+        "title": "Farmers' market in Riva del Garda",
+        "rawText": "Farmers' market in Riva del Garda | 01.01 - 28.12.2026 ( | Every Friday | ) | Riva del Garda | 08:30 - 13:00 | top",
+        "image": "",
+        "candidateKey": "1ccc4a7928237e21033a1fb4",
+        "candidateSignature": "2495ba41140bd9619c200571"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+        "detailUrl": "",
+        "title": "Castagnata al Monte Corno di Nago",
+        "rawText": "Castagnata al Monte Corno di Nago | 11.10 2026 | Nago | 11:00 - 17:00 | 19-27 / 59 | < | Previous",
+        "image": "",
+        "candidateKey": "2213e721fc858e7d5ae52286",
+        "candidateSignature": "71aea321f5611b4a05a4b7c2"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "detailUrl": "",
+        "title": "Spokes of Design",
+        "rawText": "Spokes of Design | 05.09 - 25.10.2026 ( | Every Thursday, Friday, Saturday | ) | Torbole sul Garda - Nago | - Via della Lova 18 | 16:00 - 20:00",
+        "image": "",
+        "candidateKey": "254f12e1586322e817b88772",
+        "candidateSignature": "c342688bd98dca3325678774"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+        "detailUrl": "",
+        "title": "Ganzega d'Autunno",
+        "rawText": "Ganzega d'Autunno | 03.10 - 04.10.2026 | Mori | - Piazza Cal di Ponte | 18:00 - 23:00 | 1-9 / 59 | 1",
+        "image": "",
+        "candidateKey": "2ff93c0a58b515e02004a8e0",
+        "candidateSignature": "35117afa31a426d84eef69f1"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "detailUrl": "",
+        "title": "Accordion Festival in Ledro",
+        "rawText": "Accordion Festival in Ledro | 04.10 2026 | Pieve di Ledro | 20:30 - 21:30 | Other available dates | Spokes of Design | 05.09 - 25.10.2026 (",
+        "image": "",
+        "candidateKey": "3eba7284664d52795f9bed03",
+        "candidateSignature": "b4f77c225446a6e3e0def45b"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+        "detailUrl": "",
+        "title": "Garbage Ride & Walk",
+        "rawText": "Garbage Ride & Walk | 10.10 2026 | Arco | - Via Caproni Maini 26 | 14:00 - 22:00 | In cammino con il museo | 11.10 2026",
+        "image": "",
+        "candidateKey": "4d437d7fb849a80d80657e73",
+        "candidateSignature": "efe233f2703255de5d0202cd"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+        "detailUrl": "",
+        "title": "Laghet con gusto",
+        "rawText": "Laghet con gusto | 04.10 2026 | Tenno | - Loc. Lago di Tenno | top | Rock Master 2026 | 02.10 - 04.10.2026",
+        "image": "",
+        "candidateKey": "58da9a7505bfe2cd3c049403",
+        "candidateSignature": "58a142d3eb08934f65808707"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+        "detailUrl": "",
+        "title": "Festa della Patata del Lomaso",
+        "rawText": "Festa della Patata del Lomaso | 24.10 - 25.10.2026 | Comano Terme | - Frazione Dasindo 1 | top | Maroni in Festa | 24.10 - 25.10.2026",
+        "image": "",
+        "candidateKey": "5b0f391e5b7a2d337aecb7dc",
+        "candidateSignature": "14cfc9645f096e8c67556d0e"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+        "detailUrl": "",
+        "title": "In cammino con il museo",
+        "rawText": "In cammino con il museo | 11.10 2026 | Fiavè | - Via 3 Novembre 53 | 14:00 - 16:00 | Castagnata al Monte Corno di Nago | 11.10 2026",
+        "image": "",
+        "candidateKey": "6b87929c75147b4d8f08ecf9",
+        "candidateSignature": "d27c8a3c25a6c2813c680cd5"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+        "detailUrl": "",
+        "title": "Mese del Gusto",
+        "rawText": "Mese del Gusto | 03.10 - 04.10.2026 | Riva del Garda | Other available dates | Gino Pancheri. Female Figures | 06.09 - 08.11.2026 ( | Every Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+        "image": "",
+        "candidateKey": "7b01705056e6d3920a2b54f3",
+        "candidateSignature": "a2a23ad949ffd347442cbc70"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+        "detailUrl": "",
+        "title": "Festa del Broccolo",
+        "rawText": "Festa del Broccolo | 17.01 2027 | Torbole sul Garda | - Piazza Lietzmann | 11:30 - 14:30 | 55-59 / 59 | <",
+        "image": "",
+        "candidateKey": "7b58872042718111e2ccfee7",
+        "candidateSignature": "7b80406f99c0b406bb303fae"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+        "detailUrl": "",
+        "title": "Festa della Zucca e degli Ortaggi Invernali",
+        "rawText": "Festa della Zucca e degli Ortaggi Invernali | 03.10 - 04.10.2026 | Lasino | top | Mese del Gusto | 03.10 - 04.10.2026 | Riva del Garda",
+        "image": "",
+        "candidateKey": "899e10cf3345ebafe90700fc",
+        "candidateSignature": "dd0a69bee6b2bf0e048dbd94"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "detailUrl": "",
+        "title": "100 e + anni di turismo nel Garda Trentino",
+        "rawText": "100 e + anni di turismo nel Garda Trentino | 05.10 2026 | Riva del Garda | 18:00 - 20:00 | Other available dates | 10-18 / 59 | <",
+        "image": "",
+        "candidateKey": "a2738f0283909d42f64f2dcd",
+        "candidateSignature": "7dc9f6d3c67625277eb7ac4c"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+        "detailUrl": "",
+        "title": "Festa della Noce",
+        "rawText": "Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore) | - Cavrasto square | top | From Taste to Taste | 13.11 - 14.11.2026",
+        "image": "",
+        "candidateKey": "aa24c683ef9fbc951c9b2389",
+        "candidateSignature": "ff347b9273464802670ed347"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+        "detailUrl": "",
+        "title": "Rock Master 2026",
+        "rawText": "Rock Master 2026 | 02.10 - 04.10.2026 | Arco | - Via Caproni Maini 26 | 10:00 - 00:00 | Bookable online | top",
+        "image": "",
+        "candidateKey": "b5f48755d7e17d0a2244a731",
+        "candidateSignature": "d87802710850b82d6673a2f4"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+        "detailUrl": "",
+        "title": "Flea market in Arco",
+        "rawText": "Flea market in Arco | 17.10 2026 | Arco | - Towncentre | 08:00 - 17:00 | Other available dates | Quando la musica racconta",
+        "image": "",
+        "candidateKey": "beeb4fec84521276c0ee279e",
+        "candidateSignature": "66a272f4faa4af454bc20f44"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+        "detailUrl": "",
+        "title": "Alchimie d'autunno",
+        "rawText": "Alchimie d'autunno | 07.11 2026 | Santa Massenza | - Piazza San Vigilio | top | Festa della Noce | 07.11 - 08.11.2026",
+        "image": "",
+        "candidateKey": "dc0c5db28a9f66fad07c2a24",
+        "candidateSignature": "806eb58225f22726ec93fffa"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+        "detailUrl": "",
+        "title": "Christmas Market in Canale di Tenno",
+        "rawText": "Christmas Market in Canale di Tenno | 28.11 - 29.11.2026 | Canale di Tenno | 09:30 - 18:00 | Other available dates | top | Night of Burning Stills",
+        "image": "",
+        "candidateKey": "e51d34ac73771c26b2e5e421",
+        "candidateSignature": "4de34076096777efc20d8ed5"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "detailUrl": "",
+        "title": "International Chess Tournament Città di Arco",
+        "rawText": "International Chess Tournament Città di Arco | 03.10 - 11.10.2026 | Arco | - Viale delle Palme | 15:00 - 20:00 | Chi ci ha ispirato | 04.10 - 25.10.2026 (",
+        "image": "",
+        "candidateKey": "ebc5f7ee5659a530fa58d161",
+        "candidateSignature": "c8244ecfca402c91fcad7fc9"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+        "detailUrl": "",
+        "title": "Nadal a Dro",
+        "rawText": "Nadal a Dro | 12.12 - 24.12.2026 | Dro | - Via Cesare Battisti, 14 | 20:00 - 00:00 | 46-54 / 59 | <",
+        "image": "",
+        "candidateKey": "f176dc5b7cb7d7321b9f1e8c",
+        "candidateSignature": "4a9319daa66244ad03c06261"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+        "detailUrl": "",
+        "title": "Garda Trentino Half Marathon",
+        "rawText": "Garda Trentino Half Marathon | 06.11 - 08.11.2026 | Arco | , | Riva del Garda | 09:00 - 15:00 | top",
+        "image": "",
+        "candidateKey": "f72196d260509f3211daa045",
+        "candidateSignature": "ecf06e0b95add5e092b3e647"
+      }
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+        "detailUrl": "",
+        "title": "Via Ferrate tra paesaggio, economia e loisir",
+        "rawText": "Via Ferrate tra paesaggio, economia e loisir | 17.10 2026 | Mori | - Via san Giovanni | 14:30 - 18:15 | Bookable online | top",
+        "image": "",
+        "candidateKey": "1275f574b5932276d502d2b6",
+        "candidateSignature": "7e0cad87f5f8bc7398f18165"
+      },
+      "previousSignature": "ec28333010e79765dd6d44f5"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+        "detailUrl": "",
+        "title": "Accordion Meeting – Festival di Fisarmoniche ed Ensemble",
+        "rawText": "Accordion Meeting – Festival di Fisarmoniche ed Ensemble | 11.12 2026 | Arco | - Viale delle Palme | 20:45 | top | Garda Trentino Xmas Trail",
+        "image": "",
+        "candidateKey": "12ea1590b83fa4aa05821413",
+        "candidateSignature": "9955e79119fc5d28c89fef47"
+      },
+      "previousSignature": "0f1e7aaeaf64f5bf0156c15d"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+        "detailUrl": "",
+        "title": "Garda Trentino Xmas Trail",
+        "rawText": "Garda Trentino Xmas Trail | 12.12 2026 | Torbole sul Garda - Nago | - Via della Lova 18 | 09:00 - 15:00 | Nadal a Dro | 12.12 - 24.12.2026",
+        "image": "",
+        "candidateKey": "228f5a9d3e03c5b7dffe98ed",
+        "candidateSignature": "2ad8eb86b10fd88cf080c45a"
+      },
+      "previousSignature": "cb35b3dfc61f73c460842404"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+        "detailUrl": "",
+        "title": "From Taste to Taste",
+        "rawText": "From Taste to Taste | 13.11 - 14.11.2026 | Riva del Garda | - Piazza Garibaldi, | Riva del Garda | - Piazza Battisti | 10:30 - 21:00",
+        "image": "",
+        "candidateKey": "4f25e2f19ce9bb444d0ff287",
+        "candidateSignature": "3b4349616f6df964495b1eaa"
+      },
+      "previousSignature": "c29027f6575f326f09c27b7f"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+        "detailUrl": "",
+        "title": "Night of Burning Stills",
+        "rawText": "Night of Burning Stills | 05.12 - 08.12.2026 | Santa Massenza | - Piazza San Vigilio | Bookable online | Accordion Meeting – Festival di Fisarmoniche ed Ensemble | 11.12 2026",
+        "image": "",
+        "candidateKey": "63ef3608032e21b002562d9d",
+        "candidateSignature": "fa38664326316f48be761ea5"
+      },
+      "previousSignature": "23f818dc2f9041b748a6fecd"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "detailUrl": "",
+        "title": "Chi ci ha ispirato",
+        "rawText": "Chi ci ha ispirato | 04.10 - 25.10.2026 ( | Every Saturday | ) | Lundo | - Strada Provinciale 1 | 14:00 - 17:00",
+        "image": "",
+        "candidateKey": "9401b8814e09e1ffd65203ce",
+        "candidateSignature": "c152c390e06ed00f885ac903"
+      },
+      "previousSignature": "8c7926844cd0c4fe5dbd073a"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+        "detailUrl": "",
+        "title": "Festa del Latte",
+        "rawText": "Festa del Latte | 10.10 - 11.10.2026 | Fiavè | - Via III Novembre | Garbage Ride & Walk | 10.10 2026 | Arco",
+        "image": "",
+        "candidateKey": "97447114e724b6c2bcaee9da",
+        "candidateSignature": "1b61c04636d8ac1bb8b527cb"
+      },
+      "previousSignature": "95abee2dd7c003ff8df352d2"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+        "detailUrl": "",
+        "title": "Visitate il Garda!",
+        "rawText": "Visitate il Garda! | 01.10 - 18.10.2026 ( | Every Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday | ) | Riva del Garda | - Piazza C. Battisti 3/A | 10:00 - 18:00",
+        "image": "",
+        "candidateKey": "d60a93e72056cd3f180c6a7e",
+        "candidateSignature": "07a20806c4f5a639cf12da5d"
+      },
+      "previousSignature": "c27c0e771169a63a63937bdb"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "detailUrl": "",
+        "title": "Caccia ai tesori del PAR IERI",
+        "rawText": "Caccia ai tesori del PAR IERI | 04.10 2026 | Stenico | - Via al Castello 2 | 15:00 - 17:30 | top | 100 e + anni di turismo nel Garda Trentino",
+        "image": "",
+        "candidateKey": "d7fa953fff5c63b457426197",
+        "candidateSignature": "a8897c895cc44279a775d712"
+      },
+      "previousSignature": "876251aaa9a9bb585a8e2bf4"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+        "detailUrl": "",
+        "title": "Display al Forte di Nago",
+        "rawText": "Display al Forte di Nago | 11.07 - 31.10.2026 ( | Every Thursday, Friday, Saturday | ) | Nago | - Via al Castèl Pénede | 10:00 - 12:30",
+        "image": "",
+        "candidateKey": "de0c09633cce0914cfb88371",
+        "candidateSignature": "4c3611dcf07f65b2201da0f4"
+      },
+      "previousSignature": "41a40848011c6f54b3574a9f"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+        "detailUrl": "",
+        "title": "Frantoi Aperti",
+        "rawText": "Frantoi Aperti | 07.11 - 08.11.2026 | Riva del Garda | top | Alchimie d'autunno | 07.11 2026 | Santa Massenza",
+        "image": "",
+        "candidateKey": "e1ae37aa97e3db8b8a3841b8",
+        "candidateSignature": "7ca4787ca6c05d67d2521698"
+      },
+      "previousSignature": "27da69a4a1b5bb3eaac07786"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+        "detailUrl": "",
+        "title": "Quando la musica racconta",
+        "rawText": "Quando la musica racconta | 17.10 2026 | Riva del Garda | - Largo Marconi 5, | Riva del Garda | - Via Maffei 18, | Riva del Garda",
+        "image": "",
+        "candidateKey": "eee57d783efffeef913f3bde",
+        "candidateSignature": "93f5fabbfec6ba89e8648603"
+      },
+      "previousSignature": "e7af9596f6a040a8c02b0fe6"
+    },
+    {
+      "change": "MISSING",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+        "detailUrl": "",
+        "title": "Nadal a Dro",
+        "rawText": "Nadal a Dro | 12.12 - 24.12.2026 | Dro | - Via Cesare Battisti, 14 | 20:00 - 00:00 | Aspettando il Natale | 19.12 2026",
+        "image": "",
+        "candidateKey": "02b3fb53a0b332c2bd5eb7ab",
+        "candidateSignature": "fd74dbc7627382538714470a"
+      }
+    },
+    {
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -23,35 +553,21 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
         "detailUrl": "",
-        "title": "Christmas Market in Rango",
-        "rawText": "Christmas Market in Rango | 14.11 - 15.11.2026 | Rango | 09:30 - 18:30 | Other available dates | SWIPE | 20.11 2026",
+        "title": "Festa della Zucca e degli Ortaggi Invernali",
+        "rawText": "Festa della Zucca e degli Ortaggi Invernali | 03.10 - 04.10.2026 | Lasino | top | Fiera di San Francesco | 03.10 2026 | Tiarno di Sotto",
         "image": "",
-        "candidateKey": "11db9b0dcc4b8a60fdbe24c1",
-        "candidateSignature": "29dab87a0558305d78402126"
+        "candidateKey": "1ba194acfe7a047281ebc788",
+        "candidateSignature": "cccc4700a827d30ffff66f88"
       }
     },
     {
-      "change": "ADDED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "Via Ferrate tra paesaggio, economia e loisir",
-        "rawText": "Via Ferrate tra paesaggio, economia e loisir | 17.10 2026 | Mori | - Via san Giovanni | 14:30 - 18:15 | Bookable online | top",
-        "image": "",
-        "candidateKey": "1275f574b5932276d502d2b6",
-        "candidateSignature": "ec28333010e79765dd6d44f5"
-      }
-    },
-    {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -65,7 +581,7 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -79,7 +595,49 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "detailUrl": "",
+        "title": "IT.A.CÀ. - Responsible Tourism Festival",
+        "rawText": "IT.A.CÀ. - Responsible Tourism Festival | 03.10 2026 | Pieve di Ledro | , | Riva del Garda | 17:30 - 21:00 | International Chess Tournament Città di Arco",
+        "image": "",
+        "candidateKey": "3662766a637d5f54a3d4bed0",
+        "candidateSignature": "be2ef87ad395409465fa620c"
+      }
+    },
+    {
+      "change": "MISSING",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
+        "detailUrl": "",
+        "title": "Maroni in Festa",
+        "rawText": "Maroni in Festa | 24.10 - 25.10.2026 | Drena | - Via Don Camillo Corradini 5 | top | Festa della Patata del Lomaso | 24.10 - 25.10.2026",
+        "image": "",
+        "candidateKey": "453b6ebfecc32078993bfead",
+        "candidateSignature": "b7d5285f2f764c6fd251664e"
+      }
+    },
+    {
+      "change": "MISSING",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+        "detailUrl": "",
+        "title": "Sponde. Freshwater fish on the table",
+        "rawText": "Sponde. Freshwater fish on the table | 03.10 2026 | Riva del Garda | - Via Maffei 18, | Torbole sul Garda | - Piazza Lietzmann, | Arco",
+        "image": "",
+        "candidateKey": "481865454e80b1effd21d8fd",
+        "candidateSignature": "fd75d9e1888251eb596705da"
+      }
+    },
+    {
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -93,7 +651,7 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -107,21 +665,7 @@
       }
     },
     {
-      "change": "ADDED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-        "detailUrl": "",
-        "title": "Il Castello della Natività - Castel Toblino",
-        "rawText": "Il Castello della Natività - Castel Toblino | 28.12 - 03.01.2027 | Calavino | - Località Castel Toblino 1 | 11:00 - 17:00 | top | Expo Riva Schuh and Gardabags",
-        "image": "",
-        "candidateKey": "5af78796ffebdc674aa7030c",
-        "candidateSignature": "7b75861702da15aa53fbfe74"
-      }
-    },
-    {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -135,21 +679,7 @@
       }
     },
     {
-      "change": "ADDED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "49° Mostra Ornitologica Internazionale Trentina",
-        "rawText": "49° Mostra Ornitologica Internazionale Trentina | 24.10 2026 | Riva del Garda | - Via Baltera 20 | 09:00 - 18:00 | Other available dates | Festa dei Maroni",
-        "image": "",
-        "candidateKey": "613385211a8d699ba8f7c146",
-        "candidateSignature": "ff0b530d90405515ed9ba871"
-      }
-    },
-    {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -163,7 +693,7 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -177,21 +707,7 @@
       }
     },
     {
-      "change": "ADDED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-        "detailUrl": "",
-        "title": "Night of Burning Stills",
-        "rawText": "Night of Burning Stills | 05.12 - 08.12.2026 | Santa Massenza | - Piazza San Vigilio | Bookable online | Accordion Meeting – Festival di Fisarmoniche ed Ensemble | 11.12 2026",
-        "image": "",
-        "candidateKey": "63ef3608032e21b002562d9d",
-        "candidateSignature": "23f818dc2f9041b748a6fecd"
-      }
-    },
-    {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -205,7 +721,21 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+        "detailUrl": "",
+        "title": "Mese del Gusto",
+        "rawText": "Mese del Gusto | 03.10 - 04.10.2026 | Riva del Garda | Other available dates | top | Sponde. Freshwater fish on the table | 03.10 2026",
+        "image": "",
+        "candidateKey": "7e11656d56e44718380370bf",
+        "candidateSignature": "ab3c3feef78a88256d9b0e2a"
+      }
+    },
+    {
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -219,7 +749,7 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -233,21 +763,35 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+        "detailUrl": "",
+        "title": "100 e + anni di turismo nel Garda Trentino",
+        "rawText": "100 e + anni di turismo nel Garda Trentino | 05.10 2026 | Riva del Garda | 18:00 - 20:00 | Other available dates | Farmers' market Arco | 02.01 - 31.12.2026 (",
+        "image": "",
+        "candidateKey": "a5520fc757a5a7f30c2922f9",
+        "candidateSignature": "8407cbebbcd886d993b2eb34"
+      }
+    },
+    {
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
         "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
         "detailUrl": "",
-        "title": "Reboro, Territorio & Passione",
-        "rawText": "Reboro, Territorio & Passione | 16.10 - 17.10.2026 | Vezzano | Flea market in Arco | 17.10 2026 | Arco | - Towncentre",
+        "title": "Castagnata al Monte Corno di Nago",
+        "rawText": "Castagnata al Monte Corno di Nago | 11.10 2026 | Nago | 11:00 - 17:00 | In cammino con il museo | 11.10 2026 | Fiavè",
         "image": "",
-        "candidateKey": "9a89ade062451ccde26f5cb3",
-        "candidateSignature": "e6f6d7874295a69eb27b47f5"
+        "candidateKey": "b3ad6bd0d24071f5480fa68d",
+        "candidateSignature": "31669891486b1dac746457c5"
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -261,21 +805,7 @@
       }
     },
     {
-      "change": "ADDED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-        "detailUrl": "",
-        "title": "Expo Riva Schuh and Gardabags",
-        "rawText": "Expo Riva Schuh and Gardabags | 16.01 - 19.01.2027 | Riva del Garda | - Via Baltera 20 | 09:00 - 18:00 | Festa del Broccolo | 17.01 2027",
-        "image": "",
-        "candidateKey": "b503c21a580101b94dbecff4",
-        "candidateSignature": "8f033f7d43ba2ee21f0e5ccf"
-      }
-    },
-    {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -289,7 +819,7 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -303,7 +833,21 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+        "detailUrl": "",
+        "title": "In cammino con il museo",
+        "rawText": "In cammino con il museo | 11.10 2026 | Fiavè | - Via 3 Novembre 53 | 14:00 - 16:00 | 5th Stage of the Triveneto BMX Trophy | 11.10 2026",
+        "image": "",
+        "candidateKey": "c0498aa545cc5a98eefccb39",
+        "candidateSignature": "b19263b8c823b9efb2db57a5"
+      }
+    },
+    {
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -317,7 +861,7 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -331,35 +875,21 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
         "detailUrl": "",
-        "title": "SWIPE",
-        "rawText": "SWIPE | 20.11 2026 | Arco | - Via Caproni Maini 26 | 18:00 - 20:00 | top | Santa's House",
+        "title": "Garbage Ride & Walk",
+        "rawText": "Garbage Ride & Walk | 10.10 2026 | Arco | - Via Caproni Maini 26 | 14:00 - 22:00 | Castagnata al Monte Corno di Nago | 11.10 2026",
         "image": "",
-        "candidateKey": "d8687d5a5536ff6d905ae092",
-        "candidateSignature": "47b0bcbdb62c36d4d33cbfcd"
+        "candidateKey": "d3685fa3c1d07402da8e279a",
+        "candidateSignature": "b90e857a27f0b4b831a350e8"
       }
     },
     {
-      "change": "ADDED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "Festa dei Maroni",
-        "rawText": "Festa dei Maroni | 25.10 2026 | Pranzo | - Piazza San Leonardo | 10:00 - 17:00 | FINE #WineTourism Marketplace Italy | 27.10 - 28.10.2026",
-        "image": "",
-        "candidateKey": "e98371932977aff4d8580cfc",
-        "candidateSignature": "a5a1b2d399f229180add2f8b"
-      }
-    },
-    {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -375,517 +905,166 @@
     {
       "change": "ADDED",
       "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-        "detailUrl": "",
-        "title": "Grasparola",
-        "rawText": "Grasparola | 09.10 - 10.10.2026 | Pergolese | - Piazza Don Vittorio Pisoni | Other available dates | Farmers' market in Riva del Garda | 01.01 - 28.12.2026 (",
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-05&end_event_date=2026-10-05&filter_ref=tomorrow",
+        "title": "Domani",
+        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
         "image": "",
-        "candidateKey": "fef45af39675df1cd00c8a45",
-        "candidateSignature": "59d4ebaae54858200a59ade3"
-      }
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Gino Pancheri. Female Figures",
-        "rawText": "Gino Pancheri. Female Figures | 06.09 - 08.11.2026 ( | Every Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday | ) | Canale di Tenno | - Villa Canale 49 | 10:00 - 12:00",
-        "image": "",
-        "candidateKey": "1506deacabd44d7fc3ca7ec5",
-        "candidateSignature": "a7d09118d15295c6da777ca1"
-      },
-      "previousSignature": "cad7d45c159dd14b838eeeaa"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Festa della Zucca e degli Ortaggi Invernali",
-        "rawText": "Festa della Zucca e degli Ortaggi Invernali | 03.10 - 04.10.2026 | Lasino | top | Fiera di San Francesco | 03.10 2026 | Tiarno di Sotto",
-        "image": "",
-        "candidateKey": "1ba194acfe7a047281ebc788",
-        "candidateSignature": "cccc4700a827d30ffff66f88"
-      },
-      "previousSignature": "d1960bbc3c759726766fb5ce"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Sponde. Freshwater fish on the table",
-        "rawText": "Sponde. Freshwater fish on the table | 03.10 2026 | Riva del Garda | - Via Maffei 18, | Torbole sul Garda | - Piazza Lietzmann, | Arco",
-        "image": "",
-        "candidateKey": "481865454e80b1effd21d8fd",
-        "candidateSignature": "fd75d9e1888251eb596705da"
-      },
-      "previousSignature": "e245c6f6678b18cc0bf2e2b2"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Ultimate Landscapes",
-        "rawText": "Ultimate Landscapes | 19.12 - 21.12.2026 ( | Every Friday, Saturday, Sunday | ) | Riva del Garda | - Piazza C. Battisti 3/A | 10:00 - 18:00",
-        "image": "",
-        "candidateKey": "5efb7171bc237afba9375428",
-        "candidateSignature": "bb68b2a40c27394442607a56"
-      },
-      "previousSignature": "06faae8d1203f089abf8a257"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Mese del Gusto",
-        "rawText": "Mese del Gusto | 03.10 - 04.10.2026 | Riva del Garda | Other available dates | top | Sponde. Freshwater fish on the table | 03.10 2026",
-        "image": "",
-        "candidateKey": "7e11656d56e44718380370bf",
-        "candidateSignature": "ab3c3feef78a88256d9b0e2a"
-      },
-      "previousSignature": "28fa099b42522d670fcd65cc"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Visitate il Garda!",
-        "rawText": "Visitate il Garda! | 01.10 - 18.10.2026 ( | Every Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday | ) | Riva del Garda | - Piazza C. Battisti 3/A | 10:00 - 18:00",
-        "image": "",
-        "candidateKey": "d60a93e72056cd3f180c6a7e",
-        "candidateSignature": "c27c0e771169a63a63937bdb"
-      },
-      "previousSignature": "07a20806c4f5a639cf12da5d"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Display al Forte di Nago",
-        "rawText": "Display al Forte di Nago | 11.07 - 31.10.2026 ( | Every Thursday, Friday, Saturday | ) | Nago | - Via al Castèl Pénede | 10:00 - 12:30",
-        "image": "",
-        "candidateKey": "de0c09633cce0914cfb88371",
-        "candidateSignature": "41a40848011c6f54b3574a9f"
-      },
-      "previousSignature": "4c3611dcf07f65b2201da0f4"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "Quando la musica racconta",
-        "rawText": "Quando la musica racconta | 17.10 2026 | Riva del Garda | - Largo Marconi 5, | Riva del Garda | - Via Maffei 18, | Riva del Garda",
-        "image": "",
-        "candidateKey": "eee57d783efffeef913f3bde",
-        "candidateSignature": "e7af9596f6a040a8c02b0fe6"
-      },
-      "previousSignature": "93f5fabbfec6ba89e8648603"
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "49° Mostra Ornitologica Internazionale Trentina",
-        "rawText": "49° Mostra Ornitologica Internazionale Trentina | 24.10 2026 | Riva del Garda | - Via Baltera 20 | 09:00 - 18:00 | Other available dates | FINE #WineTourism Marketplace Italy",
-        "image": "",
-        "candidateKey": "0064b7945a987f0338894252",
-        "candidateSignature": "5508ed374bfb2e8d2b546c7b"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Fiera di San Francesco",
-        "rawText": "Fiera di San Francesco | 03.10 2026 | Tiarno di Sotto | top | Mese del Gusto | 03.10 - 04.10.2026 | Riva del Garda",
-        "image": "",
-        "candidateKey": "03dd1238f37ab97831411eb1",
-        "candidateSignature": "f8cad671faa229949996105d"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "RS Feva European Championships",
-        "rawText": "RS Feva European Championships | 30.09 - 03.10.2026 | Riva del Garda | - Via Giancarlo Maroni 2 | 09:00 - 17:00 | top | Rock Master 2026",
-        "image": "",
-        "candidateKey": "2271a58473a9368acfbd03af",
-        "candidateSignature": "5be41ae3b45bf5b39c277ae3"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "Festa della Patata del Lomaso",
-        "rawText": "Festa della Patata del Lomaso | 24.10 - 25.10.2026 | Comano Terme | - Frazione Dasindo 1 | Festa dei Maroni | 24.10 - 25.10.2026 | Pranzo",
-        "image": "",
-        "candidateKey": "22e1e9f136dae1ff7e69acad",
-        "candidateSignature": "0088da04543b3f2ff77a28c1"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "International Chess Tournament Città di Arco",
-        "rawText": "International Chess Tournament Città di Arco | 03.10 - 11.10.2026 | Arco | - Viale delle Palme | 15:00 - 20:00 | top | Laghet con gusto",
-        "image": "",
-        "candidateKey": "24c750d77a1bf7d9af671bf3",
-        "candidateSignature": "229957755676ba0d22686a25"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Spokes of Design",
-        "rawText": "Spokes of Design | 05.09 - 25.10.2026 ( | Every Thursday, Friday, Saturday | ) | Torbole sul Garda - Nago | - Via della Lova 18 | 16:00 - 20:00",
-        "image": "",
-        "candidateKey": "254f12e1586322e817b88772",
-        "candidateSignature": "644da41710cd635513c31191"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Aerovita",
-        "rawText": "Aerovita | 31.05 - 23.12.2026 ( | Every Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday | ) | Arco | - Via Segantini 9 | 10:00 - 18:00",
-        "image": "",
-        "candidateKey": "356c1cf1d1c0ee88a1618582",
-        "candidateSignature": "39398e8008040987c3cdb2ed"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-        "detailUrl": "",
-        "title": "Night of Burning Stills",
-        "rawText": "Night of Burning Stills | 05.12 - 08.12.2026 | Santa Massenza | - Piazza San Vigilio | Bookable online | 46-54 / 61 | <",
-        "image": "",
-        "candidateKey": "3681eb22555f8816634f92fa",
-        "candidateSignature": "0e9597e211726de327d12dbf"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "Garda Trentino Half Marathon",
-        "rawText": "Garda Trentino Half Marathon | 06.11 - 08.11.2026 | Arco | , | Riva del Garda | 09:00 - 15:00 | 37-45 / 61",
-        "image": "",
-        "candidateKey": "4304707d37292498779aac11",
-        "candidateSignature": "5e8ebf957b8a71a509258670"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "Festa dei Maroni",
-        "rawText": "Festa dei Maroni | 24.10 - 25.10.2026 | Pranzo | - Piazza San Leonardo | 10:00 - 17:00 | 4th National Trophy “Cori d’Italia” | 24.10 - 25.10.2026",
-        "image": "",
-        "candidateKey": "473f7ea4099e55b4f1487921",
-        "candidateSignature": "5fe85ea66a4dee5fcf3dbc80"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-        "detailUrl": "",
-        "title": "Festa della Noce",
-        "rawText": "Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore) | - Cavrasto square | top | Christmas Market in Arco | 13.11 2026",
-        "image": "",
-        "candidateKey": "54c26b58230249eecb6c15c1",
-        "candidateSignature": "a9090d45b0877c6261d2299b"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
-        "detailUrl": "",
-        "title": "Reboro, Territorio & Passione",
-        "rawText": "Reboro, Territorio & Passione | 16.10 - 17.10.2026 | Vezzano | Quando la musica racconta | 17.10 2026 | Riva del Garda | - Largo Marconi 5,",
-        "image": "",
-        "candidateKey": "5a2c3ffa5d701ea4cc15a398",
-        "candidateSignature": "addb02e4deac6c504d50f8d3"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-        "detailUrl": "",
-        "title": "Il Castello della Natività - Castel Toblino",
-        "rawText": "Il Castello della Natività - Castel Toblino | 28.12 - 03.01.2027 | Calavino | - Località Castel Toblino 1 | 11:00 - 17:00 | Festa del Broccolo | 17.01 2027",
-        "image": "",
-        "candidateKey": "5a744392115445ccffec7201",
-        "candidateSignature": "0bcd195062c01ab01267897a"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "Via Ferrate tra paesaggio, economia e loisir",
-        "rawText": "Via Ferrate tra paesaggio, economia e loisir | 17.10 2026 | Mori | - Via san Giovanni | 14:30 - 18:15 | Bookable online | Flea market in Arco",
-        "image": "",
-        "candidateKey": "78cc993ee3b263d09b6afeec",
-        "candidateSignature": "954092033d1e127f9e3e19e8"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "Flea market in Arco",
-        "rawText": "Flea market in Arco | 17.10 2026 | Arco | - Towncentre | 08:00 - 17:00 | Other available dates | top",
-        "image": "",
-        "candidateKey": "923ea6d48187acea99f00b81",
-        "candidateSignature": "33de1be1d080b96352d09544"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-        "detailUrl": "",
-        "title": "Festa del Broccolo",
-        "rawText": "Festa del Broccolo | 17.01 2027 | Torbole sul Garda | - Piazza Lietzmann | 11:30 - 14:30 | 55-61 / 61 | <",
-        "image": "",
-        "candidateKey": "a27de3eddf5b94ade1b5f776",
-        "candidateSignature": "270fc0f137efc31f9a46e303"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Dal fucile alla matita",
-        "rawText": "Dal fucile alla matita | 01.06 - 11.10.2026 | Riva del Garda | - Forte Garda | 10:00 - 17:00 | top | Festa della Zucca e degli Ortaggi Invernali",
-        "image": "",
-        "candidateKey": "ab1bd86d3d5a83edd8de1622",
-        "candidateSignature": "83ff12555696f7c4ccc33277"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-        "detailUrl": "",
-        "title": "I Forti si raccontano",
-        "rawText": "I Forti si raccontano | 04.10 2026 | Riva del Garda | - Forte Garda, | Riva del Garda | 10:00 - 16:00 | Accordion Festival in Ledro",
-        "image": "",
-        "candidateKey": "aef9cc94e0ea8ac957f2ce9c",
-        "candidateSignature": "4d14a1305d4712dc39215a9b"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Laghet con gusto",
-        "rawText": "Laghet con gusto | 04.10 2026 | Tenno | - Loc. Lago di Tenno | 10-18 / 61 | < | Previous",
-        "image": "",
-        "candidateKey": "be919e8a4b0d178d452f9913",
-        "candidateSignature": "1b368bc0ab03673ce036ef29"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-        "detailUrl": "",
-        "title": "Alchimie d'autunno",
-        "rawText": "Alchimie d'autunno | 07.11 2026 | Santa Massenza | - Piazza San Vigilio | top | Festa della Noce | 07.11 - 08.11.2026",
-        "image": "",
-        "candidateKey": "dc0c5db28a9f66fad07c2a24",
-        "candidateSignature": "99a016fbd889e530ce18041a"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-        "detailUrl": "",
-        "title": "Accordion Festival in Ledro",
-        "rawText": "Accordion Festival in Ledro | 04.10 2026 | Pieve di Ledro | 20:30 - 21:30 | Other available dates | Chi ci ha ispirato | 04.10 - 25.10.2026 (",
-        "image": "",
-        "candidateKey": "e3e562569612e3bba7f37fa7",
-        "candidateSignature": "06927952b85099aa0d91772a"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-        "detailUrl": "",
-        "title": "Grasparola",
-        "rawText": "Grasparola | 09.10 - 10.10.2026 | Pergolese | - Piazza Don Vittorio Pisoni | Other available dates | 19-27 / 61 | <",
-        "image": "",
-        "candidateKey": "e471e3a3556ff6dd66c45d02",
-        "candidateSignature": "c93428b0f1fc132e825c496f"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-        "detailUrl": "",
-        "title": "Christmas Market in Canale di Tenno",
-        "rawText": "Christmas Market in Canale di Tenno | 28.11 - 29.11.2026 | Canale di Tenno | 09:30 - 18:00 | Other available dates | top | Night of Burning Stills",
-        "image": "",
-        "candidateKey": "e51d34ac73771c26b2e5e421",
-        "candidateSignature": "4de34076096777efc20d8ed5"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Rock Master 2026",
-        "rawText": "Rock Master 2026 | 02.10 - 04.10.2026 | Arco | - Via Caproni Maini 26 | 10:00 - 00:00 | Bookable online | Aerovita",
-        "image": "",
-        "candidateKey": "e5cd2acaf4637f51445dcbdf",
-        "candidateSignature": "c61a1ea1e7c12fffe9beb3a7"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Farmers' market in Riva del Garda",
-        "rawText": "Farmers' market in Riva del Garda | 01.01 - 28.12.2026 ( | Every Friday | ) | Riva del Garda | 08:30 - 13:00 | Gino Pancheri. Female Figures",
-        "image": "",
-        "candidateKey": "f1bd5040f7b6759cb701f8ba",
-        "candidateSignature": "551d3cc5df60058e559d525f"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-        "detailUrl": "",
-        "title": "Christmas Market in Rango",
-        "rawText": "Christmas Market in Rango | 14.11 - 15.11.2026 | Rango | 09:30 - 18:30 | Other available dates | top | Santa's House",
-        "image": "",
-        "candidateKey": "f4dc71ac9040bec615dfb58e",
-        "candidateSignature": "aa7d7d6b44273aa8cdfba6b7"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Ganzega d'Autunno",
-        "rawText": "Ganzega d'Autunno | 03.10 - 04.10.2026 | Mori | - Piazza Cal di Ponte | 18:00 - 23:00 | IT.A.CÀ. - Responsible Tourism Festival | 03.10 2026",
-        "image": "",
-        "candidateKey": "fc21df84a5a2f1a962b68ca7",
-        "candidateSignature": "40e9b8193e2278b5087e7364"
+        "candidateKey": "8aefd107ced43ecf93e1b8a9",
+        "candidateSignature": "12666594b0bdc1ca44e64ebf"
       }
     },
     {
       "change": "ADDED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-04&end_event_date=2026-10-04&filter_ref=today",
+        "title": "Oggi",
+        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+        "image": "",
+        "candidateKey": "b5f1f9468993196c3d014495",
+        "candidateSignature": "9b37416c0166ae570e4c2584"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-04&end_event_date=2026-10-11&filter_ref=week",
+        "title": "7 giorni",
+        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+        "image": "",
+        "candidateKey": "dd8d5b22118c0d4f43083586",
+        "candidateSignature": "51b54897b66ad3ddd4b9ecb6"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-04&end_event_date=2026-11-03&filter_ref=month",
+        "title": "30 giorni",
+        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+        "image": "",
+        "candidateKey": "fa79fed555d376b1d9a4b3f7",
+        "candidateSignature": "6c7e8070b816af1f1f075006"
+      }
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/seguendo-un-filo-di-seta",
+        "title": "Seguendo un filo di seta",
+        "rawText": "Seguendo un filo di seta Rovereto - I sabati da maggio a dicembre 2026 Tra musei, rogge e filatoi. Trekking urbano nel centro storico di Rovereto, dal Museo della Città al setificio Colle Masotti. C’è una Rovereto che si cela dietro i muri dei palazzi del centro ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2023/04/SEGUENDO-UN-FILO-DI-SETA-Trekking-urbani-Luca-Matassoni-2.jpg",
+        "candidateKey": "1d80ad9c3acffd87aaabf2c1",
+        "candidateSignature": "8481d247aea79b868652a4e7"
+      },
+      "previousSignature": "80368c6ae34a7402617a38d7"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=6",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/vivallis-blind",
+        "title": "Vivallis Blind",
+        "rawText": "Vivallis Blind Cantina Vivallis - Nogaredo - Dal 1 gennaio 2026 al 31 dicembre 2026 Una degustazione alla cieca nella splendida location della cantina Vivallis di Nogaredo. Un ... Un percorso tra storia e tecnologia per farti toccare con mano la nostra realtà e respirare il ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2024/02/Vivallis-Luca-Matassoni.png",
+        "candidateKey": "27659dcbe20a2fb3283d3993",
+        "candidateSignature": "8dbf357646b8a7eb14d86872"
+      },
+      "previousSignature": "cb273162d3b5d5902c8c8b5c"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno",
+        "title": "Sapori d’autunno",
+        "rawText": "Sapori d’autunno Parco C. Battisti, Brentonico - Sabato 10 e domenica 11 ottobre 2026 Weekend di festa con protagonisti i prodotti del Monte Baldo. Mercatino di montagna, antichi mestieri, attività per tutta la famiglia e tante altre novità! Vino, birra, formaggi, confetture ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2017/10/sapori-dautunno-2.png",
+        "candidateKey": "833ab361992453b60ce1034a",
+        "candidateSignature": "1fe9a0e8345acf1c8ba23499"
+      },
+      "previousSignature": "3d75e70f0c523ec925f414bd"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/visita-al-produttore",
+        "title": "Da Maso Salengo una visita alla cantina di famiglia",
+        "rawText": "Da Maso Salengo una visita alla cantina di famiglia Maso Salengo - Volano - Dal 1 gennaio 2026 al 31 dicembre 2026 Maso Salengo ti apre le sue porte. Giuseppina e la sua famiglia ti aspettano per raccontarti la loro storia, per mostrarti di persona come e dove viene prodotto il vino e per farti scoprire ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2021/03/maso-salengo-3.jpg",
+        "candidateKey": "979c83ae1cd19307d03b1fd4",
+        "candidateSignature": "d730dbdb40c46148918573df"
+      },
+      "previousSignature": "25db317e9d28bd887aba4302"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/alla-scoperta-del-vino-artigianale-di-montagna",
+        "title": "Alla scoperta del vino artigianale di montagna",
+        "rawText": "Alla scoperta del vino artigianale di montagna Azienda Agricola Vignali Varás - Dal 1 gennaio 2026 al 31 dicembre 2026 Wine from the Alps. Scopri il territorio di Isera in Vallagarina e visita i vigneti di montagna. Un’esperienza dove potrai conoscere il percorso che porta alla realizzazione di una bottiglia ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2024/02/Vignali-Varas-2.jpg",
+        "candidateKey": "b5802e1c67409b4bfa8308ef",
+        "candidateSignature": "2c96a776275ac9df7a1aee44"
+      },
+      "previousSignature": "2312c0d9f416923607e24bbc"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/viva-abbondanzabertoni",
+        "title": "VIVA!",
+        "rawText": "VIVA! Rovereto, Teatro alla Cartiera e Teatro Zandonai - Da settembre a dicembre La rassegna per i 30 anni della Compagnia Abbondanza/Bertoni. Da settembre a dicembre: 12 appuntamenti, 18 lavori e oltre 20 artiste e artisti della scena nazionale e internazionale. Dopo la ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2026/09/VIVA-CRY-VIOLET.jpg",
+        "candidateKey": "b956ce4cbbb9da9c0c6d16d9",
+        "candidateSignature": "90e173b3f2ad241337149930"
+      },
+      "previousSignature": "0219946ad8c566a8232c3301"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/giacomo-balla-mart-rovereto",
+        "title": "Giacomo Balla – Lo stile dell’Avanguardia",
+        "rawText": "Giacomo Balla – Lo stile dell’Avanguardia Rovereto dal 16-05- 20 26 al 18-10- 20 26 Opere dalle collezioni Biagiotti Cigna. Il Mart presenta una delle maggiori collezioni private monografiche al mondo: la raccolta completa di opere di Giacomo Balla appartenenti alla Collezione ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2026/05/Giacomo-Balla-Genio-Futurista-1925-Collezione-Laura-Biagiotti.jpg",
+        "candidateKey": "eed47c812cb88350872d2fd7",
+        "candidateSignature": "2685d76e43b79eccb564157f"
+      },
+      "previousSignature": "26fbae3cc58b53c5c888c719"
+    },
+    {
+      "change": "MISSING",
       "candidate": {
         "sourceId": "visitrovereto_events",
         "sourceName": "Visit Rovereto / Vallagarina - events",
@@ -899,7 +1078,7 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "visitrovereto_events",
         "sourceName": "Visit Rovereto / Vallagarina - events",
@@ -913,7 +1092,21 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/ecologica",
+        "title": "EcoLogica",
+        "rawText": "EcoLogica Manifattura Tabacchi il 03-10- 20 26 Laboratori ed idee per uno sviluppo sostenibile. Progetto Manifattura come un luogo da attraversare, scoprire e vivere insieme. Sabato 3 ottobre Progetto Manifattura si trasforma in un grande ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2025/10/EcoLogica-@visitrovereto-foto-di-Luca-Matassoni.png",
+        "candidateKey": "86b18105e493eaeedaea8c2f",
+        "candidateSignature": "3c2c0cf96d93860da9e279ef"
+      }
+    },
+    {
+      "change": "MISSING",
       "candidate": {
         "sourceId": "visitrovereto_events",
         "sourceName": "Visit Rovereto / Vallagarina - events",
@@ -927,7 +1120,7 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "visitrovereto_events",
         "sourceName": "Visit Rovereto / Vallagarina - events",
@@ -941,74 +1134,17 @@
       }
     },
     {
-      "change": "CHANGED",
+      "change": "ADDED",
       "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/la-citta-biblioteca-un-viaggio-nel-labirinto-dei-racconti",
-        "title": "La Città Biblioteca",
-        "rawText": "La Città Biblioteca Biblioteca Civica Tartarotti - Mar. 6 ottobre; sab. 28 e dom. 29 novembre; sab. 12 e dom. 13 dicembre Un viaggio nel labirinto dei racconti. Nel cuore della biblioteca, Rovereto si svela come un racconto da attraversare. Tra i libri della “Tartarotti ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/La-Citta-Biblioteca.jpg",
-        "candidateKey": "8dba46189b80f3ab0ff48a69",
-        "candidateSignature": "ca908f318edefec4d9f4a37d"
-      },
-      "previousSignature": "d91d69b693135516257df16f"
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-02&end_event_date=2026-10-09&filter_ref=week",
-        "title": "7 giorni",
-        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-        "image": "",
-        "candidateKey": "7a88ad4b064efa5d75f0fb98",
-        "candidateSignature": "eb3f27e4ce6592970d0a458c"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-03&end_event_date=2026-10-03&filter_ref=tomorrow",
-        "title": "Domani",
-        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-        "image": "",
-        "candidateKey": "ad0220bfdb57fac92e1fb027",
-        "candidateSignature": "b3772d407d5e1c69e997c436"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-02&end_event_date=2026-11-01&filter_ref=month",
-        "title": "30 giorni",
-        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-        "image": "",
-        "candidateKey": "f31cf6b65e1bb05ccb0e32e1",
-        "candidateSignature": "7a907addceb7c97a83c6cc21"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-02&end_event_date=2026-10-02&filter_ref=today",
-        "title": "Oggi",
-        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-        "image": "",
-        "candidateKey": "f4560568c9c2cf44e619c8ce",
-        "candidateSignature": "a907f4244a047d7cce092c0e"
+        "sourceId": "visittrentino_all_events",
+        "sourceName": "Visit Trentino - all events",
+        "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/giornate-dei-musei-etnografici-trentini_e_136676174",
+        "title": "Giornate dei musei Etnografici Trentini",
+        "rawText": "Visite Guidate, Eventi Culturali, Mostre, Altro Giornate dei musei Etnografici Trentini I Musei etnografici del Trentino, tra cui il Museo Ladin de Fascia, aprono le porte tutti insieme in un unico grande weekend di scoperta Vigo di Fassa 04/10/2026",
+        "image": "https://www.visittrentino.info/assets-basic/events/valdifassa/giornate-dei-musei-etnografici-trentini_136676174/7875916/image-thumb__7875916__moodboard_list/giornate-dei-musei-etnografici-trentini_136676174_1.113fe363.jpg",
+        "candidateKey": "377108fcffc1f1a86348c801",
+        "candidateSignature": "baebe4790b820122af1526e5"
       }
     },
     {
@@ -1017,12 +1153,12 @@
         "sourceId": "visittrentino_all_events",
         "sourceName": "Visit Trentino - all events",
         "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/levico-terme-il-centro-e-la-torre-belvedere_e_134673916",
-        "title": "Levico Terme, il centro e la Torre Belvedere",
-        "rawText": "Visite Guidate, Altro Levico Terme, il centro e la Torre Belvedere Levico Terme Sabato Dalle ore 9:30 alle 12:00 Levico Terme 26/09/2026 - 03/10/2026",
-        "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/levico-terme-2c-il-centro-e-la-torre-belvedere-_134673916/7843825/image-thumb__7843825__moodboard_list/levico-terme-2c-il-centro-e-la-torre-belvedere-_134673916_1.14c836d7.jpg",
-        "candidateKey": "04f458f8a5b5e36a3b2a684b",
-        "candidateSignature": "06b9f18105954e83fbb1d2c0"
+        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/giornate-dei-musei-etnografici-del-trentino-museo-del-moleta_e_120779213",
+        "title": "Giornate dei Musei etnografici del Trentino | Museo del Moléta",
+        "rawText": "Altro, Visite Guidate Giornate dei Musei etnografici del Trentino | Museo del Moléta Museo del Moléta, Casa dei Cintesi, Cinte Tesino Visite guidate dalle 10.00 alle 12.30 Cinte Tesino 03/10/2026 - 04/10/2026",
+        "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/giornate-dei-musei-etnografici-del-trentino--7c-museo-del-mol-c3-a9ta_120779213/7875899/image-thumb__7875899__moodboard_list/giornate-dei-musei-etnografici-del-trentino--7c-museo-del-mol-c3-a9ta_120779213_1.858f7746.jpg",
+        "candidateKey": "475f37ad379d306b782c5f07",
+        "candidateSignature": "66af454e5bcd68fa32f83268"
       }
     }
   ]

@@ -14467,10 +14467,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-30",
+    "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
@@ -14619,6 +14620,38 @@
     ]
   },
   {
+    "id": "laghet-con-gusto-2026",
+    "name": {
+      "de": "Laghet con gusto",
+      "en": "Laghet con gusto",
+      "it": "Laghet con gusto"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "startTime": null,
+    "municipality": "Tenno",
+    "area": "Alto Garda",
+    "venue": "Tenno",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Laghet con gusto“ in Tenno. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Laghet con gusto” event in Tenno. See the official event page for the latest details.",
+      "it": "Evento “Laghet con gusto” a Tenno. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-04",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "mese-del-gusto-2026-6",
     "name": {
       "de": "Mese del Gusto",
@@ -14654,6 +14687,42 @@
     "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "assetVerified": "2026-09-28"
+  },
+  {
+    "id": "mese-del-gusto-2026-7",
+    "name": {
+      "de": "Mese del Gusto",
+      "en": "Mese del Gusto",
+      "it": "Mese del Gusto"
+    },
+    "startDate": "2026-10-04",
+    "endDate": "2026-11-08",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mese del Gusto“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mese del Gusto” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Mese del Gusto” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-04",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "assetVerified": "2026-10-04"
   },
   {
     "id": "rock-master-2026",
@@ -16251,6 +16320,38 @@
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
     "verified": "2026-10-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "international-chess-tournament-citta-di-arco-2026-4",
+    "name": {
+      "de": "International Chess Tournament Città di Arco",
+      "en": "International Chess Tournament Città di Arco",
+      "it": "International Chess Tournament Città di Arco"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-25",
+    "startTime": "15:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „International Chess Tournament Città di Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“International Chess Tournament Città di Arco” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “International Chess Tournament Città di Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
@@ -18121,10 +18222,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-02",
+    "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
@@ -18185,10 +18287,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-27",
+    "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
@@ -18221,10 +18324,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
+    "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
@@ -19124,10 +19228,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
+    "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5"
     ]
@@ -19578,10 +19683,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-23",
+    "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
@@ -20044,11 +20150,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
+    "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
@@ -22368,10 +22475,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-23",
+    "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9",
@@ -22470,10 +22578,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-23",
+    "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
