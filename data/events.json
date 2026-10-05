@@ -15620,10 +15620,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-03",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
@@ -15695,6 +15696,39 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
+    ]
+  },
+  {
+    "id": "la-citta-biblioteca-2026-3",
+    "name": {
+      "de": "La Città Biblioteca",
+      "en": "La Città Biblioteca",
+      "it": "La Città Biblioteca"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La Città Biblioteca“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La Città Biblioteca” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “La Città Biblioteca” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/la-citta-biblioteca-un-viaggio-nel-labirinto-dei-racconti",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/La-Citta-Biblioteca.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/la-citta-biblioteca-un-viaggio-nel-labirinto-dei-racconti"
     ]
   },
   {
@@ -15858,6 +15892,42 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio13"
     ]
+  },
+  {
+    "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-5",
+    "name": {
+      "de": "100 e + anni di turismo nel Garda Trentino",
+      "en": "100 e + anni di turismo nel Garda Trentino",
+      "it": "100 e + anni di turismo nel Garda Trentino"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": "18:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „100 e + anni di turismo nel Garda Trentino“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“100 e + anni di turismo nel Garda Trentino” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “100 e + anni di turismo nel Garda Trentino” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/weather/garda-trentino"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "assetVerified": "2026-10-05"
   },
   {
     "id": "accordion-festival-in-ledro-2026-4",
@@ -16153,6 +16223,38 @@
     ]
   },
   {
+    "id": "dal-fucile-alla-matita-2026-10",
+    "name": {
+      "de": "Dal fucile alla matita",
+      "en": "Dal fucile alla matita",
+      "it": "Dal fucile alla matita"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-18",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "e-arrivato-un-bastimento-carico-di-2026",
     "name": {
       "de": "È arrivato un bastimento carico di...",
@@ -16209,10 +16311,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-01",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -16359,6 +16462,38 @@
     ]
   },
   {
+    "id": "international-chess-tournament-citta-di-arco-2026-5",
+    "name": {
+      "de": "International Chess Tournament Città di Arco",
+      "en": "International Chess Tournament Città di Arco",
+      "it": "International Chess Tournament Città di Arco"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-11-08",
+    "startTime": "15:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „International Chess Tournament Città di Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“International Chess Tournament Città di Arco” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “International Chess Tournament Città di Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "la-citta-biblioteca-2026",
     "name": {
       "de": "La Città Biblioteca",
@@ -16422,6 +16557,42 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/La-Scuola-policorale-romana-del-Sei-Settecento-Musicantica"
     ]
+  },
+  {
+    "id": "mese-del-gusto-2026-8",
+    "name": {
+      "de": "Mese del Gusto",
+      "en": "Mese del Gusto",
+      "it": "Mese del Gusto"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mese del Gusto“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mese del Gusto” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Mese del Gusto” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "assetVerified": "2026-10-05"
   },
   {
     "id": "ram-film-festival-2026",
@@ -17314,10 +17485,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -18070,6 +18242,38 @@
     ]
   },
   {
+    "id": "giornata-del-riuso-a-ravina-2026",
+    "name": {
+      "de": "Giornata del riuso a Ravina",
+      "en": "Giornata del riuso a Ravina",
+      "it": "Giornata del riuso a Ravina"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Giornata del riuso a Ravina“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Giornata del riuso a Ravina” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Giornata del riuso a Ravina” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7"
+    ]
+  },
+  {
     "id": "l-orso-di-shakespeare-2026",
     "name": {
       "de": "L'orso di Shakespeare",
@@ -18297,6 +18501,38 @@
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
+    ]
+  },
+  {
+    "id": "garbage-ride-walk-2026",
+    "name": {
+      "de": "Garbage Ride & Walk",
+      "en": "Garbage Ride & Walk",
+      "it": "Garbage Ride & Walk"
+    },
+    "startDate": "2026-10-25",
+    "endDate": "2026-10-25",
+    "startTime": "14:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Garbage Ride & Walk“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Garbage Ride & Walk” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Garbage Ride & Walk” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -18584,10 +18820,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
@@ -19650,10 +19887,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-27",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
@@ -19683,10 +19921,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-04",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
@@ -19753,10 +19992,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
@@ -20930,10 +21170,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-01",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6"
     ]
   },
@@ -21347,11 +21588,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
@@ -21965,6 +22207,39 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante58"
+    ]
+  },
+  {
+    "id": "villaggio-di-natale-di-camposilvano-2026",
+    "name": {
+      "de": "Villaggio di Natale di Camposilvano",
+      "en": "Villaggio di Natale di Camposilvano",
+      "it": "Villaggio di Natale di Camposilvano"
+    },
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-13",
+    "startTime": null,
+    "municipality": "Vallarsa",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Vallarsa",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Villaggio di Natale di Camposilvano“ in Vallarsa. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Villaggio di Natale di Camposilvano” event in Vallarsa. See the official event page for the latest details.",
+      "it": "Evento “Villaggio di Natale di Camposilvano” a Vallarsa. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/villaggio-di-camposilvano",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/10/Villaggio-di-Natale-di-Camposilvano-2023-Luca-Matassoni.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/villaggio-di-camposilvano"
     ]
   },
   {
@@ -22677,11 +22952,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-27",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
@@ -23178,10 +23454,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
@@ -23405,10 +23682,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-03",
+    "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
