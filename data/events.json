@@ -15699,6 +15699,43 @@
     ]
   },
   {
+    "id": "fb-il-canto-della-terra-festival-ecologico-rovereto-2026",
+    "name": {
+      "de": "Il Canto della Terra — festival ecologico (Rovereto)",
+      "en": "Il Canto della Terra — festival ecologico (Rovereto)",
+      "it": "Il Canto della Terra — festival ecologico (Rovereto)"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-12",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Facebook / Local",
+    "venue": "Iprase (via Tartarotti), Cortile Urbano di via Roma, Museo Civico, Smart Lab viale Trento",
+    "category": "Festival / Environment / Culture",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Festival zu Nachhaltigkeitsthemen mit Konferenzen, Ausstellungen und Workshops in Rovereto. Veranstaltungen an mehreren städtischen Orten.",
+      "en": "Ecology/sustainability festival with exhibitions, conferences, labs and community activities in Rovereto; events scheduled across several city venues.",
+      "it": "Festival ecologico con mostre, conferenze, laboratori e attività sul tema della sostenibilità a Rovereto; appuntamenti diffusi in più sedi cittadine."
+    },
+    "organizer": "Associazione 'Tra le Rocce e il Cielo' con il patrocinio del Comune di Rovereto",
+    "price": "See source",
+    "officialUrl": "https://www.comune.rovereto.tn.it/Novita/Comunicati/Rovereto-ospitera-la-seconda-edizione-de-Il-Canto-della-Terra",
+    "source": "Se te sei de Rovereto",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://www.comune.rovereto.tn.it/Novita/Comunicati/Rovereto-ospitera-la-seconda-edizione-de-Il-Canto-della-Terra"
+    ],
+    "verified": "2026-10-05",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "official-corroborated",
+    "image": "https://s3-eu-west-1.amazonaws.com/static.opencity.opencontent.it/var/roveretopnrr/storage/images/media/images/mondo2/129590-1-ita-IT/Mondo_large.jpg",
+    "imageSourceUrl": "https://www.comune.rovereto.tn.it/Novita/Comunicati/Rovereto-ospitera-la-seconda-edizione-de-Il-Canto-della-Terra",
+    "assetVerified": "2026-10-05"
+  },
+  {
     "id": "la-citta-biblioteca-2026-3",
     "name": {
       "de": "La Città Biblioteca",
@@ -16852,6 +16889,43 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Ottobre-a-Gardolo2"
     ]
+  },
+  {
+    "id": "fb-sensoriamo-per-bimbi-0-18-mesi-ciclo-di-incontri-2026",
+    "name": {
+      "de": "SensoriAmo (per bimbi 0-18 mesi) — ciclo di incontri",
+      "en": "SensoriAmo (per bimbi 0-18 mesi) — ciclo di incontri",
+      "it": "SensoriAmo (per bimbi 0-18 mesi) — ciclo di incontri"
+    },
+    "startDate": "2026-10-13",
+    "endDate": "2027-02-16",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Facebook / Local",
+    "venue": "Biblioteca Civica, Piazza Garibaldi 5",
+    "category": "Family / Education / Workshop",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Reihe sensorisch-motorischer Treffen für Kinder 0–18 Monate (es sind mehrere Termine: 13/10/2026, 10/11/2026, 19/01/2027, 16/02/2027). Teilnahme mit Anmeldung; kostenlos.",
+      "en": "Sense-motor sessions for children aged 0–18 months (series of sessions on 13 Oct 2026, 10 Nov 2026, 19 Jan 2027, 16 Feb 2027). Sessions take place at the Civic Library; booking required; free.",
+      "it": "Percorso senso‑motorio per la fascia 0–18 mesi con più incontri (13/10/2026, 10/11/2026, 19/01/2027, 16/02/2027) alla Biblioteca Civica di Riva; partecipazione su prenotazione, gratuita."
+    },
+    "organizer": "Biblioteca Civica di Riva del Garda / Comune di Riva del Garda",
+    "price": "Free",
+    "officialUrl": "https://www.comune.rivadelgarda.tn.it/Vivere-il-comune/Eventi/SensoriAmo-0-18-mesi2",
+    "source": "Sei di Riva se…",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://www.comune.rivadelgarda.tn.it/Vivere-il-comune/Eventi/SensoriAmo-0-18-mesi2"
+    ],
+    "verified": "2026-10-05",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "official-corroborated",
+    "image": "https://s3-eu-west-1.amazonaws.com/static.opencity.opencontent.it/var/rivadelgardapnrr/storage/images/media/images/sala-ragazzi-angolo-morbido/144991-2-ita-IT/Sala-ragazzi-angolo-morbido_large.jpg",
+    "imageSourceUrl": "https://www.comune.rivadelgarda.tn.it/Vivere-il-comune/Eventi/SensoriAmo-0-18-mesi2",
+    "assetVerified": "2026-10-05"
   },
   {
     "id": "conversazione-d-autore-antonella-viola-2026",
@@ -20332,6 +20406,43 @@
     "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
     "source": "Visit Trentino",
     "verified": "2026-08-25"
+  },
+  {
+    "id": "fb-mercatino-di-natale-di-gusto-in-gusto-villaggio-del-gusto-riva-d-2026",
+    "name": {
+      "de": "Mercatino di Natale 'Di Gusto in Gusto' — Villaggio del Gusto (Riva del Garda)",
+      "en": "Mercatino di Natale 'Di Gusto in Gusto' — Villaggio del Gusto (Riva del Garda)",
+      "it": "Mercatino di Natale 'Di Gusto in Gusto' — Villaggio del Gusto (Riva del Garda)"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2027-01-06",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Facebook / Local",
+    "venue": "Centro storico / Rocca (Riva del Garda) — Villaggio enogastronomico",
+    "category": "Market / Food / Seasonal",
+    "status": null,
+    "statusDate": null,
+    "confirmed": true,
+    "description": {
+      "de": "Weihnachts-Gastronomiemarkt 'Di Gusto in Gusto' im historischen Zentrum von Riva del Garda (più date nel periodo novembre–gennaio). Event- und gastronomisches Angebot, calendario stagionale.",
+      "en": "'Di Gusto in Gusto' Christmas taste market in Riva del Garda (mid-November to early January): gastronomic village with local producers, street food and seasonal programming.",
+      "it": "Mercatino/ Villaggio gastronomico 'Di Gusto in Gusto' nel centro storico di Riva del Garda (da metà novembre a inizio gennaio), con prodotti tipici, street food e iniziative collaterali."
+    },
+    "organizer": "Consorzio/ProRiva / Riva del Garda Fierecongressi e associazioni locali",
+    "price": "See source",
+    "officialUrl": "https://www.visittrentino.info/it/guida/mercatini-di-natale/mercatino-di-natale-di-gusto-in-gusto_e_134989782",
+    "source": "Sei di Riva se…",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/mercatini-di-natale/mercatino-di-natale-di-gusto-in-gusto_e_134989782"
+    ],
+    "verified": "2026-10-05",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "official-corroborated",
+    "image": "https://www.visittrentino.info/assets-basic/events/garda-trentino/mercatino-di-natale-di-gusto-in-gusto_134989782/7859468/image-thumb__7859468__contentgallery/mercatino-di-natale-di-gusto-in-gusto_134989782_1.e2d49373.jpg",
+    "imageSourceUrl": "https://www.visittrentino.info/it/guida/mercatini-di-natale/mercatino-di-natale-di-gusto-in-gusto_e_134989782",
+    "assetVerified": "2026-10-05"
   },
   {
     "id": "alla-scoperta-di-trento-2026-12",
@@ -24041,6 +24152,43 @@
     ]
   },
   {
+    "id": "fb-gran-carneval-de-mori-vecio-maccheronata-mori-2027",
+    "name": {
+      "de": "Gran Carneval de Mori Vecio — maccheronata (Mori)",
+      "en": "Gran Carneval de Mori Vecio — maccheronata (Mori)",
+      "it": "Gran Carneval de Mori Vecio — maccheronata (Mori)"
+    },
+    "startDate": "2027-02-21",
+    "endDate": "2027-02-21",
+    "startTime": "12:00",
+    "municipality": "Mori",
+    "area": "Facebook / Local",
+    "venue": "Piazza / Oratorio (Mori Vecio)",
+    "category": "Tradition / Food / Carnival",
+    "status": null,
+    "statusDate": null,
+    "confirmed": false,
+    "description": {
+      "de": "Traditionelles Carnevale‑Essen in Mori (\"Gran Carneval de Mori Vecio\") mit Verteilung von maltagliati al ragù. Termin anhand lokaler Kalender/Medienangaben.",
+      "en": "Traditional Carnival feast in Mori (Gran Carneval de Mori Vecio) featuring distribution of maltagliati with ragù. Date referenced in local event calendars and media; community tradition.",
+      "it": "Gran Carneval de Mori Vecio: maccheronata / distribuzione di maltagliati al ragù in occasione del Carnevale. Data riportata nei calendari locali e articoli regionali."
+    },
+    "organizer": "Comitati locali / Pro Loco (varia in base all'edizione)",
+    "price": "See source",
+    "officialUrl": "https://lavocedeltrentino.it/eventi/carnevale-2026-torna-la-grande-tavolata-della-vallagarina/",
+    "source": "Sei di Mori se…",
+    "sourceType": "facebook",
+    "sourceUrls": [
+      "https://lavocedeltrentino.it/eventi/carnevale-2026-torna-la-grande-tavolata-della-vallagarina/"
+    ],
+    "verified": "2026-10-05",
+    "discoveredVia": "facebook_backfill",
+    "confidence": "public-social-corroborated",
+    "image": "https://lavocedeltrentino.it/wwwroot/wp-content/uploads/2024/02/jianxiang-wu-he6vrhIxYCs-unsplash.jpg",
+    "imageSourceUrl": "https://lavocedeltrentino.it/eventi/carnevale-2026-torna-la-grande-tavolata-della-vallagarina/",
+    "assetVerified": "2026-10-05"
+  },
+  {
     "id": "terra-replica-serale-aperta-al-pubblico-2027",
     "name": {
       "de": "Terra | Replica serale aperta al pubblico",
@@ -24353,6 +24501,7 @@
     "source": "Sei di Trento se…",
     "sourceType": "facebook",
     "sourceUrls": [
+      "https://trentofestival.it/",
       "https://trentofestival.it/en/"
     ],
     "verified": "2026-09-21",

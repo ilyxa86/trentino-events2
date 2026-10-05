@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-09-28T10:52:04.958246Z",
+  "generatedAt": "2026-10-05T11:25:21.260963Z",
   "newFacebookEvents": [],
-  "facebookBackfills": []
+  "facebookBackfills": [
+    {
+      "id": "fb-il-canto-della-terra-festival-ecologico-rovereto-2026",
+      "name": "Il Canto della Terra — festival ecologico (Rovereto)",
+      "date": "2026-10-10",
+      "municipality": "Rovereto"
+    },
+    {
+      "id": "fb-sensoriamo-per-bimbi-0-18-mesi-ciclo-di-incontri-2026",
+      "name": "SensoriAmo (per bimbi 0-18 mesi) — ciclo di incontri",
+      "date": "2026-10-13",
+      "municipality": "Riva del Garda"
+    },
+    {
+      "id": "fb-mercatino-di-natale-di-gusto-in-gusto-villaggio-del-gusto-riva-d-2026",
+      "name": "Mercatino di Natale 'Di Gusto in Gusto' — Villaggio del Gusto (Riva del Garda)",
+      "date": "2026-11-13",
+      "municipality": "Riva del Garda"
+    },
+    {
+      "id": "fb-gran-carneval-de-mori-vecio-maccheronata-mori-2027",
+      "name": "Gran Carneval de Mori Vecio — maccheronata (Mori)",
+      "date": "2027-02-21",
+      "municipality": "Mori"
+    }
+  ]
 }
