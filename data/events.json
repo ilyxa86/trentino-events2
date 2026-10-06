@@ -15216,6 +15216,38 @@
     ]
   },
   {
+    "id": "presentazione-libro-il-finto-tedesco-2026",
+    "name": {
+      "de": "Presentazione libro Il finto tedesco",
+      "en": "Presentazione libro Il finto tedesco",
+      "it": "Presentazione libro Il finto tedesco"
+    },
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-07",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Presentazione libro Il finto tedesco“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Presentazione libro Il finto tedesco” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Presentazione libro Il finto tedesco” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Il-finto-tedesco",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Il-finto-tedesco"
+    ]
+  },
+  {
     "id": "ram-film-2026",
     "name": {
       "en": "RAM Film Festival",
@@ -15275,6 +15307,38 @@
     ]
   },
   {
+    "id": "da-piazza-d-armi-a-giardino-monumentale-la-storia-di-piazza-venezia-in-m-2026",
+    "name": {
+      "de": "Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento",
+      "en": "Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento",
+      "it": "Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento"
+    },
+    "startDate": "2026-10-08",
+    "endDate": "2026-10-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Da-piazza-d-armi-a-giardino-monumentale-la-storia-di-piazza-Venezia-in-mostra-a-Trento",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Da-piazza-d-armi-a-giardino-monumentale-la-storia-di-piazza-Venezia-in-mostra-a-Trento"
+    ]
+  },
+  {
     "id": "la-dimensione-mistica-secondo-raimon-panikkar-2026",
     "name": {
       "de": "La dimensione mistica secondo Raimon Panikkar",
@@ -15299,11 +15363,12 @@
     "price": "See official page",
     "officialUrl": "https://eventi.comune.trento.it/Eventi/La-dimensione-mistica-secondo-Raimon-Panikkar",
     "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-27",
+    "verified": "2026-10-06",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/La-dimensione-mistica-secondo-Raimon-Panikkar"
+      "https://eventi.comune.trento.it/Eventi/La-dimensione-mistica-secondo-Raimon-Panikkar",
+      "https://eventi.comune.trento.it/Eventi/Presentazione-libro-La-dimensione-mistica-secondo-Raimon-Panikkar"
     ]
   },
   {
@@ -15464,6 +15529,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento17"
+    ]
+  },
+  {
+    "id": "divin-ottobre-2026",
+    "name": {
+      "de": "DiVin Ottobre",
+      "en": "DiVin Ottobre",
+      "it": "DiVin Ottobre"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „DiVin Ottobre“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“DiVin Ottobre” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “DiVin Ottobre” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -15862,6 +15959,39 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante49"
+    ]
+  },
+  {
+    "id": "oktoberfest-mezzolombardo-2026",
+    "name": {
+      "de": "Oktoberfest Mezzolombardo",
+      "en": "Oktoberfest Mezzolombardo",
+      "it": "Oktoberfest Mezzolombardo"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTime": null,
+    "municipality": "Mezzolombardo",
+    "area": "Other Trentino",
+    "venue": "Mezzolombardo",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Oktoberfest Mezzolombardo“ in Mezzolombardo. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Oktoberfest Mezzolombardo” event in Mezzolombardo. See the official event page for the latest details.",
+      "it": "Evento “Oktoberfest Mezzolombardo” a Mezzolombardo. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/oktoberfest-mezzolombardo_e_88259193",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitdolomitipaganella-it/oktoberfest-mezzolombardo_88259193/7875417/image-thumb__7875417__moodboard_list/oktoberfest-mezzolombardo_88259193_2.3b81a658.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/oktoberfest-mezzolombardo_e_88259193"
     ]
   },
   {
@@ -16362,6 +16492,38 @@
     ]
   },
   {
+    "id": "festa-del-latte-2026-2",
+    "name": {
+      "de": "Festa del Latte",
+      "en": "Festa del Latte",
+      "it": "Festa del Latte"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-25",
+    "startTime": null,
+    "municipality": "Fiave",
+    "area": "Other Trentino",
+    "venue": "Fiave",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Festa del Latte“ in Fiave. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Festa del Latte” event in Fiave. See the official event page for the latest details.",
+      "it": "Evento “Festa del Latte” a Fiave. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
     "id": "fiera-di-san-francesco-2026",
     "name": {
       "de": "Fiera di San Francesco",
@@ -16422,10 +16584,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-02",
+    "verified": "2026-10-06",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
@@ -17307,11 +17470,12 @@
     "price": "See official page",
     "officialUrl": "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2",
     "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-02",
+    "verified": "2026-10-06",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2"
+      "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2",
+      "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco2"
     ]
   },
   {
@@ -17996,6 +18160,38 @@
     "assetVerified": "2026-09-10"
   },
   {
+    "id": "formazione-per-l-amministratore-di-sostegno-2026",
+    "name": {
+      "de": "Formazione per l'amministratore di sostegno",
+      "en": "Formazione per l'amministratore di sostegno",
+      "it": "Formazione per l'amministratore di sostegno"
+    },
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Formazione per l'amministratore di sostegno“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Formazione per l'amministratore di sostegno” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Formazione per l'amministratore di sostegno” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Formazione-per-l-amministratore-di-sostegno3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Formazione-per-l-amministratore-di-sostegno3"
+    ]
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-8",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -18476,6 +18672,38 @@
     ]
   },
   {
+    "id": "presentazione-libro-l-orso-di-shakespeare-2026",
+    "name": {
+      "de": "Presentazione libro L'orso di Shakespeare",
+      "en": "Presentazione libro L'orso di Shakespeare",
+      "it": "Presentazione libro L'orso di Shakespeare"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Presentazione libro L'orso di Shakespeare“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Presentazione libro L'orso di Shakespeare” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Presentazione libro L'orso di Shakespeare” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare"
+    ]
+  },
+  {
     "id": "accordion-festival-in-ledro-2026-5",
     "name": {
       "de": "Accordion Festival in Ledro",
@@ -18607,6 +18835,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "gruppo-cassa-centrale-trentino-business-run-2026-2",
+    "name": {
+      "de": "Gruppo Cassa Centrale - Trentino Business Run",
+      "en": "Gruppo Cassa Centrale - Trentino Business Run",
+      "it": "Gruppo Cassa Centrale - Trentino Business Run"
+    },
+    "startDate": "2026-10-25",
+    "endDate": "2026-10-25",
+    "startTime": "15:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Business & Networking",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Gruppo Cassa Centrale - Trentino Business Run“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Gruppo Cassa Centrale - Trentino Business Run” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Gruppo Cassa Centrale - Trentino Business Run” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
     ]
   },
   {
@@ -18836,6 +19096,38 @@
     "officialUrl": "https://rivadelgardafierecongressi.it/it/quartierefieristico",
     "source": "Official organizer",
     "verified": "2026-08-25"
+  },
+  {
+    "id": "presentazione-libro-terre-promesse-2026",
+    "name": {
+      "de": "Presentazione libro Terre promesse",
+      "en": "Presentazione libro Terre promesse",
+      "it": "Presentazione libro Terre promesse"
+    },
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Presentazione libro Terre promesse“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Presentazione libro Terre promesse” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Presentazione libro Terre promesse” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Terre-promesse",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Terre-promesse"
+    ]
   },
   {
     "id": "crepe-nel-mondo-2026-4",
@@ -20147,6 +20439,41 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/La-gallinella-rossa"
     ]
+  },
+  {
+    "id": "la-scuola-va-a-teatro-2026",
+    "name": {
+      "de": "La scuola va a teatro 2026/2027",
+      "en": "La scuola va a teatro 2026/2027",
+      "it": "La scuola va a teatro 2026/2027"
+    },
+    "startDate": "2026-11-09",
+    "endDate": "2027-04-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „La scuola va a teatro 2026/2027“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“La scuola va a teatro 2026/2027” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “La scuola va a teatro 2026/2027” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/La-scuola-va-a-teatro-2026-2027",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/La-scuola-va-a-teatro-2026-2027"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/2627-banner-newsletter-1/28161827-1-ita-IT/2627-banner-newsletter-1_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/La-scuola-va-a-teatro-2026-2027",
+    "assetVerified": "2026-10-06"
   },
   {
     "id": "danish-string-quartet-2026",
@@ -21675,6 +22002,39 @@
     ]
   },
   {
+    "id": "natale-nei-palazzi-barocchi-2026",
+    "name": {
+      "de": "Natale nei Palazzi Barocchi",
+      "en": "Natale nei Palazzi Barocchi",
+      "it": "Natale nei Palazzi Barocchi"
+    },
+    "startDate": "2026-11-28",
+    "endDate": "2026-12-20",
+    "startTime": null,
+    "municipality": "Ala",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Ala",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Natale nei Palazzi Barocchi“ in Ala. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Natale nei Palazzi Barocchi” event in Ala. See the official event page for the latest details.",
+      "it": "Evento “Natale nei Palazzi Barocchi” a Ala. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/mercatino-di-natale-ala",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2016/10/Natale-nei-Palazzi-Barocchi.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/mercatino-di-natale-ala"
+    ]
+  },
+  {
     "id": "christmas-market-in-canale-di-tenno-2026",
     "name": {
       "de": "Christmas Market in Canale di Tenno",
@@ -23037,6 +23397,42 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante60"
     ]
+  },
+  {
+    "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-6",
+    "name": {
+      "de": "100 e + anni di turismo nel Garda Trentino",
+      "en": "100 e + anni di turismo nel Garda Trentino",
+      "it": "100 e + anni di turismo nel Garda Trentino"
+    },
+    "startDate": "2026-12-28",
+    "endDate": "2026-12-28",
+    "startTime": "18:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „100 e + anni di turismo nel Garda Trentino“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“100 e + anni di turismo nel Garda Trentino” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “100 e + anni di turismo nel Garda Trentino” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/weather/garda-trentino"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "assetVerified": "2026-10-06"
   },
   {
     "id": "aspettando-il-natale-2026",
