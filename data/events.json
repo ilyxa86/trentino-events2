@@ -15339,6 +15339,38 @@
     ]
   },
   {
+    "id": "inaugurazione-della-mostra-da-piazza-delle-armi-a-giardino-piazza-venezi-2026",
+    "name": {
+      "de": "Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"",
+      "en": "Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"",
+      "it": "Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\""
+    },
+    "startDate": "2026-10-08",
+    "endDate": "2026-10-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Inaugurazione-della-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Inaugurazione-della-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi"
+    ]
+  },
+  {
     "id": "la-dimensione-mistica-secondo-raimon-panikkar-2026",
     "name": {
       "de": "La dimensione mistica secondo Raimon Panikkar",
@@ -16026,6 +16058,38 @@
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno",
       "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno/"
+    ]
+  },
+  {
+    "id": "torneo-di-burraco-e-castagnata-2026",
+    "name": {
+      "de": "Torneo di Burraco e castagnata",
+      "en": "Torneo di Burraco e castagnata",
+      "it": "Torneo di Burraco e castagnata"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Torneo di Burraco e castagnata“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Torneo di Burraco e castagnata” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Torneo di Burraco e castagnata” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Torneo-di-Burraco-e-castagnata",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Torneo-di-Burraco-e-castagnata"
     ]
   },
   {
@@ -16955,6 +17019,39 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca4"
+    ]
+  },
+  {
+    "id": "rovereto-open-wta-125-2026",
+    "name": {
+      "de": "Rovereto Open – WTA 125",
+      "en": "Rovereto Open – WTA 125",
+      "it": "Rovereto Open – WTA 125"
+    },
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-18",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Rovereto Open – WTA 125“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Rovereto Open – WTA 125” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Rovereto Open – WTA 125” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Rovereto-Open-WTA-125-Circolo-Tennis-Rovereto-.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125"
     ]
   },
   {
@@ -18672,6 +18769,41 @@
     ]
   },
   {
+    "id": "palcoscenico-trentino-2026",
+    "name": {
+      "de": "Palcoscenico Trentino 2026",
+      "en": "Palcoscenico Trentino 2026",
+      "it": "Palcoscenico Trentino 2026"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-11-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Palcoscenico Trentino 2026“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Palcoscenico Trentino 2026” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Palcoscenico Trentino 2026” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Palcoscenico-Trentino-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-10-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Palcoscenico-Trentino-2026"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/palcoscensico-trentino/28169828-1-ita-IT/palcoscensico-trentino_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Palcoscenico-Trentino-2026",
+    "assetVerified": "2026-10-07"
+  },
+  {
     "id": "presentazione-libro-l-orso-di-shakespeare-2026",
     "name": {
       "de": "Presentazione libro L'orso di Shakespeare",
@@ -19615,6 +19747,38 @@
     ]
   },
   {
+    "id": "gruppo-cassa-centrale-trentino-business-run-2026-3",
+    "name": {
+      "de": "Gruppo Cassa Centrale - Trentino Business Run",
+      "en": "Gruppo Cassa Centrale - Trentino Business Run",
+      "it": "Gruppo Cassa Centrale - Trentino Business Run"
+    },
+    "startDate": "2026-10-31",
+    "endDate": "2026-10-31",
+    "startTime": "15:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Business & Networking",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Gruppo Cassa Centrale - Trentino Business Run“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Gruppo Cassa Centrale - Trentino Business Run” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Gruppo Cassa Centrale - Trentino Business Run” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "l-equivoco-2026",
     "name": {
       "de": "L'equivoco",
@@ -20324,10 +20488,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
+    "verified": "2026-10-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8"
@@ -23611,6 +23776,38 @@
     "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "assetVerified": "2026-09-30"
+  },
+  {
+    "id": "5th-stage-of-the-triveneto-bmx-trophy-2026",
+    "name": {
+      "de": "5th Stage of the Triveneto BMX Trophy",
+      "en": "5th Stage of the Triveneto BMX Trophy",
+      "it": "5th Stage of the Triveneto BMX Trophy"
+    },
+    "startDate": "2026-12-31",
+    "endDate": "2026-12-31",
+    "startTime": "10:30",
+    "municipality": "Torbole",
+    "area": "Alto Garda",
+    "venue": "Torbole",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „5th Stage of the Triveneto BMX Trophy“ in Torbole. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“5th Stage of the Triveneto BMX Trophy” event in Torbole. See the official event page for the latest details.",
+      "it": "Evento “5th Stage of the Triveneto BMX Trophy” a Torbole. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
   },
   {
     "id": "accordion-festival-in-ledro-2026-3",
