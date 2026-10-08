@@ -14956,6 +14956,39 @@
     ]
   },
   {
+    "id": "fora-fest-2026",
+    "name": {
+      "de": "Fòra Fest",
+      "en": "Fòra Fest",
+      "it": "Fòra Fest"
+    },
+    "startDate": "2026-10-06",
+    "endDate": "2026-10-17",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Fòra Fest“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Fòra Fest” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Fòra Fest” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/fora-fest",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Fora-Fest.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/fora-fest"
+    ]
+  },
+  {
     "id": "la-citta-biblioteca-2026-2",
     "name": {
       "de": "La Città Biblioteca",
@@ -15497,6 +15530,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Ottobre-a-Povo2"
+    ]
+  },
+  {
+    "id": "beyond-borders-2026",
+    "name": {
+      "de": "Beyond Borders",
+      "en": "Beyond Borders",
+      "it": "Beyond Borders"
+    },
+    "startDate": "2026-10-09",
+    "endDate": "2026-10-09",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Beyond Borders“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Beyond Borders” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Beyond Borders” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Beyond-Borders",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Beyond-Borders"
     ]
   },
   {
@@ -16621,6 +16686,38 @@
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
+    ]
+  },
+  {
+    "id": "gruppo-cassa-centrale-trentino-business-run-2026-4",
+    "name": {
+      "de": "Gruppo Cassa Centrale - Trentino Business Run",
+      "en": "Gruppo Cassa Centrale - Trentino Business Run",
+      "it": "Gruppo Cassa Centrale - Trentino Business Run"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "startTime": "15:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Business & Networking",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Gruppo Cassa Centrale - Trentino Business Run“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Gruppo Cassa Centrale - Trentino Business Run” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Gruppo Cassa Centrale - Trentino Business Run” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
     ]
   },
   {
@@ -18027,6 +18124,38 @@
     ]
   },
   {
+    "id": "cancro-in-due-atti-2026",
+    "name": {
+      "de": "Cancro in due atti",
+      "en": "Cancro in due atti",
+      "it": "Cancro in due atti"
+    },
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Cancro in due atti“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Cancro in due atti” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Cancro in due atti” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Cancro-in-due-atti",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Cancro-in-due-atti"
+    ]
+  },
+  {
     "id": "crepe-nel-mondo-2026",
     "name": {
       "de": "Crepe nel mondo",
@@ -18088,6 +18217,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema9"
+    ]
+  },
+  {
+    "id": "mamme-in-cerchio-2026",
+    "name": {
+      "de": "Mamme in cerchio",
+      "en": "Mamme in cerchio",
+      "it": "Mamme in cerchio"
+    },
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mamme in cerchio“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mamme in cerchio” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Mamme in cerchio” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio2"
     ]
   },
   {
@@ -21170,6 +21331,38 @@
     ]
   },
   {
+    "id": "mamme-in-cerchio-2026-2",
+    "name": {
+      "de": "Mamme in cerchio",
+      "en": "Mamme in cerchio",
+      "it": "Mamme in cerchio"
+    },
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mamme in cerchio“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mamme in cerchio” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Mamme in cerchio” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio3"
+    ]
+  },
+  {
     "id": "vai-via-2026",
     "name": {
       "de": "Vai via",
@@ -22525,6 +22718,39 @@
     ]
   },
   {
+    "id": "natale-di-montagna-2026",
+    "name": {
+      "de": "Natale di Montagna",
+      "en": "Natale di Montagna",
+      "it": "Natale di Montagna"
+    },
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-06",
+    "startTime": null,
+    "municipality": "Brentonico",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Brentonico",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Natale di Montagna“ in Brentonico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Natale di Montagna” event in Brentonico. See the official event page for the latest details.",
+      "it": "Evento “Natale di Montagna” a Brentonico. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/natale-brentonico",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/11/Natale-in-montagna.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/natale-brentonico"
+    ]
+  },
+  {
     "id": "night-of-burning-stills-2026",
     "name": {
       "de": "Night of Burning Stills",
@@ -22555,6 +22781,38 @@
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
+    ]
+  },
+  {
+    "id": "the-grinch-house-2026",
+    "name": {
+      "de": "The Grinch House",
+      "en": "The Grinch House",
+      "it": "The Grinch House"
+    },
+    "startDate": "2026-12-08",
+    "endDate": "2026-12-08",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „The Grinch House“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“The Grinch House” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “The Grinch House” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6"
     ]
   },
   {
@@ -22876,6 +23134,38 @@
     "image": "https://www.visitrovereto.it/wp-content/uploads/2017/10/Villaggio-di-Natale-di-Camposilvano-2023-Luca-Matassoni.jpg",
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/villaggio-di-camposilvano"
+    ]
+  },
+  {
+    "id": "mamme-in-cerchio-2026-3",
+    "name": {
+      "de": "Mamme in cerchio",
+      "en": "Mamme in cerchio",
+      "it": "Mamme in cerchio"
+    },
+    "startDate": "2026-12-14",
+    "endDate": "2026-12-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mamme in cerchio“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mamme in cerchio” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Mamme in cerchio” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio4"
     ]
   },
   {
@@ -24164,6 +24454,38 @@
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7"
+    ]
+  },
+  {
+    "id": "se-a-natale-in-castello-2027",
+    "name": {
+      "de": "Se a Natale in castello",
+      "en": "Se a Natale in castello",
+      "it": "Se a Natale in castello"
+    },
+    "startDate": "2027-01-03",
+    "endDate": "2027-01-03",
+    "startTime": "10:30",
+    "municipality": "Calavino",
+    "area": "Other Trentino",
+    "venue": "Calavino",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Se a Natale in castello“ in Calavino. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Se a Natale in castello” event in Calavino. See the official event page for the latest details.",
+      "it": "Evento “Se a Natale in castello” a Calavino. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6"
     ]
   },
   {
