@@ -1,32 +1,32 @@
 {
   "protocolVersion": 5,
-  "lastRun": "2026-10-08T10:35:32Z",
+  "lastRun": "2026-10-09T10:33:43Z",
   "overallStatus": "PARTIAL",
   "sources": {
     "visittrentino_all_events": {
       "priority": "P0",
-      "lastScan": "2026-10-08T10:29:06Z",
+      "lastScan": "2026-10-09T10:27:44Z",
       "status": "PARTIAL",
-      "reportedTotal": 461,
-      "recordsSeen": 939,
-      "uniqueCandidates": 955,
+      "reportedTotal": 466,
+      "recordsSeen": 890,
+      "uniqueCandidates": 906,
       "pagesOrBucketsScanned": [
         "https://www.visittrentino.info/it/guida/cosa-fare/eventi"
       ],
       "attachmentsScanned": [],
       "errors": [],
       "notes": [
-        "sitemaps=160, matchingEventUrls=939",
-        "Live index reports 461; sitemap exposes 939 event URLs. AI/date filtering must reconcile the live 12-month set."
+        "sitemaps=160, matchingEventUrls=890",
+        "Live index reports 466; sitemap exposes 890 event URLs. AI/date filtering must reconcile the live 12-month set."
       ]
     },
     "visitrovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-10-08T10:29:55Z",
+      "lastScan": "2026-10-09T10:28:26Z",
       "status": "COMPLETE",
       "reportedTotal": null,
-      "recordsSeen": 79,
-      "uniqueCandidates": 116,
+      "recordsSeen": 80,
+      "uniqueCandidates": 117,
       "pagesOrBucketsScanned": [
         "https://www.visitrovereto.it/vivi/eventi/",
         "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=2",
@@ -44,7 +44,7 @@
     },
     "visitrovereto_estate": {
       "priority": "P0",
-      "lastScan": "2026-10-08T10:30:12Z",
+      "lastScan": "2026-10-09T10:28:41Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 11,
@@ -67,9 +67,9 @@
     },
     "comune_rovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-10-08T10:30:16Z",
+      "lastScan": "2026-10-09T10:28:44Z",
       "status": "PARTIAL",
-      "reportedTotal": 419,
+      "reportedTotal": 428,
       "recordsSeen": 0,
       "uniqueCandidates": 0,
       "pagesOrBucketsScanned": [
@@ -93,18 +93,19 @@
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/340?Order=desc",
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/360?Order=desc",
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/380?Order=desc",
-        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/400?Order=desc"
+        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/400?Order=desc",
+        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/420?Order=desc"
       ],
       "attachmentsScanned": [],
       "errors": [],
       "notes": [
         "sitemaps=2, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=419 uniqueEventUrls=0 searchPages=21/21"
+        "OpenAgenda reconciliation: reported=428 uniqueEventUrls=0 searchPages=22/22"
       ]
     },
     "trentino_cultura_appuntamenti": {
       "priority": "P0",
-      "lastScan": "2026-10-08T10:30:53Z",
+      "lastScan": "2026-10-09T10:29:02Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -123,11 +124,11 @@
     },
     "trentino_cultura_rassegne": {
       "priority": "P0",
-      "lastScan": "2026-10-08T10:30:56Z",
+      "lastScan": "2026-10-09T10:29:04Z",
       "status": "PARTIAL",
       "reportedTotal": null,
-      "recordsSeen": 394,
-      "uniqueCandidates": 450,
+      "recordsSeen": 422,
+      "uniqueCandidates": 479,
       "pagesOrBucketsScanned": [
         "https://www.cultura.trentino.it/Rassegne",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12",
@@ -149,6 +150,8 @@
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/204",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/216",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/228",
+        "https://www.cultura.trentino.it/Rassegne/Paesaggi-Sonori-2026-2027-Musiche-dal-Mondo-in-Valle-dei-Laghi#children",
+        "https://www.cultura.trentino.it/Rassegne/Paesaggi-Sonori-2026-2027-Musiche-dal-Mondo-in-Valle-dei-Laghi#children",
         "https://www.cultura.trentino.it/Rassegne/Palcoscenico-Trentino-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Palcoscenico-Trentino-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-di-Baselga-di-Pine-Stagione-2026-2027#children",
@@ -187,11 +190,11 @@
         "https://www.cultura.trentino.it/Rassegne/RoveretoPOP-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure#children",
         "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure#children",
-        "https://www.cultura.trentino.it/Rassegne/VIVA#children",
-        "https://www.cultura.trentino.it/Rassegne/VIVA#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/20#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/20#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12#children",
+        "https://www.cultura.trentino.it/Rassegne/VIVA#children",
+        "https://www.cultura.trentino.it/Rassegne/VIVA#children",
         "https://www.cultura.trentino.it/Rassegne/Festival-Trento-MusicaAntica-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Festival-Trento-MusicaAntica-2026#children",
         "https://www.cultura.trentino.it/Rassegne/80-Anniversario-dell-Autonomia-Trentina-1946-2026#children",
@@ -214,10 +217,10 @@
         "https://www.cultura.trentino.it/Rassegne/Teatro-Sociale-di-Trento-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Il-Tempo-di-un-Dialogo#children",
         "https://www.cultura.trentino.it/Rassegne/Il-Tempo-di-un-Dialogo#children",
-        "https://www.cultura.trentino.it/Rassegne/Casa-Raphael-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Casa-Raphael-2026#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/24#children",
+        "https://www.cultura.trentino.it/Rassegne/Casa-Raphael-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Casa-Raphael-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Giovani-talenti-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Giovani-talenti-2026#children",
         "https://www.cultura.trentino.it/Rassegne/I-colori-di-Tridentum#children",
@@ -283,16 +286,16 @@
       "errors": [],
       "notes": [
         "Series PDF attachments require AI semantic inspection before completeness can be asserted.",
-        "activeSeries=56 linkedProgrammeEvents=338"
+        "activeSeries=57 linkedProgrammeEvents=365"
       ]
     },
     "garda_trentino_events": {
       "priority": "P0",
-      "lastScan": "2026-10-08T10:32:52Z",
+      "lastScan": "2026-10-09T10:30:58Z",
       "status": "COMPLETE",
-      "reportedTotal": 58,
-      "recordsSeen": 58,
-      "uniqueCandidates": 58,
+      "reportedTotal": 57,
+      "recordsSeen": 57,
+      "uniqueCandidates": 56,
       "pagesOrBucketsScanned": [
         "https://www.gardatrentino.it/en/discover/events",
         "https://www.gardatrentino.it/en/discover/events?page=2",
@@ -308,11 +311,11 @@
     },
     "comune_trento_events": {
       "priority": "P0",
-      "lastScan": "2026-10-08T10:32:58Z",
+      "lastScan": "2026-10-09T10:31:03Z",
       "status": "PARTIAL",
-      "reportedTotal": 3216,
-      "recordsSeen": 2869,
-      "uniqueCandidates": 2869,
+      "reportedTotal": 3233,
+      "recordsSeen": 2883,
+      "uniqueCandidates": 2883,
       "pagesOrBucketsScanned": [
         "https://eventi.comune.trento.it/content/search/?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/20?Order=desc",
@@ -474,18 +477,19 @@
         "https://eventi.comune.trento.it/content/search/%28offset%29/3140?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/3160?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/3180?Order=desc",
-        "https://eventi.comune.trento.it/content/search/%28offset%29/3200?Order=desc"
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3200?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3220?Order=desc"
       ],
       "attachmentsScanned": [],
       "errors": [],
       "notes": [
         "sitemaps=3, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=3216 uniqueEventUrls=2869 searchPages=161/161"
+        "OpenAgenda reconciliation: reported=3233 uniqueEventUrls=2883 searchPages=162/162"
       ]
     },
     "visitfiemme_events": {
       "priority": "P1",
-      "lastScan": "2026-10-08T10:35:19Z",
+      "lastScan": "2026-10-09T10:33:34Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -501,7 +505,7 @@
     },
     "valsugana_events": {
       "priority": "P1",
-      "lastScan": "2026-10-08T10:35:22Z",
+      "lastScan": "2026-10-09T10:33:35Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -517,7 +521,7 @@
     },
     "val_di_non_events": {
       "priority": "P1",
-      "lastScan": "2026-10-08T10:35:23Z",
+      "lastScan": "2026-10-09T10:33:37Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 7,
@@ -533,7 +537,7 @@
     },
     "campiglio_rendena_events": {
       "priority": "P1",
-      "lastScan": "2026-10-08T10:35:27Z",
+      "lastScan": "2026-10-09T10:33:40Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -549,7 +553,7 @@
     },
     "alpe_cimbra_events": {
       "priority": "P1",
-      "lastScan": "2026-10-08T10:35:30Z",
+      "lastScan": "2026-10-09T10:33:42Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 6,
@@ -565,7 +569,7 @@
     }
   },
   "coverageWindow": {
-    "from": "2026-10-08",
+    "from": "2026-10-09",
     "semantics": "rolling-12-month-overlap; raw enumerator may include out-of-window rows for AI resolution"
   },
   "p0Status": {
@@ -579,7 +583,7 @@
     "comune_trento_events": "PARTIAL"
   },
   "summary": {
-    "rawCandidates": 4474
+    "rawCandidates": 4467
   },
   "note": "Deterministic enumeration feeds the AI maintenance pass. PARTIAL means the system must not claim complete coverage."
 }
