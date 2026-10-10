@@ -15822,6 +15822,39 @@
     ]
   },
   {
+    "id": "giornate-fai-d-autunno-2026",
+    "name": {
+      "de": "Giornate FAI d’Autunno",
+      "en": "Giornate FAI d’Autunno",
+      "it": "Giornate FAI d’Autunno"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Avio",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Avio",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Giornate FAI d’Autunno“ in Avio. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Giornate FAI d’Autunno” event in Avio. See the official event page for the latest details.",
+      "it": "Evento “Giornate FAI d’Autunno” a Avio. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/giornate-fai-vallagarina",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/04/Castelli-e-vigneti_lug20_@Matteo-Bruseghini-4.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/giornate-fai-vallagarina"
+    ]
+  },
+  {
     "id": "giro-podistico-internazionale-di-rovereto-2026",
     "name": {
       "de": "Giro podistico internazionale di Rovereto",
@@ -16737,10 +16770,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-05",
+    "verified": "2026-10-10",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
@@ -17074,10 +17108,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-05",
+    "verified": "2026-10-10",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
     ],
@@ -18023,6 +18058,39 @@
     ]
   },
   {
+    "id": "progetto-opera-2026",
+    "name": {
+      "de": "Progetto opera",
+      "en": "Progetto opera",
+      "it": "Progetto opera"
+    },
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-25",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Progetto opera“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Progetto opera” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Progetto opera” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/progetto-opera",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2023/09/teatro-zandonai-foto-di-luca-matassoni-2023-4.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/progetto-opera"
+    ]
+  },
+  {
     "id": "reboro-territorio-passione-2026",
     "name": {
       "de": "Reboro, Territorio & Passione",
@@ -18965,6 +19033,39 @@
     ]
   },
   {
+    "id": "eventi-di-halloween-in-vallagarina-2026",
+    "name": {
+      "de": "Eventi di Halloween in Vallagarina",
+      "en": "Eventi di Halloween in Vallagarina",
+      "it": "Eventi di Halloween in Vallagarina"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Eventi di Halloween in Vallagarina“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Eventi di Halloween in Vallagarina” event in Rovereto. See the official event page for the latest details.",
+      "it": "Evento “Eventi di Halloween in Vallagarina” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2022/10/Halloween_Elisa-Vettori.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina"
+    ]
+  },
+  {
     "id": "giornata-del-riuso-a-ravina-2026",
     "name": {
       "de": "Giornata del riuso a Ravina",
@@ -19216,11 +19317,12 @@
     "price": "See official page",
     "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6",
     "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-09",
+    "verified": "2026-10-10",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6"
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6",
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi7"
     ]
   },
   {
@@ -21028,6 +21130,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "giornate-fai-autunno-2026",
+    "name": {
+      "de": "Giornate Fai Autunno",
+      "en": "Giornate Fai Autunno",
+      "it": "Giornate Fai Autunno"
+    },
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "startTime": "14:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Giornate Fai Autunno“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Giornate Fai Autunno” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Giornate Fai Autunno” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
@@ -23911,6 +24045,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2"
+    ]
+  },
+  {
+    "id": "garbage-ride-walk-2026-2",
+    "name": {
+      "de": "Garbage Ride & Walk",
+      "en": "Garbage Ride & Walk",
+      "it": "Garbage Ride & Walk"
+    },
+    "startDate": "2026-12-21",
+    "endDate": "2026-12-21",
+    "startTime": "14:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Garbage Ride & Walk“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Garbage Ride & Walk” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “Garbage Ride & Walk” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
     ]
   },
   {
