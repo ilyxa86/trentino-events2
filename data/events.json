@@ -15846,12 +15846,13 @@
     "price": "See official page",
     "officialUrl": "https://www.visitrovereto.it/vivi/eventi/giornate-fai-vallagarina",
     "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-10",
+    "verified": "2026-10-11",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "image": "https://www.visitrovereto.it/wp-content/uploads/2017/04/Castelli-e-vigneti_lug20_@Matteo-Bruseghini-4.jpg",
     "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/giornate-fai-vallagarina"
+      "https://www.visitrovereto.it/vivi/eventi/giornate-fai-vallagarina",
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/giornate-fai-d-autunno_e_2774660"
     ]
   },
   {
@@ -16222,6 +16223,39 @@
     ]
   },
   {
+    "id": "rassegna-di-musica-sacra-2026",
+    "name": {
+      "de": "Rassegna di musica sacra",
+      "en": "Rassegna di musica sacra",
+      "it": "Rassegna di musica sacra"
+    },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-11",
+    "startTime": null,
+    "municipality": "Pergine Valsugana",
+    "area": "Other Trentino",
+    "venue": "Pergine Valsugana",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Rassegna di musica sacra“ in Pergine Valsugana. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Rassegna di musica sacra” event in Pergine Valsugana. See the official event page for the latest details.",
+      "it": "Evento “Rassegna di musica sacra” a Pergine Valsugana. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/rassegna-di-musica-sacra_e_136818724",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-10-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/rassegna-di-musica-sacra_136818724/7876967/image-thumb__7876967__moodboard_list/rassegna-di-musica-sacra_136818724_1.d7c35606.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/rassegna-di-musica-sacra_e_136818724"
+    ]
+  },
+  {
     "id": "sapori-d-autunno-2026",
     "name": {
       "de": "Sapori d’autunno",
@@ -16413,10 +16447,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-27",
+    "verified": "2026-10-11",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
@@ -17019,6 +17054,38 @@
     ]
   },
   {
+    "id": "international-chess-tournament-citta-di-arco-2026-7",
+    "name": {
+      "de": "International Chess Tournament Città di Arco",
+      "en": "International Chess Tournament Città di Arco",
+      "it": "International Chess Tournament Città di Arco"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-12-21",
+    "startTime": "15:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „International Chess Tournament Città di Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“International Chess Tournament Città di Arco” event in Arco. See the official event page for the latest details.",
+      "it": "Evento “International Chess Tournament Città di Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
     "id": "la-citta-biblioteca-2026",
     "name": {
       "de": "La Città Biblioteca",
@@ -17119,6 +17186,42 @@
     "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "assetVerified": "2026-10-05"
+  },
+  {
+    "id": "mese-del-gusto-2026-9",
+    "name": {
+      "de": "Mese del Gusto",
+      "en": "Mese del Gusto",
+      "it": "Mese del Gusto"
+    },
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Mese del Gusto“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Mese del Gusto” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Mese del Gusto” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
+    ],
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
+    "assetVerified": "2026-10-11"
   },
   {
     "id": "ram-film-festival-2026",
@@ -18225,6 +18328,38 @@
     ]
   },
   {
+    "id": "divin-ottobre-2026-2",
+    "name": {
+      "de": "DiVin Ottobre",
+      "en": "DiVin Ottobre",
+      "it": "DiVin Ottobre"
+    },
+    "startDate": "2026-10-18",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „DiVin Ottobre“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“DiVin Ottobre” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “DiVin Ottobre” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
+    ]
+  },
+  {
     "id": "festa-della-castagna-2026",
     "name": {
       "de": "Festa della Castagna",
@@ -18255,6 +18390,38 @@
     "image": "https://www.visitrovereto.it/wp-content/uploads/2020/10/Castagne_Luca-Matassoni-3.png",
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/festa-castagna-castione"
+    ]
+  },
+  {
+    "id": "grasparola-2026-2",
+    "name": {
+      "de": "Grasparola",
+      "en": "Grasparola",
+      "it": "Grasparola"
+    },
+    "startDate": "2026-10-18",
+    "endDate": "2026-12-28",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Grasparola“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Grasparola” event in Riva del Garda. See the official event page for the latest details.",
+      "it": "Evento “Grasparola” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
   {
@@ -20302,6 +20469,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events"
+    ]
+  },
+  {
+    "id": "in-cammino-con-il-museo-2026-2",
+    "name": {
+      "de": "In cammino con il museo",
+      "en": "In cammino con il museo",
+      "it": "In cammino con il museo"
+    },
+    "startDate": "2026-10-31",
+    "endDate": "2026-10-31",
+    "startTime": "14:00",
+    "municipality": "Fiave",
+    "area": "Other Trentino",
+    "venue": "Fiave",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „In cammino con il museo“ in Fiave. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“In cammino con il museo” event in Fiave. See the official event page for the latest details.",
+      "it": "Evento “In cammino con il museo” a Fiave. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2"
     ]
   },
   {
@@ -24715,10 +24914,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-07",
+    "verified": "2026-10-11",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3"
     ]
   },
