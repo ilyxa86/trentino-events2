@@ -18290,10 +18290,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-05",
+    "verified": "2026-10-13",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -18462,6 +18463,39 @@
     "image": "https://www.visitrovereto.it/wp-content/uploads/2020/10/Castagne_Luca-Matassoni-3.png",
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/festa-castagna-castione"
+    ]
+  },
+  {
+    "id": "foliage-al-lago-di-cei-2026",
+    "name": {
+      "de": "Foliage al Lago di Cei",
+      "en": "Foliage al Lago di Cei",
+      "it": "Foliage al Lago di Cei"
+    },
+    "startDate": "2026-10-18",
+    "endDate": "2026-10-18",
+    "startTime": null,
+    "municipality": "Villa Lagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Villa Lagarina",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Foliage al Lago di Cei“ in Villa Lagarina. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Foliage al Lago di Cei” event in Villa Lagarina. See the official event page for the latest details.",
+      "it": "Evento “Foliage al Lago di Cei” a Villa Lagarina. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-13",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2023/10/Foliage-al-Lago-di-Cei-Tommaso-Prugnola.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina"
     ]
   },
   {
@@ -21420,10 +21454,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-05",
+    "verified": "2026-10-13",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=9"
@@ -25096,11 +25131,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
+    "verified": "2026-10-13",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9"
     ]
