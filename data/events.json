@@ -17812,6 +17812,38 @@
     ]
   },
   {
+    "id": "fondazione-trentino-abitare-2026",
+    "name": {
+      "de": "Fondazione Trentino abitare",
+      "en": "Fondazione Trentino abitare",
+      "it": "Fondazione Trentino abitare"
+    },
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Fondazione Trentino abitare“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Fondazione Trentino abitare” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Fondazione Trentino abitare” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Fondazione-Trentino-abitare",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Fondazione-Trentino-abitare"
+    ]
+  },
+  {
     "id": "mercato-del-giovedi-2026-8",
     "name": {
       "de": "Mercato del giovedì",
@@ -18034,6 +18066,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty"
+    ]
+  },
+  {
+    "id": "padre-fabrizio-forti-intitolazione-piazzale-carcere-di-trento-2026",
+    "name": {
+      "de": "Padre Fabrizio Forti - intitolazione piazzale carcere di Trento",
+      "en": "Padre Fabrizio Forti - intitolazione piazzale carcere di Trento",
+      "it": "Padre Fabrizio Forti - intitolazione piazzale carcere di Trento"
+    },
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Padre Fabrizio Forti - intitolazione piazzale carcere di Trento“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Padre Fabrizio Forti - intitolazione piazzale carcere di Trento” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Padre Fabrizio Forti - intitolazione piazzale carcere di Trento” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento"
     ]
   },
   {
@@ -18285,10 +18349,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-12",
+    "verified": "2026-10-15",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
     ],
@@ -19215,6 +19280,38 @@
     ]
   },
   {
+    "id": "bambu-di-roberto-castello-2026",
+    "name": {
+      "de": "Bambu di Roberto Castello",
+      "en": "Bambu di Roberto Castello",
+      "it": "Bambu di Roberto Castello"
+    },
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Bambu di Roberto Castello“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Bambu di Roberto Castello” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Bambu di Roberto Castello” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello"
+    ]
+  },
+  {
     "id": "ciclo-di-incontri-a-tema-salute-e-prevenzione-2026-2",
     "name": {
       "de": "Ciclo di incontri a tema salute e prevenzione",
@@ -19372,6 +19469,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale55"
+    ]
+  },
+  {
+    "id": "storie-da-brivido-2026",
+    "name": {
+      "de": "Storie da brivido",
+      "en": "Storie da brivido",
+      "it": "Storie da brivido"
+    },
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Storie da brivido“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Storie da brivido” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Storie da brivido” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Storie-da-brivido",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Storie-da-brivido"
     ]
   },
   {
@@ -20102,6 +20231,38 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta11",
       "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta12"
+    ]
+  },
+  {
+    "id": "presentazione-libro-111-luoghi-di-trento-che-devi-proprio-scoprire-2026",
+    "name": {
+      "de": "Presentazione libro 111 luoghi di Trento che devi proprio scoprire",
+      "en": "Presentazione libro 111 luoghi di Trento che devi proprio scoprire",
+      "it": "Presentazione libro 111 luoghi di Trento che devi proprio scoprire"
+    },
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Presentazione libro 111 luoghi di Trento che devi proprio scoprire“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Presentazione libro 111 luoghi di Trento che devi proprio scoprire” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Presentazione libro 111 luoghi di Trento che devi proprio scoprire” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-111-luoghi-di-Trento-che-devi-proprio-scoprire",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Presentazione-libro-111-luoghi-di-Trento-che-devi-proprio-scoprire"
     ]
   },
   {
@@ -21300,6 +21461,38 @@
     ]
   },
   {
+    "id": "osservato-speciale-piene-e-magre-dell-adige-a-trento-dal-1862-ad-oggi-2026",
+    "name": {
+      "de": "Osservato speciale. Piene e magre dell’Adige a Trento dal 1862 ad oggi",
+      "en": "Osservato speciale. Piene e magre dell’Adige a Trento dal 1862 ad oggi",
+      "it": "Osservato speciale. Piene e magre dell’Adige a Trento dal 1862 ad oggi"
+    },
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Osservato speciale. Piene e magre dell’Adige a Trento dal 1862 ad oggi“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Osservato speciale. Piene e magre dell’Adige a Trento dal 1862 ad oggi” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Osservato speciale. Piene e magre dell’Adige a Trento dal 1862 ad oggi” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Osservato-speciale.-Piene-e-magre-dell-Adige-a-Trento-dal-1862-ad-oggi",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Osservato-speciale.-Piene-e-magre-dell-Adige-a-Trento-dal-1862-ad-oggi"
+    ]
+  },
+  {
     "id": "alla-scoperta-di-trento-2026-11",
     "name": {
       "de": "Alla scoperta di Trento",
@@ -22302,6 +22495,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante54"
+    ]
+  },
+  {
+    "id": "pomeriggi-di-giochi-da-tavolo-2026",
+    "name": {
+      "de": "Pomeriggi di giochi da tavolo",
+      "en": "Pomeriggi di giochi da tavolo",
+      "it": "Pomeriggi di giochi da tavolo"
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Pomeriggi di giochi da tavolo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Pomeriggi di giochi da tavolo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Pomeriggi di giochi da tavolo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pomeriggi-di-giochi-da-tavolo7",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Pomeriggi-di-giochi-da-tavolo7"
     ]
   },
   {
@@ -24629,6 +24854,38 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante59"
+    ]
+  },
+  {
+    "id": "pomeriggi-di-giochi-da-tavolo-2026-2",
+    "name": {
+      "de": "Pomeriggi di giochi da tavolo",
+      "en": "Pomeriggi di giochi da tavolo",
+      "it": "Pomeriggi di giochi da tavolo"
+    },
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "de": "Veranstaltung „Pomeriggi di giochi da tavolo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
+      "en": "“Pomeriggi di giochi da tavolo” event in Trento. See the official event page for the latest details.",
+      "it": "Evento “Pomeriggi di giochi da tavolo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+    },
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pomeriggi-di-giochi-da-tavolo9",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Pomeriggi-di-giochi-da-tavolo9"
     ]
   },
   {
