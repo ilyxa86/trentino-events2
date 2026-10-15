@@ -8,7 +8,7 @@ Existing curated events are preserved and enriched rather than replaced.
 """
 from __future__ import annotations
 
-from event_descriptions import description_from_record, substantive
+from event_descriptions import description_from_record, substantive, valid_event_title
 
 import calendar
 import json
@@ -276,6 +276,9 @@ def main() -> None:
     # Preserve manually curated records, while making German available where it was missing.
     for e in events:
         nm = display_name(e)
+        if e.get("discoveredVia")=="coverage_backfill" and not valid_event_title(nm):
+            e["status"]="REMOVED"
+            e["removalReason"]="Calendar navigation item, not an event"
         if isinstance(e.get("name"), dict) and nm:
             e["name"].setdefault("de", nm)
 
@@ -283,7 +286,7 @@ def main() -> None:
     for r in payload.get("records") or []:
         title = clean(r.get("title"))
         raw = clean(r.get("rawText"))
-        if not title or len(title) < 2:
+        if not valid_event_title(title) or len(title) < 2:
             continue
         dates = parse_range(raw, run_day.year)
         if not dates:

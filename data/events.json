@@ -17012,13 +17012,14 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/it/eventi/festa-della-noce_49041",
+    "officialUrl": "https://www.gardatrentino.it/it/eventi/festa-del-latte_69895",
     "source": "Garda Trentino - events",
     "verified": "2026-10-06",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/it/eventi/festa-del-latte_69895",
       "https://www.gardatrentino.it/it/eventi/festa-della-noce_49041"
     ],
     "descriptionSources": {
@@ -20053,7 +20054,9 @@
     "category": "Family & Culture",
     "status": null,
     "confirmed": true,
-    "description": {},
+    "description": {
+      "it": "Letture per bambini e bambine dai 3 ai 6 anni"
+    },
     "organizer": null,
     "price": "See official page",
     "officialUrl": "https://eventi.comune.trento.it/Eventi/Storie-da-brivido",
@@ -20064,9 +20067,12 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Storie-da-brivido"
     ],
-    "descriptionStatus": "missing",
+    "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
+    "assetVerified": "2026-10-15",
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Storie-da-brivido"
+    }
   },
   {
     "id": "50-anniversario-della-croce-bianca-di-trento-2026",
@@ -20161,9 +20167,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“Il Concorso – Premio Mario Roat”, si svolge nei mesi di: ottobre, novembre e dicembre, in orario serale, presso il Teatro “S. Marco” di Trento.",
-      "de": "Der Wettbewerb „Il Concorso – Premio Mario Roat“ findet an Abenden in den Monaten Oktober bis Dezember im Teatro S. Marco von Trento statt und präsentiert Bühnenbeiträge im Rahmen einer Serienveranstaltung. Das Format setzt auf regelmäßige Aufführungen, die Teil des Preises und Wettbewerbs sind, und bietet dem Publikum abwechslungsreiche Theaterabende.",
-      "en": "The competition “Il Concorso – Premio Mario Roat” takes place in evening sessions across October, November and December at Teatro S. Marco in Trento, featuring theatrical presentations as part of the prize series. The format stages recurring performances as entries to the competition, giving audiences a program of varied evening theatre events."
+      "it": "\"Coppie scoppiate\" di Derek Benfield – traduzione di Maria Teresa Petruzzi (per gentile concessione della Mtp Associati Srls – Roma) - Gruppo teatrale \"I Sottotesto\" aps di Nogaredo Un sipario che non si apre costringe Henry, attore di teatro, a tornare inaspettatamente a casa. Al rientro non trova la moglie Georgina ma la vicina di casa, Rachel, in compagnia di un impacciato giovanotto."
     },
     "organizer": null,
     "price": "See official page",
@@ -20175,13 +20179,11 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate"
     ],
-    "descriptionStatus": "complete",
+    "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate",
-      "de": "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate",
-      "en": "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate"
+      "it": "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate"
     }
   },
   {
@@ -21925,9 +21927,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“Il Concorso – Premio Mario Roat”, si svolge nei mesi di: ottobre, novembre e dicembre, in orario serale, presso il Teatro “S. Marco” di Trento.",
-      "de": "Die Veranstaltung ist Teil des Wettbewerbs »Premio Mario Roat«, der in den Herbstmonaten in den Abendstunden im Teatro S. Marco stattfindet. Besucher erleben Theateraufführungen des Wettbewerbsformats, das jungen Ensembles und Produktionen Raum bietet und die lokale Theaterszene im Rahmen der Oktober–Dezember-Reihe präsentiert.",
-      "en": "This event belongs to the contest series “Premio Mario Roat,” held in evening sessions during October to December at Teatro S. Marco. Audiences can expect theatrical presentations within the competition framework, which showcases emerging companies and productions and spotlights the local theatre scene across the autumn months."
+      "it": "\"L'equivoco\" di Roberto Giacomozzi - Filo di Tesero \"Lucio Deflorian\" aps Quando, per ristrutturare la propria residenza e far fronte alle spese impreviste, si è costretti non solo ad abitare in affitto, ma anche a cercare un inquilino con cui dividere l’appartamento, qualche problema si può sempre verificare. Ma se l’agenzia incaricata, per un banale equivoco, scatenasse una serie di eventi nella casa tali da mettere a repentaglio la propria reputazione?"
     },
     "organizer": null,
     "price": "See official page",
@@ -21939,13 +21939,11 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/L-equivoco"
     ],
-    "descriptionStatus": "complete",
+    "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/L-equivoco",
-      "de": "https://eventi.comune.trento.it/Eventi/L-equivoco",
-      "en": "https://eventi.comune.trento.it/Eventi/L-equivoco"
+      "it": "https://eventi.comune.trento.it/Eventi/L-equivoco"
     }
   },
   {
@@ -22660,7 +22658,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“Il Concorso – Premio Mario Roat”, si svolge nei mesi di: ottobre, novembre e dicembre, in orario serale, presso il Teatro “S. Marco” di Trento."
+      "it": "\"L'importanza de ciamarse Onesto\" di Beniamino Sala - Gruppo Amici del teatro aps di Serravalle di Oscar Wilde – traduzione dialettale di Beniamino Sala"
     },
     "organizer": null,
     "price": "See official page",
@@ -23077,7 +23075,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Accademia Perduta/Romagna Teatri Età consigliata: 3 – 10 anni | scuola dell’infanzia e scuola primaria C’era una volta una gallinella rossa che viveva in una fattoria con i suoi pulcini… Un giorno la gallinella rossa stava razzolando alla ricerca di cibo, quando trovò dei chicchi di grano. Così le venne in mente un’idea…"
     },
     "organizer": null,
     "price": "See official page",
@@ -23732,7 +23730,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“Il Concorso – Premio Mario Roat”, si svolge nei mesi di: ottobre, novembre e dicembre, in orario serale, presso il Teatro “S. Marco” di Trento."
+      "it": "\"Un'incauta lettera d'amore\" di Michele Pandini - Associazione \"LupusinFabula\" aps di Volano Un incauto signorotto, prima di partire per il fronte, scrive una lettera … anzi un’incauta lettera e per di più d’amore."
     },
     "organizer": null,
     "price": "See official page",
@@ -23895,9 +23893,9 @@
     "status": null,
     "confirmed": true,
     "description": {
+      "it": "Evento “Vai via” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati.",
       "de": "Veranstaltung „Vai via“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Vai via” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Vai via” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "en": "“Vai via” event in Trento. See the official event page for the latest details."
     },
     "organizer": null,
     "price": "See official page",
@@ -23908,7 +23906,12 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Vai-via"
-    ]
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Vai-via"
+    },
+    "descriptionStatus": "partial",
+    "descriptionVerified": "2026-10-15"
   },
   {
     "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026-2",
@@ -23967,9 +23970,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda.",
-      "de": "Das Projekt „La scuola va a teatro“ verwandelt das Theater in einen alternativen Klassenraum und richtet sich an Schüler aller Altersstufen, um ihren Bildungsweg durch künstlerische Aufführungen zu bereichern. Die Veranstaltung verbindet Kultur und Pädagogik, vermittelt musikalisch-theatrale Inhalte und bietet Lernende neue Zugänge zur Geschichte des Rock im Rahmen schulischer Bildung.",
-      "en": "Part of the “La scuola va a teatro” project, this theatre initiative brings students of all ages into a performative learning environment to enrich their education through the arts. The programme uses theatrical and musical experiences to offer pupils new perspectives on topics such as the history of rock within an educational framework."
+      "it": "Flexus Band – associazione Caotica Musique Da 11 anni | scuole secondarie Attenzione il costo del singolo biglietto di questo spettacolo è di 9 euro."
     },
     "organizer": null,
     "price": "See official page",
@@ -23982,13 +23983,11 @@
       "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1",
       "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1-replica"
     ],
-    "descriptionStatus": "complete",
+    "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1",
-      "de": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1",
-      "en": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1"
+      "it": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1"
     }
   },
   {
@@ -24125,7 +24124,7 @@
     "area": "Rovereto & Vallagarina",
     "venue": "Rovereto",
     "category": "Other",
-    "status": null,
+    "status": "REMOVED",
     "confirmed": true,
     "description": {
       "de": "Veranstaltung „<<“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
@@ -24141,7 +24140,8 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=1&lang=it"
-    ]
+    ],
+    "removalReason": "Calendar navigation item, not an event"
   },
   {
     "id": "trento-christmas-2026",
@@ -24535,7 +24535,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“Il Concorso – Premio Mario Roat”, si svolge nei mesi di: ottobre, novembre e dicembre, in orario serale, presso il Teatro “S. Marco” di Trento."
+      "it": "\"Na malga… par doe - Stavolta el malgar l'ha ciapà na 'ncavicià\" di e con Filodrammatica Telve aps Per un errore del Comune, due malgari con idee molto diverse ma un passato in comune, si ritrovano a dover gestire la stessa malga…"
     },
     "organizer": null,
     "price": "See official page",
@@ -24653,7 +24653,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia: Goccia Aps Età consigliata: 4-10 anni | scuola dell’infanzia e scuola primaria Frankie, un pesce molto protettivo, parte alla ricerca di suo figlio Fiero, un piccolo pesce curioso con una pinna atrofica. Aiutato dalla smemorata Debbie, attraverserà tutto l’oceano, tra squali e meduse, in una storia di coraggio, amicizia e famiglia."
     },
     "organizer": null,
     "price": "See official page",
@@ -24689,7 +24689,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia: Arione De Falco Età consigliata 11+ | scuola secondaria di primo e secondo grado Storia di un No racconta di Martina che ha: quattordici anni, una pianta carnivora di nome Yvonne e delle cuffiette bianche. Martina non ha vestiti firmati, non ha il motorino e non ha la mamma."
     },
     "organizer": null,
     "price": "See official page",
@@ -24869,7 +24869,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“Il Concorso – Premio Mario Roat”, si svolge nei mesi di: ottobre, novembre e dicembre, in orario serale, presso il Teatro “S. Marco” di Trento."
+      "it": "Serata finale e delle premiazioni con spettacolo fuori Concorso \"Antropocene e altri poeti\" Un progetto Fratelli Dalla Via e Favilla Lab di e con Marta e Diego Dalla Via Produzione La Piccionaia Centro di Produzione Teatrale"
     },
     "organizer": null,
     "price": "See official page",
@@ -25288,7 +25288,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia La piccionaia scs Centro di produzione teatrale età 3-8 anni | Infanzia e Primaria Il narratore, il nonno Gianni, parla di una bambina che nessuno a scuola vuole vicino a sé e per farle capire che potrà conquistarsi un posto assieme agli altri suoi compagni narra la storia di Celeste che i colori dell’arcobaleno non volevano."
     },
     "organizer": null,
     "price": "See official page",
@@ -26106,7 +26106,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia AriaTeatro Ets Età consigliata: 3-5 anni | scuola primaria “The Last Polar Bears” è un epistolario per l’infanzia scritto nel 1993 da Harry Horse, autore, illustratore e cartoonist anglosassone. Il racconto venne originariamente ideato ripercorrendo alcune lettere scritte dal nonno paterno dell’autore."
     },
     "organizer": null,
     "price": "See official page",
@@ -27883,7 +27883,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Il teatro delle quisquilie Età consigliata: 3-9 anni | scuola dell’infanzia e scuola primaria Fragolina vive felice tra muschi, licheni, alberi, animali e altre piante del sottobosco. La vita scorre tranquilla."
     },
     "organizer": null,
     "price": "See official page",
@@ -28098,7 +28098,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Le strologhe Età consigliata: 4+ | scuola dell’infanzia e scuola primaria Temis ed Ines, cominciano l’ennesima preparazione in cucina. Amano molto il loro mestiere di cuoche, ma sono annoiate, perché vengono richiesti loro sempre gli stessi piatti."
     },
     "organizer": null,
     "price": "See official page",
@@ -28134,7 +28134,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Il teatro delle quisquilie Età consigliata: 4-9 anni | scuola dell’infanzia e scuola primaria Disponibile traduzione in Caa Traduzione in Lis – lingua dei segni"
     },
     "organizer": null,
     "price": "See official page",
@@ -28197,9 +28197,9 @@
     "status": null,
     "confirmed": true,
     "description": {
+      "it": "Evento “Via Pál” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati.",
       "de": "Veranstaltung „Via Pál“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Via Pál” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Via Pál” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "en": "“Via Pál” event in Trento. See the official event page for the latest details."
     },
     "organizer": null,
     "price": "See official page",
@@ -28210,7 +28210,12 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Via-Pal"
-    ]
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Via-Pal"
+    },
+    "descriptionStatus": "partial",
+    "descriptionVerified": "2026-10-15"
   },
   {
     "id": "fuoristagione-musica-2027",
@@ -28264,7 +28269,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Bottega Buffa CircoVacanti Età consigliata: 5-10 anni | Scuola dell’infanzia e scuola primaria Il principe non riesce più a ridere e solo un’impresa straordinaria potrà restituirgli la felicità. Il suo fedele servitore Zane parte così alla ricerca delle tre melarance, affrontando un viaggio ricco di magie, personaggi stravaganti e prove da superare."
     },
     "organizer": null,
     "price": "See official page",
@@ -28300,7 +28305,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Progetto GG Età consigliata: 3-8 anni | Scuola dell’infanzia e scuola primaria Lo spettacolo racconta la storia di Rosaluna, abitante del Paese dei Noncontenti, che un giorno inizia a cantare, e viola una regola imposta dal Sindaco, e poi ancora e ancora, fino a ritrovarsi dall’altra parte, dove “non ci si va”. E in questo andare, compie un viaggio Rosaluna, per poi infine brillare in un mondo nuovo, in un modo nuovo."
     },
     "organizer": null,
     "price": "See official page",
@@ -28336,7 +28341,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Età consigliata: 11+ | Scuola secondaria di primo e secondo grado Lo spettacolo racconta la storia di Alfonsina Morini Strada, la prima e unica donna a correre nel 1924 il Giro d’Italia insieme agli uomini, in un’epoca in cui lo sport era prettamente maschile. Attraverso la narrazione, la musica dal vivo e i video seguiamo la sua storia di emancipazione e coraggio: Alfonsina apre la strada alle donne nello sport e conquista, tappa dopo tappa, la sua libertà e l’affetto popolare."
     },
     "organizer": null,
     "price": "See official page",
@@ -28372,7 +28377,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Età consigliata: 11+ | Scuola secondaria di primo e secondo grado Lo spettacolo racconta la storia di Alfonsina Morini Strada, la prima e unica donna a correre nel 1924 il Giro d’Italia insieme agli uomini, in un’epoca in cui lo sport era prettamente maschile. Attraverso la narrazione, la musica dal vivo e i video seguiamo la sua storia di emancipazione e coraggio: Alfonsina apre la strada alle donne nello sport e conquista, tappa dopo tappa, la sua libertà e l’affetto popolare."
     },
     "organizer": null,
     "price": "See official page",
@@ -28408,7 +28413,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Teatro Gioco Vita Età consigliata: 3-7 anni | Scuola dell’infanzia e scuola primaria Un piccolo foro nel muro cambia la vita di Anna, che scopre come, dall’altra parte della sua stanza, viva Jan. Da quell’incontro inaspettato nasce un dialogo fatto di gioco, curiosità e immaginazione, che trasforma un confine in un ponte."
     },
     "organizer": null,
     "price": "See official page",
@@ -28481,7 +28486,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Teatro di carta Età consigliata: 14+ | Scuola secondaria di secondo grado | Aperto al pubblico Un viaggio per frammenti e immagini dentro l’incubo della trincea, che un’intera generazione, senza possibilità di scelta, fu costretta a vivere tra terrore e tormenti, prima di venire rasa al suolo dalle mitragliatrici."
     },
     "organizer": null,
     "price": "See official page",
@@ -28517,7 +28522,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Teatro di carta Età consigliata: 14+ | Scuola secondaria di secondo grado | Aperto al pubblico Un viaggio per frammenti e immagini dentro l’incubo della trincea, che un’intera generazione, senza possibilità di scelta, fu costretta a vivere tra terrore e tormenti, prima di venire rasa al suolo dalle mitragliatrici."
     },
     "organizer": null,
     "price": "See official page",
@@ -28553,7 +28558,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Gli alcuni Età consigliata: 3-8 anni | Scuola dell’infanzia e scuola primaria Fata Corolla è stanca dei dispetti di Fata Valeriana e del gatto Otto. Quando la rabbia prende il sopravvento, compare una misteriosa caffettiera capace di aiutarla a comprendere ciò che sta provando."
     },
     "organizer": null,
     "price": "See official page",
@@ -28589,7 +28594,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Teatro la Ribalta-Kunst der Vielfalt Età consigliata: 13+ | Scuola secondaria di secondo grado Attenzione costo del biglietto singolo 9,00 euro"
     },
     "organizer": null,
     "price": "See official page",
@@ -28659,7 +28664,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "Compagnia Rifiuti Speciali Età consigliata: 14+ | Scuola secondaria di secondo grado Un viaggio teatrale alla scoperta della figura di Tina Modotti, artista, fotografa e protagonista dell’antifascismo internazionale. Attraverso parole, documenti e riflessioni, lo spettacolo ripercorre le molte vite di una donna che ha scelto di mettere la propria arte e il proprio impegno al servizio della libertà."
     },
     "organizer": null,
     "price": "See official page",
@@ -28695,9 +28700,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda.",
-      "de": "Als Teil des Projekts „Die Schule geht ins Theater“ richtet sich diese Aufführung an Schülerinnen und Schüler aller Altersstufen und verwandelt das Theater in einen alternativen Lernraum. Besucher erleben ein künstlerisch-didaktisches Bühnenstück, das kulturelle Themen mit Bildungszielen verbindet und junge Menschen mit neuen Perspektiven auf Gesellschaft und Kunst vertraut macht.",
-      "en": "Presented within the “School goes to the theatre” initiative, this performance is aimed at students of all ages and turns the stage into an alternative classroom. Attendees encounter a culturally rich, educational theatre experience designed to complement school learning and stimulate critical reflection on social and artistic themes."
+      "it": "Compagnia Flexus Band – associazione Caotica Musique Da 11 anni | scuole secondarie Attenzione il costo del singolo biglietto singolo è di 9.00 euro"
     },
     "organizer": null,
     "price": "See official page",
@@ -28710,13 +28713,11 @@
       "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-2",
       "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22"
     ],
-    "descriptionStatus": "complete",
+    "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22",
-      "de": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22",
-      "en": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22"
+      "it": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22"
     }
   },
   {
@@ -28736,9 +28737,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda.",
-      "de": "Im Rahmen des Projekts „Die Schule geht ins Theater“ richtet sich dieses Ereignis an Schülerinnen und Schüler aller Altersgruppen und nutzt das Theater als ergänzenden Bildungsort. Besucher erleben ein pädagogisch ausgerichtetes Bühnenprogramm, das künstlerische Erlebnisse mit Lernzielen verknüpft und Reflexionen über persönliche und gesellschaftliche Themen anregt.",
-      "en": "Part of the “School goes to the theatre” programme, this event is designed for students across age groups and uses the theatre space as a complementary educational environment. Pupils experience a pedagogical stage production that blends artistic engagement with curricular aims, encouraging reflection on personal and social issues through performance."
+      "it": "Compagnia Meridiani Perduti Teatro | Factory Compagnia Transadriatica Età consigliata: 12+ | Scuola secondaria di primo e secondo grado Disponibile materiale di approfondimento"
     },
     "organizer": null,
     "price": "See official page",
@@ -28750,13 +28749,11 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese"
     ],
-    "descriptionStatus": "complete",
+    "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese",
-      "de": "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese",
-      "en": "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese"
+      "it": "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese"
     }
   },
   {

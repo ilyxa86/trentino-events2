@@ -1,7 +1,7 @@
 {
   "checkedAt": "2026-10-15",
   "currentEvents": 354,
-  "complete": 178,
+  "complete": 173,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -438,8 +438,21 @@
       "id": "storie-da-brivido-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
+      ]
+    },
+    {
+      "id": "50-anniversario-della-croce-bianca-di-trento-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "coppie-scoppiate-2026",
+      "languages": [
+        "de",
+        "en"
       ]
     },
     {
@@ -472,6 +485,13 @@
         "de",
         "en",
         "it"
+      ]
+    },
+    {
+      "id": "l-equivoco-2026",
+      "languages": [
+        "de",
+        "en"
       ]
     },
     {
@@ -667,11 +687,10 @@
       ]
     },
     {
-      "id": "event-2026",
+      "id": "la-storia-del-rock-1-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1285,6 +1304,20 @@
     },
     {
       "id": "mi-chiamavano-tina-2027",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "la-storia-del-rock-2-2027",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "la-stanza-di-agnese-2027",
       "languages": [
         "de",
         "en"

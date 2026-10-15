@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import json
 import re
+import unicodedata
 from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
@@ -21,6 +22,10 @@ PLACEHOLDER = re.compile(
 
 def clean(value):
     return re.sub(r"\s+", " ", str(value or "")).strip()
+
+
+def valid_event_title(value):
+    return bool(clean(value)) and any(c.isalnum() for c in clean(value))
 
 
 def substantive(value):
@@ -104,12 +109,26 @@ def extract_description(sp):
 
     # The body intro is usually richer than SEO copy. These containers exclude
     # booking forms, navigation, calendars and related-event lists.
-    for selector in [".descrizione", "article.primary .desc", "article.it-page-section", '[itemprop="description"]',
+    for selector in [".descrizione", "article.primary .desc", "article.it-page-section", ".col-lg-8.px-lg-4.py-lg-2 > .clearfix", '[itemprop="description"]',
                      ".event-description", ".event__description", ".description-text"]:
         container = sp.select_one(selector)
         if not container:
             continue
-        paragraphs = [clean(p.get_text(" ", strip=True)) for p in container.select("p")]
+        blocks = container.find_all(["h2", "h3", "h4", "p"])
+        title = clean(sp.h1.get_text(" ", strip=True)) if sp.h1 else ""
+        # Programme/series introductions often precede the actual play. Start
+        # at the event's own heading before selecting its synopsis.
+        def title_key(value):
+            value = "".join(c for c in unicodedata.normalize("NFKD", value) if not unicodedata.combining(c)).casefold()
+            return re.sub(r"[^a-z0-9]+", " ", value).strip()
+        core = re.split(r"\s*[-|]\s*(?:replica|scuola)", title, flags=re.I)[0]
+        key = title_key(core)
+        if key:
+            for i, block in enumerate(blocks):
+                if key in title_key(block.get_text(" ", strip=True)):
+                    blocks = blocks[i:]
+                    break
+        paragraphs = [clean(p.get_text(" ", strip=True)) for p in blocks if p.name == "p"]
         paragraphs = [p for p in paragraphs if substantive(p)]
         description = summarize(" ".join(paragraphs[:2]) if paragraphs else container.get_text(" ", strip=True))
         if description:

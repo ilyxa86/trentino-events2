@@ -8,6 +8,15 @@ from merge_summary_updates import merge_summaries
 
 
 class MergeTest(unittest.TestCase):
+    def test_updated_source_copy_invalidates_in_flight_translations(self):
+        base = [{'id': 'play', 'description': {'it': 'A shared school theatre programme offers educational performances for pupils of all ages.'}}]
+        generated = copy.deepcopy(base)
+        generated[0]['description']['en'] = 'The shared theatre series combines performances and educational activities for pupils.'
+        latest = copy.deepcopy(base)
+        latest[0]['description']['it'] = 'Two actors adapt a novel about friendship and loyalty into a performance about a contested playground.'
+        merged = merge_summaries(base, generated, latest)[0]
+        self.assertNotIn('en', merged['description'])
+
     def test_concurrent_data_and_curated_text_are_preserved(self):
         base = [{'id': 'walk', 'name': {'it': 'Walk'}, 'startDate': '2026-10-20',
                  'endDate': '2026-10-20', 'venue': 'Old venue', 'description': {}}]

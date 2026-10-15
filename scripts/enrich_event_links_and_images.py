@@ -77,7 +77,13 @@ def similarity(name,text):
     overlap=(len(aw & bw)/max(1,len(aw))) if aw else 0
     return max(base,overlap)
 def concrete_match(name,sp,final):
+    heading=sp.find("h1")
+    if heading and norm(heading.get_text(" ",strip=True))==norm(name):return True
     ident=page_identity(sp)
+    common={"festa","festival","mostra","evento","eventi","event","della","delle","degli","dello","dalla","dalle","alla","alle","with","from"}
+    distinctive={t for t in norm(name).split() if len(t)>=4 and t not in common}
+    heading_tokens=set(norm(ident).split())
+    if distinctive and len(distinctive & heading_tokens)/len(distinctive)<.65:return False
     sc=similarity(name,ident)
     path=norm(urlparse(final).path.replace("/"," "))
     title_tokens=[x for x in norm(name).split() if len(x)>=4]
@@ -198,23 +204,42 @@ def main():
         if end<today or start>horizon:return False
         name=display_name(e)
         if not name:return False
+        source_copy_cleared=False
+        # Older extracts may contain a shared series preamble. These are
+        # automatic source copies, so curated descriptions without provenance
+        # remain untouched while the actual play synopsis is fetched again.
+        italian=(e.get("description") or {}).get("it","")
+        if e.get("descriptionSources") and re.search(r"La scuola va a teatro|Il Concorso.+Premio Mario Roat",italian,re.I) and not re.search(r"scuola va a teatro|premio mario roat",name,re.I):
+            for lang in list(e["descriptionSources"]):
+                (e.get("description") or {}).pop(lang,None)
+            e["descriptionSources"]={}
+            e["descriptionStatus"]="missing"
+            source_copy_cleared=True
         current=clean(e.get("officialUrl"))
         need_link=not current or general_url(current)
         current_img=clean(e.get("image"))
         need_img=(not current_img) or "images.unsplash.com" in current_img
         descriptions=e.get("description") or {}
-        need_summary=not all(substantive(descriptions.get(lang)) for lang in ("de","en","it"))
+        need_summary=bool(e.get("descriptionSources")) or not all(substantive(descriptions.get(lang)) for lang in ("de","en","it"))
         if not need_link and not need_img and not need_summary:return False
 
         urls=candidate_urls(e)
         resolved=None
         resolved_sp=None
         resolved_from_child=False
+        mismatched_source=False
 
         # First inspect existing candidate URLs.
         for u in urls:
             sp,final,_=fetch(u)
             if not sp:continue
+            heading=sp.find("h1")
+            if u==current and not general_url(final) and heading and not concrete_match(name,sp,final) and e.get("descriptionSources"):
+                # Require a contradictory title in the same naming pattern;
+                # a translated heading alone does not invalidate good copy.
+                heading_name=norm(heading.get_text(" ",strip=True)).split()
+                event_name=norm(name).split()
+                mismatched_source=bool(heading_name and event_name and heading_name[0]==event_name[0])
             if not general_url(final) and concrete_match(name,sp,final):
                 resolved=canonical(sp,final); resolved_sp=sp; break
             # General listing page: search for a matching child detail page.
@@ -231,11 +256,18 @@ def main():
                     if sp and not general_url(final) and concrete_match(name,sp,final):
                         resolved=canonical(sp,final);resolved_sp=sp;resolved_from_child=True;break
                 if resolved:break
-        if not resolved:return False
+        if not resolved:
+            if mismatched_source:
+                for lang in list(e.get("descriptionSources") or {}):
+                    (e.get("description") or {}).pop(lang,None)
+                e["descriptionSources"]={}
+                e["descriptionStatus"]="missing"
+                return True
+            return source_copy_cleared
 
-        local_change=False
+        local_change=source_copy_cleared
         if need_summary:
-            local_change=enrich_descriptions(e,resolved_sp,resolved,fetch)
+            local_change=enrich_descriptions(e,resolved_sp,resolved,fetch) or local_change
             if local_change:e["descriptionVerified"]=today.isoformat()
         if resolved and not general_url(resolved) and (need_link or resolved_from_child):
             if resolved!=current:

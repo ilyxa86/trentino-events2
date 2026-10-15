@@ -7,10 +7,21 @@ from bs4 import BeautifulSoup
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 from event_descriptions import enrich_descriptions, extract_description, substantive, summarize, discard_invalid_source_copy, event_detail_url, description_from_record
 from generate_event_summaries import apply_summary, response_evidence, evidence_key, request_with_backoff
-from enrich_event_links_and_images import best_anchor
+from enrich_event_links_and_images import best_anchor, concrete_match
 
 
 class DescriptionsTest(unittest.TestCase):
+    def test_short_event_titles_match_exact_heading_but_similar_festivals_do_not(self):
+        page = BeautifulSoup('<title>Vai via / Eventi / Agenda Trento</title><h1>Vai via</h1>', 'html.parser')
+        self.assertTrue(concrete_match('Vai via', page, 'https://official.example/Eventi/Vai-via'))
+        other = BeautifulSoup('<title>Festa della Noce</title><h1>Festa della Noce</h1>', 'html.parser')
+        self.assertFalse(concrete_match('Festa del Latte', other, 'https://official.example/events/festa-della-noce'))
+
+    def test_play_synopsis_is_selected_after_shared_series_intro(self):
+        page = BeautifulSoup('<h1>Via Pál</h1><article class="it-page-section"><p>A school theatre programme brings art and education together for pupils of all ages.</p><h3>Via Pál</h3><p>Two actors bring Molnár’s novel to the stage, exploring friendship, loyalty and conflict through the boys’ struggle for their playground.</p></article>', 'html.parser')
+        self.assertIn('Two actors', extract_description(page))
+        self.assertNotIn('school theatre programme', extract_description(page))
+
     def test_temporary_api_limit_retries_without_losing_the_batch(self):
         class Limited(Exception):
             status_code = 429

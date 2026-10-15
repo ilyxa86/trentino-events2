@@ -19,6 +19,10 @@ def merge_summaries(base, generated, latest):
             continue
         if any(event.get(k) != old.get(k) for k in ("name", "startDate", "endDate")):
             continue
+        if any(substantive(text) and substantive((event.get("description") or {}).get(lang))
+               and text != event["description"][lang]
+               for lang, text in (old.get("description") or {}).items()):
+            continue  # Source copy changed while research was in flight.
         descriptions = dict(event.get("description") or {})
         sources = dict(event.get("descriptionSources") or {})
         changed = False
