@@ -17937,7 +17937,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Primo incontro Dalla diagnosi alla vita Con le professioniste di prevenzione e diagnosi precoce del tumore al seno, fisioterapia e post-chirurgia, nutrizione e aspetti psicologici. Modera la giornalista Silvia Gadotti promotrice dell'evento \"Ciao Ale\""
+      "it": "Primo incontro Dalla diagnosi alla vita Con le professioniste di prevenzione e diagnosi precoce del tumore al seno, fisioterapia e post-chirurgia, nutrizione e aspetti psicologici. Modera la giornalista Silvia Gadotti promotrice dell'evento \"Ciao Ale\"",
+      "de": "Bei diesem Treffen wird die Zeit von der Diagnose bis zum Leben nach der Brustkrebstherapie thematisiert: Fachleute zu Vorsorge, Früherkennung, Physiotherapie nach Operationen, Ernährung und psychologischer Begleitung erläutern, wie Betroffene ihren Alltag und Rehabilitation gestalten können. Moderiert wird die Veranstaltung von der Journalistin Silvia Gadotti, Initiatorin des Projekts „Ciao Ale“.",
+      "en": "This session explores life after a breast cancer diagnosis through contributions from specialists in prevention, early detection, post-surgical physiotherapy, nutrition and psychological support, explaining practical approaches to rehabilitation and everyday management. The meeting is moderated by journalist Silvia Gadotti, who promotes the initiative known as “Ciao Ale”."
     },
     "organizer": null,
     "price": "See official page",
@@ -17949,11 +17951,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione"
+      "it": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione",
+      "de": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione",
+      "en": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione"
     }
   },
   {
@@ -17973,7 +17977,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il Tempo di un Dialogo è un ciclo di incontri che trasforma la ricerca scientifica in un’esperienza viva, intrecciando antropologia, divulgazione musicale e storia dell’arte per raccontare, in modo nuovo e accessibile, i secoli dal XVI al XX. Gli incontri sono cinque: il quinto, dal titolo \"Il Novecento."
+      "it": "Il Tempo di un Dialogo è un ciclo di incontri che trasforma la ricerca scientifica in un’esperienza viva, intrecciando antropologia, divulgazione musicale e storia dell’arte per raccontare, in modo nuovo e accessibile, i secoli dal XVI al XX. Gli incontri sono cinque: il quinto, dal titolo \"Il Novecento.",
+      "de": "Die Veranstaltungsreihe macht wissenschaftliche Forschung lebendig, indem sie Anthropologie, Musikvermittlung und Kunstgeschichte verknüpft, um die kulturellen Entwicklungen vom 16. bis zum 20. Jahrhundert neu und zugänglich zu erzählen. Der fünfte der fünf Termine widmet sich speziell dem Thema des 20. Jahrhunderts und bringt unterschiedliche Disziplinen in einen dialogischen Austausch.",
+      "en": "This series brings academic research to life by weaving together anthropology, music outreach and art history to retell developments from the 16th to the 20th century in an engaging, accessible way. The cycle comprises five meetings, with the fifth session specifically focused on topics from the twentieth century."
     },
     "organizer": null,
     "price": "See official page",
@@ -17985,11 +17991,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-Il-Tempo-di-un-Dialogo5"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-Il-Tempo-di-un-Dialogo5"
+      "it": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-Il-Tempo-di-un-Dialogo5",
+      "de": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-Il-Tempo-di-un-Dialogo5",
+      "en": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-Il-Tempo-di-un-Dialogo5"
     }
   },
   {
@@ -18009,7 +18017,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Costituita come impresa sociale senza scopo di lucro, la Fondazione Trentino Abitare si propone come un ponte qualificato tra la domanda abitativa e la disponibilità di immobili privati, trasformando le preoccupazioni dei locatori in una concreta e protetta opportunità di investimento sociale orientata all’aumento dell’offerta di alloggi sul mercato della locazione."
+      "it": "Costituita come impresa sociale senza scopo di lucro, la Fondazione Trentino Abitare si propone come un ponte qualificato tra la domanda abitativa e la disponibilità di immobili privati, trasformando le preoccupazioni dei locatori in una concreta e protetta opportunità di investimento sociale orientata all’aumento dell’offerta di alloggi sul mercato della locazione.",
+      "de": "Die Stiftung fungiert als gemeinnütziges Bindeglied zwischen Wohnungsnachfrage und privaten Immobilienangeboten und soll die Vermittlung von Mietimmobilien fördern, indem sie Eigentümern sichere, sozial orientierte Investitionsmöglichkeiten bietet. Ziel ist die Erhöhung des Angebots an Mietwohnungen durch qualifizierte Unterstützung und innovative Vermittlungsansätze.",
+      "en": "Established as a nonprofit social enterprise, the foundation positions itself as a qualified intermediary between rental demand and private property availability, aiming to convert landlords’ concerns into protected social investment opportunities. Its mission is to increase the supply of rental housing through targeted support and structured collaboration with private owners."
     },
     "organizer": null,
     "price": "See official page",
@@ -18021,11 +18031,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Fondazione-Trentino-abitare"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Fondazione-Trentino-abitare"
+      "it": "https://eventi.comune.trento.it/Eventi/Fondazione-Trentino-abitare",
+      "de": "https://eventi.comune.trento.it/Eventi/Fondazione-Trentino-abitare",
+      "en": "https://eventi.comune.trento.it/Eventi/Fondazione-Trentino-abitare"
     }
   },
   {
@@ -18045,7 +18057,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Presso le circa 160 bancarelle dislocate nelle vie del centro (via Verdi, via Prati, via Maffei, via Esterle, via Borsieri, via Al Torrione) potrete fare acquisti di prodotti enogastronomici, ma anche abbigliamento, scarpe, accessori, oggettistica, casalinghi e molto altro. In piazza del Duomo invece sono presenti circa 20 bancarelle dedicate a fiori, piante e prodotti agricoli (frutta, verdura e miele)."
+      "it": "Presso le circa 160 bancarelle dislocate nelle vie del centro (via Verdi, via Prati, via Maffei, via Esterle, via Borsieri, via Al Torrione) potrete fare acquisti di prodotti enogastronomici, ma anche abbigliamento, scarpe, accessori, oggettistica, casalinghi e molto altro. In piazza del Duomo invece sono presenti circa 20 bancarelle dedicate a fiori, piante e prodotti agricoli (frutta, verdura e miele).",
+      "de": "Der Wochenmarkt erstreckt sich mit rund 160 Ständen durch die Innenstadtstraßen und bietet eine breite Auswahl an regionalen Lebensmitteln sowie Textilien, Schuhen, Accessoires, Haushaltswaren und Geschenkartikeln. Auf dem Domplatz ergänzen etwa 20 Stände das Angebot mit Blumen, Pflanzen und frischen Erzeugnissen wie Obst, Gemüse und Honig.",
+      "en": "The Thursday market runs through central streets with approximately 160 stalls offering regional food products alongside clothing, shoes, accessories, household items and various goods, creating a comprehensive shopping experience. Around twenty additional stalls in the cathedral square focus on flowers, plants and agricultural produce such as fruit, vegetables and honey."
     },
     "organizer": null,
     "price": "See official page",
@@ -18057,11 +18071,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi78"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi78"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi78",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi78",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi78"
     }
   },
   {
@@ -18081,7 +18097,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "All'interno del mercato si possono trovare le seguenti tipologie di prodotto: Il \"Mercato dell'economia solidale\" è gestito dalla Cooperativa Social Tank."
+      "it": "All'interno del mercato si possono trovare le seguenti tipologie di prodotto: Il \"Mercato dell'economia solidale\" è gestito dalla Cooperativa Social Tank.",
+      "de": "Der Markt der solidarischen Ökonomie präsentiert Produkte, die nach sozialen und nachhaltigen Kriterien ausgewählt sind und von lokalen Initiativen angeboten werden; organisiert wird die Veranstaltung von der Sozialgenossenschaft Social Tank. Besucher finden dort Erzeugnisse, die Gemeinschaftsinteressen und verantwortete Produktionsweisen verbinden.",
+      "en": "The solidarity economy market features goods selected on social and sustainable criteria and managed by the Social Tank cooperative, bringing together local initiatives focused on community-oriented production. Visitors can browse products that reflect cooperative values and responsible manufacturing within a localized marketplace."
     },
     "organizer": null,
     "price": "See official page",
@@ -18093,11 +18111,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale54"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale54"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale54",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale54",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale54"
     }
   },
   {
@@ -18117,7 +18137,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Sul palco, l’incontro tra cinque interpreti che, ognuno con la propria storia straordinaria, hanno conquistato le scene internazionali. Rosanne Philippens, violinista olandese, si distingue per la combinazione di energia comunicativa e raffinatezza, con un repertorio che spazia da Bach alle avanguardie, sempre con il suo timbro luminoso e riconoscibile."
+      "it": "Sul palco, l’incontro tra cinque interpreti che, ognuno con la propria storia straordinaria, hanno conquistato le scene internazionali. Rosanne Philippens, violinista olandese, si distingue per la combinazione di energia comunicativa e raffinatezza, con un repertorio che spazia da Bach alle avanguardie, sempre con il suo timbro luminoso e riconoscibile.",
+      "de": "Auf der Bühne treten fünf Interpretinnen zusammen, die jeweils mit ihrer außergewöhnlichen Biografie internationale Bühnenerfahrung mitbringen; darunter die niederländische Geigerin Rosanne Philippens, bekannt für ihre verbindliche Ausdruckskraft und klangliche Brillanz. Das Programm spannt einen Bogen von Bach bis zu avantgardistischen Positionen und legt Wert auf musikalische Präzision und strahlenden Ton.",
+      "en": "Five performers meet on stage, each with remarkable international careers, including Dutch violinist Rosanne Philippens, noted for combining communicative energy with refined tone; the concert emphasizes clarity and a luminous timbre. The repertoire ranges from Bach to contemporary avant-garde works, showcasing individual artistry within a cohesive ensemble experience."
     },
     "organizer": null,
     "price": "See official page",
@@ -18129,11 +18151,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Prisma-Aurea"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Prisma-Aurea"
+      "it": "https://eventi.comune.trento.it/Eventi/Prisma-Aurea",
+      "de": "https://eventi.comune.trento.it/Eventi/Prisma-Aurea",
+      "en": "https://eventi.comune.trento.it/Eventi/Prisma-Aurea"
     }
   },
   {
@@ -18153,7 +18177,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Cos'è Programma del Festival Venerdì 16 ottobre 2026 11:00 – 23:00 | Area Street Food | piazza S. Maria Maggiore Spazio dedicato al cibo e alla convivialità, attivo per tutta la durata del festival. 13:00 – 14:30 | Spazio Talk | Bar Picaro Incontro con Francesco Ghia (Professore associato di Filosofia morale e Filosofia della storia presso l’Università di Trento e Presidente dell’Associazione Italiana di Filosofia della Religione). 14:30 – 16:30 | “Giardino delle Associazioni” | piazza S."
+      "it": "Cos'è Programma del Festival Venerdì 16 ottobre 2026 11:00 – 23:00 | Area Street Food | piazza S. Maria Maggiore Spazio dedicato al cibo e alla convivialità, attivo per tutta la durata del festival. 13:00 – 14:30 | Spazio Talk | Bar Picaro Incontro con Francesco Ghia (Professore associato di Filosofia morale e Filosofia della storia presso l’Università di Trento e Presidente dell’Associazione Italiana di Filosofia della Religione). 14:30 – 16:30 | “Giardino delle Associazioni” | piazza S.",
+      "de": "Das Festivalprogramm umfasst ganztägig eine Street-Food-Area für gemeinsames Essen und Begegnung sowie ein Talk-Programm, Workshops und den \"Giardino delle Associazioni\", wo Vereine sich präsentieren und Austausch fördern. Am 16. Oktober stehen Essensangebote, Vorträge mit lokalen Akademikern und ein Raum für zivilgesellschaftliche Initiativen im Mittelpunkt des Ganztagesangebots.",
+      "en": "The festival day features an all-day street-food area for convivial dining together, alongside talks, workshops and a \"Garden of Associations\" where community groups display activities and foster exchange. On Friday 16 October the schedule mixes food, public talks with local academics and spaces dedicated to civic organizations throughout the day."
     },
     "organizer": null,
     "price": "See official page",
@@ -18165,11 +18191,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Altra-Piazza-Fest-2026"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Altra-Piazza-Fest-2026"
+      "it": "https://eventi.comune.trento.it/Eventi/Altra-Piazza-Fest-2026",
+      "de": "https://eventi.comune.trento.it/Eventi/Altra-Piazza-Fest-2026",
+      "en": "https://eventi.comune.trento.it/Eventi/Altra-Piazza-Fest-2026"
     }
   },
   {
@@ -18189,7 +18217,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Scopri il Castello del Buonconsiglio in una veste inedita con un'apertura serale straordinaria. Dopo l'orario di chiusura, lasciati accompagnare in una visita guidata tra ambienti suggestivi e luoghi segreti, per vivere il castello in un'atmosfera unica."
+      "it": "Scopri il Castello del Buonconsiglio in una veste inedita con un'apertura serale straordinaria. Dopo l'orario di chiusura, lasciati accompagnare in una visita guidata tra ambienti suggestivi e luoghi segreti, per vivere il castello in un'atmosfera unica.",
+      "de": "Diese Abendöffnung des Castello del Buonconsiglio ermöglicht Führungsteilnehmern nach regulärer Schließzeit ungewöhnliche Einblicke in besonders stimmungsvolle und verborgene Bereiche der Burg. Besucher erleben das historische Anwesen bei einer geführten Tour in einer atmosphärisch dichter Abendstimmung und entdecken sonst nicht zugängliche Räume.",
+      "en": "This special evening opening of Castello del Buonconsiglio offers guided visits after regular closing time, providing atmospheric access to evocative and normally hidden parts of the castle. Participants are led through suggestive environments and secret corners, experiencing the historic site in a uniquely nocturnal setting."
     },
     "organizer": null,
     "price": "See official page",
@@ -18201,11 +18231,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Casteldi-sera5"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Casteldi-sera5"
+      "it": "https://eventi.comune.trento.it/Eventi/Casteldi-sera5",
+      "de": "https://eventi.comune.trento.it/Eventi/Casteldi-sera5",
+      "en": "https://eventi.comune.trento.it/Eventi/Casteldi-sera5"
     }
   },
   {
@@ -18225,7 +18257,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il Museo Diocesano Tridentino dedica la prima mostra monografica a Nicolò Dorigati (Trento, 1662 – 1740/1742), uno dei principali protagonisti della pittura trentina tra Sei e Settecento. Per quasi cinquant'anni Dorigati lavorò soprattutto per la Chiesa, realizzando pale d'altare, cicli decorativi e ritratti destinati a chiese, conventi e famiglie del territorio."
+      "it": "Il Museo Diocesano Tridentino dedica la prima mostra monografica a Nicolò Dorigati (Trento, 1662 – 1740/1742), uno dei principali protagonisti della pittura trentina tra Sei e Settecento. Per quasi cinquant'anni Dorigati lavorò soprattutto per la Chiesa, realizzando pale d'altare, cicli decorativi e ritratti destinati a chiese, conventi e famiglie del territorio.",
+      "de": "Das Diözesanmuseum Trento widmet seine erste Monografie Nicolò Dorigati (1662–1740/42) und stellt sein Werk als Schlüsselgestalt der trentinischen Malerei zwischen 17. und 18. Jahrhundert vor. Die Ausstellung zeigt seine knapp fünf Jahrzehnte währende Produktion für Kirchen, Klöster und lokale Familien, darunter Altarbilder, dekorative Zyklen und Porträts.",
+      "en": "The Diocesan Museum of Trento presents the first monographic exhibition devoted to Nicolò Dorigati (1662–1740/42), highlighting his role as a major figure in Trentino painting between the 17th and 18th centuries. The show traces nearly fifty years of work produced mainly for churches, convents and local patrons, including altarpieces, decorative cycles and portraits."
     },
     "organizer": null,
     "price": "See official page",
@@ -18238,11 +18272,13 @@
       "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2",
       "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco2"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco2"
+      "it": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco2",
+      "de": "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2",
+      "en": "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2"
     }
   },
   {
@@ -18262,7 +18298,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Per informazioni potete passare in biblioteca, telefonare al numero 0461 889559 o mandare una e-mail a bibliotea.ragazzi@comune.trento.it . Per aggiornamenti seguite il sito della biblioteca e le pagine facebook e instagram ."
+      "it": "Per informazioni potete passare in biblioteca, telefonare al numero 0461 889559 o mandare una e-mail a bibliotea.ragazzi@comune.trento.it . Per aggiornamenti seguite il sito della biblioteca e le pagine facebook e instagram .",
+      "de": "Die Veranstaltung bündelt bibliothekarische Angebote mit Informationen zur Reihe; Interessenten können sich direkt über die städtische Bibliothek telefonisch, per E‑Mail oder vor Ort erkundigen. Ergänzende Hinweise und aktuelle Meldungen werden über die Bibliothekskanäle und Social‑Media‑Auftritte kommuniziert.",
+      "en": "The program is coordinated through the municipal library, which provides contact options by phone, email and in-person for information about activities linked to the Liberty-themed October initiative. Updates and additional details are communicated via the library’s website and its Facebook and Instagram pages."
     },
     "organizer": null,
     "price": "See official page",
@@ -18274,11 +18312,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty"
+      "it": "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty",
+      "de": "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty",
+      "en": "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty"
     }
   },
   {
@@ -18298,7 +18338,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "A dieci anni dalla morte, il Comune di Trento ricorda la figura di padre Fabrizio Forti, frate cappuccino, cappellano del carcere di Trento, fondatore e anima della mensa della Provvidenza. A padre Forti sarà intitolato il piazzale davanti alla Casa circondariale, inoltre in suo ricordo sarà scoperta una targa in un’aiuola all’ingresso del carcere."
+      "it": "A dieci anni dalla morte, il Comune di Trento ricorda la figura di padre Fabrizio Forti, frate cappuccino, cappellano del carcere di Trento, fondatore e anima della mensa della Provvidenza. A padre Forti sarà intitolato il piazzale davanti alla Casa circondariale, inoltre in suo ricordo sarà scoperta una targa in un’aiuola all’ingresso del carcere.",
+      "de": "Zehn Jahre nach seinem Tod ehrt die Gemeinde Trento Padre Fabrizio Forti, Kapuziner und langjähriger Gefängnisseelsorger, indem sie den Vorplatz des Gefängnisses nach ihm benennt und eine Gedenktafel an einem Beet am Eingang anbringt. Die Widmung würdigt Fortis Engagement, insbesondere als Gründer und treibende Kraft der Mensa della Provvidenza.",
+      "en": "Ten years after his death the municipality of Trento commemorates Father Fabrizio Forti, a Capuchin friar and prison chaplain, by dedicating the square in front of the prison to him and unveiling a plaque in a planting bed at the entrance. The ceremony recognizes his role as founder and driving force behind the Mensa della Provvidenza."
     },
     "organizer": null,
     "price": "See official page",
@@ -18310,11 +18352,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento"
+      "it": "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento",
+      "de": "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento",
+      "en": "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento"
     }
   },
   {
@@ -18334,7 +18378,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Un appuntamento mensile non solo di libri da raccontare, ma anche di storie da vivere insieme."
+      "it": "Un appuntamento mensile non solo di libri da raccontare, ma anche di storie da vivere insieme.",
+      "de": "Dieser monatliche Treff verbindet Buchempfehlungen mit gemeinsamer Erzähl- und Erlebnisvermittlung, sodass die Lektüre nicht nur vorgestellt, sondern in gemeinschaftliche Aktivitäten verwandelt wird. Das Format lädt Teilnehmende ein, Geschichten aktiv zu teilen und Literatur als Anlass für gemeinsames Erleben zu nutzen.",
+      "en": "This monthly appointment is not only about recommending books but about living stories together: sessions pair literary suggestions with shared activities so reading becomes an interactive, communal experience. The format encourages participants to exchange narratives and engage with books as starting points for collective storytelling and experiences."
     },
     "organizer": null,
     "price": "See official page",
@@ -18346,11 +18392,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso7"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso7"
+      "it": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso7",
+      "de": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso7",
+      "en": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso7"
     }
   },
   {
@@ -18397,7 +18445,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Scopri la città di Trento con una guida turistica! Trento, nel cuore delle Alpi, ha una storia millenaria, fatta di tradizione mitteleuropea a cavallo tra mondo germanico e mondo italiano, le cui testimonianze sono visibili nel bel centro storico e sono perfettamente custodite, epoca dopo epoca, nei siti archeologici e nei musei d'eccellenza che la città ospita."
+      "it": "Scopri la città di Trento con una guida turistica! Trento, nel cuore delle Alpi, ha una storia millenaria, fatta di tradizione mitteleuropea a cavallo tra mondo germanico e mondo italiano, le cui testimonianze sono visibili nel bel centro storico e sono perfettamente custodite, epoca dopo epoca, nei siti archeologici e nei musei d'eccellenza che la città ospita.",
+      "de": "Bei diesem geführten Stadtrundgang tauchen Besucher in die vielschichtige Geschichte Trentinos ein, deren mitteleuropäische und italienische Einflüsse sich im gut erhaltenen historischen Zentrum zeigen. Die Tour führt an archäologischen Stätten und herausragenden Museen vorbei und erläutert, wie sich die Stadt über die Jahrhunderte kulturell entwickelt hat.",
+      "en": "On this guided walk visitors explore Trento’s layered past, observing how Central European and Italian influences shaped the compact historic centre. The route highlights archaeological sites and prominent museums, explaining the city’s centuries-long cultural evolution and the tangible traces that remain in its streets and collections."
     },
     "organizer": null,
     "price": "See official page",
@@ -18409,11 +18459,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento18"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento18"
+      "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento18",
+      "de": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento18",
+      "en": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento18"
     }
   },
   {
@@ -18433,7 +18485,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "A Cadine, Trento, torna l’escape room del Gruppo Oasi: un’esperienza al coperto per giovani, adulti e famiglie, nei weekend di ottobre 2026. Vivi l’emozione e il mistero con il tuo team, tra indizi segreti ed enigmi da risolvere insieme."
+      "it": "A Cadine, Trento, torna l’escape room del Gruppo Oasi: un’esperienza al coperto per giovani, adulti e famiglie, nei weekend di ottobre 2026. Vivi l’emozione e il mistero con il tuo team, tra indizi segreti ed enigmi da risolvere insieme.",
+      "de": "Im Innenraum der Escape Room-Erfahrung des Gruppo Oasi lösen Teams aus Jugendlichen, Erwachsenen und Familien gemeinschaftlich Rätsel und folgen geheimen Hinweisen, um die Herausforderung zu meistern. Die Veranstaltung in Cadine bietet an ausgewählten Wochenenden im Oktober eine spannungsreiche, kooperative Spielumgebung voller Mystery-Elemente.",
+      "en": "The Gruppo Oasi indoor escape room in Cadine invites teams of youths, adults and families to work together solving puzzles and uncovering secret clues to overcome the challenge. Scheduled across October weekends, the experience delivers cooperative mystery-driven gameplay in a contained, immersive setting."
     },
     "organizer": null,
     "price": "See official page",
@@ -18445,11 +18499,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2"
+      "it": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2",
+      "de": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2",
+      "en": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2"
     }
   },
   {
@@ -18469,7 +18525,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Torna la 38esima edizione della Fiera di San Luca, l'antica fiera del bestiame che negli anni si è trasformata in un'occasione per stare assieme in allegria! Nella piazza del paese di Parrocchia, in Vallarsa, allevatori, produttori agricoli, artigiani e associazioni incontreranno il pubblico in un momento di festa tra i colori, i profumi e i sapori dell’autunno."
+      "it": "Torna la 38esima edizione della Fiera di San Luca, l'antica fiera del bestiame che negli anni si è trasformata in un'occasione per stare assieme in allegria! Nella piazza del paese di Parrocchia, in Vallarsa, allevatori, produttori agricoli, artigiani e associazioni incontreranno il pubblico in un momento di festa tra i colori, i profumi e i sapori dell’autunno.",
+      "de": "Die 38. Ausgabe der Fiera di San Luca verbindet die Tradition eines Viehmarkts mit einem bunten Herbstfest, bei dem Züchter, landwirtschaftliche Produzenten, Handwerker und Vereine zusammenkommen. Auf dem Dorfplatz von Parrocchia in Vallarsa entstehen Marktstände, kulinarische Düfte und gesellige Begegnungen, die lokale Produkte und Gemeinschaftsleben präsentieren.",
+      "en": "The 38th Fiera di San Luca blends the legacy of a livestock fair with a lively autumn gathering where breeders, agricultural producers, craftsmen and associations meet the public. Held in Parrocchia’s village square in Vallarsa, the event fills the area with market stalls, seasonal scents and convivial moments showcasing local produce and community life."
     },
     "organizer": null,
     "price": "See official page",
@@ -18483,9 +18541,11 @@
       "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca"
     ],
     "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca/"
+      "it": "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca/",
+      "de": "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca",
+      "en": "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca"
     },
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
   },
@@ -18506,7 +18566,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il mercato si svolge in piazza Dante (Circoscrizione Centro storico - Piedicastello) ogni sabato esclusi i festivi dalle 7:30 alle 13:00"
+      "it": "Il mercato si svolge in piazza Dante (Circoscrizione Centro storico - Piedicastello) ogni sabato esclusi i festivi dalle 7:30 alle 13:00",
+      "de": "Der Bauernmarkt auf der Piazza Dante findet jeden Samstag (außer an Feiertagen) statt und bietet regionale Erzeugnisse von lokalen Produzenten direkt im Stadtteilzentrum an. Besucher können zwischen 7:30 und 13:00 Uhr frische Lebensmittel und typische Waren erwerben und die Marktatmosphäre des historischen Viertels erleben.",
+      "en": "The farmers’ market on Piazza Dante takes place every Saturday (excluding public holidays) and brings local producers into the city-centre neighbourhood to sell regional goods. Running from 7:30 to 13:00, it offers visitors the chance to buy fresh produce and typical products while enjoying the market atmosphere of the historic district."
     },
     "organizer": null,
     "price": "See official page",
@@ -18518,11 +18580,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante50"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante50"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante50",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante50",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante50"
     }
   },
   {
@@ -18670,7 +18734,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il Festival Progetto Opera Euritmus 2026 celebra la grandezza della lirica con una produzione innovativa de “Le Nozze di Figaro” di Mozart. Un festival che unisce tradizione e modernità, raccontando le vicende dei personaggi mozartiani attraverso una lente contemporanea."
+      "it": "Il Festival Progetto Opera Euritmus 2026 celebra la grandezza della lirica con una produzione innovativa de “Le Nozze di Figaro” di Mozart. Un festival che unisce tradizione e modernità, raccontando le vicende dei personaggi mozartiani attraverso una lente contemporanea.",
+      "de": "Im Rahmen des Festivals Progetto Opera Euritmus 2026 wird Mozarts ‚Die Hochzeit des Figaro‘ in einer modern interpretierten Inszenierung gezeigt, die traditionelle Opernelemente mit zeitgenössischer Lesart verbindet. Das Festival setzt auf kreative Neuansätze, um die Figuren und die Handlung Mozarts unter aktuellen Blickwinkeln neu zu erzählen.",
+      "en": "As part of the Progetto Opera Euritmus 2026 festival, Mozart’s The Marriage of Figaro is presented in an innovative production that merges operatic tradition with contemporary interpretation. The festival emphasizes creative reworking to retell Mozart’s characters and plot through a modern lens while honoring the work’s musical heritage."
     },
     "organizer": null,
     "price": "See official page",
@@ -18686,9 +18752,11 @@
     "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro"
+      "it": "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro",
+      "de": "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro",
+      "en": "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro"
     },
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15"
   },
   {
@@ -18747,7 +18815,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il percorso darà l’opportunità ai visitatori di solcare i gradini delle scale rampanti che conducono alla cosiddetta cantoria, luogo solitamente chiuso al pubblico. L’itinerario si snoderà all’interno del Museo Diocesano Tridentino, dove si potranno attraversare gli ambienti utilizzati dal principe vescovo."
+      "it": "Il percorso darà l’opportunità ai visitatori di solcare i gradini delle scale rampanti che conducono alla cosiddetta cantoria, luogo solitamente chiuso al pubblico. L’itinerario si snoderà all’interno del Museo Diocesano Tridentino, dove si potranno attraversare gli ambienti utilizzati dal principe vescovo.",
+      "de": "Die Führung ermöglicht den Aufstieg über die gewundenen Treppen zur Cantoria, einem normalerweise für die Öffentlichkeit verschlossenen Bereich, und gewährt ungewöhnliche Einblicke in die Kirchenarchitektur. Der Rundgang verläuft durch den Diözesanmuseum Tridentino und zeigt Räume, die einst vom Fürstbischof genutzt wurden, und erzählt von ihrer historischen Nutzung.",
+      "en": "This visit grants access via the winding staircases up to the cantoria, an area usually closed to the public, offering rare architectural viewpoints. The itinerary continues through the Diocesan Museum of Trento, passing rooms historically used by the prince-bishop and revealing aspects of their past functions and context."
     },
     "organizer": null,
     "price": "See official page",
@@ -18759,11 +18829,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9"
+      "it": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9",
+      "de": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9",
+      "en": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9"
     }
   },
   {
@@ -18783,7 +18855,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Una visita guidata per scoprire la rinnovata sezione egizia del museo e la mostra temporanea dedicata all’affascinante civiltà dell’antico Egitto."
+      "it": "Una visita guidata per scoprire la rinnovata sezione egizia del museo e la mostra temporanea dedicata all’affascinante civiltà dell’antico Egitto.",
+      "de": "Die Führung stellt die erneuerte ägyptische Abteilung des Museums sowie die temporäre Ausstellung zur altägyptischen Kultur vor und erläutert bedeutende Artefakte. Besucher erhalten kontextuelle Einblicke in die Lebenswelt und Symbolik des Nils, begleitet von erklärenden Kommentaren zur Ausstellungsgestaltung.",
+      "en": "The guided tour introduces the museum’s renewed Egyptian section and the temporary exhibition dedicated to ancient Egyptian civilization, highlighting key artifacts. Visitors gain contextual insights into Nile cultures and symbolism, with interpretive commentary on the objects and the exhibition layout."
     },
     "organizer": null,
     "price": "See official page",
@@ -18795,11 +18869,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14"
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14",
+      "de": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14",
+      "en": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14"
     }
   },
   {
@@ -18819,7 +18895,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "La Fondazione Museo storico del Trentino propone una visita guidata gratuita alla mostra dedicata al parco di Piazza Venezia e al monumento ad Alcide De Gasperi. Durata : 45 minuti Prenotazione obbligatoria : edu@museostorico.it Ritrovo : presso l’installazione al centro del parco di Piazza Venezia"
+      "it": "La Fondazione Museo storico del Trentino propone una visita guidata gratuita alla mostra dedicata al parco di Piazza Venezia e al monumento ad Alcide De Gasperi. Durata : 45 minuti Prenotazione obbligatoria : edu@museostorico.it Ritrovo : presso l’installazione al centro del parco di Piazza Venezia",
+      "de": "Die kostenlose Führung erkundet die Entwicklung des Piazza-Venezia-Parks und das Denkmal für Alcide De Gasperi, mit einer Dauer von etwa 45 Minuten. Treffpunkt ist die Installation in der Parkmitte; die Teilnahme erfordert Anmeldung gemäß den Angaben der Fondazione Museo storico del Trentino.",
+      "en": "This free guided tour examines the transformation of Piazza Venezia into a park and the monument to Alcide De Gasperi over a roughly 45-minute visit. The meeting point is the installation at the centre of the park, and participation requires prior reservation as organised by the Fondazione Museo storico del Trentino."
     },
     "organizer": null,
     "price": "See official page",
@@ -18832,11 +18910,13 @@
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi3",
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi4"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi3"
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi3",
+      "de": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi3",
+      "en": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi3"
     }
   },
   {
@@ -18929,7 +19009,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Lasciati incantare dalla magia dell'autunno! Domenica 18 ottobre 2026 torna l'imperdibile appuntamento con il Foliage al Lago di Cei."
+      "it": "Lasciati incantare dalla magia dell'autunno! Domenica 18 ottobre 2026 torna l'imperdibile appuntamento con il Foliage al Lago di Cei.",
+      "de": "Das Herbsterlebnis am Lago di Cei lädt Besucher ein, die Naturveränderung und Farbenpracht der Saison zu genießen und die malerische Umgebung des Sees zu erkunden. Die Veranstaltung am 18. Oktober bietet Gelegenheit zu einem entspannten Spaziergang in der herbstlichen Landschaft und fotografischen Eindrücken.",
+      "en": "The autumn event at Lake Cei invites visitors to enjoy the seasonal colour changes and the scenic lakeside surroundings, perfect for relaxed walks and nature observation. Held on 18 October, it offers an opportunity to experience the landscape’s fall tones and capture memorable photographs of the area."
     },
     "organizer": null,
     "price": "See official page",
@@ -18943,9 +19025,11 @@
       "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina"
     ],
     "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina/"
+      "it": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina/",
+      "de": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina",
+      "en": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina"
     },
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
   },
@@ -18999,7 +19083,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "L'Associazione San Pio X, nell'ambito del patto di collaborazione \"Un patto di magia e trasformazione, promuove un ciclo di incontri di approfondimento sulle radici storiche dei conflitti contemporanei. Attraverso il contributo di storici, giornalisti e mediatori internazionali, saranno proposte occasioni di conoscenza, confronto e dialogo, su temi quali colonialismo, confini, decolonizzazione, identità nazionali, etnie, religioni e le circostanze che hanno contribuito a costruire l'autonomia e la pace nel nostro territorio."
+      "it": "L'Associazione San Pio X, nell'ambito del patto di collaborazione \"Un patto di magia e trasformazione, promuove un ciclo di incontri di approfondimento sulle radici storiche dei conflitti contemporanei. Attraverso il contributo di storici, giornalisti e mediatori internazionali, saranno proposte occasioni di conoscenza, confronto e dialogo, su temi quali colonialismo, confini, decolonizzazione, identità nazionali, etnie, religioni e le circostanze che hanno contribuito a costruire l'autonomia e la pace nel nostro territorio.",
+      "de": "Die Veranstaltungsreihe des Vereins San Pio X bietet mit Historikern, Journalisten und Mediatoren vertiefende Gespräche zu den historischen Wurzeln zeitgenössischer Konflikte im Nahen Osten. Die Treffen thematisieren Aspekte wie Kolonialismus, Grenzziehungen, Dekolonisierung, nationale Identitäten, Ethnien und Religionen, um Verständnis, Dialog und Reflexion zu fördern.",
+      "en": "Organised by the San Pio X Association, this lecture cycle brings historians, journalists and international mediators together to explore the historical roots of contemporary Middle Eastern conflicts. Sessions address colonialism, borders, decolonization, national identities, ethnic and religious factors, and the conditions that have influenced autonomy and peace in the region."
     },
     "organizer": null,
     "price": "See official page",
@@ -19011,11 +19097,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/I-conflitti-incrociati-in-Medio-Oriente-ciclo-di-incontri-Le-origini-dei-conflitti"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/I-conflitti-incrociati-in-Medio-Oriente-ciclo-di-incontri-Le-origini-dei-conflitti"
+      "it": "https://eventi.comune.trento.it/Eventi/I-conflitti-incrociati-in-Medio-Oriente-ciclo-di-incontri-Le-origini-dei-conflitti",
+      "de": "https://eventi.comune.trento.it/Eventi/I-conflitti-incrociati-in-Medio-Oriente-ciclo-di-incontri-Le-origini-dei-conflitti",
+      "en": "https://eventi.comune.trento.it/Eventi/I-conflitti-incrociati-in-Medio-Oriente-ciclo-di-incontri-Le-origini-dei-conflitti"
     }
   },
   {
@@ -19035,7 +19123,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Piccoli oggetti, animali e divinità: gli amuleti egizi sono potenti strumenti magici di protezione. Lungo il percorso puoi cercarli e scoprire significati e funzioni e, poi, nel laboratorio, creare il tuo scarabeo del cuore."
+      "it": "Piccoli oggetti, animali e divinità: gli amuleti egizi sono potenti strumenti magici di protezione. Lungo il percorso puoi cercarli e scoprire significati e funzioni e, poi, nel laboratorio, creare il tuo scarabeo del cuore.",
+      "de": "Die Präsentation und der begleitende Workshop beschäftigen sich mit der Bedeutungswelt ägyptischer Amulette, die als Schutzobjekte Tierdarstellungen, Gottheiten und kleine Artefakte umfassen. Besucher können Bedeutungen und Funktionen der Amulette entdecken und im Labor selbst ein persönliches Skarabäus-Amulett anfertigen.",
+      "en": "This activity examines Egyptian amulets—small objects, animals and deities used as protective magical items—and explains their meanings and functions. Alongside the interpretive route, a hands-on workshop allows participants to create their own scarab amulet, connecting historical context with practical crafting."
     },
     "organizer": null,
     "price": "See official page",
@@ -19047,11 +19137,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita"
+      "it": "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita",
+      "de": "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita",
+      "en": "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita"
     }
   },
   {
@@ -19071,7 +19163,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Domenica 18 ottobre al Parco Duca d'Aosta , l'associazione Quartiere San Pio X organizza l'Unicorno Autunno Market, nell'ambito del patto di collaborazione \"Un patto di magia e trasformazione\". Si tratta di un mercatino del riuso fondato sul baratto: un’occasione per scambiare libri, vestiti e oggetti che non utilizziamo più, ma che possono essere ancora utili e preziosi per qualcun altro."
+      "it": "Domenica 18 ottobre al Parco Duca d'Aosta , l'associazione Quartiere San Pio X organizza l'Unicorno Autunno Market, nell'ambito del patto di collaborazione \"Un patto di magia e trasformazione\". Si tratta di un mercatino del riuso fondato sul baratto: un’occasione per scambiare libri, vestiti e oggetti che non utilizziamo più, ma che possono essere ancora utili e preziosi per qualcun altro.",
+      "de": "Das Unicorno Autunno Market ist ein Tauschmarkt im Parco Duca d’Aosta, der auf Barter-Prinzipien basiert und zum Austausch von Büchern, Kleidung und Gegenständen einlädt. Die Veranstaltung, organisiert vom Quartierverein San Pio X, fördert Wiederverwendung und Nachhaltigkeit durch gemeinschaftliches Tauschen statt Wegwerfen.",
+      "en": "Unicorno Autunno Market at Parco Duca d’Aosta is a reuse market founded on bartering, where people can exchange books, clothes and other items they no longer need. Organised by the Quartiere San Pio X association within a collaboration pact, it encourages reuse and sustainability through community-led swapping activities."
     },
     "organizer": null,
     "price": "See official page",
@@ -19083,11 +19177,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Unicorno-Autunno-Market-Mercatino-del-Riuso"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Unicorno-Autunno-Market-Mercatino-del-Riuso"
+      "it": "https://eventi.comune.trento.it/Eventi/Unicorno-Autunno-Market-Mercatino-del-Riuso",
+      "de": "https://eventi.comune.trento.it/Eventi/Unicorno-Autunno-Market-Mercatino-del-Riuso",
+      "en": "https://eventi.comune.trento.it/Eventi/Unicorno-Autunno-Market-Mercatino-del-Riuso"
     }
   },
   {
@@ -19612,7 +19708,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Mercoledì 21 ottobre, alla Badia San Lorenzo di Trento, l’Ensemble Vocale Exsurge Domine propone un viaggio nella memoria del Medioevo latino, dal canto ambrosiano, romano antico e beneventano alla polifonia di Guillaume Du Fay, con il mottetto Vasilissa ergo gaude, tramandato dal codice Trento 87."
+      "it": "Mercoledì 21 ottobre, alla Badia San Lorenzo di Trento, l’Ensemble Vocale Exsurge Domine propone un viaggio nella memoria del Medioevo latino, dal canto ambrosiano, romano antico e beneventano alla polifonia di Guillaume Du Fay, con il mottetto Vasilissa ergo gaude, tramandato dal codice Trento 87.",
+      "de": "In der Badia San Lorenzo bietet das Vokalensemble Exsurge Domine ein musikalisches Programm, das die Hörer auf eine Zeitreise in das latinische Mittelalter mitnimmt und verschiedene liturgische Gesangsformen umfasst. Von ambrosianischem, altrömischem und beneventanischem Choral bis hin zur mehrstimmigen Satzkunst von Guillaume Du Fay erklingen Quellen wie das Codex Trento 87.",
+      "en": "At Badia San Lorenzo the vocal ensemble Exsurge Domine presents a program tracing the sound world of Latin medieval music, showcasing liturgical chants alongside early polyphony. The concert moves from Ambrosian, ancient Roman and Beneventan chant traditions to polyphonic works by Guillaume Du Fay, including repertory preserved in the Trento 87 codex."
     },
     "organizer": null,
     "price": "See official page",
@@ -19624,11 +19722,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino"
+      "it": "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino",
+      "de": "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino",
+      "en": "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino"
     }
   },
   {
@@ -19648,7 +19748,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il 22 ottobre alle 20.30, al Teatro di Vezzano, arriva BAMBU con tre assoli di danza contemporanea firmati da artiste di Nigeria, Repubblica Democratica del Congo e Kenya. MAHAKA, KIZAZI e THIN LINE raccontano libertà, memoria e identità femminile, tra tradizione e cambiamento."
+      "it": "Il 22 ottobre alle 20.30, al Teatro di Vezzano, arriva BAMBU con tre assoli di danza contemporanea firmati da artiste di Nigeria, Repubblica Democratica del Congo e Kenya. MAHAKA, KIZAZI e THIN LINE raccontano libertà, memoria e identità femminile, tra tradizione e cambiamento.",
+      "de": "Im Teatro di Vezzano werden drei zeitgenössische Solo-Tänze gezeigt, die von Künstlerinnen aus Nigeria, der Demokratischen Republik Kongo und Kenia stammen und unterschiedliche Aspekte weiblicher Erfahrung untersuchen. Die Stücke mit Titeln Mahaka, Kizazi und Thin Line verknüpfen Elemente von Tradition und Wandel, wobei Themen wie Freiheit, Erinnerung und weibliche Identität im Mittelpunkt stehen.",
+      "en": "At Teatro di Vezzano the evening presents three contemporary dance solos crafted by artists from Nigeria, the Democratic Republic of Congo and Kenya, each offering a distinct perspective on feminine experience. The pieces—Mahaka, Kizazi and Thin Line—explore strands of freedom, memory and female identity, blending traditional impulses with processes of change."
     },
     "organizer": null,
     "price": "See official page",
@@ -19660,11 +19762,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello"
+      "it": "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello",
+      "de": "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello",
+      "en": "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello"
     }
   },
   {
@@ -19684,7 +19788,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Secondo incontro Il benessere al femminile Adolescenza, età adulta e menopausa: il ruolo dell'integrazione, con Francesca Carità e il team della farmaciste di Povo"
+      "it": "Secondo incontro Il benessere al femminile Adolescenza, età adulta e menopausa: il ruolo dell'integrazione, con Francesca Carità e il team della farmaciste di Povo",
+      "de": "Im zweiten Treffen der Reihe zur Gesundheit und Prävention fokussiert der Vortrag auf frauenspezifisches Wohlbefinden über Lebensphasen hinweg. Fachleute, unter anderem Francesca Carità und das Team der Apothekerinnen von Povo, erörtern die Bedeutung von Ergänzungsstrategien in der Pubertät, im Erwachsenenalter und in der Menopause.",
+      "en": "The second meeting in the health and prevention series concentrates on women’s wellbeing across life stages, from adolescence through adulthood to menopause. Francesca Carità and the team of pharmacists from Povo discuss the role of nutritional and integrative approaches in supporting health during these transitional phases."
     },
     "organizer": null,
     "price": "See official page",
@@ -19696,11 +19802,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2"
+      "it": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2",
+      "de": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2",
+      "en": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2"
     }
   },
   {
@@ -19720,7 +19828,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali."
+      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali.",
+      "de": "Das Festival Crepe nel Mondo widmet sich geopolitischen Bruchlinien, die heutige internationale Spannungen und ungelöste Fragestellungen prägen, und analysiert deren Auswirkungen auf Gesellschaft, Politik und Wirtschaft. Zwischen dem 19. Oktober und dem 3. November 2026 bringt die Reihe Diskussionen, Vorträge und Analysen zusammen, die die globalen Verwerfungen und ihre lokalen Folgen beleuchten.",
+      "en": "Crepe nel Mondo is a festival focused on geopolitical fault lines and unresolved international tensions that shape contemporary societies, politics and economies. Running from 19 October to 3 November 2026, the program gathers analyses and discussions aimed at unpacking the fractures that continue to redefine global balances and their local repercussions."
     },
     "organizer": null,
     "price": "See official page",
@@ -19732,11 +19842,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2"
+      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2",
+      "de": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2",
+      "en": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2"
     }
   },
   {
@@ -19756,7 +19868,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Dal cuore di Parigi, Le Consort nasce nel 2015 con una missione chiara: riportare al centro della scena la sonata in trio barocca, vero cuore pulsante della musica da camera del Seicento e Settecento. Composto da due violini, un violoncello e un clavicembalo, l’ensemble combina precisione tecnica e naturalezza espressiva, trasformando ogni esecuzione in un’esperienza intima e coinvolgente."
+      "it": "Dal cuore di Parigi, Le Consort nasce nel 2015 con una missione chiara: riportare al centro della scena la sonata in trio barocca, vero cuore pulsante della musica da camera del Seicento e Settecento. Composto da due violini, un violoncello e un clavicembalo, l’ensemble combina precisione tecnica e naturalezza espressiva, trasformando ogni esecuzione in un’esperienza intima e coinvolgente.",
+      "de": "Das Ensemble Le Consort aus Paris widmet sich der Wiederbelebung der Trio-Sonate des Barock und Frühbarock, einem zentralen Repertoire der Kammermusik des 17. und 18. Jahrhunderts. Besetzt mit zwei Violinen, Violoncello und Cembalo verbinden die Musiker technische Präzision und expressive Natürlichkeit, sodass jede Aufführung eine intime, expressiv ausgefeilte Hörerfahrung liefert.",
+      "en": "Le Consort, an ensemble originating from Paris, aims to restore the baroque trio sonata to the center of chamber music programming, focusing on repertory from the 17th and 18th centuries. With two violins, cello and harpsichord, the group blends technical precision and expressive ease to deliver intimate, stylistically informed performances."
     },
     "organizer": null,
     "price": "See official page",
@@ -19768,11 +19882,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Le-Consort"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Le-Consort"
+      "it": "https://eventi.comune.trento.it/Eventi/Le-Consort",
+      "de": "https://eventi.comune.trento.it/Eventi/Le-Consort",
+      "en": "https://eventi.comune.trento.it/Eventi/Le-Consort"
     }
   },
   {
@@ -19792,7 +19908,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Presso le circa 160 bancarelle dislocate nelle vie del centro (via Verdi, via Prati, via Maffei, via Esterle, via Borsieri, via Al Torrione) potrete fare acquisti di prodotti enogastronomici, ma anche abbigliamento, scarpe, accessori, oggettistica, casalinghi e molto altro. In piazza del Duomo invece sono presenti circa 20 bancarelle dedicate a fiori, piante e prodotti agricoli (frutta, verdura e miele)."
+      "it": "Presso le circa 160 bancarelle dislocate nelle vie del centro (via Verdi, via Prati, via Maffei, via Esterle, via Borsieri, via Al Torrione) potrete fare acquisti di prodotti enogastronomici, ma anche abbigliamento, scarpe, accessori, oggettistica, casalinghi e molto altro. In piazza del Duomo invece sono presenti circa 20 bancarelle dedicate a fiori, piante e prodotti agricoli (frutta, verdura e miele).",
+      "de": "Der Donnerstagmarkt erstreckt sich mit etwa 160 Ständen durch die Altstadtstraßen und bietet ein breites Warenangebot von Lebensmitteln bis Mode und Haushaltswaren. Auf dem Domplatz ergänzen rund 20 Stände das Angebot mit Blumen, Pflanzen und landwirtschaftlichen Erzeugnissen wie Obst, Gemüse undHonig, wodurch der Markt sowohl Alltagsbedarf als auch Spezialitäten abdeckt.",
+      "en": "The Thursday market fills the city centre with roughly 160 stalls spread across streets such as Via Verdi and Via Prati, selling food products alongside clothing, shoes, accessories, homeware and various goods. Around 20 additional stalls in Piazza del Duomo specialise in flowers, plants and agricultural produce like fruit, vegetables and honey, offering both everyday items and local specialties."
     },
     "organizer": null,
     "price": "See official page",
@@ -19804,11 +19922,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi79"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi79"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi79",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi79",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi79"
     }
   },
   {
@@ -19828,7 +19948,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "All'interno del mercato si possono trovare le seguenti tipologie di prodotto: Il \"Mercato dell'economia solidale\" è gestito dalla Cooperativa Social Tank."
+      "it": "All'interno del mercato si possono trovare le seguenti tipologie di prodotto: Il \"Mercato dell'economia solidale\" è gestito dalla Cooperativa Social Tank.",
+      "de": "Der Solidarwirtschafts-Markt wird von der Genossenschaft Social Tank organisiert und präsentiert Produkte, die diesem Wirtschaftsmodell entsprechen. Besucher finden dort eine Auswahl an Waren, die oft lokal, nachhaltig oder sozial orientiert sind, wobei das Format den Prinzipien der solidarischen Ökonomie verpflichtet ist.",
+      "en": "The Market of the Solidarity Economy is run by the cooperative Social Tank and features goods aligned with the principles of solidarity-based economic practice. Within the market visitors can browse products that typically emphasise local production, sustainability or social value, reflecting the cooperative’s community-oriented approach."
     },
     "organizer": null,
     "price": "See official page",
@@ -19840,11 +19962,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale55"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale55"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale55",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale55",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale55"
     }
   },
   {
@@ -19895,7 +20019,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Scopri la città di Trento con una guida turistica! Trento, nel cuore delle Alpi, ha una storia millenaria, fatta di tradizione mitteleuropea a cavallo tra mondo germanico e mondo italiano, le cui testimonianze sono visibili nel bel centro storico e sono perfettamente custodite, epoca dopo epoca, nei siti archeologici e nei musei d'eccellenza che la città ospita."
+      "it": "Scopri la città di Trento con una guida turistica! Trento, nel cuore delle Alpi, ha una storia millenaria, fatta di tradizione mitteleuropea a cavallo tra mondo germanico e mondo italiano, le cui testimonianze sono visibili nel bel centro storico e sono perfettamente custodite, epoca dopo epoca, nei siti archeologici e nei musei d'eccellenza che la città ospita.",
+      "de": "Bei der Stadtführung lernen Besucher die vielschichtige Geschichte Trentinos kennen, geprägt von einer mitteleuropäischen Tradition an der Schnittstelle von deutschsprachigem und italienischem Kulturraum. Die Tour führt durch das gut erhaltene historische Zentrum und verweist auf archäologische Stätten und Museen, die Zeugnisse der langen Stadtgeschichte bewahren.",
+      "en": "This guided visit to Trento introduces participants to the city’s millennial history, shaped by Mitteleuropean influences at the crossroads of Germanic and Italian worlds. The walk explores the well-preserved historic centre and highlights archaeological sites and museums that conserve the city’s layered cultural heritage."
     },
     "organizer": null,
     "price": "See official page",
@@ -19907,11 +20033,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento19"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento19"
+      "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento19",
+      "de": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento19",
+      "en": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento19"
     }
   },
   {
@@ -19931,7 +20059,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“Il Concorso – Premio Mario Roat”, si svolge nei mesi di: ottobre, novembre e dicembre, in orario serale, presso il Teatro “S. Marco” di Trento."
+      "it": "“Il Concorso – Premio Mario Roat”, si svolge nei mesi di: ottobre, novembre e dicembre, in orario serale, presso il Teatro “S. Marco” di Trento.",
+      "de": "Der Wettbewerb „Il Concorso – Premio Mario Roat“ findet an Abenden in den Monaten Oktober bis Dezember im Teatro S. Marco von Trento statt und präsentiert Bühnenbeiträge im Rahmen einer Serienveranstaltung. Das Format setzt auf regelmäßige Aufführungen, die Teil des Preises und Wettbewerbs sind, und bietet dem Publikum abwechslungsreiche Theaterabende.",
+      "en": "The competition “Il Concorso – Premio Mario Roat” takes place in evening sessions across October, November and December at Teatro S. Marco in Trento, featuring theatrical presentations as part of the prize series. The format stages recurring performances as entries to the competition, giving audiences a program of varied evening theatre events."
     },
     "organizer": null,
     "price": "See official page",
@@ -19943,11 +20073,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate"
+      "it": "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate",
+      "de": "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate",
+      "en": "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate"
     }
   },
   {
@@ -19967,7 +20099,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "A Cadine, Trento, torna l’escape room del Gruppo Oasi: un’esperienza al coperto per giovani, adulti e famiglie, nei weekend di ottobre 2026. Vivi l’emozione e il mistero con il tuo team, tra indizi segreti ed enigmi da risolvere insieme."
+      "it": "A Cadine, Trento, torna l’escape room del Gruppo Oasi: un’esperienza al coperto per giovani, adulti e famiglie, nei weekend di ottobre 2026. Vivi l’emozione e il mistero con il tuo team, tra indizi segreti ed enigmi da risolvere insieme.",
+      "de": "In Cadine veranstaltet die Gruppe Oasi an Wochenenden im Oktober eine Indoor-Escape-Room-Erfahrung für Jugendliche, Erwachsene und Familien, die gemeinsam Rätsel lösen müssen. Teilnehmende erleben eine spannungsreiche Mischung aus Hinweisen und Geheimnissen, die Teamarbeit und Kombinationsfähigkeit fordert.",
+      "en": "In Cadine the Gruppo Oasi returns with an indoor escape-room experience on October weekends, designed for young people, adults and families to solve puzzles together. Participants engage with clues and mysteries that require collaboration and problem-solving, delivering a mix of suspense and teamwork-driven challenge."
     },
     "organizer": null,
     "price": "See official page",
@@ -19979,11 +20113,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3"
+      "it": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3",
+      "de": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3",
+      "en": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3"
     }
   },
   {
@@ -20044,7 +20180,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Sabato 24 ottobre 2026 vieni a prendere abiti, scarpe, accessori, oggettistica casa, tessili, giocattoli dalle 9:00 alle 12:00 e dalle 14:00 alle 17:00 in sala della circoscrizione via val Gola 2 Ravina"
+      "it": "Sabato 24 ottobre 2026 vieni a prendere abiti, scarpe, accessori, oggettistica casa, tessili, giocattoli dalle 9:00 alle 12:00 e dalle 14:00 alle 17:00 in sala della circoscrizione via val Gola 2 Ravina",
+      "de": "Am Samstag in Ravina können Besucher zwischen 9:00–12:00 und 14:00–17:00 gebrauchte Kleidung, Schuhe, Wohnaccessoires, Textilien und Spielzeug kostenlos mitnehmen. Die Veranstaltung findet in der Versammlungshalle in der Via Val Gola 2 statt und fördert Wiederverwendung und nachhaltigen Umgang mit Gebrauchsgegenständen in der Nachbarschaft.",
+      "en": "On Saturday in Ravina people can pick up second-hand clothes, shoes, home items, textiles and toys for free between 9:00–12:00 and 14:00–17:00 in the local district hall on Via Val Gola 2. The event encourages reuse and local sharing of household goods to reduce waste and extend item lifecycles."
     },
     "organizer": null,
     "price": "See official page",
@@ -20056,11 +20194,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7"
+      "it": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7",
+      "de": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7",
+      "en": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7"
     }
   },
   {
@@ -20080,7 +20220,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "L'autore dialoga con Chiara Bertamini (Biblioteca comunale di Trento). Ingresso libero fino ad esaurimento posti."
+      "it": "L'autore dialoga con Chiara Bertamini (Biblioteca comunale di Trento). Ingresso libero fino ad esaurimento posti.",
+      "de": "Der Autor führt ein Gespräch mit Chiara Bertamini von der Stadtbibliothek Trento; die Veranstaltung bietet Raum für literarischen Austausch und Einblicke in das Werk. Der Eintritt ist frei bis zum Platzangebot, sodass Interessierte an der öffentlichen Begegnung teilnehmen können.",
+      "en": "The author engages in a dialogue with Chiara Bertamini from the Trento public library, offering a conversational encounter that sheds light on the book and its themes. Admission is free until capacity is reached, providing the audience an accessible occasion for direct exchange with the author."
     },
     "organizer": null,
     "price": "See official page",
@@ -20092,11 +20234,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/L-orso-di-Shakespeare"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare"
+      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare",
+      "de": "https://eventi.comune.trento.it/Eventi/L-orso-di-Shakespeare",
+      "en": "https://eventi.comune.trento.it/Eventi/L-orso-di-Shakespeare"
     }
   },
   {
@@ -20116,7 +20260,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Istituito nel 1998 e regolamentato dal Disciplinare del Mercatino dei Gaudenti e dei criteri di selezione del soggetto gestore il Mercatino dei Gaudenti è riservato a privati cittadini, collezionisti, associazioni di volontariato, ad artisti e artigiani hobbisti che vogliono vendere o scambiare la loro merce personale. Sono esclusi coloro che effettuano vendita di oggetti, precedentemente acquistati a tale scopo."
+      "it": "Istituito nel 1998 e regolamentato dal Disciplinare del Mercatino dei Gaudenti e dei criteri di selezione del soggetto gestore il Mercatino dei Gaudenti è riservato a privati cittadini, collezionisti, associazioni di volontariato, ad artisti e artigiani hobbisti che vogliono vendere o scambiare la loro merce personale. Sono esclusi coloro che effettuano vendita di oggetti, precedentemente acquistati a tale scopo.",
+      "de": "Der Mercatino dei Gaudenti in Piazza Dante bietet Privatpersonen, Sammlern, Ehrenamtlichen sowie Hobbykünstlern und -handwerkern die Möglichkeit, persönliche Gegenstände zu verkaufen oder zu tauschen. Die Veranstaltung ist geregelt und schließt explizit kommerzielle Händler aus, die Waren gezielt zum Weiterverkauf einkaufen.",
+      "en": "The Mercatino dei Gaudenti in Piazza Dante is reserved for private citizens, collectors, volunteer associations, and hobby artists and craftsmen who wish to sell or swap their personal items. The market operates under a specific regulation that excludes sellers who procure goods solely for resale."
     },
     "organizer": null,
     "price": "See official page",
@@ -20128,11 +20274,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Dante10"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Dante10"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Dante10",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Dante10",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Dante10"
     }
   },
   {
@@ -20152,7 +20300,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il mercato si svolge in piazza Dante (Circoscrizione Centro storico - Piedicastello) ogni sabato esclusi i festivi dalle 7:30 alle 13:00"
+      "it": "Il mercato si svolge in piazza Dante (Circoscrizione Centro storico - Piedicastello) ogni sabato esclusi i festivi dalle 7:30 alle 13:00",
+      "de": "Der Wochenmarkt auf der Piazza Dante versammelt regionale Erzeuger jeden Samstagvormittag und bietet frische Produkte direkt vom Hof. Der Markt ist Teil des Stadtzentrums und findet regelmäßig in den Morgenstunden statt, ausgenommen an Feiertagen.",
+      "en": "The farmers' market on Piazza Dante brings together local producers every Saturday morning, offering fresh, farm-direct products. The market is held regularly in the historic center between early morning and midday, with sessions not scheduled on public holidays."
     },
     "organizer": null,
     "price": "See official page",
@@ -20164,11 +20314,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante51"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante51"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante51",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante51",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante51"
     }
   },
   {
@@ -20188,7 +20340,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il Museo Diocesano Tridentino propone un calendario di visite guidate alla mostra Nicolò Dorigati. Nel segno del Barocco , per scoprire da vicino la vita e le opere di uno dei principali protagonisti della pittura trentina tra Sei e Settecento."
+      "it": "Il Museo Diocesano Tridentino propone un calendario di visite guidate alla mostra Nicolò Dorigati. Nel segno del Barocco , per scoprire da vicino la vita e le opere di uno dei principali protagonisti della pittura trentina tra Sei e Settecento.",
+      "de": "Die Ausstellung über Nicolò Dorigati lädt Besucher ein, Leben und Werk eines zentralen Malers der Trentiner Barockzeit näher kennenzulernen. Geführte Besuche werden angeboten, um die künstlerische Bedeutung und die historischen Kontexte seiner Gemälde zu erläutern.",
+      "en": "The exhibition on Nicolò Dorigati allows visitors to explore the life and works of a key figure in Trentino painting between the 17th and 18th centuries. The diocesan museum schedules guided visits to contextualize his art and highlight its significance within the Baroque tradition."
     },
     "organizer": null,
     "price": "See official page",
@@ -20200,11 +20354,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco"
+      "it": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco",
+      "de": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco",
+      "en": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco"
     }
   },
   {
@@ -20224,7 +20380,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "La Rassegna teatrale è valida per l’aggiudicazione del Premio intitolato a Mario Roat, fondatore della Federazione Trentina delle Filodrammatiche. Al via presso gli uffici della Co.F.As. la campagna abbonamenti."
+      "it": "La Rassegna teatrale è valida per l’aggiudicazione del Premio intitolato a Mario Roat, fondatore della Federazione Trentina delle Filodrammatiche. Al via presso gli uffici della Co.F.As. la campagna abbonamenti.",
+      "de": "Die Theaterreihe Palcoscenico Trentino 2026 versammelt Aufführungen, die um den Preis zu Ehren von Mario Roat konkurrieren und die lokale Amateur- und Laienbühnenkultur stärken. Zusätzlich läuft eine Abonnementkampagne über die zuständige Koordinationsstelle, um regelmäßige Teilnahme und Unterstützung der Festivalreihe zu fördern.",
+      "en": "Palcoscenico Trentino 2026 is a theatre series that features productions competing for the award named after Mario Roat, supporting Trentino's amateur dramatics. An abonnement campaign is being organized by the coordinating office to encourage season ticket subscriptions and sustained engagement with the series."
     },
     "organizer": null,
     "price": "See official page",
@@ -20240,9 +20398,11 @@
     "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Palcoscenico-Trentino-2026",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://www.cultura.trentino.it/Rassegne/Palcoscenico-Trentino-2026"
+      "it": "https://www.cultura.trentino.it/Rassegne/Palcoscenico-Trentino-2026",
+      "de": "https://www.cultura.trentino.it/Rassegne/Palcoscenico-Trentino-2026",
+      "en": "https://www.cultura.trentino.it/Rassegne/Palcoscenico-Trentino-2026"
     },
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15"
   },
   {
@@ -20262,7 +20422,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "L'autore dialoga con Chiara Bertamini (Biblioteca comunale di Trento). Ingresso libero fino ad esaurimento posti."
+      "it": "L'autore dialoga con Chiara Bertamini (Biblioteca comunale di Trento). Ingresso libero fino ad esaurimento posti.",
+      "de": "Bei der Buchvorstellung zu L'orso di Shakespeare tritt der Autor in einen Dialog mit Chiara Bertamini aus der Stadtbibliothek Trento. Die Veranstaltung ist öffentlich und der Eintritt erfolgt bis zur Auslastung der verfügbaren Plätze ohne Vorverkaufspflicht.",
+      "en": "At the presentation of L'orso di Shakespeare the author engages in conversation with Chiara Bertamini from the Trento public library. The event is open to the public with free admission until venue capacity is reached."
     },
     "organizer": null,
     "price": "See official page",
@@ -20274,11 +20436,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare"
+      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare",
+      "de": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare",
+      "en": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare"
     }
   },
   {
@@ -20298,7 +20462,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "La Fondazione Museo storico del Trentino propone una visita guidata gratuita alla mostra dedicata al parco di Piazza Venezia e al monumento ad Alcide De Gasperi. Durata : 45 minuti Prenotazione obbligatoria : edu@museostorico.it Ritrovo : presso l’installazione al centro del parco di Piazza Venezia"
+      "it": "La Fondazione Museo storico del Trentino propone una visita guidata gratuita alla mostra dedicata al parco di Piazza Venezia e al monumento ad Alcide De Gasperi. Durata : 45 minuti Prenotazione obbligatoria : edu@museostorico.it Ritrovo : presso l’installazione al centro del parco di Piazza Venezia",
+      "de": "Die kostenlose Führung beleuchtet die Ausstellung über den Wandel von Piazza Venezia und das Denkmal für Alcide De Gasperi und erklärt historische Aspekte des Parks. Die Teilnehmer treffen sich am zentralen Installationspunkt im Park; eine Anmeldung ist erforderlich, da Plätze begrenzt sind.",
+      "en": "This free guided tour explores the exhibition about Piazza Venezia’s transformation and the monument to Alcide De Gasperi, explaining historical layers of the park. The meeting point is the installation at the park’s center and prior booking is required because places are limited."
     },
     "organizer": null,
     "price": "See official page",
@@ -20311,11 +20477,13 @@
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6",
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi7"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6"
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6",
+      "de": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6",
+      "en": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6"
     }
   },
   {
@@ -20403,7 +20571,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Cosa si nasconde nella cassa arrivata a Taddeo dalla lontana e misteriosa Terra dei Faraoni? Scopriamo insieme le storie affascinanti e le curiosità raccontate dai reperti, che ci accompagnano alla scoperta della civiltà degli antichi egizi."
+      "it": "Cosa si nasconde nella cassa arrivata a Taddeo dalla lontana e misteriosa Terra dei Faraoni? Scopriamo insieme le storie affascinanti e le curiosità raccontate dai reperti, che ci accompagnano alla scoperta della civiltà degli antichi egizi.",
+      "de": "Die Veranstaltung nimmt Kinder mit auf eine Entdeckungsreise rund um eine geheimnisvolle Kiste aus dem Land der Pharaonen und erkundet Exponate der altägyptischen Kultur. Anhand der Funde werden faszinierende Geschichten und Kuriositäten der antiken Zivilisation vermittelt.",
+      "en": "This family event invites children to explore a mysterious chest from the land of the Pharaohs and discover artifacts tied to ancient Egyptian civilization. Through the exhibits, participants learn captivating stories and curiosities that introduce them to daily life and cultural practices of antiquity."
     },
     "organizer": null,
     "price": "See official page",
@@ -20415,11 +20585,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2"
+      "it": "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2",
+      "de": "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2",
+      "en": "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2"
     }
   },
   {
@@ -20614,7 +20786,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Biglietti acquistabili online o presso la biglietteria del castello."
+      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Biglietti acquistabili online o presso la biglietteria del castello.",
+      "de": "An Wochenenden werden geführte Rundgänge durch das Castello del Buonconsiglio angeboten, die Kunst, Geschichte und die besondere Atmosphäre der Burg vermitteln. Tickets sind sowohl online als auch an der Kasse des Schlosses erhältlich und ermöglichen den Zugang zu den erläuterten Bereichen.",
+      "en": "Weekend guided tours of the Castello del Buonconsiglio introduce visitors to the castle’s art, history and timeless charm. Tickets can be purchased online or at the castle ticket office to join the guided experience and access the areas covered during the tour."
     },
     "organizer": null,
     "price": "See official page",
@@ -20626,11 +20800,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio14"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio14"
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio14",
+      "de": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio14",
+      "en": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio14"
     }
   },
   {
@@ -20650,7 +20826,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Al via il secondo ciclo di incontri di educazione ambientale Insieme facciamo la differenza: prendiamoci cura della nostra città , promosso dal progetto Transizione ecologica del Comune di Trento nelle circoscrizioni, in collaborazione con Dolomiti Ambiente."
+      "it": "Al via il secondo ciclo di incontri di educazione ambientale Insieme facciamo la differenza: prendiamoci cura della nostra città , promosso dal progetto Transizione ecologica del Comune di Trento nelle circoscrizioni, in collaborazione con Dolomiti Ambiente.",
+      "de": "Die Veranstaltungsreihe 'Insieme facciamo la differenza' startet den zweiten Zyklus von Bildungstreffen zur Umweltbildung und Stadtpflege in den Stadtbezirken. Das Projekt wird von der ökologischen Übergangsinitiative der Stadt Trento in Zusammenarbeit mit Dolomiti Ambiente organisiert und richtet sich an lokale Gemeinschaften.",
+      "en": "The 'Insieme facciamo la differenza' series launches a second cycle of environmental education meetings focused on caring for the city within local districts. The initiative is promoted by Trento’s ecological transition project in collaboration with Dolomiti Ambiente and targets community engagement and awareness."
     },
     "organizer": null,
     "price": "See official page",
@@ -20663,11 +20841,13 @@
       "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta11",
       "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta12"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta11"
+      "it": "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta11",
+      "de": "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta11",
+      "en": "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta11"
     }
   },
   {
@@ -20687,7 +20867,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Non solo città di montagna ma città “con” la montagna. Oggi Trento, al lascito del principato vescovile e alle tracce del rigore asburgico, aggiunge una particolare vivacità tutta moderna, zampillante di spazi sociali e creatività."
+      "it": "Non solo città di montagna ma città “con” la montagna. Oggi Trento, al lascito del principato vescovile e alle tracce del rigore asburgico, aggiunge una particolare vivacità tutta moderna, zampillante di spazi sociali e creatività.",
+      "de": "Die Buchvorstellung präsentiert Trento als Stadt mit Bergbezug und einer lebendigen Mischung aus historischem Erbe und moderner Kreativität. Das Buch beleuchtet vielfältige Orte, die von der bischöflichen Vergangenheit bis zu zeitgenössischen sozialen Räumen Zeugnis ablegen.",
+      "en": "The book presentation frames Trento not only as a mountain city but as one intertwined with its mountain setting, blending episcopal legacy and Habsburg traces with contemporary vibrancy. The volume highlights diverse sites that reveal historical layers and present-day social and creative life."
     },
     "organizer": null,
     "price": "See official page",
@@ -20699,11 +20881,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Presentazione-libro-111-luoghi-di-Trento-che-devi-proprio-scoprire"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-111-luoghi-di-Trento-che-devi-proprio-scoprire"
+      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-111-luoghi-di-Trento-che-devi-proprio-scoprire",
+      "de": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-111-luoghi-di-Trento-che-devi-proprio-scoprire",
+      "en": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-111-luoghi-di-Trento-che-devi-proprio-scoprire"
     }
   },
   {
@@ -20723,7 +20907,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali."
+      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali.",
+      "de": "Das Festival 'Crepe nel Mondo' widmet sich Geopolitik und internationalen Analysen, indem es die aktuellen Bruchlinien und ungelösten Konflikte unseres Zeitalters beleuchtet. Zwischen dem 19. Oktober und dem 3. November 2026 werden Vorträge und Diskussionen angeboten, die Auswirkungen auf Gesellschaft, Politik und Wirtschaft thematisieren.",
+      "en": "The 'Crepe nel Mondo' festival focuses on geopolitics and international analysis, spotlighting the fissures and unresolved tensions shaping our time. From 19 October to 3 November 2026 the program brings talks and debates that examine how global fractures affect societies, politics and economies."
     },
     "organizer": null,
     "price": "See official page",
@@ -20735,11 +20921,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo3"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo3"
+      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo3",
+      "de": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo3",
+      "en": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo3"
     }
   },
   {
@@ -20759,7 +20947,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Torna anche quest’anno il corso di formazione gratuito per caregiver familiari, con sei incontri a cadenza settimanale, in programma da fine settembre a inizio novembre alla Fondazione Franco Demarchi, in piazza Santa Maria Maggiore 7. L’appuntamento è sempre di martedì, dalle 17:00 alle 19:00."
+      "it": "Torna anche quest’anno il corso di formazione gratuito per caregiver familiari, con sei incontri a cadenza settimanale, in programma da fine settembre a inizio novembre alla Fondazione Franco Demarchi, in piazza Santa Maria Maggiore 7. L’appuntamento è sempre di martedì, dalle 17:00 alle 19:00.",
+      "de": "Curainsieme bietet einen kostenlosen Schulungskurs für familiäre Pflegepersonen mit sechs wöchentlichen Treffen, die Ende September bis Anfang November stattfinden. Die Termine finden dienstags statt und richten sich an pflegende Angehörige, die praxisnahe Unterstützung und Austausch suchen.",
+      "en": "Curainsieme is a free training course for family caregivers consisting of six weekly sessions running from late September to early November. Sessions take place on Tuesdays at the Fondazione Franco Demarchi and aim to provide practical support and peer exchange for those caring for relatives."
     },
     "organizer": null,
     "price": "See official page",
@@ -20771,11 +20961,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Curainsieme5"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Curainsieme5"
+      "it": "https://eventi.comune.trento.it/Eventi/Curainsieme5",
+      "de": "https://eventi.comune.trento.it/Eventi/Curainsieme5",
+      "en": "https://eventi.comune.trento.it/Eventi/Curainsieme5"
     }
   },
   {
@@ -20822,7 +21014,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Sono molte le famiglie che possono contare su una storia di emigrazione. Bisnonni e nonni, nell'immaginario di molti adulti di oggi, li vediamo partire per mete lontane e oscure con una valigia piena di vestiti e un portafoglio in tasca quasi vuoto."
+      "it": "Sono molte le famiglie che possono contare su una storia di emigrazione. Bisnonni e nonni, nell'immaginario di molti adulti di oggi, li vediamo partire per mete lontane e oscure con una valigia piena di vestiti e un portafoglio in tasca quasi vuoto.",
+      "de": "Bei dieser Buchvorstellung stehen Geschichten von Familien im Mittelpunkt, die Erfahrungen mit Migration über Generationen weitergeben. Besucher hören offenbar über Großeltern und Urgroßeltern, deren Aufbruch in unbekannte Fernen mit spärlichem Gepäck das kollektive Gedächtnis vieler prägt, und können so Verbindungen zwischen persönlicher Erinnerung und historischer Migration nachvollziehen.",
+      "en": "This book presentation focuses on family migration stories passed down through generations. Attendees will encounter narratives about grandparents and great-grandparents who departed for distant, uncertain destinations with little more than packed clothes and nearly empty wallets, gaining insight into how those departures shape contemporary memories and identities."
     },
     "organizer": null,
     "price": "See official page",
@@ -20834,11 +21028,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Terre-promesse"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Terre-promesse"
+      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Terre-promesse",
+      "de": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Terre-promesse",
+      "en": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Terre-promesse"
     }
   },
   {
@@ -20858,7 +21054,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali."
+      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali.",
+      "de": "Das Festival widmet sich geopolitischer Analyse und rückt die gesellschaftlichen, politischen und wirtschaftlichen Bruchlinien unserer Zeit in den Fokus. Während der Veranstaltungsreihe werden ungelöste Konflikte und globale Spannungen beleuchtet, die gegenwärtige Machtverhältnisse und internationale Beziehungen neu ausrichten.",
+      "en": "This festival is devoted to geopolitical analysis, highlighting the fractures shaping contemporary societies, politics and economies. Across the programme, unresolved issues and global tensions are examined to reveal the fault lines that continue to redefine international balances and influence public debate."
     },
     "organizer": null,
     "price": "See official page",
@@ -20870,11 +21068,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo4"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo4"
+      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo4",
+      "de": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo4",
+      "en": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo4"
     }
   },
   {
@@ -20932,7 +21132,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il mercato si svolge in via Fabio Filzi (Circoscrizione San Giuseppe - Santa Chiara) ogni mercoledì esclusi i festivi dalle 7:30 alle 12:30"
+      "it": "Il mercato si svolge in via Fabio Filzi (Circoscrizione San Giuseppe - Santa Chiara) ogni mercoledì esclusi i festivi dalle 7:30 alle 12:30",
+      "de": "Der Markt in der Via Fabio Filzi bietet lokale bäuerliche Produkte und dient als wöchentlicher Treffpunkt der Nachbarschaft. Er findet jeden Mittwoch (außer an Feiertagen) am Vormittag statt und stellt direkt vom Produzenten stammende Lebensmittel in den Mittelpunkt des Angebots.",
+      "en": "The market on Via Fabio Filzi showcases local farm-produce and acts as a weekly neighborhood meeting point. Held every Wednesday morning (excluding public holidays), it emphasizes direct-to-consumer agricultural goods from regional producers, offering shoppers fresh and locally sourced food items."
     },
     "organizer": null,
     "price": "See official page",
@@ -20944,11 +21146,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi51"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi51"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi51",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi51",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi51"
     }
   },
   {
@@ -20968,7 +21172,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "«La musica – scriveva Yehudi Menuhin – è la lingua che permette di comunicare con il cuore e di toccare l’anima». Questo concerto ne è prova vivente, unendo due interpreti di statura internazionale alla forza visiva della danza."
+      "it": "«La musica – scriveva Yehudi Menuhin – è la lingua che permette di comunicare con il cuore e di toccare l’anima». Questo concerto ne è prova vivente, unendo due interpreti di statura internazionale alla forza visiva della danza.",
+      "de": "Das Konzert verbindet hochkarätige musikalische Interpretation mit der visuellen Kraft des Tanzes und lädt zu einem emotionalen Erlebnis ein. Zwei international tätige Künstler treten zusammen auf, um durch Musik und Bewegungsdarbietung eine direkte, berührende Kommunikation mit dem Publikum zu schaffen.",
+      "en": "This concert pairs distinguished musical performers with the visual power of dance to create an emotionally engaging experience. Two internationally renowned artists collaborate onstage, using music and choreography to communicate directly with the audience and evoke soulful, heart-led responses."
     },
     "organizer": null,
     "price": "See official page",
@@ -20980,11 +21186,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Anabel-Montesinos-Linus-Roth"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Anabel-Montesinos-Linus-Roth"
+      "it": "https://eventi.comune.trento.it/Eventi/Anabel-Montesinos-Linus-Roth",
+      "de": "https://eventi.comune.trento.it/Eventi/Anabel-Montesinos-Linus-Roth",
+      "en": "https://eventi.comune.trento.it/Eventi/Anabel-Montesinos-Linus-Roth"
     }
   },
   {
@@ -21004,7 +21212,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Terzo incontro Salute e benessere nell'età adulta e anziana A cura di Casa Melograno. Parleremo di come prendersi cura della propria salute con la dott.ssa Beatrice Cazzetta e l'infermiera Cristina Campestrini."
+      "it": "Terzo incontro Salute e benessere nell'età adulta e anziana A cura di Casa Melograno. Parleremo di come prendersi cura della propria salute con la dott.ssa Beatrice Cazzetta e l'infermiera Cristina Campestrini.",
+      "de": "Der dritte Vortrag der Reihe widmet sich Gesundheit und Wohlbefinden im Erwachsenen- und Seniorenalter mit einem Fokus auf Prävention und Selbstfürsorge. Fachliche Beiträge von einer Ärztin und einer Pflegekraft bieten praxisnahe Hinweise, wie ältere Menschen ihre Gesundheit aktiv unterstützen können.",
+      "en": "The third meeting in this series addresses health and wellbeing in adulthood and older age, emphasizing prevention and self-care. Medical and nursing professionals lead the session, offering practical guidance on how seniors and adults can actively manage and support their health."
     },
     "organizer": null,
     "price": "See official page",
@@ -21016,11 +21226,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione3"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione3"
+      "it": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione3",
+      "de": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione3",
+      "en": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione3"
     }
   },
   {
@@ -21040,7 +21252,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali."
+      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali.",
+      "de": "Das Festival zur Geopolitik beleuchtet erneut die globalen Spannungen und ungelösten Konflikte, die die Welt nachhaltig prägen. Über mehrere Tage hinweg rückt die Veranstaltungsreihe die bruchhaften Prozesse in den Mittelpunkt, die bestehende Machtverhältnisse und internationale Kooperationsstrukturen beeinflussen.",
+      "en": "This iteration of the geopolitics festival again highlights global tensions and unresolved conflicts that shape the contemporary world. Over a multi-day programme, the event focuses attention on disruptive processes and fault lines that influence power relations and international cooperation."
     },
     "organizer": null,
     "price": "See official page",
@@ -21052,11 +21266,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5"
+      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5",
+      "de": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5",
+      "en": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5"
     }
   },
   {
@@ -21076,7 +21292,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "La fontana del Nettuno si illumina di colore rosa per segnalare l’adesione del Comune di Trento alla campagna di sensibilizzazione “Lilt for Women – Nastro Rosa”. Adesione che troverà posto anche sul ledwall posto sull'ostello che si trova in zona centrale alla città e vicino alle stazioni degli autobus e treni."
+      "it": "La fontana del Nettuno si illumina di colore rosa per segnalare l’adesione del Comune di Trento alla campagna di sensibilizzazione “Lilt for Women – Nastro Rosa”. Adesione che troverà posto anche sul ledwall posto sull'ostello che si trova in zona centrale alla città e vicino alle stazioni degli autobus e treni.",
+      "de": "Die Stadt beteiligt sich an der Sensibilisierungskampagne „Lilt for Women – Nastro Rosa“, sichtbar durch die Beleuchtung eines zentralen Brunnens in Rosa. Weitere städtische Sichtbarkeitsmaßnahmen schließen eine LED-Anzeige an einer zentralen Herberge in Bahnhofsnähe ein, die die Unterstützung der Initiative signalisiert.",
+      "en": "The municipality takes part in the ‘Lilt for Women – Nastro Rosa’ awareness campaign, visually marking support by illuminating a central fountain in pink. Additional city visibility measures include displaying the campaign motif on a LED wall at a centrally located hostel near bus and train stations."
     },
     "organizer": null,
     "price": "See official page",
@@ -21088,11 +21306,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2"
+      "it": "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2",
+      "de": "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2",
+      "en": "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2"
     }
   },
   {
@@ -21112,7 +21332,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Con Dario De Cristofaro È possibile ricostruire la storia di un pittore di cui non conosciamo neppure un’opera firmata? È questa una delle domande che accompagna la riscoperta di Nicolò Dorigati, protagonista della scena artistica trentina tra Sei e Settecento, a lungo rimasto ai margini degli studi."
+      "it": "Con Dario De Cristofaro È possibile ricostruire la storia di un pittore di cui non conosciamo neppure un’opera firmata? È questa una delle domande che accompagna la riscoperta di Nicolò Dorigati, protagonista della scena artistica trentina tra Sei e Settecento, a lungo rimasto ai margini degli studi.",
+      "de": "Der Vortrag rekonstruiert die Lebensgeschichte eines Malers, dessen Werk bislang kaum fassbar ist, und stellt die Frage nach der Rekonstruktion ohne signierte Werke. Anhand wissenschaftlicher Untersuchung und Kontextanalyse wird das Wirken von Nicolò Dorigati, einem Akteur der Trentiner Kunstszene im 17. und 18. Jahrhundert, neu beleuchtet.",
+      "en": "This lecture reconstructs the life and career of a painter whose oeuvre remains largely unrecognized and probes whether an artist’s history can be pieced together without signed works. Through scholarly research and contextual analysis, it revisits Nicolò Dorigati’s role in Trentino’s art scene across the 17th and 18th centuries."
     },
     "organizer": null,
     "price": "See official page",
@@ -21124,11 +21346,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore"
+      "it": "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore",
+      "de": "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore",
+      "en": "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore"
     }
   },
   {
@@ -21148,7 +21372,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Lunetta Savino è Madre Courage nella rilettura di Leo Muscato del capolavoro di Bertolt Brecht. Una donna che sopravvive grazie alla guerra, tra contraddizioni, musica dal vivo e un carro che attraversa la scena."
+      "it": "Lunetta Savino è Madre Courage nella rilettura di Leo Muscato del capolavoro di Bertolt Brecht. Una donna che sopravvive grazie alla guerra, tra contraddizioni, musica dal vivo e un carro che attraversa la scena.",
+      "de": "In dieser Neuinterpretation spielt Lunetta Savino die Titelrolle einer Frau, die vom Krieg profitiert und durch Widersprüche, Livemusik und einen fahrbaren Wagen ihrer Existenz nachgeht. Das Stück kombiniert dramatische Kontraste mit musikalischen Einlagen und einem markanten Bühnenbild, das die ambivalente Figur in den Mittelpunkt stellt.",
+      "en": "In this reinterpretation Lunetta Savino plays Mother Courage, a woman who survives and profits from war amid contradictions, live music and a mobile cart traversing the stage. The production blends dramatic tension with musical elements and a vivid stage device to foreground the protagonist’s moral ambiguity."
     },
     "organizer": null,
     "price": "See official page",
@@ -21160,11 +21386,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli"
+      "it": "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli",
+      "de": "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli",
+      "en": "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli"
     }
   },
   {
@@ -21184,7 +21412,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Presso le circa 160 bancarelle dislocate nelle vie del centro (via Verdi, via Prati, via Maffei, via Esterle, via Borsieri, via Al Torrione) potrete fare acquisti di prodotti enogastronomici, ma anche abbigliamento, scarpe, accessori, oggettistica, casalinghi e molto altro. In piazza del Duomo invece sono presenti circa 20 bancarelle dedicate a fiori, piante e prodotti agricoli (frutta, verdura e miele)."
+      "it": "Presso le circa 160 bancarelle dislocate nelle vie del centro (via Verdi, via Prati, via Maffei, via Esterle, via Borsieri, via Al Torrione) potrete fare acquisti di prodotti enogastronomici, ma anche abbigliamento, scarpe, accessori, oggettistica, casalinghi e molto altro. In piazza del Duomo invece sono presenti circa 20 bancarelle dedicate a fiori, piante e prodotti agricoli (frutta, verdura e miele).",
+      "de": "Der große Wochenmarkt verteilt rund 160 Stände auf verschiedene Innenstadtstraßen und bietet ein breites Sortiment von Lebensmitteln bis Bekleidung und Haushaltswaren. Auf dem Domplatz sind zusätzlich etwa 20 Stände mit Blumen, Pflanzen und landwirtschaftlichen Produkten wie Obst, Gemüse und Honig versammelt, was den Markt zum vielseitigen Einkaufsort macht.",
+      "en": "The large weekly market spans some 160 stalls across central streets, offering an extensive mix of gastronomic products, clothing, shoes, accessories, homeware and more. In Piazza del Duomo around 20 dedicated stalls showcase flowers, plants and agricultural produce such as fruit, vegetables and honey, creating a varied shopping experience."
     },
     "organizer": null,
     "price": "See official page",
@@ -21196,11 +21426,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi80"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi80"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi80",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi80",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi80"
     }
   },
   {
@@ -21220,7 +21452,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "All'interno del mercato si possono trovare le seguenti tipologie di prodotto: Il \"Mercato dell'economia solidale\" è gestito dalla Cooperativa Social Tank."
+      "it": "All'interno del mercato si possono trovare le seguenti tipologie di prodotto: Il \"Mercato dell'economia solidale\" è gestito dalla Cooperativa Social Tank.",
+      "de": "Der Markt für solidarische Ökonomie wird von einer Sozialgenossenschaft organisiert und präsentiert Produkte, die soziale und nachhaltige Kriterien widerspiegeln. Besucher finden dort Angebote verschiedener Produktkategorien, die Produktion und Vertrieb nach solidarischen Prinzipien verbinden.",
+      "en": "The solidarity economy market is managed by a social cooperative and features products that reflect social and sustainability criteria. Within the market visitors encounter multiple product types that showcase initiatives combining ethical production and collaborative distribution models."
     },
     "organizer": null,
     "price": "See official page",
@@ -21232,11 +21466,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56"
     }
   },
   {
@@ -21256,7 +21492,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "L'ingresso è libero, per informazioni si può chiamare il numero 0461 912533 o mandare una e-mail all'indirizzo biblioteca.villazzano@comune.trento.it"
+      "it": "L'ingresso è libero, per informazioni si può chiamare il numero 0461 912533 o mandare una e-mail all'indirizzo biblioteca.villazzano@comune.trento.it",
+      "de": "Diese Veranstaltung in der Bibliothek bietet freien Eintritt und richtet sich an ein breites Publikum mit Bildungs- oder Kulturangeboten. Für organisatorische Rückfragen werden Kontaktdaten der Bibliothek bereitgestellt, sodass Interessierte vorab Informationen telefonisch oder per E‑Mail einholen können.",
+      "en": "This library event offers free admission and is aimed at a general audience with cultural and educational programming. Contact details for the Villazzano library are provided for anyone seeking further logistical information by phone or email ahead of the session."
     },
     "organizer": null,
     "price": "See official page",
@@ -21268,11 +21506,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2"
+      "it": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2",
+      "de": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2",
+      "en": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2"
     }
   },
   {
@@ -21292,7 +21532,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Giornata di studi a cura di Step - Scuola per il governo del territorio e del paesaggio, con performance di OHT Office for Human Theatre e presentazione del catalogo della mostra Prima sessione: ore 10 – 12 c/o Galleria Civica Trento"
+      "it": "Giornata di studi a cura di Step - Scuola per il governo del territorio e del paesaggio, con performance di OHT Office for Human Theatre e presentazione del catalogo della mostra Prima sessione: ore 10 – 12 c/o Galleria Civica Trento",
+      "de": "Der Finissage-Tag bietet eine wissenschaftliche Tagung, kuratiert von Step – Schule für Landschafts- und Raumplanung, kombiniert mit einer Theaterperformance des OHT Office for Human Theatre und der Präsentation des Ausstellungskatalogs. Besucher erleben Vortrags- und Diskussionsformate am Vormittag sowie künstlerische Interventionen, die die Ausstellungsthemen ergänzen und die Verbindung zwischen Forschung, Raumwahrnehmung und künstlerischer Praxis hervorheben.",
+      "en": "The finissage day comprises a study day organized by Step – School for Territorial and Landscape Governance, featuring a performance by OHT Office for Human Theatre and the presentation of the exhibition catalogue. Attendees can expect morning lectures and discussions alongside live theatrical interventions that reflect and deepen the exhibition’s exploration of fragile geographies and memory."
     },
     "organizer": null,
     "price": "See official page",
@@ -21304,11 +21546,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage"
+      "it": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage",
+      "de": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage",
+      "en": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage"
     }
   },
   {
@@ -21328,7 +21572,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "A 800 anni dalla morte di San Francesco, il Gruppo vocale Laurence Feininger, diretto da Roberto Gianotti, porta al Castello del Buonconsiglio un viaggio nella musica francescana: sequenze, laude, antifone e rari brani liturgici tratti da codici dal XIII al XVIII secolo."
+      "it": "A 800 anni dalla morte di San Francesco, il Gruppo vocale Laurence Feininger, diretto da Roberto Gianotti, porta al Castello del Buonconsiglio un viaggio nella musica francescana: sequenze, laude, antifone e rari brani liturgici tratti da codici dal XIII al XVIII secolo.",
+      "de": "Zum 800. Todesjahr von Franz von Assisi bringt der Vokalchor Laurence Feininger unter der Leitung von Roberto Gianotti eine musikalische Reise in die franziskanische Tradition. Das Programm umfasst Sequenzen, Lauden, Antiphonen und seltene liturgische Stücke aus Handschriften vom 13. bis 18. Jahrhundert, die einen historischen Einblick in die religiöse Musikpraxis bieten.",
+      "en": "On the 800th anniversary of Saint Francis’s death, the Laurence Feininger vocal ensemble led by Roberto Gianotti presents a musical journey through Franciscan repertoire. The programme features sequences, lauds, antiphons and rare liturgical pieces drawn from manuscripts spanning the 13th to 18th centuries, offering historical perspectives on devotional music."
     },
     "organizer": null,
     "price": "See official page",
@@ -21340,11 +21586,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco"
+      "it": "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco",
+      "de": "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco",
+      "en": "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco"
     }
   },
   {
@@ -21364,7 +21612,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Scopri la città di Trento con una guida turistica! Trento, nel cuore delle Alpi, ha una storia millenaria, fatta di tradizione mitteleuropea a cavallo tra mondo germanico e mondo italiano, le cui testimonianze sono visibili nel bel centro storico e sono perfettamente custodite, epoca dopo epoca, nei siti archeologici e nei musei d'eccellenza che la città ospita."
+      "it": "Scopri la città di Trento con una guida turistica! Trento, nel cuore delle Alpi, ha una storia millenaria, fatta di tradizione mitteleuropea a cavallo tra mondo germanico e mondo italiano, le cui testimonianze sono visibili nel bel centro storico e sono perfettamente custodite, epoca dopo epoca, nei siti archeologici e nei musei d'eccellenza che la città ospita.",
+      "de": "Bei dieser geführten Stadterkundung erfahren Teilnehmende von einer sachkundigen Reiseleiterin, wie Trentinos lange Geschichte an der Schnittstelle zwischen mitteleuropäischer und italienischer Kultur im historischen Zentrum sichtbar bleibt. Die Führung zeigt archäologische Zeugnisse und Museumsschätze, die die vielschichtige Entwicklung der Stadt von antiken Zeiten bis zur Gegenwart veranschaulichen.",
+      "en": "This guided tour introduces visitors to Trento’s millennia-long history at the crossroads of Central European and Italian cultures, led by a local tour guide. The walk highlights visible traces in the historic centre as well as archaeological sites and museum collections that together narrate the city’s layered historical development."
     },
     "organizer": null,
     "price": "See official page",
@@ -21376,11 +21626,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento20"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento20"
+      "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento20",
+      "de": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento20",
+      "en": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento20"
     }
   },
   {
@@ -21496,7 +21748,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“Il Concorso – Premio Mario Roat”, si svolge nei mesi di: ottobre, novembre e dicembre, in orario serale, presso il Teatro “S. Marco” di Trento."
+      "it": "“Il Concorso – Premio Mario Roat”, si svolge nei mesi di: ottobre, novembre e dicembre, in orario serale, presso il Teatro “S. Marco” di Trento.",
+      "de": "Die Veranstaltung ist Teil des Wettbewerbs »Premio Mario Roat«, der in den Herbstmonaten in den Abendstunden im Teatro S. Marco stattfindet. Besucher erleben Theateraufführungen des Wettbewerbsformats, das jungen Ensembles und Produktionen Raum bietet und die lokale Theaterszene im Rahmen der Oktober–Dezember-Reihe präsentiert.",
+      "en": "This event belongs to the contest series “Premio Mario Roat,” held in evening sessions during October to December at Teatro S. Marco. Audiences can expect theatrical presentations within the competition framework, which showcases emerging companies and productions and spotlights the local theatre scene across the autumn months."
     },
     "organizer": null,
     "price": "See official page",
@@ -21508,11 +21762,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/L-equivoco"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/L-equivoco"
+      "it": "https://eventi.comune.trento.it/Eventi/L-equivoco",
+      "de": "https://eventi.comune.trento.it/Eventi/L-equivoco",
+      "en": "https://eventi.comune.trento.it/Eventi/L-equivoco"
     }
   },
   {
@@ -21532,7 +21788,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "La città custodisce anche una storia silenziosa, fatta di tombe, monumenti e iscrizioni che raccontano vite, memorie e antiche credenze. In occasione di Halloween, il Museo propone un itinerario alla scoperta della Trento dei sepolcri e dei luoghi dedicati al ricordo dei defunti."
+      "it": "La città custodisce anche una storia silenziosa, fatta di tombe, monumenti e iscrizioni che raccontano vite, memorie e antiche credenze. In occasione di Halloween, il Museo propone un itinerario alla scoperta della Trento dei sepolcri e dei luoghi dedicati al ricordo dei defunti.",
+      "de": "Anlässlich von Halloween bietet das Museum einen thematischen Rundgang zur »Stadt der Toten«, der Grabstätten, Denkmäler und Inschriften in Trento erkundet. Teilnehmende entdecken stille Zeugnisse vergangener Leben, Erinnerungsorte und historische Glaubensvorstellungen, die den Umgang der Stadt mit Tod und Erinnerung beleuchten.",
+      "en": "For Halloween the museum offers an itinerary exploring Trento’s ‘city of the dead’, focusing on tombs, monuments and inscriptions around the city. Visitors encounter silent testimonies to former lives, commemorative sites and ancient beliefs, gaining insight into how local history and memory are expressed through funerary places."
     },
     "organizer": null,
     "price": "See official page",
@@ -21544,11 +21802,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2"
+      "it": "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2",
+      "de": "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2",
+      "en": "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2"
     }
   },
   {
@@ -21568,7 +21828,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il mercato si svolge in piazza Dante (Circoscrizione Centro storico - Piedicastello) ogni sabato esclusi i festivi dalle 7:30 alle 13:00"
+      "it": "Il mercato si svolge in piazza Dante (Circoscrizione Centro storico - Piedicastello) ogni sabato esclusi i festivi dalle 7:30 alle 13:00",
+      "de": "Der Bauernmarkt auf der Piazza Dante findet samstags (außer an Feiertagen) morgens statt und versammelt lokale Erzeuger, die ihre frischen Produkte anbieten. Besucher können regionale Lebensmittel und Erzeugnisse direkt von Produzentinnen und Produzenten erwerben und so lokale Landwirtschaft und kurze Vertriebswege unterstützen.",
+      "en": "The farmers’ market in Piazza Dante takes place on Saturday mornings (excluding holidays) and brings together local producers offering fresh goods. Visitors can buy regional food and artisanal products directly from growers, supporting local agriculture and enjoying seasonal, locally sourced produce."
     },
     "organizer": null,
     "price": "See official page",
@@ -21580,11 +21842,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52"
     }
   },
   {
@@ -21647,7 +21911,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Tremate e preparatevi, molte cose accadranno, durante la notte più paurosa dell’anno! L'ultima giornata di ottobre la città verrà pervasa da una magica atmosfera di festa e di divertimento per tutti."
+      "it": "Tremate e preparatevi, molte cose accadranno, durante la notte più paurosa dell’anno! L'ultima giornata di ottobre la città verrà pervasa da una magica atmosfera di festa e di divertimento per tutti.",
+      "de": "Die Veranstaltung taucht Rovereto an Halloween-Abend in eine festliche, magische Atmosphäre mit Unterhaltung für alle Altersgruppen. Besucher erleben eine Stadt voller thematischer Aktionen und Stimmung, die auf spielerische Weise die spaßige und gruselige Seite des letzten Oktobertages betont.",
+      "en": "On the last day of October Rovereto fills with a festive, magical atmosphere offering entertainment for all ages in anticipation of Halloween. The city is animated with themed activities and playful events that celebrate the spooky and fun spirit of the season across public spaces and shops."
     },
     "organizer": null,
     "price": "See official page",
@@ -21661,9 +21927,11 @@
       "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween"
     ],
     "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween/"
+      "it": "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween/",
+      "de": "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween",
+      "en": "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween"
     },
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
   },
@@ -21684,7 +21952,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali."
+      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali.",
+      "de": "Das Festival »Crepe nel Mondo« widmet sich Geopolitik und internationaler Analyse und beleuchtet die Bruchlinien und ungelösten Spannungen, die heutige Gesellschaften, Politik und Wirtschaft prägen. Über den Veranstaltungszeitraum bietet das Programm Vorträge und Diskussionen, die die globalen Umbrüche und deren Auswirkungen auf lokale und internationale Ebenen herausarbeiten.",
+      "en": "The festival Crepe nel Mondo focuses on geopolitics and international analysis, highlighting the fractures and unresolved tensions reshaping contemporary societies, politics and economies. Across its run the programme presents talks and discussions aimed at unpacking global fault lines and their repercussions at both local and international levels."
     },
     "organizer": null,
     "price": "See official page",
@@ -21696,11 +21966,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo6"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo6"
+      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo6",
+      "de": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo6",
+      "en": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo6"
     }
   },
   {
@@ -21720,7 +21992,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali."
+      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali.",
+      "de": "Das Festival »Crepe nel Mondo« untersucht geopolitische Spannungen und die Bruchlinien unserer Zeit, indem es Fragen der internationalen Politik und deren Folgen thematisiert. Besucher nehmen an Vorträgen und Debatten teil, die aktuelle Konflikte und Umwälzungen analysieren und die komplexen Zusammenhänge zwischen globalen und lokalen Dynamiken erläutern.",
+      "en": "Crepe nel Mondo examines geopolitical tensions and the fault lines of our era by addressing international political issues and their consequences. Attendees engage with lectures and debates that analyze contemporary conflicts and upheavals, clarifying the complex relationships between global events and local implications."
     },
     "organizer": null,
     "price": "See official page",
@@ -21732,11 +22006,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo7"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo7"
+      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo7",
+      "de": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo7",
+      "en": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo7"
     }
   },
   {
@@ -21756,7 +22032,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Torna anche quest’anno il corso di formazione gratuito per caregiver familiari, con sei incontri a cadenza settimanale, in programma da fine settembre a inizio novembre alla Fondazione Franco Demarchi, in piazza Santa Maria Maggiore 7. L’appuntamento è sempre di martedì, dalle 17:00 alle 19:00."
+      "it": "Torna anche quest’anno il corso di formazione gratuito per caregiver familiari, con sei incontri a cadenza settimanale, in programma da fine settembre a inizio novembre alla Fondazione Franco Demarchi, in piazza Santa Maria Maggiore 7. L’appuntamento è sempre di martedì, dalle 17:00 alle 19:00.",
+      "de": "Der kostenlose Fortbildungskurs für familiäre Pflegepersonen »Curainsieme« umfasst sechs wöchentliche Treffen und richtet sich an Angehörige, die Pflegeverantwortung tragen. Die Abende bieten praktische Informationen und Unterstützung in Form von Vorträgen und Austausch, organisiert von Ende September bis Anfang November an der Fondazione Franco Demarchi.",
+      "en": "The free training course Curainsieme for family caregivers consists of six weekly meetings aimed at those caring for relatives. Sessions provide practical information, peer exchange and support resources to help caregivers navigate responsibilities, scheduled in the evenings from late September through early November at the Fondazione Franco Demarchi."
     },
     "organizer": null,
     "price": "See official page",
@@ -21768,11 +22046,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Curainsieme6"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Curainsieme6"
+      "it": "https://eventi.comune.trento.it/Eventi/Curainsieme6",
+      "de": "https://eventi.comune.trento.it/Eventi/Curainsieme6",
+      "en": "https://eventi.comune.trento.it/Eventi/Curainsieme6"
     }
   },
   {
@@ -21827,7 +22107,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Torna all'Auditorium S. Chiara la ricca stagione dell'AudiPOP!"
+      "it": "Torna all'Auditorium S. Chiara la ricca stagione dell'AudiPOP!",
+      "de": "Die AudiPOP-Spielzeit kehrt in das Auditorium S. Chiara zurück und bietet eine reiche Reihe musikalischer Veranstaltungen über die Saison hinweg. Besucher können mit einem vielfältigen Programm aus Konzerten und Aufführungen rechnen, das populäre sowie zeitgenössische Elemente zur Bereicherung des städtischen Kulturangebots verbindet.",
+      "en": "The AudiPOP season returns to Auditorium S. Chiara with a rich programme of musical events across the season. Audiences can expect a varied lineup of concerts and performances that combine popular and contemporary elements, contributing to the city’s vibrant cultural offering."
     },
     "organizer": null,
     "price": "See official page",
@@ -21841,9 +22123,11 @@
       "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027"
     ],
     "descriptionSources": {
-      "it": "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027"
+      "it": "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027",
+      "de": "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027",
+      "en": "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027"
     },
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
   },
@@ -21864,7 +22148,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il mercato si svolge in via Fabio Filzi (Circoscrizione San Giuseppe - Santa Chiara) ogni mercoledì esclusi i festivi dalle 7:30 alle 12:30"
+      "it": "Il mercato si svolge in via Fabio Filzi (Circoscrizione San Giuseppe - Santa Chiara) ogni mercoledì esclusi i festivi dalle 7:30 alle 12:30",
+      "de": "Der Bauernmarkt in der Via Fabio Filzi findet mittwochs (außer an Feiertagen) morgens statt und versammelt lokale Produzenten, die frische Lebensmittel und Erzeugnisse anbieten. Besucher haben die Möglichkeit, saisonale Produkte direkt bei den Erzeugern zu kaufen und so regionale Landwirtschaft und kurze Lieferketten zu fördern.",
+      "en": "The farmers’ market on Via Fabio Filzi takes place on Wednesday mornings (excluding holidays) and features local producers offering fresh goods. Visitors can purchase seasonal produce directly from growers, supporting regional agriculture and enjoying locally sourced products."
     },
     "organizer": null,
     "price": "See official page",
@@ -21876,11 +22162,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi52"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi52"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi52",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi52",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi52"
     }
   },
   {
@@ -23275,7 +23563,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Proseguono gli appuntamenti per gli amanti del cinema. Il gruppo solitamente si riunisce ogni terzo lunedì del mese e l'ingresso è libero."
+      "it": "Proseguono gli appuntamenti per gli amanti del cinema. Il gruppo solitamente si riunisce ogni terzo lunedì del mese e l'ingresso è libero.",
+      "de": "Filmbegeisterte treffen sich regelmäßig zu einem offenen Gesprächskreis, in dem aktuelle Werke, Klassiker und filmische Themen in lockerer Runde reflektiert werden. Die Treffen finden gewöhnlich monatlich am dritten Montag statt und ermöglichen den Austausch von Eindrücken, Sichtweisen und Empfehlungen in einer entspannten, offenen Atmosphäre.",
+      "en": "Film enthusiasts gather monthly in an informal conversation group to discuss films, trends and cinematic themes, sharing impressions and viewpoints in a relaxed setting. The meetings, typically on the third Monday of the month, offer an opportunity to exchange recommendations and deepen appreciation for cinema without admission fees."
     },
     "organizer": null,
     "price": "See official page",
@@ -23287,11 +23577,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema7"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema7"
+      "it": "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema7",
+      "de": "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema7",
+      "en": "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema7"
     }
   },
   {
@@ -23311,7 +23603,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "La Circoscrizione propone una nuova serie di incontri di gruppo gratuiti, con la cadenza di una volta al mese, rivolti a donne in gravidanza, neogenitori e caregiver (nonni, baby-sitter), con l’obiettivo di promuovere una cultura e cura dell’infanzia attenta e consapevole, contrastare l'isolamento delle famiglie, favorire il benessere materno e la condivisione di esperienze durante la gravidanza e nei primi anni di vita dei figli."
+      "it": "La Circoscrizione propone una nuova serie di incontri di gruppo gratuiti, con la cadenza di una volta al mese, rivolti a donne in gravidanza, neogenitori e caregiver (nonni, baby-sitter), con l’obiettivo di promuovere una cultura e cura dell’infanzia attenta e consapevole, contrastare l'isolamento delle famiglie, favorire il benessere materno e la condivisione di esperienze durante la gravidanza e nei primi anni di vita dei figli.",
+      "de": "Die Reihe bietet monatliche, kostenlose Gruppentreffen für Schwangere, junge Eltern und Betreuungspersonen mit dem Ziel, familiäre Isolation zu verhindern und das Wohlbefinden von Müttern zu stärken. In den Sitzungen werden Erfahrungen ausgetauscht, Unterstützungsnetzwerke aufgebaut und Themen rund um Schwangerschaft sowie die ersten Lebensjahre der Kinder besprochen.",
+      "en": "This free monthly group series welcomes pregnant people, new parents and caregivers to foster attentive childcare culture, reduce isolation and promote maternal wellbeing. Sessions focus on sharing experiences, mutual support and practical discussion of issues arising during pregnancy and in children’s early years to strengthen community bonds."
     },
     "organizer": null,
     "price": "See official page",
@@ -23323,11 +23617,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio3"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio3"
+      "it": "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio3",
+      "de": "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio3",
+      "en": "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio3"
     }
   },
   {
@@ -23379,7 +23675,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Cos'è Secondo incontro online mercoledì 18 novembre dalle 17:30 alle 19:30 Argomento: La relazione con persone anziane Formatore: Federica Dallaporta, psicologa e psicoterapeuta. A chi è rivolto Tutti/e"
+      "it": "Cos'è Secondo incontro online mercoledì 18 novembre dalle 17:30 alle 19:30 Argomento: La relazione con persone anziane Formatore: Federica Dallaporta, psicologa e psicoterapeuta. A chi è rivolto Tutti/e",
+      "de": "Der zweite Online-Termin des Fortgeschrittenenkurses richtet sich an alle Interessierten und behandelt die Beziehungsgestaltung mit älteren Menschen. Die Live-Session am 18. November von 17:30 bis 19:30 wird von der Psychologin und Psychotherapeutin Federica Dallaporta geleitet und vertieft praktische Aspekte der Betreuung.",
+      "en": "The second online meeting of this advanced course focuses on building relationships with older adults and is open to all participants. Held on 18 November from 17:30 to 19:30, the session is led by psychologist and psychotherapist Federica Dallaporta and explores practical relational aspects of guardianship work."
     },
     "organizer": null,
     "price": "See official page",
@@ -23391,11 +23689,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Corso-avanzato-per-amministratore-trice-di-sostegno2"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Corso-avanzato-per-amministratore-trice-di-sostegno2"
+      "it": "https://eventi.comune.trento.it/Eventi/Corso-avanzato-per-amministratore-trice-di-sostegno2",
+      "de": "https://eventi.comune.trento.it/Eventi/Corso-avanzato-per-amministratore-trice-di-sostegno2",
+      "en": "https://eventi.comune.trento.it/Eventi/Corso-avanzato-per-amministratore-trice-di-sostegno2"
     }
   },
   {
@@ -23415,7 +23715,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda.",
+      "de": "Das Projekt „La scuola va a teatro“ verwandelt das Theater in einen alternativen Klassenraum und richtet sich an Schüler aller Altersstufen, um ihren Bildungsweg durch künstlerische Aufführungen zu bereichern. Die Veranstaltung verbindet Kultur und Pädagogik, vermittelt musikalisch-theatrale Inhalte und bietet Lernende neue Zugänge zur Geschichte des Rock im Rahmen schulischer Bildung.",
+      "en": "Part of the “La scuola va a teatro” project, this theatre initiative brings students of all ages into a performative learning environment to enrich their education through the arts. The programme uses theatrical and musical experiences to offer pupils new perspectives on topics such as the history of rock within an educational framework."
     },
     "organizer": null,
     "price": "See official page",
@@ -23428,11 +23730,13 @@
       "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1",
       "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1-replica"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1"
+      "it": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1",
+      "de": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1",
+      "en": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1"
     }
   },
   {
@@ -23452,7 +23756,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il mercato si svolge in via Fabio Filzi (Circoscrizione San Giuseppe - Santa Chiara) ogni mercoledì esclusi i festivi dalle 7:30 alle 12:30"
+      "it": "Il mercato si svolge in via Fabio Filzi (Circoscrizione San Giuseppe - Santa Chiara) ogni mercoledì esclusi i festivi dalle 7:30 alle 12:30",
+      "de": "Der Bauernmarkt in der Via Fabio Filzi findet jeden Mittwoch (außer an Feiertagen) vormittags statt und versammelt lokale Produzenten mit frischen Lebensmitteln. Besucher können regionale Erzeugnisse direkt von den Erzeugern kaufen und die Marktatmosphäre des Stadtviertels San Giuseppe – Santa Chiara erleben.",
+      "en": "The farmers’ market on Via Fabio Filzi takes place every Wednesday morning (excluding holidays) and brings together local producers offering fresh regional goods. Visitors can purchase farm-to-table products directly from vendors and enjoy the neighborhood market atmosphere in the San Giuseppe – Santa Chiara area."
     },
     "organizer": null,
     "price": "See official page",
@@ -23464,11 +23770,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi54"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi54"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi54",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi54",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi54"
     }
   },
   {
@@ -23488,7 +23796,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Presso le circa 160 bancarelle dislocate nelle vie del centro (via Verdi, via Prati, via Maffei, via Esterle, via Borsieri, via Al Torrione) potrete fare acquisti di prodotti enogastronomici, ma anche abbigliamento, scarpe, accessori, oggettistica, casalinghi e molto altro. In piazza del Duomo invece sono presenti circa 20 bancarelle dedicate a fiori, piante e prodotti agricoli (frutta, verdura e miele)."
+      "it": "Presso le circa 160 bancarelle dislocate nelle vie del centro (via Verdi, via Prati, via Maffei, via Esterle, via Borsieri, via Al Torrione) potrete fare acquisti di prodotti enogastronomici, ma anche abbigliamento, scarpe, accessori, oggettistica, casalinghi e molto altro. In piazza del Duomo invece sono presenti circa 20 bancarelle dedicate a fiori, piante e prodotti agricoli (frutta, verdura e miele).",
+      "de": "Der große Wochenmarkt am Donnerstag erstreckt sich über rund 160 Stände in den Straßen des Stadtzentrums und bietet ein vielfältiges Angebot von Lebensmitteln bis Kleidung und Haushaltswaren. Auf dem Domplatz gibt es zusätzlich etwa 20 Stände mit Blumen, Pflanzen und landwirtschaftlichen Erzeugnissen wie Obst, Gemüse und Honig.",
+      "en": "The Thursday market fills central streets with around 160 stalls offering a wide range of goods from food to clothing, accessories and household items. In Piazza Duomo an additional 20 stalls focus on flowers, plants and agricultural products such as fruit, vegetables and honey, creating a varied outdoor shopping experience."
     },
     "organizer": null,
     "price": "See official page",
@@ -23500,11 +23810,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi83"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi83"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi83",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi83",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi83"
     }
   },
   {
@@ -23524,7 +23836,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "All'interno del mercato si possono trovare le seguenti tipologie di prodotto: Il \"Mercato dell'economia solidale\" è gestito dalla Cooperativa Social Tank."
+      "it": "All'interno del mercato si possono trovare le seguenti tipologie di prodotto: Il \"Mercato dell'economia solidale\" è gestito dalla Cooperativa Social Tank.",
+      "de": "Der Markt der solidarischen Ökonomie wird von der Sozialkooperative Social Tank organisiert und stellt hauptsächlich Produkte aus alternativen Wirtschaftsformen vor. Besucher finden dort verschiedene Waren, die die Prinzipien von Solidarität und gemeinschaftlichem Wirtschaften unterstützen, wobei der Markt sozialen Austausch und lokale Initiativen fördert.",
+      "en": "Managed by the social cooperative Social Tank, the Market of Solidarity Economy showcases products aligned with cooperative and solidarity-based values. Shoppers encounter goods produced within alternative economic practices that support social aims, while the market fosters community interaction and promotes locally rooted initiatives."
     },
     "organizer": null,
     "price": "See official page",
@@ -23536,11 +23850,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale59"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale59"
+      "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale59",
+      "de": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale59",
+      "en": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale59"
     }
   },
   {
@@ -23622,7 +23938,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Il Pacific Quintet, formato da cinque giovani musicisti provenienti da Honduras, Giappone, Corea del Sud, Germania e Ucraina/Turchia, unisce talento, diversità culturale e passione per la musica da camera. Nato al Pacific Music Festival di Sapporo nel 2017, fondato da Leonard Bernstein, il quintetto porta in Europa il suo spirito di entusiasmo, apertura e dialogo musicale, fondendo precisione, colore e collaborazione con una forte attenzione all’inclusione e alla comunicazione interculturale."
+      "it": "Il Pacific Quintet, formato da cinque giovani musicisti provenienti da Honduras, Giappone, Corea del Sud, Germania e Ucraina/Turchia, unisce talento, diversità culturale e passione per la musica da camera. Nato al Pacific Music Festival di Sapporo nel 2017, fondato da Leonard Bernstein, il quintetto porta in Europa il suo spirito di entusiasmo, apertura e dialogo musicale, fondendo precisione, colore e collaborazione con una forte attenzione all’inclusione e alla comunicazione interculturale.",
+      "de": "Das Pacific Quintet vereint fünf junge Kammermusiker aus unterschiedlichen Ländern und bringt interkulturelle Musizierpraxis sowie Präzision und Klangfarbe auf die Bühne. Gegründet beim Pacific Music Festival von Leonard Bernstein, zeichnet sich das Ensemble durch internationale Vielfalt, musikalischen Dialog und ein Engagement für Inklusion aus.",
+      "en": "The Pacific Quintet brings together five young chamber musicians from diverse countries to deliver an intercultural and collaborative musical experience, combining precision with vibrant tonal color. Formed at the Pacific Music Festival founded by Leonard Bernstein, the ensemble emphasizes enthusiasm, cross-cultural dialogue and inclusive communication through chamber repertoire."
     },
     "organizer": null,
     "price": "See official page",
@@ -23634,11 +23952,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Pacific-Quintet"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Pacific-Quintet"
+      "it": "https://eventi.comune.trento.it/Eventi/Pacific-Quintet",
+      "de": "https://eventi.comune.trento.it/Eventi/Pacific-Quintet",
+      "en": "https://eventi.comune.trento.it/Eventi/Pacific-Quintet"
     }
   },
   {
@@ -23730,7 +24050,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Un appuntamento mensile non solo di libri da raccontare, ma anche di storie da vivere insieme."
+      "it": "Un appuntamento mensile non solo di libri da raccontare, ma anche di storie da vivere insieme.",
+      "de": "Bei diesem monatlichen Treffen stehen nicht nur vorgestellte Bücher im Mittelpunkt, sondern auch das gemeinsame Erleben von Geschichten und Diskussionen in der Gruppe. Teilnehmer teilen Leseeindrücke, tauschen persönliche Bezüge zu Texten aus und gestalten so einen lebendigen, gemeinschaftlichen Literaturabend.",
+      "en": "This monthly gathering focuses not only on books to present but on living and sharing stories together through group discussion. Participants exchange impressions, relate narratives to personal experiences and create a lively communal atmosphere that goes beyond simple reading recommendations."
     },
     "organizer": null,
     "price": "See official page",
@@ -23742,11 +24064,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso8"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso8"
+      "it": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso8",
+      "de": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso8",
+      "en": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso8"
     }
   },
   {
@@ -23803,7 +24127,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Scopri la città di Trento con una guida turistica! Trento, nel cuore delle Alpi, ha una storia millenaria, fatta di tradizione mitteleuropea a cavallo tra mondo germanico e mondo italiano, le cui testimonianze sono visibili nel bel centro storico e sono perfettamente custodite, epoca dopo epoca, nei siti archeologici e nei musei d'eccellenza che la città ospita."
+      "it": "Scopri la città di Trento con una guida turistica! Trento, nel cuore delle Alpi, ha una storia millenaria, fatta di tradizione mitteleuropea a cavallo tra mondo germanico e mondo italiano, le cui testimonianze sono visibili nel bel centro storico e sono perfettamente custodite, epoca dopo epoca, nei siti archeologici e nei musei d'eccellenza che la città ospita.",
+      "de": "Eine geführte Entdeckungstour stellt Trentos vielschichtige Geschichte vor, von mitteleuropäischen Einflüssen bis zu römischen Überresten, und beleuchtet das gut erhaltene historische Zentrum. Besucher erleben Stadtgeschichte, bedeutende archäologische Stätten und Museen anhand einer fachkundigen Führung, die kulturelle Verbindungen und lokale Besonderheiten hervorhebt.",
+      "en": "A guided tour introduces visitors to Trento’s layered history, highlighting its millenary heritage shaped between Germanic and Italian worlds and visible in the well-preserved historic centre. Participants explore archaeological sites, museums and urban landmarks with a guide who contextualizes the city’s cultural crossroads and historical continuity."
     },
     "organizer": null,
     "price": "See official page",
@@ -23815,11 +24141,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento23"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento23"
+      "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento23",
+      "de": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento23",
+      "en": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento23"
     }
   },
   {
@@ -23839,7 +24167,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Sabato 21 novembre l’Ensemble Vocale Odhecaton, diretto da Paolo Da Col, porta in concerto i sette Codici musicali trentini del Quattrocento, la straordinaria raccolta che condusse Laurence Feininger a Trento. Mottetti, Messe e antifone di Du Fay, Compère, Power e Dunstable."
+      "it": "Sabato 21 novembre l’Ensemble Vocale Odhecaton, diretto da Paolo Da Col, porta in concerto i sette Codici musicali trentini del Quattrocento, la straordinaria raccolta che condusse Laurence Feininger a Trento. Mottetti, Messe e antifone di Du Fay, Compère, Power e Dunstable.",
+      "de": "Das Vokalensemble Odhecaton unter Paolo Da Col präsentiert die sieben trientinischen Musikhandschriften des 15. Jahrhunderts mit Messen, Motetten und Antiphonen. Das Programm beleuchtet Kompositionen von Du Fay, Compère, Power und Dunstable und bringt die Renaissance-Quellen in historisch informierter Aufführungspraxis zu Gehör.",
+      "en": "On Saturday 21 November the vocal ensemble Odhecaton, directed by Paolo Da Col, performs the seven Trentino music codices of the 15th century, featuring masses, motets and antiphons. The concert brings works by Du Fay, Compère, Power and Dunstable to life, showcasing remarkable Renaissance sources in scholarly performance."
     },
     "organizer": null,
     "price": "See official page",
@@ -23851,11 +24181,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Codici-trentini-del-Quattrocento-Musicantica"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Codici-trentini-del-Quattrocento-Musicantica"
+      "it": "https://eventi.comune.trento.it/Eventi/Codici-trentini-del-Quattrocento-Musicantica",
+      "de": "https://eventi.comune.trento.it/Eventi/Codici-trentini-del-Quattrocento-Musicantica",
+      "en": "https://eventi.comune.trento.it/Eventi/Codici-trentini-del-Quattrocento-Musicantica"
     }
   },
   {
@@ -23875,7 +24207,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Cos'è A chi è rivolto famiglie, bambine, bambini"
+      "it": "Cos'è A chi è rivolto famiglie, bambine, bambini",
+      "de": "Die Veranstaltung richtet sich an Familien mit Kindern und bietet chinesischsprachige Vorleseformate, die Sprache, Kultur und literarisches Interesse fördern. Durch altersgerechte Lesungen werden Kinder und Eltern in den Austausch über Geschichten eingebunden und familialer Mehrsprachigkeit Raum gegeben.",
+      "en": "Aimed at families and children, these Chinese-language reading sessions promote language, culture and literary interest through age-appropriate storytelling. The events engage both children and parents in shared narratives, supporting family multilingualism and offering a space for cultural and linguistic exchange."
     },
     "organizer": null,
     "price": "See official page",
@@ -23887,11 +24221,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/Letture-in-cinese7"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Letture-in-cinese7"
+      "it": "https://eventi.comune.trento.it/Eventi/Letture-in-cinese7",
+      "de": "https://eventi.comune.trento.it/Eventi/Letture-in-cinese7",
+      "en": "https://eventi.comune.trento.it/Eventi/Letture-in-cinese7"
     }
   },
   {
@@ -27926,7 +28262,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda.",
+      "de": "Als Teil des Projekts „Die Schule geht ins Theater“ richtet sich diese Aufführung an Schülerinnen und Schüler aller Altersstufen und verwandelt das Theater in einen alternativen Lernraum. Besucher erleben ein künstlerisch-didaktisches Bühnenstück, das kulturelle Themen mit Bildungszielen verbindet und junge Menschen mit neuen Perspektiven auf Gesellschaft und Kunst vertraut macht.",
+      "en": "Presented within the “School goes to the theatre” initiative, this performance is aimed at students of all ages and turns the stage into an alternative classroom. Attendees encounter a culturally rich, educational theatre experience designed to complement school learning and stimulate critical reflection on social and artistic themes."
     },
     "organizer": null,
     "price": "See official page",
@@ -27939,11 +28277,13 @@
       "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-2",
       "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22"
+      "it": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22",
+      "de": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22",
+      "en": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22"
     }
   },
   {
@@ -27963,7 +28303,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda."
+      "it": "“La scuola va a teatro” è un progetto dedicato agli studenti di tutte le età, pensato per arricchire il loro percorso educativo attraverso spettacoli coinvolgenti e formativi. Il teatro diventa un’aula alternativa, dove l’arte e la cultura si fondono con l’educazione, offrendo agli studenti nuovi strumenti per comprendere il mondo che li circonda.",
+      "de": "Im Rahmen des Projekts „Die Schule geht ins Theater“ richtet sich dieses Ereignis an Schülerinnen und Schüler aller Altersgruppen und nutzt das Theater als ergänzenden Bildungsort. Besucher erleben ein pädagogisch ausgerichtetes Bühnenprogramm, das künstlerische Erlebnisse mit Lernzielen verknüpft und Reflexionen über persönliche und gesellschaftliche Themen anregt.",
+      "en": "Part of the “School goes to the theatre” programme, this event is designed for students across age groups and uses the theatre space as a complementary educational environment. Pupils experience a pedagogical stage production that blends artistic engagement with curricular aims, encouraging reflection on personal and social issues through performance."
     },
     "organizer": null,
     "price": "See official page",
@@ -27975,11 +28317,13 @@
     "sourceUrls": [
       "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese"
     ],
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15",
     "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese"
+      "it": "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese",
+      "de": "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese",
+      "en": "https://eventi.comune.trento.it/Eventi/La-stanza-di-Agnese"
     }
   },
   {

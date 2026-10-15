@@ -1,7 +1,7 @@
 {
   "checkedAt": "2026-10-15",
   "currentEvents": 354,
-  "complete": 54,
+  "complete": 141,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -360,151 +360,11 @@
       ]
     },
     {
-      "id": "ciclo-di-incontri-a-tema-salute-e-prevenzione-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "ciclo-di-incontri-il-tempo-di-un-dialogo-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "fondazione-trentino-abitare-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-del-giovedi-2026-8",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-dell-economia-solidale-2026-8",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "prisma-aurea-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "altra-piazza-fest-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "casteldi-sera-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "nicolo-dorigati-nel-segno-del-barocco-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "ottobre-in-liberty-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "padre-fabrizio-forti-intitolazione-piazzale-carcere-di-trento-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "alla-scoperta-di-trento-2026-8",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "escape-room-la-lacrima-dell-ultimo-atto-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "fiera-di-san-luca-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-contadino-di-piazza-dante-2026-8",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "progetto-opera-26-le-nozze-di-figaro-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "reboro-territorio-passione-2026",
       "languages": [
         "de",
         "en",
         "it"
-      ]
-    },
-    {
-      "id": "salita-alla-cantoria-del-duomo-2026-3",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026-8",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "visita-guidata-gratuita-alla-mostra-da-piazza-delle-armi-a-giardino-piaz-2026-2",
-      "languages": [
-        "de",
-        "en"
       ]
     },
     {
@@ -516,39 +376,11 @@
       ]
     },
     {
-      "id": "foliage-al-lago-di-cei-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "grasparola-2026-2",
       "languages": [
         "de",
         "en",
         "it"
-      ]
-    },
-    {
-      "id": "i-conflitti-incrociati-in-medio-oriente-ciclo-di-incontri-le-origini-dei-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "un-amuleto-per-l-eternita-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "unicorno-autunno-market-mercatino-del-riuso-2026",
-      "languages": [
-        "de",
-        "en"
       ]
     },
     {
@@ -651,137 +483,11 @@
       ]
     },
     {
-      "id": "viaggio-nella-memoria-del-medioevo-latino-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "bambu-di-roberto-castello-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "ciclo-di-incontri-a-tema-salute-e-prevenzione-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "crepe-nel-mondo-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "le-consort-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-del-giovedi-2026-9",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-dell-economia-solidale-2026-9",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "storie-da-brivido-2026",
       "languages": [
         "de",
         "en",
         "it"
-      ]
-    },
-    {
-      "id": "alla-scoperta-di-trento-2026-9",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "coppie-scoppiate-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "escape-room-la-lacrima-dell-ultimo-atto-2026-3",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "giornata-del-riuso-a-ravina-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "l-orso-di-shakespeare-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercatino-dei-gaudenti-di-piazza-dante-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-contadino-di-piazza-dante-2026-9",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "nicolo-dorigati-nel-segno-del-barocco-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "palcoscenico-trentino-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "presentazione-libro-l-orso-di-shakespeare-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "visita-guidata-gratuita-alla-mostra-da-piazza-delle-armi-a-giardino-piaz-2026-3",
-      "languages": [
-        "de",
-        "en"
       ]
     },
     {
@@ -798,13 +504,6 @@
         "de",
         "en",
         "it"
-      ]
-    },
-    {
-      "id": "e-arrivato-un-bastimento-carico-di-2026-2",
-      "languages": [
-        "de",
-        "en"
       ]
     },
     {
@@ -848,151 +547,11 @@
       ]
     },
     {
-      "id": "visita-guidata-al-castello-del-buonconsiglio-2026-6",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta-2026-3",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "presentazione-libro-111-luoghi-di-trento-che-devi-proprio-scoprire-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "crepe-nel-mondo-2026-3",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "curainsieme-2026-5",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "presentazione-libro-terre-promesse-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "crepe-nel-mondo-2026-4",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "fine-winetourism-marketplace-italy-2026",
       "languages": [
         "de",
         "en",
         "it"
-      ]
-    },
-    {
-      "id": "mercato-contadino-di-via-fabio-filzi-2026-9",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "anabel-montesinos-linus-roth-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "ciclo-di-incontri-a-tema-salute-e-prevenzione-2026-3",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "crepe-nel-mondo-2026-5",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "lilt-for-women-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "luci-e-ombre-di-una-carriera-misteriosa-nicolo-dorigati-pittore-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "madre-courage-e-i-suoi-figli-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-del-giovedi-2026-10",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-dell-economia-solidale-2026-10",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "ottobre-in-biblioteca-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "pietre-di-pane-memorie-di-geografie-fragili-finissage-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "sia-laudato-san-francesco-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "alla-scoperta-di-trento-2026-10",
-      "languages": [
-        "de",
-        "en"
       ]
     },
     {
@@ -1020,74 +579,11 @@
       ]
     },
     {
-      "id": "l-equivoco-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "la-citta-dei-morti-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-contadino-di-piazza-dante-2026-10",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "shopping-aspettando-halloween-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "crepe-nel-mondo-2026-6",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "crepe-nel-mondo-2026-7",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "curainsieme-2026-6",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "in-cammino-con-il-museo-2026",
       "languages": [
         "de",
         "en",
         "it"
-      ]
-    },
-    {
-      "id": "stagione-audipop-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-contadino-di-via-fabio-filzi-2026-10",
-      "languages": [
-        "de",
-        "en"
       ]
     },
     {
@@ -1323,20 +819,6 @@
       ]
     },
     {
-      "id": "gruppo-di-conversazione-sul-cinema-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mamme-in-cerchio-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "vai-via-2026",
       "languages": [
         "de",
@@ -1345,81 +827,11 @@
       ]
     },
     {
-      "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "la-storia-del-rock-1-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-contadino-di-via-fabio-filzi-2026-12",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-del-giovedi-2026-13",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-dell-economia-solidale-2026-13",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "event-2026",
       "languages": [
         "de",
         "en",
         "it"
-      ]
-    },
-    {
-      "id": "pacific-quintet-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso-2026-3",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "alla-scoperta-di-trento-2026-13",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "codici-trentini-del-quattrocento-musicantica-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "letture-in-cinese-2026-2",
-      "languages": [
-        "de",
-        "en"
       ]
     },
     {
@@ -1540,14 +952,6 @@
       "languages": [
         "de",
         "en"
-      ]
-    },
-    {
-      "id": "sorsi-di-natale-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
       ]
     },
     {
@@ -2177,20 +1581,6 @@
     },
     {
       "id": "mi-chiamavano-tina-2027",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "la-storia-del-rock-2-2027",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "la-stanza-di-agnese-2027",
       "languages": [
         "de",
         "en"
