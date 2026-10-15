@@ -20650,11 +20650,7 @@
     "category": "Festival",
     "status": null,
     "confirmed": true,
-    "description": {
-      "de": "Konzert zwei Akkordeonorchesters im Arco Casino. Erfahre alles über Accordion Meeting – Festival di Fisarmoniche ed Ensemble und andere Veranstaltungen in Arco!",
-      "en": "Accordion Orchestras concerts at the Casino. Find out all about Accordion Meeting – Festival di Fisarmoniche ed Ensemble and other events in Arco!",
-      "it": "Orchestra di Fisarmoniche Città di Arco . Scopri tutto su Accordion Meeting – Festival di Fisarmoniche ed Ensemble e altri eventi a Arco!"
-    },
+    "description": {},
     "organizer": null,
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
@@ -20667,12 +20663,8 @@
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024"
     ],
-    "descriptionSources": {
-      "de": "https://www.gardatrentino.it/de/event/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
-      "en": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
-      "it": "https://www.gardatrentino.it/it/eventi/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024"
-    },
-    "descriptionStatus": "complete",
+    "descriptionSources": {},
+    "descriptionStatus": "missing",
     "descriptionVerified": "2026-10-15",
     "image": "https://www.gardatrentino.it/website_images/events/2024_events_Accordion_Meeting_orchestra_vienna_2.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
@@ -22049,13 +22041,14 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
+    "officialUrl": "https://www.gardatrentino.it/en/events/farmers-market-in-riva-del-garda_3479",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/events/farmers-market-in-riva-del-garda_3479",
       "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels"
     ],
     "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
@@ -23893,9 +23886,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Evento “Vai via” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati.",
-      "de": "Veranstaltung „Vai via“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Vai via” event in Trento. See the official event page for the latest details."
+      "it": "Compagnia Xirriquiteula Teatre Una coproduzione internazionale della compagnia spagnola Xirriquiteula con la compagnia teatrale danese ZeBu. La voce fuori campo sarà in italiano Età consigliata: 6+ | Scuola primaria Vai Via è uno spettacolo che intreccia teatro gestuale, musica originale e immagini poetiche per raccontare la storia di Rita, un tempo celebre contrabbassista e oggi costretta a vivere ai margini."
     },
     "organizer": null,
     "price": "See official page",
@@ -23911,7 +23902,8 @@
       "it": "https://eventi.comune.trento.it/Eventi/Vai-via"
     },
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15"
+    "descriptionVerified": "2026-10-15",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026-2",
@@ -26761,13 +26753,14 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
+    "officialUrl": "https://www.gardatrentino.it/en/events/farmers-market-in-riva-del-garda_3479",
     "source": "Garda Trentino - events",
     "verified": "2026-10-14",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/events/farmers-market-in-riva-del-garda_3479",
       "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels"
     ],
     "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
@@ -27134,7 +27127,7 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/it/eventi/mercato-contadino-riva-del-garda_3479",
+    "officialUrl": "https://www.gardatrentino.it/en/events/farmers-market-in-riva-del-garda_3479",
     "source": "Garda Trentino - events",
     "verified": "2026-09-05",
     "discoveredVia": "coverage_backfill",
@@ -27144,6 +27137,7 @@
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
+      "https://www.gardatrentino.it/en/events/farmers-market-in-riva-del-garda_3479",
       "https://www.gardatrentino.it/en/towns-villages/riva-del-garda",
       "https://www.gardatrentino.it/it/eventi/mercato-contadino-riva-del-garda_3479"
     ],
@@ -27333,11 +27327,7 @@
     "category": "Festival",
     "status": null,
     "confirmed": true,
-    "description": {
-      "de": "Konzert zwei Akkordeonorchesters im Arco Casino. Erfahre alles über Accordion Meeting – Festival di Fisarmoniche ed Ensemble und andere Veranstaltungen in Arco!",
-      "en": "Accordion Orchestras concerts at the Casino. Find out all about Accordion Meeting – Festival di Fisarmoniche ed Ensemble and other events in Arco!",
-      "it": "Orchestra di Fisarmoniche Città di Arco . Scopri tutto su Accordion Meeting – Festival di Fisarmoniche ed Ensemble e altri eventi a Arco!"
-    },
+    "description": {},
     "organizer": null,
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
@@ -27349,12 +27339,8 @@
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024"
     ],
-    "descriptionSources": {
-      "de": "https://www.gardatrentino.it/de/event/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
-      "en": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
-      "it": "https://www.gardatrentino.it/it/eventi/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024"
-    },
-    "descriptionStatus": "complete",
+    "descriptionSources": {},
+    "descriptionStatus": "missing",
     "descriptionVerified": "2026-10-15",
     "image": "https://www.gardatrentino.it/website_images/events/2024_events_Accordion_Meeting_orchestra_vienna_2.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
@@ -28197,9 +28183,7 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "it": "Evento “Via Pál” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati.",
-      "de": "Veranstaltung „Via Pál“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Via Pál” event in Trento. See the official event page for the latest details."
+      "it": "Compagnia Bam!Bam!Teatro Età consigliata: 8-12 anni | scuola primaria e secondaria di primo grado Disponibile materiale di approfondimento"
     },
     "organizer": null,
     "price": "See official page",
@@ -28215,7 +28199,8 @@
       "it": "https://eventi.comune.trento.it/Eventi/Via-Pal"
     },
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15"
+    "descriptionVerified": "2026-10-15",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "fuoristagione-musica-2027",
