@@ -71,6 +71,7 @@ jobs:
             exit 0
           fi
 
+          python scripts/retain_event_history.py
           git add data/source_audit.json data/discovered_candidates.json data/discovery_delta.json data/events.json
           if git diff --cached --quiet; then
             echo "No coverage or event changes."
