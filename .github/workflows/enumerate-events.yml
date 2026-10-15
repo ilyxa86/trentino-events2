@@ -30,9 +30,6 @@ concurrency:
 jobs:
   enumerate:
     runs-on: ubuntu-latest
-    env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      OPENAI_SUMMARY_MODEL: gpt-5-mini
     timeout-minutes: 30
     steps:
       - name: Checkout
@@ -48,7 +45,7 @@ jobs:
           cache-dependency-path: requirements-crawler.txt
 
       - name: Install crawler dependencies
-        run: pip install -r requirements-crawler.txt openai
+        run: pip install -r requirements-crawler.txt
 
       - name: Enumerate mandatory event sources
         run: python scripts/enumerate_sources.py
@@ -62,9 +59,6 @@ jobs:
       - name: Enrich concrete event links and images
         run: python scripts/enrich_event_links_and_images.py
 
-      - name: Generate missing source-backed multilingual summaries
-        run: python scripts/generate_event_summaries.py
-
       - name: Commit coverage and live event update
         run: |
           git config user.name "trentino-events-bot"
@@ -77,7 +71,7 @@ jobs:
             exit 0
           fi
 
-          git add data/source_audit.json data/discovered_candidates.json data/discovery_delta.json data/events.json data/description_audit.json
+          git add data/source_audit.json data/discovered_candidates.json data/discovery_delta.json data/events.json
           if git diff --cached --quiet; then
             echo "No coverage or event changes."
           else

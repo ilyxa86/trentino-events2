@@ -4,11 +4,32 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from event_descriptions import enrich_descriptions, extract_description, substantive, summarize
+from event_descriptions import enrich_descriptions, extract_description, substantive, summarize, discard_invalid_source_copy, event_detail_url, description_from_record
 from generate_event_summaries import apply_summary
 
 
 class DescriptionsTest(unittest.TestCase):
+    def test_enumerator_retains_actual_teaser_but_not_title_and_date(self):
+        record = {'sourceId': 'comune_trento_events', 'title': 'Mercatino del Riuso',
+                  'rawText': 'Evento Mercatino del Riuso 18 Ottobre 2026 Un’occasione per scambiare libri, vestiti e oggetti senza usare denaro.'}
+        self.assertIn('scambiare libri', description_from_record(record)['it'])
+        record['rawText'] = 'Evento Mercatino del Riuso 18 Ottobre 2026'
+        self.assertEqual(description_from_record(record), {})
+
+    def test_agenda_trento_article_excludes_site_footer(self):
+        page = BeautifulSoup('<article class="it-page-section"><p>A swap market gives books, clothing and household objects a second life without using money.</p></article><footer>The city calendar promotes all regional events and activities.</footer>', 'html.parser')
+        self.assertIn('swap market', extract_description(page))
+        self.assertNotIn('city calendar', extract_description(page))
+
+    def test_weather_and_calendar_are_not_event_evidence(self):
+        self.assertFalse(event_detail_url('https://official.example/en/weather/garda-trentino'))
+        self.assertFalse(event_detail_url('https://official.example/en/discover/events?page=2'))
+        self.assertTrue(event_detail_url('https://official.example/en/discover/events/silk-walk_123'))
+        event = {'description': {'en': 'Sunglasses or umbrella? Check out the weather for the next five days.'},
+                 'descriptionSources': {'en': 'https://official.example/en/weather/garda-trentino'}}
+        self.assertTrue(discard_invalid_source_copy(event))
+        self.assertEqual(event['description'], {})
+
     def test_placeholder_is_not_a_summary(self):
         for text in [
             '“Example” event in Trento. See the official event page for the latest details.',

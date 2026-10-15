@@ -8,6 +8,8 @@ Existing curated events are preserved and enriched rather than replaced.
 """
 from __future__ import annotations
 
+from event_descriptions import description_from_record, substantive
+
 import calendar
 import json
 import re
@@ -297,6 +299,7 @@ def main() -> None:
         detail = clean(r.get("detailUrl") or r.get("pageUrl"))
         candidate = {
             "title": title,
+            "description": description_from_record(r),
             "startDate": iso(start), "endDate": iso(end),
             "startTime": extract_time(raw),
             "municipality": place, "area": area,
@@ -319,6 +322,7 @@ def main() -> None:
             g = grouped[key]
             if c.get("image") and not g.get("image"): g["image"] = c["image"]
             if c.get("officialUrl"): g["sourceUrls"].add(c["officialUrl"])
+            if not g.get("description") and c.get("description"): g["description"] = c["description"]
             # Prefer a more specific place over the generic Trentino fallback.
             if g.get("municipality") == "Trentino" and c.get("municipality") != "Trentino":
                 g["municipality"], g["area"], g["venue"] = c["municipality"], c["area"], c["venue"]

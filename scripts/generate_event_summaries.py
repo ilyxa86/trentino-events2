@@ -8,12 +8,13 @@ from __future__ import annotations
 
 import json
 import os
+import sys
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse, urlunparse
 
-from event_descriptions import substantive, clean
+from event_descriptions import substantive, clean, event_detail_url, discard_invalid_source_copy
 
 ROOT = Path(__file__).resolve().parents[1]
 EVENTS = ROOT / "data/events.json"
@@ -34,7 +35,7 @@ def useful_descriptions(event):
 
 def apply_summary(event, result, evidence_urls):
     url = clean(result.get("evidenceUrl"))
-    if url not in evidence_urls or not url.startswith(("https://", "http://")):
+    if url not in evidence_urls or not event_detail_url(url):
         return False
     # Require a complete result before applying it; never erase curated text.
     if not all(substantive(result.get(lang)) and len(result[lang]) <= 900 for lang in LANGUAGES):
@@ -68,6 +69,14 @@ def audit(events):
 
 def main():
     events = json.loads(EVENTS.read_text(encoding="utf-8"))
+    cleaned = False
+    for event in events:
+        cleaned = discard_invalid_source_copy(event) or cleaned
+    if cleaned:
+        EVENTS.write_text(json.dumps(events, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if "--audit-only" in sys.argv:
+        audit(events)
+        return
     # Same source/name can occur on multiple dates; one description serves those
     # records, without touching their dates, status, verification or identity.
     groups = {}
@@ -91,7 +100,7 @@ def main():
         return
 
     from openai import OpenAI
-    client = OpenAI(timeout=180, max_retries=2)
+    client = OpenAI(timeout=120, max_retries=1)
     model = os.getenv("OPENAI_SUMMARY_MODEL", "gpt-5-mini")
     pending = list(groups.values())
     # Separate translation batches from research, so sourced copy never needs
@@ -105,6 +114,7 @@ def main():
     def generate(batch):
         groups_in_batch, needs_search = batch
         records = [{"id": g[0]["id"], "name": g[0]["name"], "place": g[0].get("municipality"),
+                    "startDate": g[0].get("startDate"), "endDate": g[0].get("endDate"),
                     "officialUrl": g[0].get("officialUrl"), "sourceUrls": g[0].get("sourceUrls", []),
                     "sourceDescriptions": useful_descriptions(g[0])} for g in groups_in_batch]
         domains = sorted({urlparse(u).hostname for r in records for u in [r["officialUrl"], *r["sourceUrls"]] if u and urlparse(u).hostname})
@@ -127,6 +137,7 @@ def main():
         try:
             response = client.responses.create(
                 model=model, instructions=instructions, input=json.dumps(records, ensure_ascii=False),
+                reasoning={"effort": "low"}, max_output_tokens=10000,
                 text={"format": {"type": "json_schema", "name": "event_summaries", "strict": True, "schema": SCHEMA}},
                 **kwargs,
             )
@@ -165,6 +176,8 @@ def main():
             for group, result, allowed in updates:
                 for event in group:
                     changed += apply_summary(event, result, allowed)
+                    if not event_detail_url(event.get("officialUrl")) and all(lang in useful_descriptions(event) for lang in LANGUAGES) and event_detail_url(result.get("evidenceUrl")) and result.get("evidenceUrl") in allowed:
+                        event["officialUrl"] = result["evidenceUrl"]
             # Checkpoint successful batches in case a later API request fails.
             EVENTS.write_text(json.dumps(events, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             print(f"summaryBatch={i}/{len(batches)} enriched={changed}", flush=True)

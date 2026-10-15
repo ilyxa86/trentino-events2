@@ -17,9 +17,6 @@ concurrency:
 jobs:
   enrich:
     runs-on: ubuntu-latest
-    env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      OPENAI_SUMMARY_MODEL: gpt-5-mini
     timeout-minutes: 20
     steps:
       - name: Checkout
@@ -33,20 +30,17 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install -r requirements-crawler.txt openai
+        run: pip install -r requirements-crawler.txt
 
 
       - name: Enrich event detail links and images
         run: python scripts/enrich_event_links_and_images.py
 
-      - name: Generate missing source-backed multilingual summaries
-        run: python scripts/generate_event_summaries.py
-
       - name: Commit refreshed events
         run: |
           git config user.name "trentino-events-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/events.json data/description_audit.json
+          git add data/events.json
           if git diff --cached --quiet; then
             echo "No event enrichment changes."
             exit 0

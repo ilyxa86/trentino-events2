@@ -19,7 +19,7 @@ from difflib import SequenceMatcher
 import requests
 from bs4 import BeautifulSoup
 from dateutil.relativedelta import relativedelta
-from event_descriptions import enrich_descriptions, substantive
+from event_descriptions import enrich_descriptions, substantive, event_detail_url
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"
@@ -42,6 +42,7 @@ def display_name(e):
     if isinstance(n,dict): return clean(n.get("it") or n.get("de") or n.get("en"))
     return clean(n)
 def general_url(u):
+    if not event_detail_url(u):return True
     try:
         p=urlparse(u)
         path=(p.path or "/").rstrip("/") or "/"
@@ -80,7 +81,7 @@ def concrete_match(name,sp,final):
     path=norm(urlparse(final).path.replace("/"," "))
     title_tokens=[x for x in norm(name).split() if len(x)>=4]
     url_hits=sum(1 for x in title_tokens if x in path)
-    if title_tokens and url_hits>=max(1,min(2,len(title_tokens))): sc=max(sc,.72)
+    if title_tokens and url_hits>=max(1,len(title_tokens)*.75) and sc>=.4: sc=max(sc,.72)
     return sc>=.56
 def best_anchor(name,sp,base):
     best=(0.0,None)

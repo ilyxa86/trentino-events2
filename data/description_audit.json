@@ -1,7 +1,7 @@
 {
   "checkedAt": "2026-10-15",
   "currentEvents": 354,
-  "complete": 59,
+  "complete": 54,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -363,112 +363,98 @@
       "id": "ciclo-di-incontri-a-tema-salute-e-prevenzione-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "ciclo-di-incontri-il-tempo-di-un-dialogo-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "fondazione-trentino-abitare-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-del-giovedi-2026-8",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-8",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "prisma-aurea-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "altra-piazza-fest-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "casteldi-sera-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "nicolo-dorigati-nel-segno-del-barocco-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "ottobre-in-liberty-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "padre-fabrizio-forti-intitolazione-piazzale-carcere-di-trento-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "alla-scoperta-di-trento-2026-8",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "escape-room-la-lacrima-dell-ultimo-atto-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -482,8 +468,7 @@
       "id": "mercato-contadino-di-piazza-dante-2026-8",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -505,24 +490,21 @@
       "id": "salita-alla-cantoria-del-duomo-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026-8",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "visita-guidata-gratuita-alla-mostra-da-piazza-delle-armi-a-giardino-piaz-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -552,32 +534,28 @@
       "id": "i-conflitti-incrociati-in-medio-oriente-ciclo-di-incontri-le-origini-dei-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "un-amuleto-per-l-eternita-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "unicorno-autunno-market-mercatino-del-riuso-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -592,64 +570,56 @@
       "id": "cancro-in-due-atti-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "crepe-nel-mondo-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "gruppo-di-conversazione-sul-cinema-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "la-scuola-primaria-di-ravina-assemblea-pubblica-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mamme-in-cerchio-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "ottobre-in-biblioteca-2026-4",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "pietre-di-pane-memorie-di-geografie-fragili-installazione-site-specific-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "curainsieme-2026-4",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -670,72 +640,63 @@
       "id": "formazione-per-l-amministratore-di-sostegno-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-8",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "viaggio-nella-memoria-del-medioevo-latino-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "bambu-di-roberto-castello-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "ciclo-di-incontri-a-tema-salute-e-prevenzione-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "crepe-nel-mondo-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "le-consort-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-del-giovedi-2026-9",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-9",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -750,64 +711,56 @@
       "id": "alla-scoperta-di-trento-2026-9",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "coppie-scoppiate-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "escape-room-la-lacrima-dell-ultimo-atto-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "giornata-del-riuso-a-ravina-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "l-orso-di-shakespeare-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercatino-dei-gaudenti-di-piazza-dante-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-9",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "nicolo-dorigati-nel-segno-del-barocco-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -821,12 +774,18 @@
       "id": "presentazione-libro-l-orso-di-shakespeare-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "visita-guidata-gratuita-alla-mostra-da-piazza-delle-armi-a-giardino-piaz-2026-3",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-7",
       "languages": [
         "de",
         "en",
@@ -845,8 +804,7 @@
       "id": "e-arrivato-un-bastimento-carico-di-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -893,56 +851,49 @@
       "id": "visita-guidata-al-castello-del-buonconsiglio-2026-6",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "presentazione-libro-111-luoghi-di-trento-che-devi-proprio-scoprire-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "crepe-nel-mondo-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "curainsieme-2026-5",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "presentazione-libro-terre-promesse-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "crepe-nel-mondo-2026-4",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -957,104 +908,91 @@
       "id": "mercato-contadino-di-via-fabio-filzi-2026-9",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "anabel-montesinos-linus-roth-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "ciclo-di-incontri-a-tema-salute-e-prevenzione-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "crepe-nel-mondo-2026-5",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "lilt-for-women-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "luci-e-ombre-di-una-carriera-misteriosa-nicolo-dorigati-pittore-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "madre-courage-e-i-suoi-figli-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-del-giovedi-2026-10",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-10",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "ottobre-in-biblioteca-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "pietre-di-pane-memorie-di-geografie-fragili-finissage-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "sia-laudato-san-francesco-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "alla-scoperta-di-trento-2026-10",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1085,24 +1023,21 @@
       "id": "l-equivoco-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "la-citta-dei-morti-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-10",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1116,24 +1051,21 @@
       "id": "crepe-nel-mondo-2026-6",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "crepe-nel-mondo-2026-7",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "curainsieme-2026-6",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1155,8 +1087,7 @@
       "id": "mercato-contadino-di-via-fabio-filzi-2026-10",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1170,68 +1101,67 @@
       "id": "lilt-for-men-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-del-giovedi-2026-11",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-11",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "osservato-speciale-piene-e-magre-dell-adige-a-trento-dal-1862-ad-oggi-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "alla-scoperta-di-trento-2026-11",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "coderdojo-crea-il-tuo-videogioco-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "l-importanza-de-ciamarse-onesto-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-11",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "sicut-luna-perfecta-musicantica-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-8",
       "languages": [
         "de",
         "en",
@@ -1282,8 +1212,7 @@
       "id": "la-gallinella-rossa-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1297,56 +1226,49 @@
       "id": "danish-string-quartet-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-11",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "le-ultime-lune-con-alessandro-haber-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-del-giovedi-2026-12",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-12",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "alla-scoperta-di-trento-2026-12",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1361,40 +1283,35 @@
       "id": "giornate-dell-educare-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercatino-dei-gaudenti-di-piazza-garzetti-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-12",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "pomeriggi-di-giochi-da-tavolo-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "un-incauta-lettera-d-amore-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1409,16 +1326,14 @@
       "id": "gruppo-di-conversazione-sul-cinema-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mamme-in-cerchio-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1433,40 +1348,35 @@
       "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "la-storia-del-rock-1-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-12",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-del-giovedi-2026-13",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-13",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1481,56 +1391,49 @@
       "id": "pacific-quintet-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "alla-scoperta-di-trento-2026-13",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "codici-trentini-del-quattrocento-musicantica-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "letture-in-cinese-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-13",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "na-malga-par-doe-stavolta-el-malgar-l-ha-ciapa-na-ncavicia-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1552,56 +1455,49 @@
       "id": "un-mare-di-avventure-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "storia-di-un-no-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-13",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "goya-quartet-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-del-giovedi-2026-14",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-14",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "antropocene-e-altri-poeti-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1615,40 +1511,35 @@
       "id": "alla-scoperta-di-trento-2026-14",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "giornate-dell-educare-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "il-mondo-musicantica-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercatino-dei-gaudenti-di-piazza-dante-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-14",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1671,72 +1562,63 @@
       "id": "giornata-internazionale-di-cities-for-life-citta-per-la-vita-citta-contr-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "la-fiaba-di-celeste-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "jan-lisiecki-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-14",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-del-giovedi-2026-15",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-15",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "5-dicembre-giornata-internazionale-del-volontariato-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "alla-scoperta-di-trento-2026-15",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-15",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1759,160 +1641,140 @@
       "id": "mercato-contadino-di-via-fabio-filzi-2026-15",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "b-rock-orchestra-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-del-giovedi-2026-16",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-16",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "alla-scoperta-di-trento-2026-16",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "coderdojo-crea-il-tuo-videogioco-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "letture-in-cinese-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercatino-dei-gaudenti-di-piazza-garzetti-2026-4",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-16",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mamme-in-cerchio-2026-3",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "gli-ultimi-orsi-polari-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-16",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-del-giovedi-2026-17",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-17",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso-2026-4",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "alla-scoperta-di-trento-2026-17",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "giornate-dell-educare-2026-4",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercatino-dei-gaudenti-di-piazza-dante-2026-4",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-17",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "pomeriggi-di-giochi-da-tavolo-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1935,8 +1797,7 @@
       "id": "gruppo-di-conversazione-sul-cinema-2026-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1975,6 +1836,13 @@
       "id": "mercato-contadino-di-via-fabio-filzi-2026-17",
       "languages": [
         "de",
+        "en"
+      ]
+    },
+    {
+      "id": "garda-trentino-xmas-trail-2026",
+      "languages": [
+        "de",
         "en",
         "it"
       ]
@@ -1983,16 +1851,14 @@
       "id": "mercato-del-giovedi-2026-18",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-18",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -2007,12 +1873,18 @@
       "id": "alla-scoperta-di-trento-2026-18",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-18",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-6",
       "languages": [
         "de",
         "en",
@@ -2037,6 +1909,13 @@
     },
     {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-18",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-4",
       "languages": [
         "de",
         "en",
@@ -2095,16 +1974,14 @@
       "id": "mercato-del-giovedi-2026-19",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mercato-dell-economia-solidale-2026-19",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -2135,8 +2012,7 @@
       "id": "alla-scoperta-di-trento-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -2159,8 +2035,7 @@
       "id": "alla-scoperta-di-trento-2027-2",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -2175,8 +2050,7 @@
       "id": "fragolina-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -2205,24 +2079,21 @@
       "id": "hansel-e-gretel-infanzia-in-guerra-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "storie-da-mangiare-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "come-fu-che-la-iena-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -2245,96 +2116,84 @@
       "id": "l-amore-delle-tre-melarance-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "rosaluna-e-i-lupi-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "alfonsina-corridora-replica-serale-aperta-al-pubblico-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "alfonsina-corridora-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "poco-piu-in-la-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "terra-replica-serale-aperta-al-pubblico-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "terra-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "la-fata-arrabbiata-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "pinocchio-nel-ventre-della-balena-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "mi-chiamavano-tina-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "la-storia-del-rock-2-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
       "id": "la-stanza-di-agnese-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     }
   ]

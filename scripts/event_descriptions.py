@@ -27,6 +27,33 @@ def substantive(value):
     return len(clean(value)) >= 40 and not PLACEHOLDER.search(clean(value))
 
 
+def event_detail_url(url):
+    parsed = urlparse(url or "")
+    parts = [part.casefold() for part in parsed.path.strip("/").split("/") if part]
+    if parsed.scheme not in {"http", "https"} or len(parts) < 2:
+        return False
+    if any(part in {"weather", "wetter", "meteo", "webcams", "privacy", "cookies"} for part in parts):
+        return False
+    return parts[-1] not in {"events", "eventi", "agenda", "appuntamenti", "rassegne", "calendario", "calendario-eventi"}
+
+
+def discard_invalid_source_copy(event):
+    """Do not treat a weather/calendar excerpt as a curated translation."""
+    descriptions = dict(event.get("description") or {})
+    sources = dict(event.get("descriptionSources") or {})
+    changed = False
+    for lang, url in list(sources.items()):
+        if not event_detail_url(url):
+            descriptions.pop(lang, None)
+            sources.pop(lang)
+            changed = True
+    if changed:
+        event["description"] = descriptions
+        event["descriptionSources"] = sources
+        event["descriptionStatus"] = "partial" if descriptions else "missing"
+    return changed
+
+
 def summarize(value, max_chars=560):
     """A short extract, keeping sentence boundaries and avoiding HTML/navigation."""
     text = clean(BeautifulSoup(str(value or ""), "html.parser").get_text(" ", strip=True))
@@ -77,7 +104,7 @@ def extract_description(sp):
 
     # The body intro is usually richer than SEO copy. These containers exclude
     # booking forms, navigation, calendars and related-event lists.
-    for selector in [".descrizione", "article.primary .desc", '[itemprop="description"]',
+    for selector in [".descrizione", "article.primary .desc", "article.it-page-section", '[itemprop="description"]',
                      ".event-description", ".event__description", ".description-text"]:
         container = sp.select_one(selector)
         if not container:
@@ -96,6 +123,27 @@ def extract_description(sp):
     return ""
 
 
+def description_from_record(record):
+    """Keep genuine copy that calendar enumeration already collected."""
+    supplied = record.get("description")
+    if isinstance(supplied, dict):
+        return {lang: summarize(text) for lang, text in supplied.items() if lang in {"de", "en", "it"} and substantive(text)}
+    # Agenda Trento cards have a stable title/date/teaser format. Do not apply
+    # this parser to arbitrary calendars, where rawText may contain navigation.
+    if record.get("sourceId") != "comune_trento_events":
+        return {}
+    text, title = clean(record.get("rawText")), clean(record.get("title"))
+    text = re.sub(r"^Evento\s+", "", text, flags=re.I)
+    if not title or not text.startswith(title):
+        return {}
+    text = text[len(title):].strip()
+    months = "gennaio|febbraio|marzo|aprile|maggio|giugno|luglio|agosto|settembre|ottobre|novembre|dicembre"
+    day = rf"\d{{1,2}}\s+(?:{months})\s+20\d{{2}}"
+    match = re.match(rf"^(?:dal?\s+)?{day}(?:\s*(?:-|–|al?)\s*{day})?\s+(.+)$", text, flags=re.I)
+    summary = summarize(match[1]) if match else ""
+    return {"it": summary} if summary else {}
+
+
 def enrich_descriptions(event, sp, url, fetch):
     """Called only after the detail page has been matched to this event."""
     descriptions = event.get("description")
@@ -110,7 +158,7 @@ def enrich_descriptions(event, sp, url, fetch):
         alternate = urljoin(url, link["href"])
         if lang not in {"de", "en", "it"} or lang in pages or substantive(descriptions.get(lang)):
             continue
-        if urlparse(alternate).hostname != urlparse(url).hostname:
+        if urlparse(alternate).hostname != urlparse(url).hostname or not event_detail_url(alternate):
             continue
         other, final, _ = fetch(alternate)
         if other and page_language(other, final) == lang:

@@ -5,10 +5,16 @@ on:
   push:
     paths:
       - "scripts/generate_event_summaries.py"
+      - "scripts/event_descriptions.py"
+      - "scripts/merge_summary_updates.py"
       - ".github/workflows/event-summaries.yml"
+  workflow_run:
+    workflows: ["Enumerate event sources", "Enrich current events now", "Publish current event snapshot", "Weekly public social event discovery"]
+    types: [completed]
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: trentino-summary-repair
@@ -16,6 +22,7 @@ concurrency:
 
 jobs:
   summaries:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 25
     env:
@@ -30,16 +37,42 @@ jobs:
           python-version: "3.12"
       - name: Install dependencies
         run: pip install -r requirements-crawler.txt openai
+      - name: Stop superseded maintenance runs after a code update
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import os, requests
+          session = requests.Session()
+          session.headers['Authorization'] = 'Bearer ' + os.environ['GH_TOKEN']
+          base = 'https://api.github.com/repos/' + os.environ['GITHUB_REPOSITORY'] + '/actions/runs'
+          response = session.get(base, params={'per_page': 50}, timeout=30)
+          response.raise_for_status()
+          names = {'Enumerate event sources', 'Enrich current events now', 'Publish current event snapshot', 'Repair event summaries'}
+          for run in response.json()['workflow_runs']:
+              if run['name'] in names and run['status'] in {'queued', 'in_progress'} and run['head_sha'] != os.environ['GITHUB_SHA']:
+                  result = session.post(base + '/' + str(run['id']) + '/cancel', timeout=30)
+                  print('Superseded run', run['id'], 'cancel status', result.status_code)
+          PY
       - name: Verify summary extraction and validation
         run: python -m unittest discover -s tests
       - name: Repair missing event summaries and translations
-        run: python scripts/generate_event_summaries.py
+        run: |
+          mkdir -p .cache
+          git show HEAD:data/events.json > .cache/base-events.json
+          python scripts/generate_event_summaries.py
       - name: Publish updated descriptions
         run: |
           git config user.name "trentino-events-bot"
           git config user.email "actions@users.noreply.github.com"
+          cp data/events.json .cache/generated-events.json
+          git restore -- data/events.json data/description_audit.json
+          git fetch origin main
+          git merge --ff-only origin/main
+          python scripts/merge_summary_updates.py .cache/base-events.json .cache/generated-events.json data/events.json
+          python scripts/generate_event_summaries.py --audit-only
           git add data/events.json data/description_audit.json
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "Fill source-backed multilingual event summaries"
-          git pull --rebase origin main
           git push origin HEAD:main
