@@ -12,7 +12,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from pathlib import Path
-from urllib.parse import urlparse, urlunparse
+from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode, unquote
 
 from event_descriptions import substantive, clean, event_detail_url, discard_invalid_source_copy
 
@@ -33,9 +33,28 @@ def useful_descriptions(event):
     return {lang: value for lang, value in (event.get("description") or {}).items() if substantive(value)}
 
 
+def evidence_key(url):
+    parsed = urlparse(url or "")
+    query = [(k, v) for k, v in parse_qsl(parsed.query) if not k.lower().startswith("utm_")]
+    return ((parsed.hostname or "").removeprefix("www."), unquote(parsed.path).rstrip("/"), urlencode(sorted(query)))
+
+
+def response_evidence(raw):
+    urls = set()
+    for output in raw.get("output") or []:
+        for source in (output.get("action") or {}).get("sources") or []:
+            if source.get("url"):
+                urls.add(source["url"])
+        for content in output.get("content") or []:
+            for annotation in content.get("annotations") or []:
+                if annotation.get("url"):
+                    urls.add(annotation["url"])
+    return urls
+
+
 def apply_summary(event, result, evidence_urls):
     url = clean(result.get("evidenceUrl"))
-    if url not in evidence_urls or not event_detail_url(url):
+    if not any(evidence_key(url) == evidence_key(source) for source in evidence_urls) or not event_detail_url(url):
         return False
     # Require a complete result before applying it; never erase curated text.
     if not all(substantive(result.get(lang)) and len(result[lang]) <= 900 for lang in LANGUAGES):
@@ -146,15 +165,7 @@ def main():
             payload = json.loads(response.output_text)
             evidence = set()
             if needs_search:
-                raw = response.model_dump()
-                for output in raw.get("output", []):
-                    for source in (output.get("action") or {}).get("sources", []):
-                        if source.get("url"):
-                            evidence.add(source["url"])
-                    for content in output.get("content", []):
-                        for annotation in content.get("annotations", []):
-                            if annotation.get("url"):
-                                evidence.add(annotation["url"])
+                evidence = response_evidence(response.model_dump())
             updates = []
             by_id = {g[0]["id"]: g for g in groups_in_batch}
             for result in payload.get("events", []):
@@ -167,7 +178,8 @@ def main():
                 updates.append((group, result, allowed))
             return updates
         except Exception as exc:
-            print(f"::warning::Summary batch failed ({type(exc).__name__}); keeping existing descriptions.", flush=True)
+            detail = str(exc)[:160] if isinstance(exc, (TypeError, ValueError, KeyError)) else f"HTTP {getattr(exc, 'status_code', 'unavailable')}"
+            print(f"::warning::Summary batch failed ({type(exc).__name__}: {detail}); keeping existing descriptions.", flush=True)
             return []
 
     changed = 0
@@ -175,8 +187,9 @@ def main():
         for i, updates in enumerate(pool.map(generate, batches), 1):
             for group, result, allowed in updates:
                 for event in group:
-                    changed += apply_summary(event, result, allowed)
-                    if not event_detail_url(event.get("officialUrl")) and all(lang in useful_descriptions(event) for lang in LANGUAGES) and event_detail_url(result.get("evidenceUrl")) and result.get("evidenceUrl") in allowed:
+                    applied = apply_summary(event, result, allowed)
+                    changed += applied
+                    if applied and not event_detail_url(event.get("officialUrl")) and event_detail_url(result.get("evidenceUrl")):
                         event["officialUrl"] = result["evidenceUrl"]
             # Checkpoint successful batches in case a later API request fails.
             EVENTS.write_text(json.dumps(events, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

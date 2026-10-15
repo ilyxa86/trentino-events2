@@ -5,10 +5,19 @@ from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 from event_descriptions import enrich_descriptions, extract_description, substantive, summarize, discard_invalid_source_copy, event_detail_url, description_from_record
-from generate_event_summaries import apply_summary
+from generate_event_summaries import apply_summary, response_evidence, evidence_key
 
 
 class DescriptionsTest(unittest.TestCase):
+    def test_search_evidence_handles_optional_null_fields(self):
+        raw = {'output': [{'content': None, 'action': {'sources': None}},
+                          {'content': [{'annotations': None}]},
+                          {'action': {'sources': [{'url': 'https://official.example/events/walk'}]}}]}
+        self.assertEqual(response_evidence(raw), {'https://official.example/events/walk'})
+        self.assertEqual(evidence_key('https://www.official.example/events/walk/?utm_source=search#info'),
+                         evidence_key('https://official.example/events/walk'))
+        self.assertNotEqual(evidence_key('https://official.example/events?id=1'),
+                            evidence_key('https://official.example/events?id=2'))
     def test_enumerator_retains_actual_teaser_but_not_title_and_date(self):
         record = {'sourceId': 'comune_trento_events', 'title': 'Mercatino del Riuso',
                   'rawText': 'Evento Mercatino del Riuso 18 Ottobre 2026 Un’occasione per scambiare libri, vestiti e oggetti senza usare denaro.'}

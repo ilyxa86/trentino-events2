@@ -17,7 +17,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: trentino-summary-repair
+  group: trentino-event-summaries
   cancel-in-progress: true
 
 jobs:
