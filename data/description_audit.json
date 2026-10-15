@@ -1,7 +1,7 @@
 {
   "checkedAt": "2026-10-15",
   "currentEvents": 354,
-  "complete": 141,
+  "complete": 178,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -242,14 +242,6 @@
       ]
     },
     {
-      "id": "grasparola-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "dal-fucile-alla-matita-2026-3",
       "languages": [
         "de",
@@ -306,14 +298,6 @@
       ]
     },
     {
-      "id": "festa-del-latte-2026-2",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "international-chess-tournament-citta-di-arco-2026-3",
       "languages": [
         "de",
@@ -360,42 +344,10 @@
       ]
     },
     {
-      "id": "reboro-territorio-passione-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "divin-ottobre-2026-2",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "grasparola-2026-2",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
       "languages": [
         "de",
         "en"
-      ]
-    },
-    {
-      "id": "visitate-il-garda-2026-2",
-      "languages": [
-        "de",
-        "en",
-        "it"
       ]
     },
     {
@@ -491,30 +443,6 @@
       ]
     },
     {
-      "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-7",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "accordion-festival-in-ledro-2026-5",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "festa-della-patata-del-lomaso-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "garbage-ride-walk-2026",
       "languages": [
         "de",
@@ -524,38 +452,6 @@
     },
     {
       "id": "gruppo-cassa-centrale-trentino-business-run-2026-2",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "maroni-in-festa-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "spokes-of-design-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "fine-winetourism-marketplace-italy-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "divin-ottobre-2026-3",
       "languages": [
         "de",
         "en",
@@ -657,46 +553,6 @@
       ]
     },
     {
-      "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-8",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "festa-della-noce-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "frantoi-aperti-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "frantoi-aperti-2026-2",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "gino-pancheri-female-figures-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "giornate-fai-autunno-2026",
       "languages": [
         "de",
@@ -768,14 +624,6 @@
       ]
     },
     {
-      "id": "from-taste-to-taste-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "giornate-dell-educare-2026-2",
       "languages": [
         "de",
@@ -808,14 +656,6 @@
       "languages": [
         "de",
         "en"
-      ]
-    },
-    {
-      "id": "christmas-market-in-rango-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
       ]
     },
     {
@@ -853,14 +693,6 @@
       "languages": [
         "de",
         "en"
-      ]
-    },
-    {
-      "id": "santa-s-house-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
       ]
     },
     {
@@ -955,14 +787,6 @@
       ]
     },
     {
-      "id": "christmas-market-in-canale-di-tenno-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "giornata-internazionale-di-cities-for-life-citta-per-la-vita-citta-contr-2026",
       "languages": [
         "de",
@@ -1023,22 +847,6 @@
       "languages": [
         "de",
         "en"
-      ]
-    },
-    {
-      "id": "night-of-burning-stills-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "the-grinch-house-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
       ]
     },
     {
@@ -1221,34 +1029,10 @@
       ]
     },
     {
-      "id": "ultimate-landscapes-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "aerovita-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-17",
       "languages": [
         "de",
         "en"
-      ]
-    },
-    {
-      "id": "garda-trentino-xmas-trail-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
       ]
     },
     {
@@ -1266,14 +1050,6 @@
       ]
     },
     {
-      "id": "nadal-a-dro-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "alla-scoperta-di-trento-2026-18",
       "languages": [
         "de",
@@ -1288,42 +1064,10 @@
       ]
     },
     {
-      "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-6",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "aspettando-il-natale-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "shalom-pace-nativity-scene-in-lundo-village-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-18",
       "languages": [
         "de",
         "en"
-      ]
-    },
-    {
-      "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-4",
-      "languages": [
-        "de",
-        "en",
-        "it"
       ]
     },
     {
@@ -1335,31 +1079,7 @@
       ]
     },
     {
-      "id": "accordion-festival-in-ledro-2026-3",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "farmers-market-arco-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "flea-market-in-torbole-sul-garda-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "gigante-gigli-300th-anniversary-2026",
       "languages": [
         "de",
         "en",
@@ -1428,14 +1148,6 @@
       ]
     },
     {
-      "id": "se-a-natale-in-castello-2027",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "alla-scoperta-di-trento-2027-2",
       "languages": [
         "de",
@@ -1469,14 +1181,6 @@
       "languages": [
         "de",
         "en"
-      ]
-    },
-    {
-      "id": "expo-riva-schuh-and-gardabags-2027",
-      "languages": [
-        "de",
-        "en",
-        "it"
       ]
     },
     {

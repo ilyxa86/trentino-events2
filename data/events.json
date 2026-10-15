@@ -16056,21 +16056,32 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Grasparola“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Grasparola” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Grasparola” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Freizeit- und Bewegungsveranstaltung mit Unterhaltung. Erfahre alles über Grasparola und andere Veranstaltungen in Valle dei Laghi!",
+      "en": "Recreational sports event with entertainment. Find out all about Grasparola and other events in Valle dei Laghi!",
+      "it": "Evento ludico motorio con intrattenimento. Scopri tutto su 52° Grasparola e altri eventi a Valle dei Laghi!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "officialUrl": "https://www.gardatrentino.it/en/events/grasparola_62345",
     "source": "Garda Trentino - events",
     "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/events/grasparola_62345"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/grasparola_62345",
+      "en": "https://www.gardatrentino.it/en/events/grasparola_62345",
+      "it": "https://www.gardatrentino.it/it/eventi/52-grasparola_62345"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Grasparola_1.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/grasparola_62345",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "greenwalkexperience-2026",
@@ -16995,20 +17006,31 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Festa del Latte“ in Fiave. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Festa del Latte” event in Fiave. See the official event page for the latest details.",
-      "it": "Evento “Festa del Latte” a Fiave. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "In Cavrasto werden die alten Vòlti in Läden für die Produkte der Region umgewandelt. Erfahre alles über Festa della Noce und andere Veranstaltungen in Comano!",
+      "en": "In Cavrasto the arches of the old farmhouses are turned into little shops for local produce. Find out all about Festa della Noce and other events in Comano!",
+      "it": "Due giorni di festa per le vie del borgo, dove gli antichi vòlti vengono trasformati in botteghe per tutti i prodotti del territorio. Scopri tutto su Festa della Noce e altri eventi a Comano!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "officialUrl": "https://www.gardatrentino.it/it/eventi/festa-della-noce_49041",
     "source": "Garda Trentino - events",
     "verified": "2026-10-06",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/it/eventi/festa-della-noce_49041"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/festa-della-noce_49041",
+      "en": "https://www.gardatrentino.it/en/events/festa-della-noce_49041",
+      "it": "https://www.gardatrentino.it/it/eventi/festa-della-noce_49041"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Festa_della_noce.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/it/eventi/festa-della-noce_49041",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "fiera-di-san-francesco-2026",
@@ -18776,13 +18798,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Reboro, Territorio & Passione“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Reboro, Territorio & Passione” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Reboro, Territorio & Passione” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Die Veranstaltung im Zeichen des Reboro, des großen Passito aus dem Trentino. Erfahre alles über Reboro, Territorio & Passione und andere Veranstaltungen in Valle dei Laghi, Valle dei Laghi!",
+      "en": "The event dedicated to Reboro, a great Trentino red made with dried grapes is back. Find out all about Reboro, Territorio & Passione and other events in Valle dei Laghi, Valle dei Laghi!",
+      "it": "Torna l’appuntamento dedicato al grande rosso da appassimento Trentino . Scopri tutto su Reboro, Territorio & Passione e altri eventi a Valle dei Laghi, Valle dei Laghi!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
+    "officialUrl": "https://www.gardatrentino.it/en/events/reboro-territorio-passione-_47996",
     "source": "Garda Trentino - events",
     "verified": "2026-10-14",
     "discoveredVia": "coverage_backfill",
@@ -18795,8 +18817,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
-      "https://www.gardatrentino.it/en/discover/events?page=8"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=8",
+      "https://www.gardatrentino.it/en/events/reboro-territorio-passione-_47996"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/reboro-territorio-passione-_47996",
+      "en": "https://www.gardatrentino.it/en/events/reboro-territorio-passione-_47996",
+      "it": "https://www.gardatrentino.it/it/eventi/reboro-territorio-passione-_47996"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Reboro.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/reboro-territorio-passione-_47996",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "salita-alla-cantoria-del-duomo-2026-3",
@@ -18936,20 +18969,31 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „DiVin Ottobre“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“DiVin Ottobre” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “DiVin Ottobre” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Ein Monat voller Genuss, Wein und Trentiner Traditionen.",
+      "en": "A month of flavours, wines and Trentino traditions.",
+      "it": "Un mese di sapori, vini e tradizioni trentine."
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "officialUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
     "source": "Garda Trentino - events",
     "verified": "2026-10-11",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=3"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/events/divin-ottobre_75932"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/divin-ottobre_75932",
+      "en": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
+      "it": "https://www.gardatrentino.it/it/eventi/divin-ottobre_75932"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_DiVin_Ottobre_1.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "festa-della-castagna-2026",
@@ -19050,21 +19094,32 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Grasparola“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Grasparola” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Grasparola” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Freizeit- und Bewegungsveranstaltung mit Unterhaltung. Erfahre alles über Grasparola und andere Veranstaltungen in Valle dei Laghi!",
+      "en": "Recreational sports event with entertainment. Find out all about Grasparola and other events in Valle dei Laghi!",
+      "it": "Evento ludico motorio con intrattenimento. Scopri tutto su 52° Grasparola e altri eventi a Valle dei Laghi!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "officialUrl": "https://www.gardatrentino.it/en/events/grasparola_62345",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/events/grasparola_62345"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/grasparola_62345",
+      "en": "https://www.gardatrentino.it/en/events/grasparola_62345",
+      "it": "https://www.gardatrentino.it/it/eventi/52-grasparola_62345"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Grasparola_1.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/grasparola_62345",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "i-conflitti-incrociati-in-medio-oriente-ciclo-di-incontri-le-origini-dei-2026",
@@ -19239,21 +19294,32 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Visitate il Garda!“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Visitate il Garda!” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Visitate il Garda!” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Grafik und Tourismuswerbung von der Belle Époque bis zum modernen Tourismus. Erfahre alles über Visitate il Garda! und andere Veranstaltungen in Riva del Garda!",
+      "en": "Graphics and promotion from the Belle Époque to modern tourism. Find out all about Visitate il Garda! and other events in Riva del Garda!",
+      "it": "Grafica e promozione dalla Belle Èpoque al turismo moderno. Scopri tutto su Visitate il Garda! e altri eventi a Riva del Garda!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "officialUrl": "https://www.gardatrentino.it/en/events/visitate-il-garda_97567",
     "source": "Garda Trentino - events",
     "verified": "2026-10-03",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/events/visitate-il-garda_97567"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/visitate-il-garda_97567",
+      "en": "https://www.gardatrentino.it/en/events/visitate-il-garda_97567",
+      "it": "https://www.gardatrentino.it/it/eventi/visitate-il-garda_97567"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_100_anni_turismo_APT.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/visitate-il-garda_97567",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "cancro-in-due-atti-2026",
@@ -20502,23 +20568,32 @@
     "category": "Other",
     "status": null,
     "confirmed": true,
-    "description": {},
+    "description": {
+      "de": "1926 - 2026. Erfahre alles über 100 e + anni di turismo nel Garda Trentino und andere Veranstaltungen in Riva del Garda!",
+      "en": "1926 - 2026. Find out all about 100 e + anni di turismo nel Garda Trentino and other events in Riva del Garda!",
+      "it": "1926 - 2026. Scopri tutto su 100 e + anni di turismo nel Garda Trentino e altri eventi a Riva del Garda!"
+    },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "officialUrl": "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143",
     "source": "Garda Trentino - events",
     "verified": "2026-10-09",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/weather/garda-trentino"
+      "https://www.gardatrentino.it/en/weather/garda-trentino",
+      "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143"
     ],
     "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "assetVerified": "2026-10-15",
-    "descriptionSources": {},
-    "descriptionStatus": "missing",
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/100-e-anni-di-turismo-nel-garda-trentino_94143",
+      "en": "https://www.gardatrentino.it/en/events/100-e-anni-di-turismo-nel-garda-trentino_94143",
+      "it": "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143"
+    },
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15"
   },
   {
@@ -20538,21 +20613,32 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Accordion Festival in Ledro“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Accordion Festival in Ledro” event in Ledro. See the official event page for the latest details.",
-      "it": "Evento “Accordion Festival in Ledro” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Konzert zwei Akkordeonorchesters im Arco Casino. Erfahre alles über Accordion Meeting – Festival di Fisarmoniche ed Ensemble und andere Veranstaltungen in Arco!",
+      "en": "Accordion Orchestras concerts at the Casino. Find out all about Accordion Meeting – Festival di Fisarmoniche ed Ensemble and other events in Arco!",
+      "it": "Orchestra di Fisarmoniche Città di Arco . Scopri tutto su Accordion Meeting – Festival di Fisarmoniche ed Ensemble e altri eventi a Arco!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "officialUrl": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
     "source": "Garda Trentino - events",
     "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
+      "en": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
+      "it": "https://www.gardatrentino.it/it/eventi/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/2024_events_Accordion_Meeting_orchestra_vienna_2.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "e-arrivato-un-bastimento-carico-di-2026-2",
@@ -20611,13 +20697,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Festa della Patata del Lomaso“ in Comano Terme. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Festa della Patata del Lomaso” event in Comano Terme. See the official event page for the latest details.",
-      "it": "Evento “Festa della Patata del Lomaso” a Comano Terme. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Ein Traditionsprodukt, tausend Arten, es zu genießen. Erfahre alles über Festa della Patata del Lomaso und andere Veranstaltungen in Comano!",
+      "en": "One traditional product, a thousand ways to enjoy it. Find out all about Festa della Patata del Lomaso and other events in Comano!",
+      "it": "Un prodotto della tradizione, mille modi per gustarlo. Scopri tutto su Festa della Patata del Lomaso e altri eventi a Comano!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
+    "officialUrl": "https://www.gardatrentino.it/en/events/festa-della-patata-del-lomaso_60478",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
@@ -20629,8 +20715,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/festa-della-patata-del-lomaso_60478"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/festa-della-patata-del-lomaso_60478",
+      "en": "https://www.gardatrentino.it/en/events/festa-della-patata-del-lomaso_60478",
+      "it": "https://www.gardatrentino.it/it/eventi/festa-della-patata-del-lomaso_60478"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Festa_della_patata.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/festa-della-patata-del-lomaso_60478",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "garbage-ride-walk-2026",
@@ -20713,13 +20810,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Maroni in Festa“ in Drena. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Maroni in Festa” event in Drena. See the official event page for the latest details.",
-      "it": "Evento “Maroni in Festa” a Drena. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Drena feiert seine wertvollste Frucht. Erfahre alles über Maroni in Festa und andere Veranstaltungen in Dro & Drena!",
+      "en": "Drena celebrates its most precious fruit. Find out all about Maroni in Festa and other events in Dro & Drena!",
+      "it": "Drena celebra il suo frutto più prezioso. Scopri tutto su Maroni in Festa e altri eventi a Dro & Drena!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
+    "officialUrl": "https://www.gardatrentino.it/en/events/maroni-in-festa_49075",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
@@ -20731,8 +20828,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/maroni-in-festa_49075"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/maroni-in-festa_49075",
+      "en": "https://www.gardatrentino.it/en/events/maroni-in-festa_49075",
+      "it": "https://www.gardatrentino.it/it/eventi/maroni-in-festa_49075"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Maroni_in_festa.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/maroni-in-festa_49075",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "spokes-of-design-2026",
@@ -20751,13 +20859,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Spokes of Design“ in Torbole. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Spokes of Design” event in Torbole. See the official event page for the latest details.",
-      "it": "Evento “Spokes of Design” a Torbole. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Fahrräder zwischen Erfindergeist, Kunst und Innovation aus der Carosini Collection. Erfahre alles über Speichen des Designs und andere Veranstaltungen in Torbole sul Garda!",
+      "en": "Bicycles at the crossroads of ingenuity, art and innovation from the Carosini Collection. Find out all about Spokes of Design and other events in Torbole sul Garda!",
+      "it": "Biciclette tra ingegno, arte e innovazione dalla Carosini Collection. Scopri tutto su Raggi di design e altri eventi a Torbole sul Garda!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
+    "officialUrl": "https://www.gardatrentino.it/en/events/spokes-of-design_102289",
     "source": "Garda Trentino - events",
     "verified": "2026-09-06",
     "discoveredVia": "coverage_backfill",
@@ -20766,8 +20874,19 @@
       "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/discover/events?page=4"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=4",
+      "https://www.gardatrentino.it/en/events/spokes-of-design_102289"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/speichen-des-designs_102289",
+      "en": "https://www.gardatrentino.it/en/events/spokes-of-design_102289",
+      "it": "https://www.gardatrentino.it/it/eventi/raggi-di-design_102289"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/raggididesign.webp",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/spokes-of-design_102289",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-6",
@@ -21094,13 +21213,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „FINE #WineTourism Marketplace Italy“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“FINE #WineTourism Marketplace Italy” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “FINE #WineTourism Marketplace Italy” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Wine: the flavour of a region. Erfahre alles über FINE #WineTourism Marketplace Italy und andere Veranstaltungen in Riva del Garda!",
+      "en": "Wine: the flavour of a region. Find out all about FINE #WineTourism Marketplace Italy and other events in Riva del Garda!",
+      "it": "Wine: the flavour of a region. Scopri tutto su FINE #WineTourism Marketplace Italy e altri eventi a Riva del Garda!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
+    "officialUrl": "https://www.gardatrentino.it/en/events/fine-winetourism-marketplace-italy_89210",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
@@ -21112,8 +21231,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/fine-winetourism-marketplace-italy_89210"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/fine-winetourism-marketplace-italy_89210",
+      "en": "https://www.gardatrentino.it/en/events/fine-winetourism-marketplace-italy_89210",
+      "it": "https://www.gardatrentino.it/it/eventi/fine-winetourism-marketplace-italy_89210"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/FINEWine2026.png",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/fine-winetourism-marketplace-italy_89210",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-9",
@@ -21652,20 +21782,31 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „DiVin Ottobre“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“DiVin Ottobre” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “DiVin Ottobre” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Ein Monat voller Genuss, Wein und Trentiner Traditionen.",
+      "en": "A month of flavours, wines and Trentino traditions.",
+      "it": "Un mese di sapori, vini e tradizioni trentine."
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "officialUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/events/divin-ottobre_75932"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/divin-ottobre_75932",
+      "en": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
+      "it": "https://www.gardatrentino.it/it/eventi/divin-ottobre_75932"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_DiVin_Ottobre_1.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "gruppo-cassa-centrale-trentino-business-run-2026-3",
@@ -22590,23 +22731,32 @@
     "category": "Other",
     "status": null,
     "confirmed": true,
-    "description": {},
+    "description": {
+      "de": "1926 - 2026. Erfahre alles über 100 e + anni di turismo nel Garda Trentino und andere Veranstaltungen in Riva del Garda!",
+      "en": "1926 - 2026. Find out all about 100 e + anni di turismo nel Garda Trentino and other events in Riva del Garda!",
+      "it": "1926 - 2026. Scopri tutto su 100 e + anni di turismo nel Garda Trentino e altri eventi a Riva del Garda!"
+    },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "officialUrl": "https://www.gardatrentino.it/en/events/100-e-anni-di-turismo-nel-garda-trentino_94143",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=4",
+      "https://www.gardatrentino.it/en/events/100-e-anni-di-turismo-nel-garda-trentino_94143",
       "https://www.gardatrentino.it/en/weather/garda-trentino"
     ],
     "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "assetVerified": "2026-10-15",
-    "descriptionSources": {},
-    "descriptionStatus": "missing",
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/100-e-anni-di-turismo-nel-garda-trentino_94143",
+      "en": "https://www.gardatrentino.it/en/events/100-e-anni-di-turismo-nel-garda-trentino_94143",
+      "it": "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143"
+    },
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15"
   },
   {
@@ -22626,13 +22776,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Festa della Noce“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Festa della Noce” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “Festa della Noce” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "In Cavrasto werden die alten Vòlti in Läden für die Produkte der Region umgewandelt. Erfahre alles über Festa della Noce und andere Veranstaltungen in Comano!",
+      "en": "In Cavrasto the arches of the old farmhouses are turned into little shops for local produce. Find out all about Festa della Noce and other events in Comano!",
+      "it": "Due giorni di festa per le vie del borgo, dove gli antichi vòlti vengono trasformati in botteghe per tutti i prodotti del territorio. Scopri tutto su Festa della Noce e altri eventi a Comano!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
+    "officialUrl": "https://www.gardatrentino.it/en/events/festa-della-noce_49041",
     "source": "Garda Trentino - events",
     "verified": "2026-10-13",
     "discoveredVia": "coverage_backfill",
@@ -22641,8 +22791,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/festa-della-noce_49041"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/festa-della-noce_49041",
+      "en": "https://www.gardatrentino.it/en/events/festa-della-noce_49041",
+      "it": "https://www.gardatrentino.it/it/eventi/festa-della-noce_49041"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Festa_della_noce.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/festa-della-noce_49041",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "frantoi-aperti-2026",
@@ -22661,13 +22822,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Frantoi Aperti“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Frantoi Aperti” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Frantoi Aperti” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Ein Weekend, um die Tradition des Olivenanbaus kennenzulernen.. Erfahre alles über Frantoi Aperti und andere Veranstaltungen in Riva del Garda!",
+      "en": "A weekend dedicated to learning about local olive oil traditions. Find out all about Frantoi Aperti and other events in Riva del Garda!",
+      "it": "Un fine settimana per scoprire la tradizione dell’olivicoltura . Scopri tutto su Frantoi Aperti e altri eventi a Riva del Garda!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
+    "officialUrl": "https://www.gardatrentino.it/en/events/frantoi-aperti_11319",
     "source": "Garda Trentino - events",
     "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
@@ -22678,8 +22839,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/frantoi-aperti_11319"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/frantoi-aperti_11319",
+      "en": "https://www.gardatrentino.it/en/events/frantoi-aperti_11319",
+      "it": "https://www.gardatrentino.it/it/eventi/frantoi-aperti_11319"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Frantoi_aperti.png",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/frantoi-aperti_11319",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "frantoi-aperti-2026-2",
@@ -22698,13 +22870,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Frantoi Aperti“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Frantoi Aperti” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Frantoi Aperti” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Ein Weekend, um die Tradition des Olivenanbaus kennenzulernen.. Erfahre alles über Frantoi Aperti und andere Veranstaltungen in Riva del Garda!",
+      "en": "A weekend dedicated to learning about local olive oil traditions. Find out all about Frantoi Aperti and other events in Riva del Garda!",
+      "it": "Un fine settimana per scoprire la tradizione dell’olivicoltura . Scopri tutto su Frantoi Aperti e altri eventi a Riva del Garda!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
+    "officialUrl": "https://www.gardatrentino.it/en/events/frantoi-aperti_11319",
     "source": "Garda Trentino - events",
     "verified": "2026-10-07",
     "discoveredVia": "coverage_backfill",
@@ -22713,8 +22885,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
-      "https://www.gardatrentino.it/en/discover/events?page=8"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=8",
+      "https://www.gardatrentino.it/en/events/frantoi-aperti_11319"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/frantoi-aperti_11319",
+      "en": "https://www.gardatrentino.it/en/events/frantoi-aperti_11319",
+      "it": "https://www.gardatrentino.it/it/eventi/frantoi-aperti_11319"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Frantoi_aperti.png",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/frantoi-aperti_11319",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "garda-trentino-half-marathon-2026",
@@ -22782,21 +22965,32 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Gino Pancheri. Female Figures“ in Tenno. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Gino Pancheri. Female Figures” event in Tenno. See the official event page for the latest details.",
-      "it": "Evento “Gino Pancheri. Female Figures” a Tenno. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Ein intimer und stiller Blick auf die weibliche Figur. Erfahre alles über Gino Pancheri.",
+      "en": "An intimate and contemplative look at the female figure. Find out all about Gino Pancheri.",
+      "it": "Uno sguardo intimo e silenzioso sulla figura femminile. Scopri tutto su Gino Pancheri."
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "officialUrl": "https://www.gardatrentino.it/en/events/gino-pancheri-female-figures_102360",
     "source": "Garda Trentino - events",
     "verified": "2026-09-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/events/gino-pancheri-female-figures_102360"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/gino-pancheri-weibliche-figuren_102360",
+      "en": "https://www.gardatrentino.it/en/events/gino-pancheri-female-figures_102360",
+      "it": "https://www.gardatrentino.it/it/eventi/gino-pancheri-figure-femminili_102360"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/mostre/2026_Events_Mostra_Gino_Pancheri_2.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/gino-pancheri-female-figures_102360",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "giornate-fai-autunno-2026",
@@ -23309,13 +23503,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „From Taste to Taste“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“From Taste to Taste” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “From Taste to Taste” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "In der Winterzeit verwandelt sich das historische Zentrum von Riva del Garda in ein gemütliches Gastro-Dorf – der Weihnachtsmarkt \"Villaggio del Gusto\".",
+      "en": "During the winter, the historic center of Riva del Garda turns into a cozy gastro-village: the Christmas Market \"Villaggio del Gusto.\"",
+      "it": "Durante l'inverno il centro storico di Riva del Garda si trasforma in un accogliente villaggio gastronomico: il Mercato di Natale \"Villaggio del Gusto\"."
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
+    "officialUrl": "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
@@ -23327,8 +23521,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/so-schmeckt-weihnachten-_9213",
+      "en": "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213",
+      "it": "https://www.gardatrentino.it/it/eventi/mercatino-di-natale-di-gusto-in-gusto_9213"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/Villaggio_del_Gusto/2025_APTGARDADOLOMITI_ph.PRUGNOLA_Inverno_RivaDelGarda_DiGustoInGusto_0I1A0010.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "giornate-dell-educare-2026-2",
@@ -23527,13 +23732,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Christmas Market in Rango“ in Tenno. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Christmas Market in Rango” event in Tenno. See the official event page for the latest details.",
-      "it": "Evento “Christmas Market in Rango” a Tenno. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Kleine und strahlende Holzständchen in den bezauberndsten Winkeln der Stadt mit vielen Geschenksideen für Weihnachten. Erfahre alles über Weihnachtsmarkt in Arco und andere Veranstaltungen in Arco!",
+      "en": "The enchanting little wooden chalets of the Arco Christmas Market welcome visititors in the main squares of the town. Find out all about Christmas Market in Arco and other events in Arco!",
+      "it": "Atmosfera asburgica, profumi deliziosi, mille cose da fare (per grandi e piccoli!) e altrettanti stand tra cui curiosare alla ricerca di decorazioni e regali.. Scopri tutto su Mercatino di Natale di Arco e altri eventi a Arco!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
+    "officialUrl": "https://www.gardatrentino.it/en/events/christmas-market-in-arco_9004",
     "source": "Garda Trentino - events",
     "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
@@ -23543,8 +23748,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/christmas-market-in-arco_9004"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/weihnachtsmarkt-in-arco_9004",
+      "en": "https://www.gardatrentino.it/en/events/christmas-market-in-arco_9004",
+      "it": "https://www.gardatrentino.it/it/eventi/mercatino-di-natale-di-arco_9004"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/Mercatino_di_Arco/GARDADOLOMITI_ph-PRUGNOLA_INVERNO-21_DSC07722.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/christmas-market-in-arco_9004",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "gruppo-di-conversazione-sul-cinema-2026",
@@ -24357,21 +24573,32 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Santa's House“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Santa's House” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Santa's House” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Der Weihnachtsmann und seine Gehilfin halten in ihrem Haus viele Überrraschungen für Euch bereit! . Erfahre alles über Das Haus vom Weihnachtsmann und andere Veranstaltungen in Riva del Garda!",
+      "en": "Come and visit a magical place full of surprises for a unique experience in this amazing house with games, letters to Santa, workshops, elves. Find out all about Santa's House and other events in Riva del Garda!",
+      "it": "Un luogo incantato pieno di sorprese per un'esperienza unica, fra giochi, letterine, laboratori.. Scopri tutto su La Casa di Babbo Natale e altri eventi a Riva del Garda!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+    "officialUrl": "https://www.gardatrentino.it/en/events/santas-house_9212",
     "source": "Garda Trentino - events",
     "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=6",
+      "https://www.gardatrentino.it/en/events/santas-house_9212"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/das-haus-vom-weihnachtsmann_9212",
+      "en": "https://www.gardatrentino.it/en/events/santas-house_9212",
+      "it": "https://www.gardatrentino.it/it/eventi/la-casa-di-babbo-natale_9212"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/Casa_di_Babbo_Natale/GARDADOLOMITI_ph-PRUGNOLA_INVERNO-21_DSC08120_1.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/santas-house_9212",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "un-mare-di-avventure-2026",
@@ -24941,13 +25168,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Christmas Market in Canale di Tenno“ in Tenno. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Christmas Market in Canale di Tenno” event in Tenno. See the official event page for the latest details.",
-      "it": "Evento “Christmas Market in Canale di Tenno” a Tenno. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Der kleine Weihnachtsmarkt im mittelalterlichen Dorf macht die echte Tradition der Feiertage wieder lebendig. Erfahre alles über Weihnachtsmarkt von Canale di Tenno und andere Veranstaltungen in Tenno!",
+      "en": "The medieval village of Canale will host a unique Christmas Market. Find out all about Christmas Market in Canale di Tenno and other events in Tenno!",
+      "it": "Mercatino in uno dei borghi più belli d'Italia. Scopri tutto su Mercatino di Natale di Canale di Tenno e altri eventi a Tenno!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
+    "officialUrl": "https://www.gardatrentino.it/en/events/christmas-market-in-canale-di-tenno_11698",
     "source": "Garda Trentino - events",
     "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
@@ -24958,8 +25185,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/christmas-market-in-canale-di-tenno_11698"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/weihnachtsmarkt-von-canale-di-tenno_11698",
+      "en": "https://www.gardatrentino.it/en/events/christmas-market-in-canale-di-tenno_11698",
+      "it": "https://www.gardatrentino.it/it/eventi/mercatino-di-natale-di-canale-di-tenno_11698"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/Mercatino_di_Canale_e_Rango/2022_Mercatino_Natale_Canale.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/christmas-market-in-canale-di-tenno_11698",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "giornata-internazionale-di-cities-for-life-citta-per-la-vita-citta-contr-2026",
@@ -25343,21 +25581,32 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Night of Burning Stills“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Night of Burning Stills” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “Night of Burning Stills” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Die traditionsreichen Brennereien des „Trentino Grappa“ stehen im Mittelpunkt dieser Veranstaltung im historischen Ortskern von Santa Massenza. Erfahre alles über Die Nacht der Destillierkolben und andere Veranstaltungen in Valle dei Laghi!",
+      "en": "Trentino’s historic Grappa distilleries take part in a travelling show through the streets of Santa Massenza. Find out all about Night of Burning Stills and other events in Valle dei Laghi!",
+      "it": "Spettacolo teatrale itinerante dedicato all'arte della distillazione artigianale della grappa trentina nell'antico borgo di Santa Massenza,. Scopri tutto su La Notte degli Alambicchi Accesi e altri eventi a Valle dei Laghi!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+    "officialUrl": "https://www.gardatrentino.it/en/events/night-of-burning-stills_47535",
     "source": "Garda Trentino - events",
     "verified": "2026-09-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=7"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=7",
+      "https://www.gardatrentino.it/en/events/night-of-burning-stills_47535"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/die-nacht-der-destillierkolben_47535",
+      "en": "https://www.gardatrentino.it/en/events/night-of-burning-stills_47535",
+      "it": "https://www.gardatrentino.it/it/eventi/la-notte-degli-alambicchi-accesi_47535"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/GARDATRENTINO_2022_ph_PRUGNOLA_INVERNO_SANTAMASSENZA_0I1A8602.JPG",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/night-of-burning-stills_47535",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "the-grinch-house-2026",
@@ -25376,21 +25625,32 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „The Grinch House“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“The Grinch House” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “The Grinch House” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Das Grinch-Haus befindet sich in der Bastione von Riva del Garda und ist ein Winterhighlight – alle Informationen und Termine auf einen Blick.",
+      "en": "The Grinch’s House is located at the Bastione in Riva del Garda and is a must-see winter highlight. All the details and dates at a glance.",
+      "it": "La Casa del Grinch si trova al Bastione di Riva del Garda ed è uno degli appuntamenti imperdibili dell'inverno. Qui tutte le informazioni e le date."
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+    "officialUrl": "https://www.gardatrentino.it/en/events/the-grinch-house_62776",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=6",
+      "https://www.gardatrentino.it/en/events/the-grinch-house_62776"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/das-grinch-haus_62776",
+      "en": "https://www.gardatrentino.it/en/events/the-grinch-house_62776",
+      "it": "https://www.gardatrentino.it/it/eventi/la-casa-del-grinch_62776"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/casa_del_grinch/2023_GARDADOLOMITI_Prugnola_INVERNO_Grinch.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/the-grinch-house_62776",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-15",
@@ -26334,13 +26594,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Ultimate Landscapes“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Ultimate Landscapes” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Ultimate Landscapes” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Die Illusion des Eises. Erfahre alles über Ultimate Landscapes und andere Veranstaltungen in Riva del Garda!",
+      "en": "The Illusion of Ice . Find out all about Ultimate Landscapes and other events in Riva del Garda!",
+      "it": "L'illusione del Ghiaccio. Scopri tutto su Ultimate Landscapes e altri eventi a Riva del Garda!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "officialUrl": "https://www.gardatrentino.it/en/events/ultimate-landscapes_88938",
     "source": "Garda Trentino - events",
     "verified": "2026-09-21",
     "discoveredVia": "coverage_backfill",
@@ -26348,8 +26608,19 @@
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/events/ultimate-landscapes_88938"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/ultimate-landscapes_88938",
+      "en": "https://www.gardatrentino.it/en/events/ultimate-landscapes_88938",
+      "it": "https://www.gardatrentino.it/it/eventi/ultimate-landscapes_88938"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/2025_Events_Ultimate_Landscapes.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/ultimate-landscapes_88938",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "aerovita-2026",
@@ -26368,21 +26639,32 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Aerovita“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Aerovita” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “Aerovita” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Futuristische Aeromalerei und Gianni Caproni: Maschine, Ästhetik und Mythos. Erfahre alles über Aerovita und andere Veranstaltungen in Arco!",
+      "en": "Futurist aeropainting and Gianni Caproni: machine, aesthetics and myth. Find out all about Aerovita and other events in Arco!",
+      "it": "L’aeropittura futurista e Gianni Caproni: : macchina, estetica e mito. Scopri tutto su Aerovita e altri eventi a Arco!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+    "officialUrl": "https://www.gardatrentino.it/en/events/aerovita_94431",
     "source": "Garda Trentino - events",
     "verified": "2026-08-27",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/events/aerovita_94431"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/aerovita_94431",
+      "en": "https://www.gardatrentino.it/en/events/aerovita_94431",
+      "it": "https://www.gardatrentino.it/it/eventi/aerovita_94431"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/mostre/2026_Events_Mostra_Aerovita_Segnatini.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/aerovita_94431",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-17",
@@ -26479,10 +26761,14 @@
     "category": "Other",
     "status": null,
     "confirmed": true,
-    "description": {},
+    "description": {
+      "de": "Trail Running-Wettkampf auf dem Garda Trek. Erfahre alles über Garda Trentino Xmas Trail und andere Veranstaltungen in Torbole sul Garda!",
+      "en": "A trail running competition along the Garda Trek route. Find out all about Garda Trentino Xmas Trail and other events in Torbole sul Garda!",
+      "it": "Un evento internazionale che unisce Trail running e natura, corsa e paesaggi spettacolari in riva al Lago di Garda. Scopri tutto su Garda Trentino Xmas Trail e altri eventi a Torbole sul Garda!"
+    },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "officialUrl": "https://www.gardatrentino.it/en/events/garda-trentino-xmas-trail_9230",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
@@ -26493,13 +26779,18 @@
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
       "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/garda-trentino-xmas-trail_9230",
       "https://www.gardatrentino.it/en/weather/garda-trentino"
     ],
     "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "assetVerified": "2026-10-15",
-    "descriptionSources": {},
-    "descriptionStatus": "missing",
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/garda-trentino-xmas-trail_9230",
+      "en": "https://www.gardatrentino.it/en/events/garda-trentino-xmas-trail_9230",
+      "it": "https://www.gardatrentino.it/it/eventi/garda-trentino-xmas-trail_9230"
+    },
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15"
   },
   {
@@ -26591,13 +26882,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Nadal a Dro“ in Dro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Nadal a Dro” event in Dro. See the official event page for the latest details.",
-      "it": "Evento “Nadal a Dro” a Dro. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Weihnachtsveranstaltungen in Dro. Erfahre alles über Nadal a Dro und andere Veranstaltungen in Dro & Drena!",
+      "en": "Christmas events in Dro. Find out all about Nadal a Dro and other events in Dro & Drena!",
+      "it": "Eventi natalizi a Dro. Scopri tutto su Nadal a Dro e altri eventi a Dro & Drena!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=9",
+    "officialUrl": "https://www.gardatrentino.it/en/events/nadal-a-dro_50620",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
@@ -26607,8 +26898,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/nadal-a-dro_50620"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/nadal-a-dro_50620",
+      "en": "https://www.gardatrentino.it/en/events/nadal-a-dro_50620",
+      "it": "https://www.gardatrentino.it/it/eventi/nadal-a-dro_50620"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_events_Nadal_a_Dro_1.jpeg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/nadal-a-dro_50620",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "alla-scoperta-di-trento-2026-18",
@@ -26698,23 +27000,32 @@
     "category": "Other",
     "status": null,
     "confirmed": true,
-    "description": {},
+    "description": {
+      "de": "1926 - 2026. Erfahre alles über 100 e + anni di turismo nel Garda Trentino und andere Veranstaltungen in Riva del Garda!",
+      "en": "1926 - 2026. Find out all about 100 e + anni di turismo nel Garda Trentino and other events in Riva del Garda!",
+      "it": "1926 - 2026. Scopri tutto su 100 e + anni di turismo nel Garda Trentino e altri eventi a Riva del Garda!"
+    },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "officialUrl": "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143",
     "source": "Garda Trentino - events",
     "verified": "2026-10-06",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/weather/garda-trentino"
+      "https://www.gardatrentino.it/en/weather/garda-trentino",
+      "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143"
     ],
     "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "assetVerified": "2026-10-15",
-    "descriptionSources": {},
-    "descriptionStatus": "missing",
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/100-e-anni-di-turismo-nel-garda-trentino_94143",
+      "en": "https://www.gardatrentino.it/en/events/100-e-anni-di-turismo-nel-garda-trentino_94143",
+      "it": "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143"
+    },
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15"
   },
   {
@@ -26734,13 +27045,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Aspettando il Natale“ in Ronzo Chienis. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Aspettando il Natale” event in Ronzo Chienis. See the official event page for the latest details.",
-      "it": "Evento “Aspettando il Natale” a Ronzo Chienis. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Weihnachtliches Gemeinschaftsevent. Erfahre alles über Aspettando il Natale und andere Veranstaltungen in Val di Gresta!",
+      "en": "Community Christmas Event. Find out all about Aspettando il Natale and other events in Val di Gresta!",
+      "it": "Evento natalizio di comunità. Scopri tutto su Aspettando il Natale e altri eventi a Val di Gresta!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
+    "officialUrl": "https://www.gardatrentino.it/en/events/aspettando-il-natale_63457",
     "source": "Garda Trentino - events",
     "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
@@ -26750,8 +27061,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/aspettando-il-natale_63457"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/aspettando-il-natale_63457",
+      "en": "https://www.gardatrentino.it/en/events/aspettando-il-natale_63457",
+      "it": "https://www.gardatrentino.it/it/eventi/aspettando-il-natale_63457"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/freestocks-Q1N9vX2Sp1g-unsplash.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/aspettando-il-natale_63457",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "farmers-market-in-riva-del-garda-2026",
@@ -26817,13 +27139,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE“ in Torbole. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE” event in Torbole. See the official event page for the latest details.",
-      "it": "Evento “Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE” a Torbole. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Zeitgemäße lebende Krippe. Erfahre alles über Shalom - Pace: EBENDIGE KRIPPE IM DORF LUNDO und andere Veranstaltungen in Comano!",
+      "en": "Contemporary nativity scene. Find out all about Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE and other events in Comano!",
+      "it": "Un presepe vivente contemporaneo e teatralizzato. Scopri tutto su Shalom - Pace: Presepe vivente nel borgo di Lundo e altri eventi a Comano!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=10",
+    "officialUrl": "https://www.gardatrentino.it/en/events/shalom-pace-nativity-scene-in-lundo-village_12326",
     "source": "Garda Trentino - events",
     "verified": "2026-10-13",
     "discoveredVia": "coverage_backfill",
@@ -26832,8 +27154,19 @@
       "https://www.gardatrentino.it/en/discover/events?page=10",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/discover/events?page=9"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=9",
+      "https://www.gardatrentino.it/en/events/shalom-pace-nativity-scene-in-lundo-village_12326"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/shalom-pace-ebendige-krippe-im-dorf-lundo_12326",
+      "en": "https://www.gardatrentino.it/en/events/shalom-pace-nativity-scene-in-lundo-village_12326",
+      "it": "https://www.gardatrentino.it/it/eventi/shalom-pace-presepe-vivente-nel-borgo-di-lundo_12326"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/presepe_lundo.jpeg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/shalom-pace-nativity-scene-in-lundo-village_12326",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-18",
@@ -26887,23 +27220,32 @@
     "category": "Other",
     "status": null,
     "confirmed": true,
-    "description": {},
+    "description": {
+      "de": "1926 - 2026. Erfahre alles über 100 e + anni di turismo nel Garda Trentino und andere Veranstaltungen in Riva del Garda!",
+      "en": "1926 - 2026. Find out all about 100 e + anni di turismo nel Garda Trentino and other events in Riva del Garda!",
+      "it": "1926 - 2026. Scopri tutto su 100 e + anni di turismo nel Garda Trentino e altri eventi a Riva del Garda!"
+    },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
+    "officialUrl": "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143",
     "source": "Garda Trentino - events",
     "verified": "2026-09-30",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/weather/garda-trentino"
+      "https://www.gardatrentino.it/en/weather/garda-trentino",
+      "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143"
     ],
     "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
     "assetVerified": "2026-10-15",
-    "descriptionSources": {},
-    "descriptionStatus": "missing",
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/100-e-anni-di-turismo-nel-garda-trentino_94143",
+      "en": "https://www.gardatrentino.it/en/events/100-e-anni-di-turismo-nel-garda-trentino_94143",
+      "it": "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143"
+    },
+    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15"
   },
   {
@@ -26956,20 +27298,31 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Accordion Festival in Ledro“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Accordion Festival in Ledro” event in Ledro. See the official event page for the latest details.",
-      "it": "Evento “Accordion Festival in Ledro” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Konzert zwei Akkordeonorchesters im Arco Casino. Erfahre alles über Accordion Meeting – Festival di Fisarmoniche ed Ensemble und andere Veranstaltungen in Arco!",
+      "en": "Accordion Orchestras concerts at the Casino. Find out all about Accordion Meeting – Festival di Fisarmoniche ed Ensemble and other events in Arco!",
+      "it": "Orchestra di Fisarmoniche Città di Arco . Scopri tutto su Accordion Meeting – Festival di Fisarmoniche ed Ensemble e altri eventi a Arco!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "officialUrl": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
     "source": "Garda Trentino - events",
     "verified": "2026-09-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=3"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
+      "en": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
+      "it": "https://www.gardatrentino.it/it/eventi/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/2024_events_Accordion_Meeting_orchestra_vienna_2.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "farmers-market-arco-2026",
@@ -26988,13 +27341,13 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Farmers' market Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Farmers' market Arco” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “Farmers' market Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Wochenmarkt der lokalen Hersteller: nicht nur Obst und Gemüse, aber auch Marmeladen, Säfte und Honig. Erfahre alles über Bauernmarkt in Arco und andere Veranstaltungen in Arco!",
+      "en": "Weekly market with local producers of fruit and vegetables, jams, fruit juices, raw honey and bee products. Find out all about Farmers' market Arco and other events in Arco!",
+      "it": "Mercato settimanale dei produttori locali: non solo frutta e verdura fresca, ma anche marmellate, succhi e miele. Scopri tutto su Mercato contadino Arco e altri eventi a Arco!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "officialUrl": "https://www.gardatrentino.it/en/events/farmers-market-arco_3477",
     "source": "Garda Trentino - events",
     "verified": "2026-08-31",
     "discoveredVia": "coverage_backfill",
@@ -27002,8 +27355,19 @@
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/events/farmers-market-arco_3477"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/bauernmarkt-in-arco_3477",
+      "en": "https://www.gardatrentino.it/en/events/farmers-market-arco_3477",
+      "it": "https://www.gardatrentino.it/it/eventi/mercato-contadino-arco_3477"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/EVENTS_GARDADOLOMITI-ph-WATCHSOME_MERCATO%20CONTADINO_HQ-3147.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/farmers-market-arco_3477",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "flea-market-in-torbole-sul-garda-2026",
@@ -27055,20 +27419,31 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Gigante Gigli 300th Anniversary“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Gigante Gigli 300th Anniversary” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “Gigante Gigli 300th Anniversary” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Der gute Riese. Erfahre alles über Gigante Gigli 300.",
+      "en": "The Gentle Giant. Find out all about Gigante Gigli 300th Anniversary and other events in Ledro!",
+      "it": "Il Gigante buono. Scopri tutto su Gigante Gigli 300° Anniversario e altri eventi a Ledro!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+    "officialUrl": "https://www.gardatrentino.it/en/events/gigante-gigli-300th-anniversary_103295",
     "source": "Garda Trentino - events",
     "verified": "2026-10-14",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=3"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=3",
+      "https://www.gardatrentino.it/en/events/gigante-gigli-300th-anniversary_103295"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/gigante-gigli-300-jubilum_103295",
+      "en": "https://www.gardatrentino.it/en/events/gigante-gigli-300th-anniversary_103295",
+      "it": "https://www.gardatrentino.it/it/eventi/gigante-gigli-300-anniversario_103295"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/Scopri/Questo_Garda_Trentino/Gigante_Gilli_Ledro.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/gigante-gigli-300th-anniversary_103295",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "l-officina-del-sapone-2026-2",
@@ -27357,21 +27732,32 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Se a Natale in castello“ in Calavino. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Se a Natale in castello” event in Calavino. See the official event page for the latest details.",
-      "it": "Evento “Se a Natale in castello” a Calavino. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Krippen, alte Handwerke, Aromen des Trentino. Erfahre alles über Se a Natale in castello und andere Veranstaltungen in Valle dei Laghi!",
+      "en": "Nativity Scenes, Ancient Crafts, Flavours of Trentino. Find out all about Se a Natale in castello and other events in Valle dei Laghi!",
+      "it": "Presepi, Antichi Mestieri, Sapori del Trentino. Scopri tutto su Se a Natale in castello e altri eventi a Valle dei Laghi!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
+    "officialUrl": "https://www.gardatrentino.it/en/events/se-a-natale-in-castello_76254",
     "source": "Garda Trentino - events",
     "verified": "2026-10-12",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=6",
+      "https://www.gardatrentino.it/en/events/se-a-natale-in-castello_76254"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/se-a-natale-in-castello_76254",
+      "en": "https://www.gardatrentino.it/en/events/se-a-natale-in-castello_76254",
+      "it": "https://www.gardatrentino.it/it/eventi/se-a-natale-in-castello_76254"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Il_Castello_della_Nativit%C3%A0_1.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/se-a-natale-in-castello_76254",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "alla-scoperta-di-trento-2027-2",
@@ -27596,21 +27982,32 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Expo Riva Schuh and Gardabags“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Expo Riva Schuh and Gardabags” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Expo Riva Schuh and Gardabags” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Italiens führende Messe für Schuhe und Lederwaren . Erfahre alles über Expo Riva Schuh and Gardabags und andere Veranstaltungen in Riva del Garda!",
+      "en": "The italian Shoewear and Accessories exhibition . Find out all about Expo Riva Schuh and Gardabags and other events in Riva del Garda!",
+      "it": "La fiera italiana leader della calzatura e della pelletteria . Scopri tutto su Expo Riva Schuh and Gardabags e altri eventi a Riva del Garda!"
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
+    "officialUrl": "https://www.gardatrentino.it/en/events/expo-riva-schuh-and-gardabags_4388",
     "source": "Garda Trentino - events",
     "verified": "2026-10-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=7"
-    ]
+      "https://www.gardatrentino.it/en/discover/events?page=7",
+      "https://www.gardatrentino.it/en/events/expo-riva-schuh-and-gardabags_4388"
+    ],
+    "descriptionSources": {
+      "de": "https://www.gardatrentino.it/de/event/expo-riva-schuh-and-gardabags_4388",
+      "en": "https://www.gardatrentino.it/en/events/expo-riva-schuh-and-gardabags_4388",
+      "it": "https://www.gardatrentino.it/it/eventi/expo-riva-schuh-and-gardabags_4388"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "image": "https://www.gardatrentino.it/website_images/events/2024_events_expo_Riva_schuh.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/expo-riva-schuh-and-gardabags_4388",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "hansel-e-gretel-infanzia-in-guerra-2027",

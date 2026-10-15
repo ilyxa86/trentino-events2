@@ -30,6 +30,7 @@ S.headers.update({
     "Accept-Language":"it-IT,it;q=.9,en;q=.7,de;q=.6"
 })
 INDEX_HINTS={"/","/eventi","/events","/agenda","/appuntamenti","/rassegne","/calendario","/calendario-eventi","/it/eventi","/en/events"}
+LISTING_URLS={}
 
 def clean(v): return re.sub(r"\s+"," ",str(v or "")).strip()
 def norm(v):
@@ -87,15 +88,14 @@ def best_anchor(name,sp,base):
     best=(0.0,None)
     for a in sp.find_all("a",href=True):
         href=urljoin(base,a.get("href")).split("#")[0]
-        if not href.startswith(("http://","https://")):continue
-        text=clean(a.get_text(" ",strip=True))
-        if len(text)<3:continue
+        if not event_detail_url(href):continue
+        text=clean(a.get_text(" ",strip=True) or a.get("aria-label") or a.get("title"))
         sc=similarity(name,text)
         if sc<.58:
             path=norm(urlparse(href).path.replace("/"," "))
             tokens=[x for x in norm(name).split() if len(x)>=4]
             hits=sum(1 for x in tokens if x in path)
-            if tokens and hits>=max(1,min(2,len(tokens))):sc=max(sc,.64)
+            if tokens and hits>=max(1,len(tokens)*.75):sc=max(sc,.72)
         if sc>best[0]:best=(sc,href)
     return best[1] if best[0]>=.64 else None
 def extract_image(sp,base):
@@ -142,10 +142,53 @@ def candidate_urls(e):
     for u in [e.get("officialUrl"),*(e.get("sourceUrls") or [])]:
         u=clean(u)
         if u and u.startswith(("http://","https://")) and u not in vals:vals.append(u)
+    # A saved pagination URL can now contain different events. Search the other
+    # known pages of that official calendar before declaring the detail missing.
+    for hostname in {urlparse(u).hostname for u in vals}:
+        for u in LISTING_URLS.get(hostname,[]):
+            if u not in vals:vals.append(u)
     return vals
+
+@lru_cache(maxsize=30)
+def sitemap_links(hostname):
+    """Use only sitemaps declared by the official site itself."""
+    root="https://"+hostname
+    try:
+        response=S.get(root+"/robots.txt",timeout=15)
+        response.raise_for_status()
+        pending=re.findall(r"^Sitemap:\s*(https?://\S+)",response.text,re.M|re.I)
+        seen=set(); links=[]
+        while pending and len(seen)<6:
+            url=pending.pop(0)
+            if url in seen or urlparse(url).hostname!=hostname:continue
+            seen.add(url)
+            response=S.get(url,timeout=15);response.raise_for_status()
+            xml=BeautifulSoup(response.content,"xml")
+            locs=[clean(tag.get_text()) for tag in xml.find_all("loc")]
+            if xml.find("sitemapindex"):
+                pending.extend(locs)
+            else:
+                links.extend(u for u in locs if urlparse(u).hostname==hostname and event_detail_url(u)
+                             and re.search(r"/(events|eventi|appuntamenti|rassegne)/",urlparse(u).path,re.I))
+        return links
+    except requests.RequestException:return []
+
+def matching_sitemap_urls(name,hostname):
+    scored=[]
+    for url in sitemap_links(hostname):
+        slug=re.sub(r"[_-]\d+$","",urlparse(url).path.rstrip("/").split("/")[-1])
+        score=similarity(name,slug)
+        if score>=.75:scored.append((score,url))
+    return [url for score,url in sorted(scored,reverse=True)[:5]]
 
 def main():
     events=json.loads(EVENTS.read_text(encoding="utf-8")) if EVENTS.exists() else []
+    LISTING_URLS.clear()
+    for event in events:
+        for u in [event.get("officialUrl"),*(event.get("sourceUrls") or [])]:
+            if u and general_url(u) and re.search(r"/(?:events|eventi|agenda|appuntamenti|calendario|rassegne)(?:/|$)",urlparse(u).path,re.I):
+                known=LISTING_URLS.setdefault(urlparse(u).hostname,[])
+                if u not in known:known.append(u)
     today=date.today(); horizon=today+relativedelta(years=1)
     def enrich(e):
         try:
@@ -181,6 +224,13 @@ def main():
                 if sp2 and not general_url(final2) and concrete_match(name,sp2,final2):
                     resolved=canonical(sp2,final2); resolved_sp=sp2; resolved_from_child=True; break
 
+        if not resolved:
+            for hostname in sorted({urlparse(u).hostname for u in urls if urlparse(u).hostname}):
+                for u in matching_sitemap_urls(name,hostname):
+                    sp,final,_=fetch(u)
+                    if sp and not general_url(final) and concrete_match(name,sp,final):
+                        resolved=canonical(sp,final);resolved_sp=sp;resolved_from_child=True;break
+                if resolved:break
         if not resolved:return False
 
         local_change=False

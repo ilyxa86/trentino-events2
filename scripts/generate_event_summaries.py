@@ -9,6 +9,7 @@ from __future__ import annotations
 import json
 import os
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from pathlib import Path
@@ -50,6 +51,23 @@ def response_evidence(raw):
                 if annotation.get("url"):
                     urls.add(annotation["url"])
     return urls
+
+
+def request_with_backoff(client, **kwargs):
+    for attempt in range(5):
+        try:
+            return client.responses.create(**kwargs)
+        except Exception as exc:
+            code = clean(getattr(exc, "code", ""))
+            if getattr(exc, "status_code", None) != 429 or code in {"insufficient_quota", "billing_hard_limit_reached"} or attempt == 4:
+                raise
+            headers = getattr(getattr(exc, "response", None), "headers", {}) or {}
+            try:
+                delay = float(headers.get("retry-after") or min(60, 15 * 2 ** attempt))
+            except ValueError:
+                delay = 30
+            print(f"API rate limit ({code or '429'}); retrying batch after {min(60, delay):.0f}s", flush=True)
+            time.sleep(max(1, min(60, delay)))
 
 
 def apply_summary(event, result, evidence_urls):
@@ -121,22 +139,32 @@ def main():
     from openai import OpenAI
     client = OpenAI(timeout=120, max_retries=1)
     model = os.getenv("OPENAI_SUMMARY_MODEL", "gpt-5-mini")
+    registry_path = ROOT / "data/source_registry.json"
+    registry = json.loads(registry_path.read_text(encoding="utf-8")) if registry_path.exists() else {}
+    official_domains = {urlparse(source.get("url", "")).hostname for source in registry.get("mandatorySources", [])}
+    official_domains.discard(None)
     pending = list(groups.values())
     # Separate translation batches from research, so sourced copy never needs
     # another search and missing source text cannot be inferred from a title.
     batches = []
+    quota_exhausted = False
     for needs_search in (False, True):
         selected = [g for g in pending if (not bool(useful_descriptions(g[0]))) == needs_search]
-        size = 5 if needs_search else 12
+        size = 5 if needs_search else 8
         batches.extend((selected[i:i + size], needs_search) for i in range(0, len(selected), size))
 
     def generate(batch):
+        nonlocal quota_exhausted
+        if quota_exhausted:
+            return []
         groups_in_batch, needs_search = batch
         records = [{"id": g[0]["id"], "name": g[0]["name"], "place": g[0].get("municipality"),
                     "startDate": g[0].get("startDate"), "endDate": g[0].get("endDate"),
                     "officialUrl": g[0].get("officialUrl"), "sourceUrls": g[0].get("sourceUrls", []),
                     "sourceDescriptions": useful_descriptions(g[0])} for g in groups_in_batch]
         domains = sorted({urlparse(u).hostname for r in records for u in [r["officialUrl"], *r["sourceUrls"]] if u and urlparse(u).hostname})
+        if needs_search:
+            domains = sorted(set(domains) | official_domains)[:95]
         instructions = (
             "Write concise event-specific summaries in German (de), English (en) and Italian (it). "
             "Use 2 informative sentences (35-65 words per language) explaining what visitors experience, "
@@ -154,9 +182,9 @@ def main():
             kwargs["tools"] = [{"type": "web_search", "filters": {"allowed_domains": domains}, "search_context_size": "medium"}]
             kwargs["include"] = ["web_search_call.action.sources"]
         try:
-            response = client.responses.create(
+            response = request_with_backoff(client,
                 model=model, instructions=instructions, input=json.dumps(records, ensure_ascii=False),
-                reasoning={"effort": "low"}, max_output_tokens=10000,
+                reasoning={"effort": "low"}, max_output_tokens=5000,
                 text={"format": {"type": "json_schema", "name": "event_summaries", "strict": True, "schema": SCHEMA}},
                 **kwargs,
             )
@@ -179,11 +207,14 @@ def main():
             return updates
         except Exception as exc:
             detail = str(exc)[:160] if isinstance(exc, (TypeError, ValueError, KeyError)) else f"HTTP {getattr(exc, 'status_code', 'unavailable')}"
-            print(f"::warning::Summary batch failed ({type(exc).__name__}: {detail}); keeping existing descriptions.", flush=True)
+            code = clean(getattr(exc, "code", ""))
+            if code in {"insufficient_quota", "billing_hard_limit_reached"}:
+                quota_exhausted = True
+            print(f"::warning::Summary batch failed ({type(exc).__name__}, {code}: {detail}); keeping existing descriptions.", flush=True)
             return []
 
     changed = 0
-    with ThreadPoolExecutor(max_workers=3) as pool:
+    with ThreadPoolExecutor(max_workers=1) as pool:
         for i, updates in enumerate(pool.map(generate, batches), 1):
             for group, result, allowed in updates:
                 for event in group:

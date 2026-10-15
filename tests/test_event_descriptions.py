@@ -1,14 +1,38 @@
 import sys
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 from event_descriptions import enrich_descriptions, extract_description, substantive, summarize, discard_invalid_source_copy, event_detail_url, description_from_record
-from generate_event_summaries import apply_summary, response_evidence, evidence_key
+from generate_event_summaries import apply_summary, response_evidence, evidence_key, request_with_backoff
+from enrich_event_links_and_images import best_anchor
 
 
 class DescriptionsTest(unittest.TestCase):
+    def test_temporary_api_limit_retries_without_losing_the_batch(self):
+        class Limited(Exception):
+            status_code = 429
+            code = 'rate_limit_exceeded'
+        class Responses:
+            calls = 0
+            def create(self, **kwargs):
+                self.calls += 1
+                if self.calls == 1:
+                    raise Limited()
+                return 'complete'
+        class Client:
+            responses = Responses()
+        with patch('generate_event_summaries.time.sleep') as sleep:
+            self.assertEqual(request_with_backoff(Client()), 'complete')
+            sleep.assert_called_once()
+
+    def test_image_only_calendar_links_resolve_by_event_slug(self):
+        page = BeautifulSoup('<a href="/en/weather/garda-trentino">Garda Trentino</a><a href="/en/events/silk-heritage-walk_123"><img alt=""></a>', 'html.parser')
+        self.assertEqual(best_anchor('Silk heritage walk', page, 'https://official.example/events'),
+                         'https://official.example/en/events/silk-heritage-walk_123')
+        self.assertIsNone(best_anchor('Garda Trentino Xmas Trail', page, 'https://official.example/events'))
     def test_search_evidence_handles_optional_null_fields(self):
         raw = {'output': [{'content': None, 'action': {'sources': None}},
                           {'content': [{'annotations': None}]},
