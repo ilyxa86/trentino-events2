@@ -44,6 +44,20 @@ class DescriptionsTest(unittest.TestCase):
         self.assertEqual(best_anchor('Silk heritage walk', page, 'https://official.example/events'),
                          'https://official.example/en/events/silk-heritage-walk_123')
         self.assertIsNone(best_anchor('Garda Trentino Xmas Trail', page, 'https://official.example/events'))
+    def test_exhausted_credit_is_not_retried(self):
+        from types import SimpleNamespace
+        from unittest.mock import Mock, patch
+        error = RuntimeError('credit exhausted')
+        error.code = 'credit_balance_exhausted'
+        error.status_code = 429
+        create = Mock(side_effect=error)
+        client = SimpleNamespace(responses=SimpleNamespace(create=create))
+        with patch('generate_event_summaries.time.sleep') as sleep:
+            with self.assertRaises(RuntimeError):
+                request_with_backoff(client)
+        self.assertEqual(create.call_count, 1)
+        sleep.assert_not_called()
+
     def test_search_evidence_handles_optional_null_fields(self):
         raw = {'output': [{'content': None, 'action': {'sources': None}},
                           {'content': [{'annotations': None}]},

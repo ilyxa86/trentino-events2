@@ -10,7 +10,6 @@ import json
 import os
 import sys
 import time
-from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode, unquote
@@ -20,6 +19,7 @@ from event_descriptions import substantive, clean, event_detail_url, discard_inv
 ROOT = Path(__file__).resolve().parents[1]
 EVENTS = ROOT / "data/events.json"
 LANGUAGES = ("de", "en", "it")
+QUOTA_ERRORS = {"insufficient_quota", "billing_hard_limit_reached", "credit_balance_exhausted"}
 SCHEMA = {
     "type": "object", "additionalProperties": False, "required": ["events"],
     "properties": {"events": {"type": "array", "items": {
@@ -59,7 +59,7 @@ def request_with_backoff(client, **kwargs):
             return client.responses.create(**kwargs)
         except Exception as exc:
             code = clean(getattr(exc, "code", ""))
-            if getattr(exc, "status_code", None) != 429 or code in {"insufficient_quota", "billing_hard_limit_reached"} or attempt == 4:
+            if getattr(exc, "status_code", None) != 429 or code in QUOTA_ERRORS or attempt == 4:
                 raise
             headers = getattr(getattr(exc, "response", None), "headers", {}) or {}
             try:
@@ -137,7 +137,7 @@ def main():
         return
 
     from openai import OpenAI
-    client = OpenAI(timeout=120, max_retries=1)
+    client = OpenAI(timeout=120, max_retries=0)
     model = os.getenv("OPENAI_SUMMARY_MODEL", "gpt-5-mini")
     registry_path = ROOT / "data/source_registry.json"
     registry = json.loads(registry_path.read_text(encoding="utf-8")) if registry_path.exists() else {}
@@ -208,23 +208,28 @@ def main():
         except Exception as exc:
             detail = str(exc)[:160] if isinstance(exc, (TypeError, ValueError, KeyError)) else f"HTTP {getattr(exc, 'status_code', 'unavailable')}"
             code = clean(getattr(exc, "code", ""))
-            if code in {"insufficient_quota", "billing_hard_limit_reached"}:
+            if code in QUOTA_ERRORS:
                 quota_exhausted = True
             print(f"::warning::Summary batch failed ({type(exc).__name__}, {code}: {detail}); keeping existing descriptions.", flush=True)
             return []
 
     changed = 0
-    with ThreadPoolExecutor(max_workers=1) as pool:
-        for i, updates in enumerate(pool.map(generate, batches), 1):
-            for group, result, allowed in updates:
-                for event in group:
-                    applied = apply_summary(event, result, allowed)
-                    changed += applied
-                    if applied and not event_detail_url(event.get("officialUrl")) and event_detail_url(result.get("evidenceUrl")):
-                        event["officialUrl"] = result["evidenceUrl"]
-            # Checkpoint successful batches in case a later API request fails.
-            EVENTS.write_text(json.dumps(events, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-            print(f"summaryBatch={i}/{len(batches)} enriched={changed}", flush=True)
+    deadline = time.monotonic() + 15 * 60
+    # Stop before the job timeout so checkpoints can always be published.
+    for i, batch in enumerate(batches, 1):
+        if quota_exhausted or time.monotonic() >= deadline:
+            print("Stopping summary repair; preserving completed batches.", flush=True)
+            break
+        updates = generate(batch)
+        for group, result, allowed in updates:
+            for event in group:
+                applied = apply_summary(event, result, allowed)
+                changed += applied
+                if applied and not event_detail_url(event.get("officialUrl")) and event_detail_url(result.get("evidenceUrl")):
+                    event["officialUrl"] = result["evidenceUrl"]
+        # Checkpoint successful batches in case a later API request fails.
+        EVENTS.write_text(json.dumps(events, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        print(f"summaryBatch={i}/{len(batches)} enriched={changed}", flush=True)
     audit(events)
 
 
