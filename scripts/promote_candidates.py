@@ -246,17 +246,6 @@ def extract_time(text: str) -> str | None:
     return f"{int(m.group(1)):02d}:{m.group(2)}" if m else None
 
 
-def generic_description(title: str, place: str) -> dict[str, str]:
-    where_de = f" in {place}" if place and place != "Trentino" else " im Trentino"
-    where_en = f" in {place}" if place and place != "Trentino" else " in Trentino"
-    where_it = f" a {place}" if place and place != "Trentino" else " in Trentino"
-    return {
-        "de": f"Veranstaltung „{title}“{where_de}. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-        "en": f"“{title}” event{where_en}. See the official event page for the latest details.",
-        "it": f"Evento “{title}”{where_it}. Consulta la pagina ufficiale per i dettagli aggiornati.",
-    }
-
-
 def display_name(event: dict) -> str:
     name = event.get("name")
     if isinstance(name, dict):
@@ -273,8 +262,8 @@ def source_urls(event: dict) -> set[str]:
 
 
 def main() -> None:
-    payload = json.loads(CANDIDATES.read_text()) if CANDIDATES.exists() else {"records": []}
-    events = json.loads(EVENTS.read_text()) if EVENTS.exists() else []
+    payload = json.loads(CANDIDATES.read_text(encoding="utf-8")) if CANDIDATES.exists() else {"records": []}
+    events = json.loads(EVENTS.read_text(encoding="utf-8")) if EVENTS.exists() else []
     generated = payload.get("generatedAt") or datetime.utcnow().isoformat() + "Z"
     try:
         run_day = datetime.fromisoformat(generated.replace("Z", "+00:00")).date()
@@ -287,8 +276,6 @@ def main() -> None:
         nm = display_name(e)
         if isinstance(e.get("name"), dict) and nm:
             e["name"].setdefault("de", nm)
-        if isinstance(e.get("description"), dict) and "de" not in e["description"]:
-            e["description"]["de"] = e["description"].get("en") or e["description"].get("it") or ""
 
     candidates = []
     for r in payload.get("records") or []:
@@ -385,7 +372,8 @@ def main() -> None:
             "startDate": c["startDate"], "endDate": c["endDate"], "startTime": c["startTime"],
             "municipality": c["municipality"], "area": c["area"], "venue": c["venue"],
             "category": c["category"], "status": None, "confirmed": True,
-            "description": generic_description(c["title"], c["municipality"]),
+            "description": {},
+            "descriptionStatus": "missing",
             "organizer": None, "price": "See official page",
             "officialUrl": c["officialUrl"], "source": c["source"],
             "verified": iso(run_day), "discoveredVia": "coverage_backfill",
@@ -398,7 +386,7 @@ def main() -> None:
         added += 1
 
     events.sort(key=lambda e: (e.get("startDate") or "9999-99-99", norm(display_name(e))))
-    EVENTS.write_text(json.dumps(events, ensure_ascii=False, indent=2) + "\n")
+    EVENTS.write_text(json.dumps(events, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"candidateRecords={len(payload.get('records') or [])} parsableInWindow={len(candidates)} canonicalCandidates={len(grouped)} addedBackfills={added} enrichedExisting={enriched} totalEvents={len(events)}")
 
 

@@ -9,6 +9,8 @@ Rules:
 """
 from __future__ import annotations
 import json,re,unicodedata
+from concurrent.futures import ThreadPoolExecutor
+from functools import lru_cache
 from datetime import date
 from pathlib import Path
 from urllib.parse import urljoin,urlparse
@@ -17,6 +19,7 @@ from difflib import SequenceMatcher
 import requests
 from bs4 import BeautifulSoup
 from dateutil.relativedelta import relativedelta
+from event_descriptions import enrich_descriptions, substantive
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"
@@ -48,6 +51,7 @@ def general_url(u):
         if parts and parts[-1].casefold() in {"eventi","events","agenda","appuntamenti","rassegne","calendario","calendario-eventi"}:return True
         return len(parts)<=1
     except:return True
+@lru_cache(maxsize=2000)
 def fetch(u):
     try:
         r=S.get(u,timeout=25,allow_redirects=True)
@@ -140,22 +144,23 @@ def candidate_urls(e):
     return vals
 
 def main():
-    events=json.loads(EVENTS.read_text()) if EVENTS.exists() else []
+    events=json.loads(EVENTS.read_text(encoding="utf-8")) if EVENTS.exists() else []
     today=date.today(); horizon=today+relativedelta(years=1)
-    changed=0
-    for e in events:
+    def enrich(e):
         try:
             end=date.fromisoformat(e.get("endDate") or e.get("startDate"))
             start=date.fromisoformat(e.get("startDate"))
-        except Exception:continue
-        if end<today or start>horizon:continue
+        except Exception:return False
+        if end<today or start>horizon:return False
         name=display_name(e)
-        if not name:continue
+        if not name:return False
         current=clean(e.get("officialUrl"))
         need_link=not current or general_url(current)
         current_img=clean(e.get("image"))
         need_img=(not current_img) or "images.unsplash.com" in current_img
-        if not need_link and not need_img:continue
+        descriptions=e.get("description") or {}
+        need_summary=not all(substantive(descriptions.get(lang)) for lang in ("de","en","it"))
+        if not need_link and not need_img and not need_summary:return False
 
         urls=candidate_urls(e)
         resolved=None
@@ -166,18 +171,21 @@ def main():
         for u in urls:
             sp,final,_=fetch(u)
             if not sp:continue
-            if concrete_match(name,sp,final):
+            if not general_url(final) and concrete_match(name,sp,final):
                 resolved=canonical(sp,final); resolved_sp=sp; break
             # General listing page: search for a matching child detail page.
             child=best_anchor(name,sp,final)
             if child:
                 sp2,final2,_=fetch(child)
-                if sp2 and concrete_match(name,sp2,final2):
+                if sp2 and not general_url(final2) and concrete_match(name,sp2,final2):
                     resolved=canonical(sp2,final2); resolved_sp=sp2; resolved_from_child=True; break
 
-        if not resolved:continue
+        if not resolved:return False
 
         local_change=False
+        if need_summary:
+            local_change=enrich_descriptions(e,resolved_sp,resolved,fetch)
+            if local_change:e["descriptionVerified"]=today.isoformat()
         if resolved and not general_url(resolved) and (need_link or resolved_from_child):
             if resolved!=current:
                 e["officialUrl"]=resolved
@@ -197,10 +205,16 @@ def main():
 
         if local_change:
             e["assetVerified"]=today.isoformat()
-            changed+=1
+        return local_change
+
+    changed=0
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        for i,result in enumerate(pool.map(enrich,events),1):
+            changed+=bool(result)
+            if i%50==0:print(f"enrichmentProgress={i}/{len(events)} changed={changed}",flush=True)
 
     if changed:
-        EVENTS.write_text(json.dumps(events,ensure_ascii=False,indent=2)+"\n")
+        EVENTS.write_text(json.dumps(events,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print(f"assetEnrichedEvents={changed}")
 
 if __name__=="__main__":

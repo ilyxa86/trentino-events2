@@ -47,11 +47,14 @@ jobs:
       - name: Enrich links and images without additional API calls
         run: python scripts/enrich_event_links_and_images.py
 
+      - name: Generate missing source-backed multilingual summaries
+        run: python scripts/generate_event_summaries.py
+
       - name: Commit social discovery results
         run: |
           git config user.name "trentino-events-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/events.json data/facebook_candidates.json data/social_delta.json
+          git add data/events.json data/description_audit.json data/facebook_candidates.json data/social_delta.json
           if git diff --cached --quiet; then
             echo "No public-social event changes."
             exit 0

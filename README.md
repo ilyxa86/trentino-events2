@@ -49,3 +49,11 @@ For each event retain name, dates, time, municipality, area, venue, category, sh
 New/updated/cancelled/confirmed/removed events may carry a transient `status` and `statusDate`; unchanged events must not be labelled as new. Status badges expire after 7 days for normal still-active events.
 
 If any mandatory P0 source cannot be fully scanned, the run must explicitly surface a **coverage warning**. A partial scan must never be presented as a complete “no changes” result.
+
+## Event descriptions
+
+Calendar promotion preserves missing descriptions as empty fields instead of generating title/date boilerplate. `scripts/enrich_event_links_and_images.py` resolves a matching concrete official page and extracts event copy and declared native language alternatives, even when the event already has an image. Existing curated descriptions are preserved. `scripts/generate_event_summaries.py` then fills missing German/English/Italian summaries from that copy. If copy is missing, it researches the official source domains and accepts only evidence URLs actually returned by web search. It uses the existing `OPENAI_API_KEY` GitHub Actions secret and `OPENAI_SUMMARY_MODEL` (default `gpt-5-mini`). Without API access, native source extracts remain available.
+
+`data/description_audit.json` lists incomplete language coverage; workflow warnings surface unresolved sources instead of fabricating content. All import workflows run both enrichment steps. The frontend never replaces a missing description with generic prose. Original-language fallback carries the correct HTML language attribute. The manual **Repair event summaries** workflow can retry missing sources/translations.
+
+Run regression checks with `python -m unittest discover -s tests`.

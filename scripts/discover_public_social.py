@@ -24,6 +24,7 @@ from difflib import SequenceMatcher
 
 from dateutil.relativedelta import relativedelta
 from openai import OpenAI
+from event_descriptions import substantive
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"
@@ -207,9 +208,9 @@ def main():
             "statusDate":run_day.isoformat() if genuinely_new else None,
             "confirmed":bool(c.get("confirmed")),
             "description":{
-                "de":clean(c.get("descriptionDe")) or f"Lokaler Veranstaltungshinweis in {clean(c['municipality'])}.",
-                "en":clean(c.get("descriptionEn")) or f"Local event notice in {clean(c['municipality'])}.",
-                "it":clean(c.get("descriptionIt")) or f"Segnalazione di un evento locale a {clean(c['municipality'])}."
+                "de":clean(c.get("descriptionDe")),
+                "en":clean(c.get("descriptionEn")),
+                "it":clean(c.get("descriptionIt"))
             },
             "organizer":clean(c.get("organizer")) or None,
             "price":clean(c.get("price")) or "See source",
@@ -221,6 +222,7 @@ def main():
             "discoveredVia":"facebook_public_web" if genuinely_new else "facebook_backfill",
             "confidence":clean(c.get("confidence")) or "public-social-only"
         }
+        ev["description"]={lang:text for lang,text in ev["description"].items() if substantive(text)}
         if clean(c.get("imageUrl")): ev["image"]=clean(c["imageUrl"])
         events.append(ev)
         existing.append((len(events)-1,norm(c["name"]),c["startDate"],c["endDate"],norm(c["municipality"])))

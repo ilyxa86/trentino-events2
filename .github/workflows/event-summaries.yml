@@ -1,0 +1,45 @@
+name: Repair event summaries
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate_event_summaries.py"
+      - ".github/workflows/event-summaries.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trentino-summary-repair
+  cancel-in-progress: true
+
+jobs:
+  summaries:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_SUMMARY_MODEL: gpt-5-mini
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements-crawler.txt openai
+      - name: Verify summary extraction and validation
+        run: python -m unittest discover -s tests
+      - name: Repair missing event summaries and translations
+        run: python scripts/generate_event_summaries.py
+      - name: Publish updated descriptions
+        run: |
+          git config user.name "trentino-events-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/events.json data/description_audit.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Fill source-backed multilingual event summaries"
+          git pull --rebase origin main
+          git push origin HEAD:main

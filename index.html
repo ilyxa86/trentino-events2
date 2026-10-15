@@ -59,15 +59,8 @@
       <div class="expand-row"><button id="weekendMore" type="button" class="expand-btn" hidden>+</button></div>
     </section>
 
-    <section class="editorial-section area-section" aria-labelledby="areaTitle">
-      <div class="section-heading compact-heading">
-        <div><p class="section-kicker" data-i18n="regions">Nach Region entdecken</p><h2 id="areaTitle" data-i18n="where">Wohin möchtest du?</h2></div>
-      </div>
-      <div id="areaCards" class="area-cards"></div>
-    </section>
-
     <section id="discover" class="discover-panel" aria-label="Event-Filter">
-      <div class="filter-heading"><p class="section-kicker" data-i18n="find">Finde dein Event</p><h2 data-i18n="browse">Alle Events durchsuchen</h2></div>
+      <div class="browse-heading"><div class="filter-heading"><p class="section-kicker" data-i18n="find">Finde dein Event</p><h2 data-i18n="browse">Alle Events durchsuchen</h2></div><div id="areaOptions" class="area-options" role="group" aria-label="Region"></div></div>
       <div class="quick-dates">
         <button type="button" data-quick="today" data-i18n="todayBtn">Heute</button>
         <button type="button" data-quick="week" data-i18n="weekBtn">Diese Woche</button>
@@ -80,7 +73,6 @@
       <section class="filters">
         <label><span data-i18n="from">Von</span><input id="fromDate" type="date"></label>
         <label><span data-i18n="to">Bis</span><input id="toDate" type="date"></label>
-        <label><span data-i18n="area">Region</span><select id="areaFilter"></select></label>
         <label><span data-i18n="category">Kategorie</span><select id="categoryFilter"></select></label>
         <label class="search"><span data-i18n="search">Suche</span><input id="searchInput" type="search"></label>
         <button id="resetFilters" type="button" class="secondary" data-i18n="reset">Zurücksetzen</button>

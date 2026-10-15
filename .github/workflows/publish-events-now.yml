@@ -12,6 +12,9 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_SUMMARY_MODEL: gpt-5-mini
     timeout-minutes: 10
     steps:
       - name: Checkout current database snapshot
@@ -25,16 +28,22 @@ jobs:
           python-version: "3.12"
 
       - name: Install date parser dependency
-        run: pip install python-dateutil==2.9.0.post0
+        run: pip install -r requirements-crawler.txt openai
 
       - name: Promote current discovered candidates
         run: python scripts/promote_candidates.py
+
+      - name: Enrich source descriptions, links and images
+        run: python scripts/enrich_event_links_and_images.py
+
+      - name: Generate missing source-backed multilingual summaries
+        run: python scripts/generate_event_summaries.py
 
       - name: Commit live event database
         run: |
           git config user.name "trentino-events-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/events.json
+          git add data/events.json data/description_audit.json
           if git diff --cached --quiet; then
             echo "No live event changes."
           else
