@@ -3861,14 +3861,15 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience/",
     "source": "Visit Rovereto / Vallagarina - events",
     "verified": "2026-09-11",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "image": "https://www.visitrovereto.it/wp-content/uploads/2026/09/Greenwalkexperience-Luca-Matassoni-.jpg",
     "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience"
+      "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience",
+      "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience/"
     ],
     "descriptionSources": {
       "it": "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience/",
@@ -8005,14 +8006,15 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina/",
     "source": "Visit Rovereto / Vallagarina - events",
     "verified": "2026-10-10",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "image": "https://www.visitrovereto.it/wp-content/uploads/2022/10/Halloween_Elisa-Vettori.png",
     "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina"
+      "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina",
+      "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina/"
     ],
     "descriptionSources": {
       "it": "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina/",
