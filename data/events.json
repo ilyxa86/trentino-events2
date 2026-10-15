@@ -24564,9 +24564,9 @@
     "status": null,
     "confirmed": true,
     "description": {
-      "de": "Veranstaltung „Sorsi di Natale“ in Ala. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Sorsi di Natale” event in Ala. See the official event page for the latest details.",
-      "it": "Evento “Sorsi di Natale” a Ala. Consulta la pagina ufficiale per i dettagli aggiornati."
+      "de": "Ala beherbergt nun die \"Weihnachtsschlücke\" Kuppel, einen Ort, an dem die Produkte der Winzer der Vallagarina verkostet werden können Willkommen in der \"Weihnachtsschlücke\" Kuppel, einem magischen Raum, perfekt für Liebhaber guten Weins.",
+      "en": "Ala now hosts the \"Christmas Sips\" dome, a place where to taste the products of the winemakers of Vallagarina. Welcome to the \" Christmas Sips \" dome, a magic space perfect for the lovers of good wine.",
+      "it": "Ad Ala sorge la Bolla \"Sorsi di Natale\", un angolo magico dedicato agli amanti del buon vino, dove potrai sorseggiare e acquistare le migliori etichette della Vallagarina. Dal 28 novembre al 20 dicembre , la Bolla “Sorsi di Natale” ti aspetta sabato e domenica nel cuore del Natale nei Palazzi Barocchi , all’interno della corte dello storico Palazzo Scherer in Via Nuova ad Ala, per farti scoprire e degustare i vini d’eccellenza della Vallagarina ."
     },
     "organizer": null,
     "price": "See official page",
@@ -24578,7 +24578,15 @@
     "image": "https://www.visitrovereto.it/wp-content/uploads/2025/11/Sorsi-di-Natale-Luca-Matassoni-2.jpg",
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/sorsi-di-natale"
-    ]
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/sorsi-di-natale/",
+      "en": "https://www.visitrovereto.it/en/enjoy/events/bolla/",
+      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/bolla/"
+    },
+    "descriptionStatus": "complete",
+    "descriptionVerified": "2026-10-15",
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "christmas-market-in-canale-di-tenno-2026",
@@ -27854,12 +27862,16 @@
     },
     "organizer": "Lake Garda 42",
     "price": "Registration required",
-    "officialUrl": "https://lakegarda42.com/it/",
+    "officialUrl": "https://lakegarda42.com/it/stories/peak-lake-garda-42-quinta-edizione-2026/",
     "source": "Official organizer",
     "verified": "2026-08-25",
     "image": "https://lakegarda42.com/wp-content/uploads/2026/05/Webseite-Bild.png",
     "imageSourceUrl": "https://lakegarda42.com/it/",
-    "assetVerified": "2026-08-27"
+    "assetVerified": "2026-10-15",
+    "sourceUrls": [
+      "https://lakegarda42.com/it/",
+      "https://lakegarda42.com/it/stories/peak-lake-garda-42-quinta-edizione-2026/"
+    ]
   },
   {
     "id": "mi-chiamavano-tina-2027",
@@ -28024,19 +28036,20 @@
     },
     "organizer": "Trento Film Festival (organizzazione ufficiale)",
     "price": "ticketed screenings / passes",
-    "officialUrl": "https://trentofestival.it/en/",
+    "officialUrl": "https://trentofestival.it/en/2026-edition/",
     "source": "Sei di Trento se…",
     "sourceType": "facebook",
     "sourceUrls": [
       "https://trentofestival.it/",
-      "https://trentofestival.it/en/"
+      "https://trentofestival.it/en/",
+      "https://trentofestival.it/en/2026-edition/"
     ],
     "verified": "2026-09-21",
     "discoveredVia": "facebook_backfill",
     "confidence": "official-corroborated",
     "image": "https://trentofestival.it/wp-content/themes/trento-film-festival/images/opengraph.jpg",
     "imageSourceUrl": "https://trentofestival.it/en/",
-    "assetVerified": "2026-09-21"
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "bike-festival-2027",
@@ -28118,9 +28131,14 @@
     },
     "organizer": "Garda Trentino Trail",
     "price": "Registration required",
-    "officialUrl": "https://www.gardatrentinotrail.it/",
+    "officialUrl": "https://www.gardatrentinotrail.it/it-it/p/30",
     "source": "Official organizer",
-    "verified": "2026-08-25"
+    "verified": "2026-08-25",
+    "sourceUrls": [
+      "https://www.gardatrentinotrail.it/",
+      "https://www.gardatrentinotrail.it/it-it/p/30"
+    ],
+    "assetVerified": "2026-10-15"
   },
   {
     "id": "festival-economia-2027",
@@ -28145,12 +28163,16 @@
     },
     "organizer": "Festival dell'Economia",
     "price": "See programme",
-    "officialUrl": "https://www.festivaleconomia.it/",
+    "officialUrl": "https://www.ilsole24ore.com/art/festival-dell-economia-trento-2026-45mila-presenze-e-350-eventi-giovani-protagonisti-AIMQpGHD",
     "source": "Official organizer",
     "verified": "2026-08-25",
     "image": "https://www.festivaleconomia.it/assets/Festival_Economia_Trento.jpg",
     "imageSourceUrl": "https://www.festivaleconomia.it/",
-    "assetVerified": "2026-08-27"
+    "assetVerified": "2026-10-15",
+    "sourceUrls": [
+      "https://www.festivaleconomia.it/",
+      "https://www.ilsole24ore.com/art/festival-dell-economia-trento-2026-45mila-presenze-e-350-eventi-giovani-protagonisti-AIMQpGHD"
+    ]
   },
   {
     "id": "fb-festival-settenovecento-11a-edizione-rovereto-2027",
