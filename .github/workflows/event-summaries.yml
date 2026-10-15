@@ -14,7 +14,6 @@ on:
 
 permissions:
   contents: write
-  actions: write
 
 jobs:
   summaries:
@@ -36,24 +35,6 @@ jobs:
           python-version: "3.12"
       - name: Install dependencies
         run: pip install -r requirements-crawler.txt openai
-      - name: Stop superseded maintenance runs after a code update
-        if: github.event_name == 'push'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          python - <<'PY'
-          import os, requests
-          session = requests.Session()
-          session.headers['Authorization'] = 'Bearer ' + os.environ['GH_TOKEN']
-          base = 'https://api.github.com/repos/' + os.environ['GITHUB_REPOSITORY'] + '/actions/runs'
-          response = session.get(base, params={'per_page': 50}, timeout=30)
-          response.raise_for_status()
-          names = {'Enumerate event sources', 'Enrich current events now', 'Publish current event snapshot', 'Repair event summaries'}
-          for run in response.json()['workflow_runs']:
-              if run['name'] in names and run['status'] in {'queued', 'in_progress'} and run['head_sha'] != os.environ['GITHUB_SHA']:
-                  result = session.post(base + '/' + str(run['id']) + '/cancel', timeout=30)
-                  print('Superseded run', run['id'], 'cancel status', result.status_code)
-          PY
       - name: Verify summary extraction and validation
         run: python -m unittest discover -s tests
       - name: Repair missing event summaries and translations
