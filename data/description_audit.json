@@ -1,7 +1,7 @@
 {
   "checkedAt": "2026-10-15",
   "currentEvents": 354,
-  "complete": 173,
+  "complete": 171,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -456,6 +456,14 @@
       ]
     },
     {
+      "id": "accordion-festival-in-ledro-2026-5",
+      "languages": [
+        "de",
+        "en",
+        "it"
+      ]
+    },
+    {
       "id": "garbage-ride-walk-2026",
       "languages": [
         "de",
@@ -682,8 +690,7 @@
       "id": "vai-via-2026",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
@@ -1098,6 +1105,14 @@
       ]
     },
     {
+      "id": "accordion-festival-in-ledro-2026-3",
+      "languages": [
+        "de",
+        "en",
+        "it"
+      ]
+    },
+    {
       "id": "flea-market-in-torbole-sul-garda-2026",
       "languages": [
         "de",
@@ -1227,8 +1242,7 @@
       "id": "via-pal-2027",
       "languages": [
         "de",
-        "en",
-        "it"
+        "en"
       ]
     },
     {
