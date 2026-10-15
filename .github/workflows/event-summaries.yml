@@ -16,13 +16,12 @@ permissions:
   contents: write
   actions: write
 
-concurrency:
-  group: trentino-event-summaries
-  cancel-in-progress: true
-
 jobs:
   summaries:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    concurrency:
+      group: trentino-event-summaries
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     timeout-minutes: 25
     env:
