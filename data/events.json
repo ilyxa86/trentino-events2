@@ -20069,6 +20069,42 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "50-anniversario-della-croce-bianca-di-trento-2026",
+    "name": {
+      "de": "50° Anniversario della Croce Bianca di Trento",
+      "en": "50° Anniversario della Croce Bianca di Trento",
+      "it": "50° Anniversario della Croce Bianca di Trento"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Mezzo secolo di soccorso, presenza costante sul territorio e dedizione verso gli altri: la Croce Bianca di Trento taglia l’importante traguardo dei suoi cinquant’anni di fondazione (1976–2026).Per celebrare cinquant'anni di attività segnati da impegno, solidarietà e passione al fianco dei cittadini, l'Associazione promuove un'intera giornata di festa e condivisione che si terrà sabato 24 ottobre 2026 nel cuore della città, in piazza Duomo .L’evento, organizzato con il sostegno e il contributo del Comune di Trento, nasce per ripercorrere la storia…"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/50-Anniversario-della-Croce-Bianca-di-Trento",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-15",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/50-Anniversario-della-Croce-Bianca-di-Trento"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/50-Anniversario-della-Croce-Bianca-di-Trento"
+    },
+    "descriptionVerified": "2026-10-15",
+    "assetVerified": "2026-10-15"
+  },
+  {
     "id": "alla-scoperta-di-trento-2026-9",
     "name": {
       "de": "Alla scoperta di Trento",
@@ -28746,12 +28782,16 @@
     },
     "organizer": "Trento Film Festival",
     "price": "Varies by event",
-    "officialUrl": "https://trentofestival.it/",
+    "officialUrl": "https://trentofestival.it/news/la-montagna-sul-grande-schermo-a-bolzano-secondo-appuntamento-con-il-trento-film-festival/",
     "source": "Official organizer",
     "verified": "2026-08-25",
     "image": "https://trentofestival.it/wp-content/themes/trento-film-festival/images/opengraph.jpg",
     "imageSourceUrl": "https://trentofestival.it/",
-    "assetVerified": "2026-08-27"
+    "assetVerified": "2026-10-15",
+    "sourceUrls": [
+      "https://trentofestival.it/",
+      "https://trentofestival.it/news/la-montagna-sul-grande-schermo-a-bolzano-secondo-appuntamento-con-il-trento-film-festival/"
+    ]
   },
   {
     "id": "fb-trento-film-festival-75th-edition-2027",
