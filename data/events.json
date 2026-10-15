@@ -5351,14 +5351,15 @@
     },
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125/",
     "source": "Visit Rovereto / Vallagarina - events",
     "verified": "2026-10-07",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Rovereto-Open-WTA-125-Circolo-Tennis-Rovereto-.jpg",
     "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125"
+      "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125",
+      "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125/"
     ],
     "descriptionSources": {
       "it": "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125/"
