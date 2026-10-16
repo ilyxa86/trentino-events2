@@ -1,13 +1,13 @@
 {
   "protocolVersion": 5,
-  "lastRun": "2026-10-15T11:46:44Z",
+  "lastRun": "2026-10-16T08:12:06Z",
   "overallStatus": "PARTIAL",
   "sources": {
     "visittrentino_all_events": {
       "priority": "P0",
-      "lastScan": "2026-10-15T11:40:44Z",
+      "lastScan": "2026-10-16T08:05:44Z",
       "status": "PARTIAL",
-      "reportedTotal": 513,
+      "reportedTotal": 515,
       "recordsSeen": 890,
       "uniqueCandidates": 906,
       "pagesOrBucketsScanned": [
@@ -17,12 +17,12 @@
       "errors": [],
       "notes": [
         "sitemaps=160, matchingEventUrls=890",
-        "Live index reports 513; sitemap exposes 890 event URLs. AI/date filtering must reconcile the live 12-month set."
+        "Live index reports 515; sitemap exposes 890 event URLs. AI/date filtering must reconcile the live 12-month set."
       ]
     },
     "visitrovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-10-15T11:41:33Z",
+      "lastScan": "2026-10-16T08:06:33Z",
       "status": "COMPLETE",
       "reportedTotal": null,
       "recordsSeen": 80,
@@ -44,7 +44,7 @@
     },
     "visitrovereto_estate": {
       "priority": "P0",
-      "lastScan": "2026-10-15T11:41:47Z",
+      "lastScan": "2026-10-16T08:06:44Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 9,
@@ -67,9 +67,9 @@
     },
     "comune_rovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-10-15T11:41:51Z",
+      "lastScan": "2026-10-16T08:06:47Z",
       "status": "PARTIAL",
-      "reportedTotal": 505,
+      "reportedTotal": 509,
       "recordsSeen": 0,
       "uniqueCandidates": 0,
       "pagesOrBucketsScanned": [
@@ -86,28 +86,33 @@
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/200?Order=desc",
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/220?Order=desc",
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/240?Order=desc",
-        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/260?Order=desc"
+        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/260?Order=desc",
+        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/280?Order=desc",
+        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/300?Order=desc",
+        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/320?Order=desc",
+        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/340?Order=desc"
       ],
       "attachmentsScanned": [],
       "errors": [
-        "offset 280: HTTPSConnectionPool(host='eventi.comune.rovereto.tn.it', port=443): Read timed out. (read timeout=35)"
+        "offset 360: HTTPSConnectionPool(host='eventi.comune.rovereto.tn.it', port=443): Read timed out. (read timeout=35)"
       ],
       "notes": [
         "sitemaps=2, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=505 uniqueEventUrls=0 searchPages=14/26"
+        "OpenAgenda reconciliation: reported=509 uniqueEventUrls=0 searchPages=18/26"
       ]
     },
     "trentino_cultura_appuntamenti": {
       "priority": "P0",
-      "lastScan": "2026-10-15T11:42:31Z",
+      "lastScan": "2026-10-16T08:07:36Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
-      "uniqueCandidates": 0,
-      "pagesOrBucketsScanned": [],
+      "uniqueCandidates": 2,
+      "pagesOrBucketsScanned": [
+        "https://www.cultura.trentino.it/Appuntamenti"
+      ],
       "attachmentsScanned": [],
       "errors": [
-        "calendar index: 410 Client Error: Gone for url: https://www.cultura.trentino.it/Appuntamenti",
         "sitemap https://www.cultura.trentino.it/sitemap.xml: 410 Client Error: Gone for url: https://www.cultura.trentino.it/sitemap.xml"
       ],
       "notes": [
@@ -117,11 +122,11 @@
     },
     "trentino_cultura_rassegne": {
       "priority": "P0",
-      "lastScan": "2026-10-15T11:42:33Z",
+      "lastScan": "2026-10-16T08:07:38Z",
       "status": "PARTIAL",
       "reportedTotal": null,
-      "recordsSeen": 442,
-      "uniqueCandidates": 501,
+      "recordsSeen": 452,
+      "uniqueCandidates": 512,
       "pagesOrBucketsScanned": [
         "https://www.cultura.trentino.it/Rassegne",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12",
@@ -143,6 +148,8 @@
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/204",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/216",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/228",
+        "https://www.cultura.trentino.it/Rassegne/Cineforum-effetto-festival-Primo-ciclo-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Cineforum-effetto-festival-Primo-ciclo-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro#children",
         "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-di-Riva-del-Garda-Nago-Torbole-Stagione-2026-2027#children",
@@ -181,11 +188,11 @@
         "https://www.cultura.trentino.it/Rassegne/C-e-vita-fuori-dall-acquario-Teatro-di-Villazzano-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Haydn-Stagione-Sinfonica-2026-27#children",
         "https://www.cultura.trentino.it/Rassegne/Haydn-Stagione-Sinfonica-2026-27#children",
-        "https://www.cultura.trentino.it/Rassegne/Ottobre-a-teatro-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Ottobre-a-teatro-2026#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/20#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/20#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12#children",
+        "https://www.cultura.trentino.it/Rassegne/Ottobre-a-teatro-2026#children",
+        "https://www.cultura.trentino.it/Rassegne/Ottobre-a-teatro-2026#children",
         "https://www.cultura.trentino.it/Rassegne/RoveretoPOP-2027#children",
         "https://www.cultura.trentino.it/Rassegne/RoveretoPOP-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure#children",
@@ -208,10 +215,10 @@
         "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni#children",
         "https://www.cultura.trentino.it/Rassegne/C-SC-Circuito-Danza-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/C-SC-Circuito-Danza-2026-2027#children",
-        "https://www.cultura.trentino.it/Rassegne/Cultura-in-rete-2026-storie-luoghi-e-comunita-in-connessione#children",
-        "https://www.cultura.trentino.it/Rassegne/Cultura-in-rete-2026-storie-luoghi-e-comunita-in-connessione#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/24#children",
+        "https://www.cultura.trentino.it/Rassegne/Cultura-in-rete-2026-storie-luoghi-e-comunita-in-connessione#children",
+        "https://www.cultura.trentino.it/Rassegne/Cultura-in-rete-2026-storie-luoghi-e-comunita-in-connessione#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-Sociale-di-Trento-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-Sociale-di-Trento-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Il-Tempo-di-un-Dialogo#children",
@@ -283,12 +290,12 @@
       "errors": [],
       "notes": [
         "Series PDF attachments require AI semantic inspection before completeness can be asserted.",
-        "activeSeries=59 linkedProgrammeEvents=383"
+        "activeSeries=60 linkedProgrammeEvents=392"
       ]
     },
     "garda_trentino_events": {
       "priority": "P0",
-      "lastScan": "2026-10-15T11:44:13Z",
+      "lastScan": "2026-10-16T08:09:29Z",
       "status": "COMPLETE",
       "reportedTotal": 53,
       "recordsSeen": 53,
@@ -307,11 +314,11 @@
     },
     "comune_trento_events": {
       "priority": "P0",
-      "lastScan": "2026-10-15T11:44:16Z",
+      "lastScan": "2026-10-16T08:09:33Z",
       "status": "PARTIAL",
-      "reportedTotal": 3249,
-      "recordsSeen": 2898,
-      "uniqueCandidates": 2898,
+      "reportedTotal": 3254,
+      "recordsSeen": 2903,
+      "uniqueCandidates": 2903,
       "pagesOrBucketsScanned": [
         "https://eventi.comune.trento.it/content/search/?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/20?Order=desc",
@@ -481,12 +488,12 @@
       "errors": [],
       "notes": [
         "sitemaps=3, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=3249 uniqueEventUrls=2898 searchPages=163/163"
+        "OpenAgenda reconciliation: reported=3254 uniqueEventUrls=2903 searchPages=163/163"
       ]
     },
     "visitfiemme_events": {
       "priority": "P1",
-      "lastScan": "2026-10-15T11:46:33Z",
+      "lastScan": "2026-10-16T08:11:56Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -502,7 +509,7 @@
     },
     "valsugana_events": {
       "priority": "P1",
-      "lastScan": "2026-10-15T11:46:35Z",
+      "lastScan": "2026-10-16T08:11:58Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -518,7 +525,7 @@
     },
     "val_di_non_events": {
       "priority": "P1",
-      "lastScan": "2026-10-15T11:46:37Z",
+      "lastScan": "2026-10-16T08:12:00Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 7,
@@ -534,7 +541,7 @@
     },
     "campiglio_rendena_events": {
       "priority": "P1",
-      "lastScan": "2026-10-15T11:46:40Z",
+      "lastScan": "2026-10-16T08:12:02Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -550,7 +557,7 @@
     },
     "alpe_cimbra_events": {
       "priority": "P1",
-      "lastScan": "2026-10-15T11:46:42Z",
+      "lastScan": "2026-10-16T08:12:05Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 6,
@@ -566,7 +573,7 @@
     }
   },
   "coverageWindow": {
-    "from": "2026-10-15",
+    "from": "2026-10-16",
     "semantics": "rolling-12-month-overlap; raw enumerator may include out-of-window rows for AI resolution"
   },
   "p0Status": {
@@ -580,7 +587,7 @@
     "comune_trento_events": "PARTIAL"
   },
   "summary": {
-    "rawCandidates": 4496
+    "rawCandidates": 4514
   },
   "note": "Deterministic enumeration feeds the AI maintenance pass. PARTIAL means the system must not claim complete coverage."
 }

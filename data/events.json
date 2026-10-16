@@ -1822,70 +1822,6 @@
     "assetVerified": "2026-09-21"
   },
   {
-    "id": "coderdojo-crea-il-tuo-videogioco-2026",
-    "name": {
-      "de": "Coderdojo - Crea il tuo videogioco!",
-      "en": "Coderdojo - Crea il tuo videogioco!",
-      "it": "Coderdojo - Crea il tuo videogioco!"
-    },
-    "startDate": "2026-10-03",
-    "endDate": "2026-10-03",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Coderdojo - Crea il tuo videogioco!“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Coderdojo - Crea il tuo videogioco!” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Coderdojo - Crea il tuo videogioco!” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Coderdojo-Crea-il-tuo-videogioco5",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Coderdojo-Crea-il-tuo-videogioco5"
-    ]
-  },
-  {
-    "id": "fiera-di-san-francesco-2026-3",
-    "name": {
-      "de": "Fiera di San Francesco",
-      "en": "Fiera di San Francesco",
-      "it": "Fiera di San Francesco"
-    },
-    "startDate": "2026-10-03",
-    "endDate": "2026-10-03",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Trade Fair",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Fiera di San Francesco“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Fiera di San Francesco” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Fiera di San Francesco” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-03",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
-    ]
-  },
-  {
     "id": "incontrarti-2026",
     "name": {
       "de": "IncontrArti",
@@ -1922,142 +1858,6 @@
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "mercato-contadino-di-piazza-dante-2026-6",
-    "name": {
-      "de": "Mercato contadino di piazza Dante",
-      "en": "Mercato contadino di piazza Dante",
-      "it": "Mercato contadino di piazza Dante"
-    },
-    "startDate": "2026-10-03",
-    "endDate": "2026-10-03",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Mercato contadino di piazza Dante“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Mercato contadino di piazza Dante” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Mercato contadino di piazza Dante” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante48",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante48"
-    ]
-  },
-  {
-    "id": "mostra-mercato-della-val-di-gresta-2026",
-    "name": {
-      "de": "Mostra mercato della Val di Gresta",
-      "en": "Mostra mercato della Val di Gresta",
-      "it": "Mostra mercato della Val di Gresta"
-    },
-    "startDate": "2026-10-03",
-    "endDate": "2026-10-03",
-    "startTime": null,
-    "municipality": "Ronzo Chienis",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Ronzo Chienis",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Mostra mercato della Val di Gresta“ in Ronzo Chienis. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Mostra mercato della Val di Gresta” event in Ronzo Chienis. See the official event page for the latest details.",
-      "it": "Evento “Mostra mercato della Val di Gresta” a Ronzo Chienis. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=4",
-      "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=7"
-    ]
-  },
-  {
-    "id": "rotol-festa-del-bene-comune-2026",
-    "name": {
-      "de": "Rotol - Festa del bene comune",
-      "en": "Rotol - Festa del bene comune",
-      "it": "Rotol - Festa del bene comune"
-    },
-    "startDate": "2026-10-03",
-    "endDate": "2026-10-03",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Festival",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Rotol - Festa del bene comune“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Rotol - Festa del bene comune” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Rotol - Festa del bene comune” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Rotol-Festa-del-bene-comune",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-01",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Rotol-Festa-del-bene-comune"
-    ]
-  },
-  {
-    "id": "rs-feva-european-championships-2026",
-    "name": {
-      "de": "RS Feva European Championships",
-      "en": "RS Feva European Championships",
-      "it": "RS Feva European Championships"
-    },
-    "startDate": "2026-10-03",
-    "endDate": "2026-10-03",
-    "startTime": "09:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „RS Feva European Championships“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“RS Feva European Championships” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “RS Feva European Championships” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/discover/events?page=4",
-      "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=7"
-    ]
   },
   {
     "id": "rs-feva-european-championships-2026-2",
@@ -7152,6 +6952,42 @@
     }
   },
   {
+    "id": "dalla-citta-alla-stanza-sinergie-tra-progetto-urbano-e-composizione-arch-2026",
+    "name": {
+      "de": "Dalla città alla stanza: sinergie tra progetto urbano e composizione architettonica",
+      "en": "Dalla città alla stanza: sinergie tra progetto urbano e composizione architettonica",
+      "it": "Dalla città alla stanza: sinergie tra progetto urbano e composizione architettonica"
+    },
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Come può il progetto architettonico contribuire a trasformare gli spazi urbani in luoghi di relazione e partecipazione? Il talk presenta i lavori sviluppati dagli studenti dei corsi di Urbanistica e Composizione architettonica del corso di laurea quinquennale di Ingegeneria Edile e Architettura dell’Università degli Studi di Trento, dedicati al territorio della Circoscrizione San Giuseppe – Santa Chiara."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Dalla-citta-alla-stanza-sinergie-tra-progetto-urbano-e-composizione-architettonica",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-16",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Dalla-citta-alla-stanza-sinergie-tra-progetto-urbano-e-composizione-architettonica"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Dalla-citta-alla-stanza-sinergie-tra-progetto-urbano-e-composizione-architettonica"
+    },
+    "descriptionVerified": "2026-10-16",
+    "assetVerified": "2026-10-16"
+  },
+  {
     "id": "gruppo-di-conversazione-sul-cinema-2026-3",
     "name": {
       "de": "Gruppo di conversazione sul cinema",
@@ -7368,6 +7204,78 @@
     }
   },
   {
+    "id": "rieducazione-alla-speranza-2026",
+    "name": {
+      "de": "Rieducazione alla speranza",
+      "en": "Rieducazione alla speranza",
+      "it": "Rieducazione alla speranza"
+    },
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-20",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Quale ruolo può svolgere il quartiere nei percorsi educativi e nella formazione delle giovani generazioni? A partire dalle esperienze realizzate nel territorio di San Giuseppe e dal progetto Alfabeti di Quartiere, il talk approfondisce il valore educativo della comunità e delle relazioni di prossimità."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Rieducazione-alla-speranza",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-16",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Rieducazione-alla-speranza"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Rieducazione-alla-speranza"
+    },
+    "descriptionVerified": "2026-10-16",
+    "assetVerified": "2026-10-16"
+  },
+  {
+    "id": "coppia-aperta-quasi-spalancata-con-chiara-francini-2026",
+    "name": {
+      "de": "Coppia aperta quasi spalancata con Chiara Francini",
+      "en": "Coppia aperta quasi spalancata con Chiara Francini",
+      "it": "Coppia aperta quasi spalancata con Chiara Francini"
+    },
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Lo spettacolo “Ruoli secondari” di Ferzan Ozpetek, previsto dal 21 al 25 ottobre, è stato annullato per imprevisti problemi organizzativi legati alla produzione. Al suo posto, nelle stesse date e agli stessi orari, arriva “Coppia aperta, quasi spalancata” di Dario Fo e Franca Rame, con Chiara Francini e Alessandro Federico, per la regia di Alessandro Tedeschi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Coppia-aperta-quasi-spalancata-con-Chiara-Francini",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-16",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Coppia-aperta-quasi-spalancata-con-Chiara-Francini"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Coppia-aperta-quasi-spalancata-con-Chiara-Francini"
+    },
+    "descriptionVerified": "2026-10-16",
+    "assetVerified": "2026-10-16"
+  },
+  {
     "id": "eugenio-montale-temi-modelli-figure-2026",
     "name": {
       "de": "Eugenio Montale: temi, modelli, figure",
@@ -7514,6 +7422,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi50"
     }
+  },
+  {
+    "id": "verso-un-giardino-inclusivo-trento-una-comunita-amica-delle-persone-con-2026",
+    "name": {
+      "de": "Verso un giardino inclusivo - Trento una comunità amica delle persone con demenza",
+      "en": "Verso un giardino inclusivo - Trento una comunità amica delle persone con demenza",
+      "it": "Verso un giardino inclusivo - Trento una comunità amica delle persone con demenza"
+    },
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Come progettare spazi comuni capaci di rispondere ai bisogni di tutte le persone? Il talk presenta un percorso partecipativo dedicato alla progettazione inclusiva e alla cura degli spazi condivisi, con il contributo di Shifton, studio di design per l’innovazione sociale, e degli studenti del corso di \"Progetto 2\" della laurea magistrale in Eco-Social Design della Libera Università di Bolzano."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Verso-un-giardino-inclusivo-Trento-una-comunita-amica-delle-persone-con-demenza",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-16",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Verso-un-giardino-inclusivo-Trento-una-comunita-amica-delle-persone-con-demenza"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Verso-un-giardino-inclusivo-Trento-una-comunita-amica-delle-persone-con-demenza"
+    },
+    "descriptionVerified": "2026-10-16",
+    "assetVerified": "2026-10-16"
   },
   {
     "id": "viaggio-nella-memoria-del-medioevo-latino-2026",
@@ -9597,6 +9541,49 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "divin-ottobre-2026-4",
+    "name": {
+      "de": "DiVin Ottobre",
+      "en": "DiVin Ottobre",
+      "it": "DiVin Ottobre"
+    },
+    "startDate": "2026-10-31",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "A month of flavours, wines and Trentino traditions.",
+      "it": "Un mese di sapori, vini e tradizioni trentine.",
+      "de": "Ein Monat voller Genuss, Wein und Trentiner Traditionen."
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-16",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/events/divin-ottobre_75932"
+    ],
+    "descriptionSources": {
+      "en": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
+      "it": "https://www.gardatrentino.it/it/eventi/divin-ottobre_75932",
+      "de": "https://www.gardatrentino.it/de/event/divin-ottobre_75932"
+    },
+    "descriptionVerified": "2026-10-16",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_DiVin_Ottobre_1.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
+    "assetVerified": "2026-10-16"
+  },
+  {
     "id": "gruppo-cassa-centrale-trentino-business-run-2026-3",
     "name": {
       "de": "Gruppo Cassa Centrale - Trentino Business Run",
@@ -11626,6 +11613,42 @@
       "de": "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio3",
       "en": "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio3"
     }
+  },
+  {
+    "id": "mese-mondiale-della-sensibilizzazione-sul-cancro-del-polmone-2026",
+    "name": {
+      "de": "Mese mondiale della sensibilizzazione sul cancro del polmone",
+      "en": "Mese mondiale della sensibilizzazione sul cancro del polmone",
+      "it": "Mese mondiale della sensibilizzazione sul cancro del polmone"
+    },
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il Comune di Trento, aderendo all'iniziativa di Alcase, illuminerà la sera del 16 novembre la Fontana del Nettuno in piazza del Duomo di colore bianco e promuoverà l'iniziativa attraverso un messaggio che verrà proiettato sul ledwall posto in centro città presso l'ostello Giovane Europa. Il mese di novembre è, in tutto il mondo, il Lung Cancer Awareness Month (Lcam)."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mese-mondiale-della-sensibilizzazione-sul-cancro-del-polmone",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-16",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Mese-mondiale-della-sensibilizzazione-sul-cancro-del-polmone"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Mese-mondiale-della-sensibilizzazione-sul-cancro-del-polmone"
+    },
+    "descriptionVerified": "2026-10-16",
+    "assetVerified": "2026-10-16"
   },
   {
     "id": "vai-via-2026",
@@ -15207,10 +15230,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/gigante-gigli-300th-anniversary_103295",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-14",
+    "verified": "2026-10-16",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/events/gigante-gigli-300th-anniversary_103295"
     ],
@@ -15819,8 +15843,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
+    "descriptionVerified": "2026-10-16",
+    "assetVerified": "2026-10-16",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
