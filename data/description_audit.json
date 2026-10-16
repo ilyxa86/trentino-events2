@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-15",
+  "checkedAt": "2026-10-16",
   "currentEvents": 354,
-  "complete": 171,
+  "complete": 166,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -365,6 +365,13 @@
       ]
     },
     {
+      "id": "dalla-citta-alla-stanza-sinergie-tra-progetto-urbano-e-composizione-arch-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "gruppo-di-conversazione-sul-cinema-2026-3",
       "languages": [
         "de",
@@ -407,6 +414,20 @@
       ]
     },
     {
+      "id": "rieducazione-alla-speranza-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "coppia-aperta-quasi-spalancata-con-chiara-francini-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "eugenio-montale-temi-modelli-figure-2026",
       "languages": [
         "de",
@@ -429,6 +450,13 @@
     },
     {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-8",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "verso-un-giardino-inclusivo-trento-una-comunita-amica-delle-persone-con-2026",
       "languages": [
         "de",
         "en"
@@ -681,6 +709,13 @@
     },
     {
       "id": "un-incauta-lettera-d-amore-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "mese-mondiale-della-sensibilizzazione-sul-cancro-del-polmone-2026",
       "languages": [
         "de",
         "en"
