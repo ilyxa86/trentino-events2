@@ -1691,137 +1691,6 @@
     "assetVerified": "2026-08-27"
   },
   {
-    "id": "festival-sport-2026",
-    "name": {
-      "en": "Festival dello Sport",
-      "it": "Festival dello Sport",
-      "de": "Festival dello Sport"
-    },
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-04",
-    "startTime": "09:00",
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Historic centre",
-    "category": "Sport & Culture",
-    "status": "NEW",
-    "confirmed": true,
-    "description": {
-      "en": "Major sports festival with athletes, interviews, talks and public events in central Trento.",
-      "it": "Grande festival dello sport con atleti, interviste, incontri ed eventi pubblici nel centro di Trento.",
-      "de": "Major sports festival with athletes, interviews, talks and public events in central Trento."
-    },
-    "organizer": "La Gazzetta dello Sport and partners",
-    "price": "Free",
-    "officialUrl": "https://www.comune.trento.it/Vivere-il-Comune/Eventi",
-    "source": "Comune di Trento",
-    "verified": "2026-08-25"
-  },
-  {
-    "id": "il-festival-dello-sport-di-trento-2026",
-    "name": {
-      "de": "Il Festival dello Sport di Trento",
-      "en": "Il Festival dello Sport di Trento",
-      "it": "Il Festival dello Sport di Trento"
-    },
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-04",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Sport & Outdoor",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Il Festival dello Sport di Trento“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Il Festival dello Sport di Trento” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Il Festival dello Sport di Trento” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-festival-dello-sport-di-trento_e_91856524",
-    "source": "Visit Trentino - all events",
-    "verified": "2026-08-26",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visittrentino.info/press/it/2024/autunno/foto-festival/7497975/image-thumb__7497975__moodboard_list/Festival%20dello%20Sport%202023%20foto%20Archivio%20Ufficio%20Stampa%20PAT%20%284%29.7b180536.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-festival-dello-sport-di-trento_e_91856524"
-    ]
-  },
-  {
-    "id": "vigna-eccellente-2026",
-    "name": {
-      "en": "La Vigna Eccellente",
-      "it": "La Vigna Eccellente",
-      "de": "La Vigna Eccellente"
-    },
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-04",
-    "startTime": null,
-    "municipality": "Isera",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Isera",
-    "category": "Wine & Gastronomy",
-    "status": "NEW",
-    "confirmed": true,
-    "description": {
-      "en": "Vallagarina wine and gastronomy event centred on Marzemino and local producers.",
-      "it": "Evento enogastronomico della Vallagarina dedicato al Marzemino e ai produttori locali.",
-      "de": "Vallagarina wine and gastronomy event centred on Marzemino and local producers."
-    },
-    "organizer": "Comune di Isera and partners",
-    "price": "See programme",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/feste-sagre-autunno/la-vigna-eccellente_e_2063624",
-    "source": "Visit Trentino",
-    "verified": "2026-08-26",
-    "image": "https://www.visittrentino.info/assets-basic/events/www-visitrovereto-it/-la-vigna-eccellente-_2063624/7808356/image-thumb__7808356__moodboard_list/-la-vigna-eccellente-_2063624_1.8892250e.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/feste-sagre-autunno/la-vigna-eccellente_e_2063624",
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-vigna-eccellente_e_2063624"
-    ],
-    "assetVerified": "2026-08-27"
-  },
-  {
-    "id": "fb-rock-master-arco-40th-edition-2026",
-    "name": {
-      "de": "Rock Master — Arco (40th edition)",
-      "en": "Rock Master — Arco (40th edition)",
-      "it": "Rock Master — Arco (40th edition)"
-    },
-    "startDate": "2026-10-02",
-    "endDate": "2026-10-04",
-    "startTime": null,
-    "municipality": "Arco",
-    "area": "Facebook / Local",
-    "venue": "Rock Master Climbing Stadium, Via dei Legionari Cecoslovacchi 26",
-    "category": "Sport / Climbing",
-    "status": null,
-    "statusDate": null,
-    "confirmed": true,
-    "description": {
-      "de": "Internationales Kletter-Event (Rock Master) mit Wettkämpfen, Talks und Rahmenprogramm im Climbing Stadium von Arco (2.–4.10.2026).",
-      "en": "Rock Master international climbing event with competitions, talks and public activities at the Arco Climbing Stadium (2–4 Oct 2026).",
-      "it": "Evento internazionale di arrampicata Rock Master con gare, incontri e attività pubbliche al Climbing Stadium di Arco (2–4 ottobre 2026)."
-    },
-    "organizer": "Rock Master organisation in partnership with Comune di Arco / Apt Garda Dolomiti",
-    "price": "many activities free; tickets/registration for some competitions (see organizer)",
-    "officialUrl": "https://rockmaster.com/it",
-    "source": "Sei di Arco se…",
-    "sourceType": "facebook",
-    "sourceUrls": [
-      "https://rockmaster.com/it"
-    ],
-    "verified": "2026-09-21",
-    "discoveredVia": "facebook_backfill",
-    "confidence": "official-corroborated",
-    "image": "https://rockmaster.com/website_images_rockmaster/climbing-stadium/image-thumb__70338__fb-thumb/2025_APTGARDADOLOMITI_EmilianoVillani_ROCKMASTER25__61A4740.jpg",
-    "imageSourceUrl": "https://rockmaster.com/it",
-    "assetVerified": "2026-09-21"
-  },
-  {
     "id": "incontrarti-2026",
     "name": {
       "de": "IncontrArti",
@@ -1921,70 +1790,6 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events"
-    ]
-  },
-  {
-    "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026-6",
-    "name": {
-      "de": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
-      "en": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
-      "it": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\""
-    },
-    "startDate": "2026-10-03",
-    "endDate": "2026-10-03",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio12",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio12"
-    ]
-  },
-  {
-    "id": "eddy-serafini-codex-discantas-musicantica-2026",
-    "name": {
-      "de": "Eddy Serafini Codex Discantas - Musicantica",
-      "en": "Eddy Serafini Codex Discantas - Musicantica",
-      "it": "Eddy Serafini Codex Discantas - Musicantica"
-    },
-    "startDate": "2026-10-04",
-    "endDate": "2026-10-04",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Eddy Serafini Codex Discantas - Musicantica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Eddy Serafini Codex Discantas - Musicantica” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Eddy Serafini Codex Discantas - Musicantica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Eddy-Serafini-Codex-Discantas-Musicantica",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-24",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Eddy-Serafini-Codex-Discantas-Musicantica"
     ]
   },
   {
@@ -6257,6 +6062,45 @@
     "descriptionVerified": "2026-10-15"
   },
   {
+    "id": "mese-del-gusto-2026",
+    "name": {
+      "de": "Mese del Gusto",
+      "en": "Mese del Gusto",
+      "it": "Mese del Gusto"
+    },
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La rassegna del sapore locale del Garda Trentino."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-17",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
+      "https://www.gardatrentino.it/en/events/mese-del-gusto_61067"
+    ],
+    "descriptionSources": {
+      "it": "https://www.gardatrentino.it/it/eventi/mese-del-gusto_61067"
+    },
+    "descriptionVerified": "2026-10-17",
+    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Header.png",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
+    "assetVerified": "2026-10-17"
+  },
+  {
     "id": "progetto-opera-2026",
     "name": {
       "de": "Progetto opera",
@@ -7968,6 +7812,45 @@
     "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "gianni-berengo-gardin-mondi-da-abitare-2026",
+    "name": {
+      "de": "Gianni Berengo Gardin. Mondi da abitare",
+      "en": "Gianni Berengo Gardin. Mondi da abitare",
+      "it": "Gianni Berengo Gardin. Mondi da abitare"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Al Mart una collezione di 120 immagini per celebrare la straordinaria capacità compositiva e visione urbanistica di uno tra i maggiori protagonisti della fotografia contemporanea, ad un anno dalla sua scomparsa. La mostra è divisa in 9 sezioni con 120 immagini provenienti dall'Archivio di famiglia e accompagna il visitatore in un percorso dagli anni 50 al 2013 in cui la vocazione architettonica , l' interesse etico e sociale e il lavoro di documentazione del celebre fotografo si intrecciano.",
+      "de": "Im Mart wird eine Sammlung von 120 Fotografien gezeigt, die anlässlich des ersten Todestages eines der bedeutendsten Vertreter der zeitgenössischen Fotografie dessen außergewöhnliche Bildkomposition und städtebauliche Vision würdigt. Die Ausstellung ist in neun Bereiche gegliedert und umfasst 120 Fotografien aus dem Familienarchiv."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-17",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Mondi-da-abitare.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare/",
+      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/gianni-berengo-gardin-mondi-da-abitare/"
+    },
+    "descriptionVerified": "2026-10-17",
+    "assetVerified": "2026-10-17"
   },
   {
     "id": "giornata-del-riuso-a-ravina-2026",
@@ -12807,6 +12690,43 @@
     }
   },
   {
+    "id": "mercatini-di-natale-a-sant-antonio-pomarolo-2026",
+    "name": {
+      "de": "Mercatini di Natale a Sant’Antonio – POMAROLO",
+      "en": "Mercatini di Natale a Sant’Antonio – POMAROLO",
+      "it": "Mercatini di Natale a Sant’Antonio – POMAROLO"
+    },
+    "startDate": "2026-11-28",
+    "endDate": "2026-12-20",
+    "startTime": null,
+    "municipality": "Pomarolo",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Pomarolo",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Nella splendida cornice della località di S. Antonio, proprietà dei Conti Bossi Fedrigotti, quattro fine settimana natalizi per incontrare i produttori locali e trascorrere le festività in compagnia."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/mercatini-di-natale-a-santantonio-pomarolo",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-17",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Mercatini-di-Natale-a-SantAntonio-POMAROLO.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/mercatini-di-natale-a-santantonio-pomarolo"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/mercatini-di-natale-a-santantonio-pomarolo/"
+    },
+    "descriptionVerified": "2026-10-17",
+    "assetVerified": "2026-10-17"
+  },
+  {
     "id": "mercatino-dei-gaudenti-di-piazza-dante-2026-3",
     "name": {
       "de": "Mercatino dei Gaudenti di piazza Dante",
@@ -15843,8 +15763,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-16",
-    "assetVerified": "2026-10-16",
+    "descriptionVerified": "2026-10-17",
+    "assetVerified": "2026-10-17",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
