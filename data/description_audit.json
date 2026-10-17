@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-16",
-  "currentEvents": 354,
-  "complete": 166,
+  "checkedAt": "2026-10-17",
+  "currentEvents": 351,
+  "complete": 160,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -344,6 +344,13 @@
       ]
     },
     {
+      "id": "mese-del-gusto-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
       "languages": [
         "de",
@@ -480,6 +487,12 @@
       "id": "coppie-scoppiate-2026",
       "languages": [
         "de",
+        "en"
+      ]
+    },
+    {
+      "id": "gianni-berengo-gardin-mondi-da-abitare-2026",
+      "languages": [
         "en"
       ]
     },
@@ -828,6 +841,13 @@
     },
     {
       "id": "il-mondo-musicantica-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "mercatini-di-natale-a-sant-antonio-pomarolo-2026",
       "languages": [
         "de",
         "en"
