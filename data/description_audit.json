@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-17",
-  "currentEvents": 351,
-  "complete": 160,
+  "checkedAt": "2026-10-18",
+  "currentEvents": 347,
+  "complete": 154,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -228,13 +228,6 @@
       ]
     },
     {
-      "id": "fora-fest-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "haydn-stagione-sinfonica-27-2026",
       "languages": [
         "de",
@@ -344,7 +337,21 @@
       ]
     },
     {
+      "id": "in-un-soffio-d-aria-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "mese-del-gusto-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "l-eco-dei-porteghi-2026",
       "languages": [
         "de",
         "en"
@@ -518,6 +525,13 @@
         "de",
         "en",
         "it"
+      ]
+    },
+    {
+      "id": "mese-del-gusto-2026-2",
+      "languages": [
+        "de",
+        "en"
       ]
     },
     {
