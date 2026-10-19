@@ -1,12 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:54:00.263044Z",
+  "generatedAt": "2026-10-19T09:48:24.057969Z",
   "newFacebookEvents": [],
-  "facebookBackfills": [
-    {
-      "id": "fb-festival-settenovecento-11a-edizione-rovereto-2027",
-      "name": "festival Settenovecento — 11ª edizione (Rovereto)",
-      "date": "2027-09-17",
-      "municipality": "Rovereto"
-    }
-  ]
+  "facebookBackfills": []
 }

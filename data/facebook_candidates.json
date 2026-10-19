@@ -1,26 +1,4 @@
 {
-  "generatedAt": "2026-10-12T11:54:00.228559Z",
-  "records": [
-    {
-      "facebookSourceId": "fb_se_te_sei_de_rovereto",
-      "name": "festival Settenovecento — 11ª edizione (Rovereto)",
-      "startDate": "2027-09-17",
-      "endDate": "2027-09-19",
-      "startTime": null,
-      "municipality": "Rovereto",
-      "venue": "Sale e teatri diffusi a Rovereto (es. Sala Filarmonica, Teatro Zandonai e spazi cittadini)",
-      "category": "Musica / Festival (classica e concerti diffusi)",
-      "descriptionDe": "Settenovecento Festival — mehrtägiges klassisches Musikfestival in Rovereto mit Kammer- und Sinfoniekonzerten verteilt in städtischen Spielstätten.",
-      "descriptionEn": "Settenovecento — multi-day classical music festival in Rovereto (widespread concerts in city venues), 11th edition scheduled 17–19 Sept 2027.",
-      "descriptionIt": "Festival Settenovecento: rassegna di musica classica diffusa a Rovereto (concerti in Sala Filarmonica, Teatro Zandonai e altri spazi), edizione 17–19 settembre 2027.",
-      "organizer": "Associazione Filarmonica di Rovereto ETS (in collaborazione con partner locali)",
-      "price": "Varia in base agli appuntamenti (biglietteria / ingressi a pagamento per alcuni concerti; tariffe ridotte indicate dall'organizzazione)",
-      "publicUrl": "https://www.filarmonicarovereto.it/",
-      "imageUrl": null,
-      "announcementDate": null,
-      "confirmed": true,
-      "confidence": "official-corroborated",
-      "facebookSourceName": "Se te sei de Rovereto"
-    }
-  ]
+  "generatedAt": "2026-10-19T09:48:23.696303Z",
+  "records": []
 }
