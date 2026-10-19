@@ -2057,103 +2057,6 @@
     "descriptionVerified": "2026-10-15"
   },
   {
-    "id": "insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta-2026",
-    "name": {
-      "de": "Insieme facciamo la differenza: prendiamoci cura della nostra città",
-      "en": "Insieme facciamo la differenza: prendiamoci cura della nostra città",
-      "it": "Insieme facciamo la differenza: prendiamoci cura della nostra città"
-    },
-    "startDate": "2026-10-05",
-    "endDate": "2026-10-05",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Sport & Outdoor",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Insieme facciamo la differenza: prendiamoci cura della nostra città“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Insieme facciamo la differenza: prendiamoci cura della nostra città” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Insieme facciamo la differenza: prendiamoci cura della nostra città” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta7",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta7",
-      "https://eventi.comune.trento.it/Eventi/Insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta8"
-    ]
-  },
-  {
-    "id": "tra-silenzi-e-colori-un-esperienza-pratica-per-scoprire-la-comunicazione-2026",
-    "name": {
-      "de": "Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole",
-      "en": "Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole",
-      "it": "Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole"
-    },
-    "startDate": "2026-10-05",
-    "endDate": "2026-10-05",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Tra silenzi e colori: un’esperienza pratica per scoprire la comunicazione con i nostri figli, oltre le parole” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Tra-silenzi-e-colori-un-esperienza-pratica-per-scoprire-la-comunicazione-con-i-nostri-figli-oltre-le-parole",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Tra-silenzi-e-colori-un-esperienza-pratica-per-scoprire-la-comunicazione-con-i-nostri-figli-oltre-le-parole"
-    ]
-  },
-  {
-    "id": "curainsieme-2026-2",
-    "name": {
-      "de": "Curainsieme",
-      "en": "Curainsieme",
-      "it": "Curainsieme"
-    },
-    "startDate": "2026-10-06",
-    "endDate": "2026-10-06",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Curainsieme“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Curainsieme” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Curainsieme” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Curainsieme2",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-19",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Curainsieme2"
-    ]
-  },
-  {
     "id": "fora-fest-2026",
     "name": {
       "de": "Fòra Fest",
@@ -2189,135 +2092,6 @@
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "la-citta-biblioteca-2026-2",
-    "name": {
-      "de": "La Città Biblioteca",
-      "en": "La Città Biblioteca",
-      "it": "La Città Biblioteca"
-    },
-    "startDate": "2026-10-06",
-    "endDate": "2026-10-06",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „La Città Biblioteca“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“La Città Biblioteca” event in Rovereto. See the official event page for the latest details.",
-      "it": "Evento “La Città Biblioteca” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/la-citta-biblioteca-un-viaggio-nel-labirinto-dei-racconti",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-03",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/La-Citta-Biblioteca.jpg",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/la-citta-biblioteca-un-viaggio-nel-labirinto-dei-racconti"
-    ]
-  },
-  {
-    "id": "ottobre-a-gardolo-2026",
-    "name": {
-      "de": "Ottobre a Gardolo!",
-      "en": "Ottobre a Gardolo!",
-      "it": "Ottobre a Gardolo!"
-    },
-    "startDate": "2026-10-06",
-    "endDate": "2026-10-06",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Ottobre a Gardolo!“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Ottobre a Gardolo!” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Ottobre a Gardolo!” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-a-Gardolo",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Ottobre-a-Gardolo"
-    ]
-  },
-  {
-    "id": "corso-di-base-per-amministratore-trice-di-sostegno-2026-2",
-    "name": {
-      "de": "Corso di base per amministratore/trice di sostegno",
-      "en": "Corso di base per amministratore/trice di sostegno",
-      "it": "Corso di base per amministratore/trice di sostegno"
-    },
-    "startDate": "2026-10-07",
-    "endDate": "2026-10-07",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Corso di base per amministratore/trice di sostegno“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Corso di base per amministratore/trice di sostegno” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Corso di base per amministratore/trice di sostegno” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Corso-di-base-per-amministratore-trice-di-sostegno5",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-25",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Corso-di-base-per-amministratore-trice-di-sostegno5"
-    ]
-  },
-  {
-    "id": "emozioni-sguardi-e-ricordi-2026",
-    "name": {
-      "de": "Emozioni, sguardi e ricordi",
-      "en": "Emozioni, sguardi e ricordi",
-      "it": "Emozioni, sguardi e ricordi"
-    },
-    "startDate": "2026-10-07",
-    "endDate": "2026-10-07",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Emozioni, sguardi e ricordi“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Emozioni, sguardi e ricordi” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Emozioni, sguardi e ricordi” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Emozioni-sguardi-e-ricordi",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Emozioni-sguardi-e-ricordi"
-    ]
   },
   {
     "id": "haydn-stagione-sinfonica-27-2026",
@@ -2358,134 +2132,6 @@
     "descriptionVerified": "2026-10-15"
   },
   {
-    "id": "il-finto-tedesco-2026",
-    "name": {
-      "de": "Il finto tedesco",
-      "en": "Il finto tedesco",
-      "it": "Il finto tedesco"
-    },
-    "startDate": "2026-10-07",
-    "endDate": "2026-10-07",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Il finto tedesco“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Il finto tedesco” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Il finto tedesco” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-finto-tedesco",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Il-finto-tedesco"
-    ]
-  },
-  {
-    "id": "mercato-contadino-di-via-fabio-filzi-2026-6",
-    "name": {
-      "de": "Mercato contadino di via Fabio Filzi",
-      "en": "Mercato contadino di via Fabio Filzi",
-      "it": "Mercato contadino di via Fabio Filzi"
-    },
-    "startDate": "2026-10-07",
-    "endDate": "2026-10-07",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Mercato contadino di via Fabio Filzi“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Mercato contadino di via Fabio Filzi” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Mercato contadino di via Fabio Filzi” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi48",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi48"
-    ]
-  },
-  {
-    "id": "ottobre-a-povo-2026",
-    "name": {
-      "de": "Ottobre a Povo",
-      "en": "Ottobre a Povo",
-      "it": "Ottobre a Povo"
-    },
-    "startDate": "2026-10-07",
-    "endDate": "2026-10-07",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Ottobre a Povo“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Ottobre a Povo” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Ottobre a Povo” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-a-Povo",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Ottobre-a-Povo"
-    ]
-  },
-  {
-    "id": "presentazione-libro-il-finto-tedesco-2026",
-    "name": {
-      "de": "Presentazione libro Il finto tedesco",
-      "en": "Presentazione libro Il finto tedesco",
-      "it": "Presentazione libro Il finto tedesco"
-    },
-    "startDate": "2026-10-07",
-    "endDate": "2026-10-07",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Presentazione libro Il finto tedesco“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Presentazione libro Il finto tedesco” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Presentazione libro Il finto tedesco” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Il-finto-tedesco",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-06",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Presentazione-libro-Il-finto-tedesco"
-    ]
-  },
-  {
     "id": "ram-film-2026",
     "name": {
       "en": "RAM Film Festival",
@@ -2511,102 +2157,6 @@
     "officialUrl": "https://www.ramfilmfestival.it/RAMfilmfestival",
     "source": "Official organizer",
     "verified": "2026-08-25"
-  },
-  {
-    "id": "cadono-le-storie-2026",
-    "name": {
-      "de": "Cadono le storie",
-      "en": "Cadono le storie",
-      "it": "Cadono le storie"
-    },
-    "startDate": "2026-10-08",
-    "endDate": "2026-10-08",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Cadono le storie“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Cadono le storie” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Cadono le storie” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Cadono-le-storie",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Cadono-le-storie"
-    ]
-  },
-  {
-    "id": "da-piazza-d-armi-a-giardino-monumentale-la-storia-di-piazza-venezia-in-m-2026",
-    "name": {
-      "de": "Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento",
-      "en": "Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento",
-      "it": "Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento"
-    },
-    "startDate": "2026-10-08",
-    "endDate": "2026-10-08",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Da piazza d’armi a giardino monumentale: la storia di piazza Venezia in mostra a Trento” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Da-piazza-d-armi-a-giardino-monumentale-la-storia-di-piazza-Venezia-in-mostra-a-Trento",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-06",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Da-piazza-d-armi-a-giardino-monumentale-la-storia-di-piazza-Venezia-in-mostra-a-Trento"
-    ]
-  },
-  {
-    "id": "inaugurazione-della-mostra-da-piazza-delle-armi-a-giardino-piazza-venezi-2026",
-    "name": {
-      "de": "Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"",
-      "en": "Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"",
-      "it": "Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\""
-    },
-    "startDate": "2026-10-08",
-    "endDate": "2026-10-08",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Inaugurazione della mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Inaugurazione-della-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-07",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Inaugurazione-della-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi"
-    ]
   },
   {
     "id": "la-dimensione-mistica-secondo-raimon-panikkar-2026",
@@ -7388,6 +6938,43 @@
     }
   },
   {
+    "id": "voci-dal-confine-otto-anni-tra-israeliani-e-palestinesi-elia-milani-2026",
+    "name": {
+      "de": "Voci dal confine. Otto anni tra israeliani e Palestinesi - Elia Milani",
+      "en": "Voci dal confine. Otto anni tra israeliani e Palestinesi - Elia Milani",
+      "it": "Voci dal confine. Otto anni tra israeliani e Palestinesi - Elia Milani"
+    },
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-23",
+    "startTime": "20:30",
+    "municipality": "Levico Terme",
+    "area": "Other Trentino",
+    "venue": "Levico Terme",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Venerdì 23 ottobre ore 20:30 Teatro Mons. D."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/voci-dal-confine.otto-anni-tra-israeliani-e-palestinesi-elia-milani_e_116297593",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-10-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/voci-dal-confine.-otto-anni-tra-israeliani-e-palestinesi---elia-milani_116297593/7878457/image-thumb__7878457__moodboard_list/voci-dal-confine.-otto-anni-tra-israeliani-e-palestinesi---elia-milani_116297593_1.614bf91e.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/voci-dal-confine.otto-anni-tra-israeliani-e-palestinesi-elia-milani_e_116297593"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/voci-dal-confine.otto-anni-tra-israeliani-e-palestinesi-elia-milani_e_116297593"
+    },
+    "descriptionVerified": "2026-10-19",
+    "assetVerified": "2026-10-19"
+  },
+  {
     "id": "50-anniversario-della-croce-bianca-di-trento-2026",
     "name": {
       "de": "50° Anniversario della Croce Bianca di Trento",
@@ -7582,6 +7169,45 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "gianni-berengo-gardin-2026",
+    "name": {
+      "de": "Gianni Berengo Gardin",
+      "en": "Gianni Berengo Gardin",
+      "it": "Gianni Berengo Gardin"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Lo sguardo compositivo, i grandi architetti e un paese che cambia attraverso la lente di Gianni Berengo Gardin. Al Mart una collezione di 120 immagini per celebrare la straordinaria capacità compositiva e visione urbanistica di uno tra i maggiori protagonisti della fotografia contemporanea, ad un anno dalla sua scomparsa.",
+      "de": "Im Mart wird eine Sammlung von 120 Fotografien gezeigt, die anlässlich des ersten Todestages eines der bedeutendsten Vertreter der zeitgenössischen Fotografie dessen außergewöhnliche Bildkomposition und städtebauliche Vision würdigt. Die Ausstellung ist in neun Bereiche gegliedert und umfasst 120 Fotografien aus dem Familienarchiv."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Mondi-da-abitare.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare/",
+      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/gianni-berengo-gardin-mondi-da-abitare/"
+    },
+    "descriptionVerified": "2026-10-19",
+    "assetVerified": "2026-10-19"
+  },
+  {
     "id": "gianni-berengo-gardin-mondi-da-abitare-2026",
     "name": {
       "de": "Gianni Berengo Gardin. Mondi da abitare",
@@ -7597,11 +7223,8 @@
     "category": "Other",
     "status": null,
     "confirmed": true,
-    "description": {
-      "it": "Al Mart una collezione di 120 immagini per celebrare la straordinaria capacità compositiva e visione urbanistica di uno tra i maggiori protagonisti della fotografia contemporanea, ad un anno dalla sua scomparsa. La mostra è divisa in 9 sezioni con 120 immagini provenienti dall'Archivio di famiglia e accompagna il visitatore in un percorso dagli anni 50 al 2013 in cui la vocazione architettonica , l' interesse etico e sociale e il lavoro di documentazione del celebre fotografo si intrecciano.",
-      "de": "Im Mart wird eine Sammlung von 120 Fotografien gezeigt, die anlässlich des ersten Todestages eines der bedeutendsten Vertreter der zeitgenössischen Fotografie dessen außergewöhnliche Bildkomposition und städtebauliche Vision würdigt. Die Ausstellung ist in neun Bereiche gegliedert und umfasst 120 Fotografien aus dem Familienarchiv."
-    },
-    "descriptionStatus": "partial",
+    "description": {},
+    "descriptionStatus": "missing",
     "organizer": null,
     "price": "See official page",
     "officialUrl": "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare",
@@ -7613,10 +7236,7 @@
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare"
     ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare/",
-      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/gianni-berengo-gardin-mondi-da-abitare/"
-    },
+    "descriptionSources": {},
     "descriptionVerified": "2026-10-17",
     "assetVerified": "2026-10-17"
   },
@@ -8114,6 +7734,43 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "foliage-al-lago-di-cei-2026-2",
+    "name": {
+      "de": "Foliage al Lago di Cei",
+      "en": "Foliage al Lago di Cei",
+      "it": "Foliage al Lago di Cei"
+    },
+    "startDate": "2026-10-25",
+    "endDate": "2026-10-25",
+    "startTime": null,
+    "municipality": "Villa Lagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Villa Lagarina",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Domenica 18 ottobre 2026 torna l'imperdibile appuntamento con il Foliage al Lago di Cei. Vieni a vivere un'esperienza unica immersa nei colori caldi della natura , con una passeggiata tra i paesaggi dell'area protetta Pra dell’Albi - Cei e i sapori autentici del nostro territorio."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2023/10/Foliage-al-Lago-di-Cei-Tommaso-Prugnola.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina/"
+    },
+    "descriptionVerified": "2026-10-19",
+    "assetVerified": "2026-10-19"
+  },
+  {
     "id": "garbage-ride-walk-2026",
     "name": {
       "de": "Garbage Ride & Walk",
@@ -8265,6 +7922,45 @@
     "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Header.png",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
     "assetVerified": "2026-10-18"
+  },
+  {
+    "id": "mese-del-gusto-2026-6",
+    "name": {
+      "de": "Mese del Gusto",
+      "en": "Mese del Gusto",
+      "it": "Mese del Gusto"
+    },
+    "startDate": "2026-10-25",
+    "endDate": "2026-11-08",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La rassegna del sapore locale del Garda Trentino."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/events/mese-del-gusto_61067"
+    ],
+    "descriptionSources": {
+      "it": "https://www.gardatrentino.it/it/eventi/mese-del-gusto_61067"
+    },
+    "descriptionVerified": "2026-10-19",
+    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Header.png",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
+    "assetVerified": "2026-10-19"
   },
   {
     "id": "spokes-of-design-2026",
@@ -8539,6 +8235,42 @@
     "officialUrl": "https://rivadelgardafierecongressi.it/it/quartierefieristico",
     "source": "Official organizer",
     "verified": "2026-08-25"
+  },
+  {
+    "id": "il-peso-invisibile-la-fatica-che-non-si-vede-di-chi-assiste-ogni-giorno-2026",
+    "name": {
+      "de": "Il peso invisibile. La fatica, che non si vede, di chi assiste ogni giorno",
+      "en": "Il peso invisibile. La fatica, che non si vede, di chi assiste ogni giorno",
+      "it": "Il peso invisibile. La fatica, che non si vede, di chi assiste ogni giorno"
+    },
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "È una fatica che non si vede, ma che consuma, quella di chi assiste quotidianamente chi ha bisogno. Prendersi cura di un proprio caro o di una persona fragile, significa affrontare fatica, ansia, talora anche sensi di colpa, isolamento, solitudine."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-peso-invisibile.-La-fatica-che-non-si-vede-di-chi-assiste-ogni-giorno",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-19",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Il-peso-invisibile.-La-fatica-che-non-si-vede-di-chi-assiste-ogni-giorno"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Il-peso-invisibile.-La-fatica-che-non-si-vede-di-chi-assiste-ogni-giorno"
+    },
+    "descriptionVerified": "2026-10-19",
+    "assetVerified": "2026-10-19"
   },
   {
     "id": "presentazione-libro-terre-promesse-2026",
@@ -11065,11 +10797,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-12",
+    "verified": "2026-10-19",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -12805,11 +12538,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/christmas-market-in-canale-di-tenno_11698",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-05",
+    "verified": "2026-10-19",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
@@ -14683,11 +14417,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/aspettando-il-natale_63457",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-05",
+    "verified": "2026-10-19",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
       "https://www.gardatrentino.it/en/discover/events?page=8",
@@ -15663,8 +15398,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-18",
-    "assetVerified": "2026-10-18",
+    "descriptionVerified": "2026-10-19",
+    "assetVerified": "2026-10-19",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
