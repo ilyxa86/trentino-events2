@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-18",
-  "currentEvents": 347,
-  "complete": 154,
+  "checkedAt": "2026-10-19",
+  "currentEvents": 338,
+  "complete": 145,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -283,14 +283,6 @@
       ]
     },
     {
-      "id": "dal-fucile-alla-matita-2026-10",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "international-chess-tournament-citta-di-arco-2026-3",
       "languages": [
         "de",
@@ -323,13 +315,6 @@
       ]
     },
     {
-      "id": "rovereto-open-wta-125-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "altri-quadri-2026",
       "languages": [
         "de",
@@ -337,28 +322,7 @@
       ]
     },
     {
-      "id": "in-un-soffio-d-aria-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "mese-del-gusto-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "l-eco-dei-porteghi-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
       "languages": [
         "de",
         "en"
@@ -484,6 +448,13 @@
       ]
     },
     {
+      "id": "voci-dal-confine-otto-anni-tra-israeliani-e-palestinesi-elia-milani-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "50-anniversario-della-croce-bianca-di-trento-2026",
       "languages": [
         "de",
@@ -498,9 +469,17 @@
       ]
     },
     {
-      "id": "gianni-berengo-gardin-mondi-da-abitare-2026",
+      "id": "gianni-berengo-gardin-2026",
       "languages": [
         "en"
+      ]
+    },
+    {
+      "id": "gianni-berengo-gardin-mondi-da-abitare-2026",
+      "languages": [
+        "de",
+        "en",
+        "it"
       ]
     },
     {
@@ -509,6 +488,13 @@
         "de",
         "en",
         "it"
+      ]
+    },
+    {
+      "id": "foliage-al-lago-di-cei-2026-2",
+      "languages": [
+        "de",
+        "en"
       ]
     },
     {
@@ -529,6 +515,20 @@
     },
     {
       "id": "mese-del-gusto-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "mese-del-gusto-2026-6",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "il-peso-invisibile-la-fatica-che-non-si-vede-di-chi-assiste-ogni-giorno-2026",
       "languages": [
         "de",
         "en"
