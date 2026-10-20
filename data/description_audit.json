@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-19",
-  "currentEvents": 338,
-  "complete": 145,
+  "checkedAt": "2026-10-20",
+  "currentEvents": 337,
+  "complete": 147,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -329,62 +329,6 @@
       ]
     },
     {
-      "id": "cancro-in-due-atti-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "crepe-nel-mondo-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "dalla-citta-alla-stanza-sinergie-tra-progetto-urbano-e-composizione-arch-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "gruppo-di-conversazione-sul-cinema-2026-3",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "la-scuola-primaria-di-ravina-assemblea-pubblica-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mamme-in-cerchio-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "ottobre-in-biblioteca-2026-4",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "pietre-di-pane-memorie-di-geografie-fragili-installazione-site-specific-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "curainsieme-2026-4",
       "languages": [
         "de",
@@ -441,6 +385,13 @@
       ]
     },
     {
+      "id": "oltre-i-passi-passeggiata-d-autunno-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "storie-da-brivido-2026",
       "languages": [
         "de",
@@ -469,17 +420,32 @@
       ]
     },
     {
-      "id": "gianni-berengo-gardin-2026",
-      "languages": [
-        "en"
-      ]
-    },
-    {
       "id": "gianni-berengo-gardin-mondi-da-abitare-2026",
       "languages": [
         "de",
         "en",
         "it"
+      ]
+    },
+    {
+      "id": "inaugurazione-della-mostra-il-potere-della-musica-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "si-fa-presto-a-dire-pace-ciclo-di-incontri-le-origini-dei-conflitti-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026",
+      "languages": [
+        "de",
+        "en"
       ]
     },
     {
@@ -529,6 +495,13 @@
     },
     {
       "id": "il-peso-invisibile-la-fatica-che-non-si-vede-di-chi-assiste-ogni-giorno-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "un-laboratorio-da-paura-2026",
       "languages": [
         "de",
         "en"
@@ -757,6 +730,13 @@
     },
     {
       "id": "la-storia-del-rock-1-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "le-storie-del-sabato-al-caminetto-2026",
       "languages": [
         "de",
         "en"
