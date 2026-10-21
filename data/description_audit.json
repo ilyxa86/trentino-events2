@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-20",
-  "currentEvents": 337,
-  "complete": 147,
+  "checkedAt": "2026-10-21",
+  "currentEvents": 346,
+  "complete": 148,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -329,20 +329,6 @@
       ]
     },
     {
-      "id": "curainsieme-2026-4",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "rieducazione-alla-speranza-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "coppia-aperta-quasi-spalancata-con-chiara-francini-2026",
       "languages": [
         "de",
@@ -393,6 +379,20 @@
     },
     {
       "id": "storie-da-brivido-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "alla-biscondola-pensieri-al-riparo-dal-vento-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "il-quinto-elemento-2026",
       "languages": [
         "de",
         "en"
@@ -502,6 +502,34 @@
     },
     {
       "id": "un-laboratorio-da-paura-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "citta-alberi-salute-progettare-il-cambiamento-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "un-laboratorio-da-paura-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "l-ora-delle-storie-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "entra-se-hai-il-coraggio-2026",
       "languages": [
         "de",
         "en"
@@ -638,6 +666,13 @@
       ]
     },
     {
+      "id": "presentazione-libro-l-alba-della-repubblica-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026",
       "languages": [
         "de",
@@ -645,7 +680,21 @@
       ]
     },
     {
+      "id": "desaparecidos-scomparsi-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-11",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "una-nuova-cultura-del-costruire-per-una-citta-piu-sostenibile-2026",
       "languages": [
         "de",
         "en"
@@ -730,6 +779,13 @@
     },
     {
       "id": "la-storia-del-rock-1-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "dai-neta-2026",
       "languages": [
         "de",
         "en"
