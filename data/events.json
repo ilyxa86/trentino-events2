@@ -2159,71 +2159,6 @@
     "verified": "2026-08-25"
   },
   {
-    "id": "divin-ottobre-2026",
-    "name": {
-      "de": "DiVin Ottobre",
-      "en": "DiVin Ottobre",
-      "it": "DiVin Ottobre"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-10",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „DiVin Ottobre“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“DiVin Ottobre” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “DiVin Ottobre” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-09",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
-  },
-  {
-    "id": "escape-room-la-lacrima-dell-ultimo-atto-2026",
-    "name": {
-      "de": "Escape Room - La Lacrima dell’ultimo atto",
-      "en": "Escape Room - La Lacrima dell’ultimo atto",
-      "it": "Escape Room - La Lacrima dell’ultimo atto"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-10",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Escape Room - La Lacrima dell’ultimo atto“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Escape Room - La Lacrima dell’ultimo atto” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Escape Room - La Lacrima dell’ultimo atto” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-30",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto"
-    ]
-  },
-  {
     "id": "fare-comunita-la-ricreazione-in-piazza-2026",
     "name": {
       "de": "Fare Comunità - La ricreazione in Piazza",
@@ -6717,6 +6652,79 @@
     }
   },
   {
+    "id": "alla-biscondola-pensieri-al-riparo-dal-vento-2026",
+    "name": {
+      "de": "alla biscondola - pensieri al riparo dal vento",
+      "en": "alla biscondola - pensieri al riparo dal vento",
+      "it": "alla biscondola - pensieri al riparo dal vento"
+    },
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-23",
+    "startTime": null,
+    "municipality": "Grumes",
+    "area": "Other Trentino",
+    "venue": "Grumes",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Incontri e confronti Provate sempre a riparare il mondo"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136905844",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-10-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/fiemme/alla-biscondola---pensieri-al-riparo-dal-vento_136905844/7877885/image-thumb__7877885__moodboard_list/alla-biscondola---pensieri-al-riparo-dal-vento_136905844_1.94bd9b8f.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136905844"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136905844"
+    },
+    "descriptionVerified": "2026-10-21",
+    "assetVerified": "2026-10-21"
+  },
+  {
+    "id": "il-quinto-elemento-2026",
+    "name": {
+      "de": "Il Quinto Elemento",
+      "en": "Il Quinto Elemento",
+      "it": "Il Quinto Elemento"
+    },
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-23",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Dopo aver esplorato, lungo un percorso quadriennale, terra, acqua, fuoco e aria, venti artisti dell’Unione Cattolica Artisti Italiani (Ucai) Sezione di Trento, si confrontano ora con una dimensione più misteriosa e intangibile: il Quinto Elemento, ponte tra materia e spirito, tra visibile e invisibile, tra realtà esteriore ed interiorità."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-Quinto-Elemento",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Il-Quinto-Elemento"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Il-Quinto-Elemento"
+    },
+    "descriptionVerified": "2026-10-21",
+    "assetVerified": "2026-10-21"
+  },
+  {
     "id": "voci-dal-confine-otto-anni-tra-israeliani-e-palestinesi-elia-milani-2026",
     "name": {
       "de": "Voci dal confine. Otto anni tra israeliani e Palestinesi - Elia Milani",
@@ -8282,6 +8290,42 @@
     "assetVerified": "2026-10-20"
   },
   {
+    "id": "citta-alberi-salute-progettare-il-cambiamento-2026",
+    "name": {
+      "de": "Città – alberi – salute, progettare il cambiamento",
+      "en": "Città – alberi – salute, progettare il cambiamento",
+      "it": "Città – alberi – salute, progettare il cambiamento"
+    },
+    "startDate": "2026-10-28",
+    "endDate": "2026-10-28",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Si tratta di un approfondimento sul nuovo ruolo del verde nella città che affronta nuove sfide climatiche e sui progetti di spazi urbani, con particolare attenzione allo spazio pubblico: piazze, strade, aree verdi, riqualificate applicando soluzioni basate sulla natura. La cura e la salute dei cittadini e del verde saranno indagate nel loro indissolubile legame urbano e saranno presentate le sfide della gestione arborea tra eventi estremi e nuovi strumenti conoscitivi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Citta-alberi-salute-progettare-il-cambiamento",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Citta-alberi-salute-progettare-il-cambiamento"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Citta-alberi-salute-progettare-il-cambiamento"
+    },
+    "descriptionVerified": "2026-10-21",
+    "assetVerified": "2026-10-21"
+  },
+  {
     "id": "crepe-nel-mondo-2026-4",
     "name": {
       "de": "Crepe nel mondo",
@@ -8411,6 +8455,42 @@
     }
   },
   {
+    "id": "un-laboratorio-da-paura-2026-2",
+    "name": {
+      "de": "Un laboratorio da paura",
+      "en": "Un laboratorio da paura",
+      "it": "Un laboratorio da paura"
+    },
+    "startDate": "2026-10-28",
+    "endDate": "2026-10-28",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "È richiesta la prenotazione telefonando al numero 0461 889918 o scrivendo una e-mail a biblioteca.povo@comune.trento.it"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Un-laboratorio-da-paura2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Un-laboratorio-da-paura2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Un-laboratorio-da-paura2"
+    },
+    "descriptionVerified": "2026-10-21",
+    "assetVerified": "2026-10-21"
+  },
+  {
     "id": "anabel-montesinos-linus-roth-2026",
     "name": {
       "de": "Anabel Montesinos + Linus Roth",
@@ -8529,6 +8609,42 @@
       "de": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5",
       "en": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5"
     }
+  },
+  {
+    "id": "l-ora-delle-storie-2026",
+    "name": {
+      "de": "L'ora delle storie",
+      "en": "L'ora delle storie",
+      "it": "L'ora delle storie"
+    },
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per informazioni chiamare il numero 0461 889786 o mandare una e-mail a: biblioteca.ravina@comune.trento.it"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie13",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie13"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie13"
+    },
+    "descriptionVerified": "2026-10-21",
+    "assetVerified": "2026-10-21"
   },
   {
     "id": "lilt-for-women-2026",
@@ -8809,6 +8925,42 @@
       "de": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage",
       "en": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage"
     }
+  },
+  {
+    "id": "entra-se-hai-il-coraggio-2026",
+    "name": {
+      "de": "Entra ... se hai il coraggio",
+      "en": "Entra ... se hai il coraggio",
+      "it": "Entra ... se hai il coraggio"
+    },
+    "startDate": "2026-10-30",
+    "endDate": "2026-10-30",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per informazioni chiamare il numero 0461 889797 o scrivere una e-mail: biblioteca.argentario@comune.trento.it"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Entra-se-hai-il-coraggio",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Entra-se-hai-il-coraggio"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Entra-se-hai-il-coraggio"
+    },
+    "descriptionVerified": "2026-10-21",
+    "assetVerified": "2026-10-21"
   },
   {
     "id": "sia-laudato-san-francesco-2026",
@@ -10391,6 +10543,42 @@
     }
   },
   {
+    "id": "presentazione-libro-l-alba-della-repubblica-2026",
+    "name": {
+      "de": "Presentazione libro L'alba della Repubblica",
+      "en": "Presentazione libro L'alba della Repubblica",
+      "it": "Presentazione libro L'alba della Repubblica"
+    },
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Presenta Valentina Eberle (Biblioteca comunale di Trento). Ingresso libero fino ad esaurimento posti."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-alba-della-Repubblica",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-alba-della-Repubblica"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-alba-della-Repubblica"
+    },
+    "descriptionVerified": "2026-10-21",
+    "assetVerified": "2026-10-21"
+  },
+  {
     "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026",
     "name": {
       "de": "Corso avanzato per amministratore/trice di sostegno",
@@ -10427,6 +10615,42 @@
     }
   },
   {
+    "id": "desaparecidos-scomparsi-2026",
+    "name": {
+      "de": "Desaparecidos - Scomparsi",
+      "en": "Desaparecidos - Scomparsi",
+      "it": "Desaparecidos - Scomparsi"
+    },
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "In occasione del cinquantesimo anniversario del golpe militare del 24 marzo 1976 in Argentina, la Circoscrizione di Povo promuove la proiezione di questo docufilm, realizzato e prodotto dalla Fondazione Museo storico del Trentino, con l’obiettivo di offrire alla cittadinanza un momento di conoscenza e approfondimento su una delle pagine più drammatiche della storia contemporanea argentina."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Desaparecidos-Scomparsi",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Desaparecidos-Scomparsi"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Desaparecidos-Scomparsi"
+    },
+    "descriptionVerified": "2026-10-21",
+    "assetVerified": "2026-10-21"
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-11",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -10461,6 +10685,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi53"
     }
+  },
+  {
+    "id": "una-nuova-cultura-del-costruire-per-una-citta-piu-sostenibile-2026",
+    "name": {
+      "de": "Una nuova cultura del costruire per una città più sostenibile",
+      "en": "Una nuova cultura del costruire per una città più sostenibile",
+      "it": "Una nuova cultura del costruire per una città più sostenibile"
+    },
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il convegno conclude il percorso di ricerca “Dalla teoria alla pratica: verso un regolamento per la sostenibilità ambientale in edilizia” , avviato due anni fa dal Comune di Trento in collaborazione con l’Università di Trento, con l’obiettivo di porre le basi per l’aggiornamento del Regolamento Edilizio comunale, attraverso l’integrazione di misure concrete per la mitigazione e l’adattamento ai cambiamenti climatici e il miglioramento della qualità ambientale degli interventi edilizi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Una-nuova-cultura-del-costruire-per-una-citta-piu-sostenibile",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Una-nuova-cultura-del-costruire-per-una-citta-piu-sostenibile"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Una-nuova-cultura-del-costruire-per-una-citta-piu-sostenibile"
+    },
+    "descriptionVerified": "2026-10-21",
+    "assetVerified": "2026-10-21"
   },
   {
     "id": "le-ultime-lune-con-alessandro-haber-2026",
@@ -11400,6 +11660,43 @@
       "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=1&lang=it"
     ],
     "removalReason": "Calendar navigation item, not an event"
+  },
+  {
+    "id": "dai-neta-2026",
+    "name": {
+      "de": "Dai nèta",
+      "en": "Dai nèta",
+      "it": "Dai nèta"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Dai nèta promuove uscite conviviali per ripulire il territorio, iniziative dedicate al riuso e alla riduzione dei rifiuti , oltre a visite guidate e attività formative per conoscere il sistema di gestione dei rifiuti in Trentino. Le attività vengono coordinate attraverso un gruppo Telegram pubblico, aperto a chiunque voglia partecipare o proporre nuove iniziative."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/dai-neta",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Dai-neta-Luca-Matassoni-3.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/dai-neta"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/dai-neta/"
+    },
+    "descriptionVerified": "2026-10-21",
+    "assetVerified": "2026-10-21"
   },
   {
     "id": "trento-christmas-2026",
@@ -14734,6 +15031,49 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "festa-dei-maroni-2026",
+    "name": {
+      "de": "Festa dei Maroni",
+      "en": "Festa dei Maroni",
+      "it": "Festa dei Maroni"
+    },
+    "startDate": "2026-12-31",
+    "endDate": "2026-12-31",
+    "startTime": "10:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Drena celebrates its most precious fruit. Find out all about Maroni in Festa and other events in Dro & Drena!",
+      "it": "Drena celebra il suo frutto più prezioso. Scopri tutto su Maroni in Festa e altri eventi a Dro & Drena!",
+      "de": "Drena feiert seine wertvollste Frucht. Erfahre alles über Maroni in Festa und andere Veranstaltungen in Dro & Drena!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/events/maroni-in-festa_49075",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-21",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/events/maroni-in-festa_49075"
+    ],
+    "descriptionSources": {
+      "en": "https://www.gardatrentino.it/en/events/maroni-in-festa_49075",
+      "it": "https://www.gardatrentino.it/it/eventi/maroni-in-festa_49075",
+      "de": "https://www.gardatrentino.it/de/event/maroni-in-festa_49075"
+    },
+    "descriptionVerified": "2026-10-21",
+    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Maroni_in_festa.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/maroni-in-festa_49075",
+    "assetVerified": "2026-10-21"
+  },
+  {
     "id": "flea-market-in-torbole-sul-garda-2026",
     "name": {
       "de": "Flea market in Torbole sul Garda",
@@ -15404,8 +15744,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-20",
-    "assetVerified": "2026-10-20",
+    "descriptionVerified": "2026-10-21",
+    "assetVerified": "2026-10-21",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
