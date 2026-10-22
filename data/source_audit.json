@@ -1,13 +1,13 @@
 {
   "protocolVersion": 5,
-  "lastRun": "2026-10-21T08:35:55Z",
+  "lastRun": "2026-10-22T08:39:02Z",
   "overallStatus": "PARTIAL",
   "sources": {
     "visittrentino_all_events": {
       "priority": "P0",
-      "lastScan": "2026-10-21T08:29:33Z",
+      "lastScan": "2026-10-22T08:32:14Z",
       "status": "PARTIAL",
-      "reportedTotal": 475,
+      "reportedTotal": 481,
       "recordsSeen": 890,
       "uniqueCandidates": 906,
       "pagesOrBucketsScanned": [
@@ -17,16 +17,16 @@
       "errors": [],
       "notes": [
         "sitemaps=160, matchingEventUrls=890",
-        "Live index reports 475; sitemap exposes 890 event URLs. AI/date filtering must reconcile the live 12-month set."
+        "Live index reports 481; sitemap exposes 890 event URLs. AI/date filtering must reconcile the live 12-month set."
       ]
     },
     "visitrovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-10-21T08:30:13Z",
+      "lastScan": "2026-10-22T08:33:00Z",
       "status": "COMPLETE",
       "reportedTotal": null,
-      "recordsSeen": 72,
-      "uniqueCandidates": 105,
+      "recordsSeen": 73,
+      "uniqueCandidates": 106,
       "pagesOrBucketsScanned": [
         "https://www.visitrovereto.it/vivi/eventi/",
         "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=2",
@@ -43,7 +43,7 @@
     },
     "visitrovereto_estate": {
       "priority": "P0",
-      "lastScan": "2026-10-21T08:30:30Z",
+      "lastScan": "2026-10-22T08:33:21Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 7,
@@ -66,9 +66,9 @@
     },
     "comune_rovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-10-21T08:30:33Z",
+      "lastScan": "2026-10-22T08:33:25Z",
       "status": "PARTIAL",
-      "reportedTotal": 554,
+      "reportedTotal": 557,
       "recordsSeen": 0,
       "uniqueCandidates": 0,
       "pagesOrBucketsScanned": [
@@ -105,12 +105,12 @@
       "errors": [],
       "notes": [
         "sitemaps=2, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=554 uniqueEventUrls=0 searchPages=28/28"
+        "OpenAgenda reconciliation: reported=557 uniqueEventUrls=0 searchPages=28/28"
       ]
     },
     "trentino_cultura_appuntamenti": {
       "priority": "P0",
-      "lastScan": "2026-10-21T08:30:56Z",
+      "lastScan": "2026-10-22T08:33:48Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -129,11 +129,11 @@
     },
     "trentino_cultura_rassegne": {
       "priority": "P0",
-      "lastScan": "2026-10-21T08:30:58Z",
+      "lastScan": "2026-10-22T08:33:51Z",
       "status": "PARTIAL",
       "reportedTotal": null,
-      "recordsSeen": 469,
-      "uniqueCandidates": 530,
+      "recordsSeen": 497,
+      "uniqueCandidates": 559,
       "pagesOrBucketsScanned": [
         "https://www.cultura.trentino.it/Rassegne",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12",
@@ -155,6 +155,8 @@
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/204",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/216",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/228",
+        "https://www.cultura.trentino.it/Rassegne/La-famiglia-va-a-teatro-2026-2027#children",
+        "https://www.cultura.trentino.it/Rassegne/La-famiglia-va-a-teatro-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-di-Lavis-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-di-Lavis-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-Giudicarie-Stagione-2026-2027#children",
@@ -193,12 +195,12 @@
         "https://www.cultura.trentino.it/Rassegne/Resistenze-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-di-Meano-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-di-Meano-Stagione-2026-2027#children",
-        "https://www.cultura.trentino.it/Rassegne/C-e-vita-fuori-dall-acquario-Teatro-di-Villazzano-Stagione-2026-2027#children",
-        "https://www.cultura.trentino.it/Rassegne/C-e-vita-fuori-dall-acquario-Teatro-di-Villazzano-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/20#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/40#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/20#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12#children",
+        "https://www.cultura.trentino.it/Rassegne/C-e-vita-fuori-dall-acquario-Teatro-di-Villazzano-Stagione-2026-2027#children",
+        "https://www.cultura.trentino.it/Rassegne/C-e-vita-fuori-dall-acquario-Teatro-di-Villazzano-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Haydn-Stagione-Sinfonica-2026-27#children",
         "https://www.cultura.trentino.it/Rassegne/Haydn-Stagione-Sinfonica-2026-27#children",
         "https://www.cultura.trentino.it/Rassegne/Ottobre-a-teatro-2026#children",
@@ -221,10 +223,10 @@
         "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Haydn-Stagione-d-Opera-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Haydn-Stagione-d-Opera-2026-2027#children",
-        "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni#children",
-        "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/24#children",
+        "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni#children",
+        "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni#children",
         "https://www.cultura.trentino.it/Rassegne/C-SC-Circuito-Danza-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/C-SC-Circuito-Danza-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Cultura-in-rete-2026-storie-luoghi-e-comunita-in-connessione#children",
@@ -300,16 +302,16 @@
       "errors": [],
       "notes": [
         "Series PDF attachments require AI semantic inspection before completeness can be asserted.",
-        "activeSeries=62 linkedProgrammeEvents=407"
+        "activeSeries=63 linkedProgrammeEvents=434"
       ]
     },
     "garda_trentino_events": {
       "priority": "P0",
-      "lastScan": "2026-10-21T08:32:59Z",
+      "lastScan": "2026-10-22T08:36:14Z",
       "status": "COMPLETE",
-      "reportedTotal": 49,
-      "recordsSeen": 49,
-      "uniqueCandidates": 49,
+      "reportedTotal": 50,
+      "recordsSeen": 50,
+      "uniqueCandidates": 50,
       "pagesOrBucketsScanned": [
         "https://www.gardatrentino.it/en/discover/events",
         "https://www.gardatrentino.it/en/discover/events?page=2",
@@ -324,11 +326,11 @@
     },
     "comune_trento_events": {
       "priority": "P0",
-      "lastScan": "2026-10-21T08:33:02Z",
+      "lastScan": "2026-10-22T08:36:19Z",
       "status": "PARTIAL",
-      "reportedTotal": 3272,
-      "recordsSeen": 2919,
-      "uniqueCandidates": 2919,
+      "reportedTotal": 3274,
+      "recordsSeen": 2921,
+      "uniqueCandidates": 2921,
       "pagesOrBucketsScanned": [
         "https://eventi.comune.trento.it/content/search/?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/20?Order=desc",
@@ -499,12 +501,12 @@
       "errors": [],
       "notes": [
         "sitemaps=3, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=3272 uniqueEventUrls=2919 searchPages=164/164"
+        "OpenAgenda reconciliation: reported=3274 uniqueEventUrls=2921 searchPages=164/164"
       ]
     },
     "visitfiemme_events": {
       "priority": "P1",
-      "lastScan": "2026-10-21T08:35:44Z",
+      "lastScan": "2026-10-22T08:38:47Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -520,7 +522,7 @@
     },
     "valsugana_events": {
       "priority": "P1",
-      "lastScan": "2026-10-21T08:35:47Z",
+      "lastScan": "2026-10-22T08:38:51Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -536,7 +538,7 @@
     },
     "val_di_non_events": {
       "priority": "P1",
-      "lastScan": "2026-10-21T08:35:48Z",
+      "lastScan": "2026-10-22T08:38:54Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 7,
@@ -552,7 +554,7 @@
     },
     "campiglio_rendena_events": {
       "priority": "P1",
-      "lastScan": "2026-10-21T08:35:51Z",
+      "lastScan": "2026-10-22T08:38:58Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -568,7 +570,7 @@
     },
     "alpe_cimbra_events": {
       "priority": "P1",
-      "lastScan": "2026-10-21T08:35:54Z",
+      "lastScan": "2026-10-22T08:39:00Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 6,
@@ -584,7 +586,7 @@
     }
   },
   "coverageWindow": {
-    "from": "2026-10-21",
+    "from": "2026-10-22",
     "semantics": "rolling-12-month-overlap; raw enumerator may include out-of-window rows for AI resolution"
   },
   "p0Status": {
@@ -598,7 +600,7 @@
     "comune_trento_events": "PARTIAL"
   },
   "summary": {
-    "rawCandidates": 4531
+    "rawCandidates": 4564
   },
   "note": "Deterministic enumeration feeds the AI maintenance pass. PARTIAL means the system must not claim complete coverage."
 }
