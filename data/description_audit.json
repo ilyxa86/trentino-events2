@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-21",
+  "checkedAt": "2026-10-22",
   "currentEvents": 346,
   "complete": 148,
   "incomplete": [
@@ -329,42 +329,7 @@
       ]
     },
     {
-      "id": "coppia-aperta-quasi-spalancata-con-chiara-francini-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "eugenio-montale-temi-modelli-figure-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "eugenio-montale-temi-modelli-figure-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "formazione-per-l-amministratore-di-sostegno-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-contadino-di-via-fabio-filzi-2026-8",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "verso-un-giardino-inclusivo-trento-una-comunita-amica-delle-persone-con-2026",
       "languages": [
         "de",
         "en"
@@ -393,6 +358,20 @@
     },
     {
       "id": "il-quinto-elemento-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "occidente-verso-oriente-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "teatro-cembra-andrea-fratellini-e-zio-tore-2026",
       "languages": [
         "de",
         "en"
@@ -559,6 +538,20 @@
       ]
     },
     {
+      "id": "la-famiglia-va-a-teatro-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "commemorazione-dei-caduti-di-tutte-le-guerre-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "in-cammino-con-il-museo-2026",
       "languages": [
         "de",
@@ -642,6 +635,13 @@
         "de",
         "en",
         "it"
+      ]
+    },
+    {
+      "id": "insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta-2026",
+      "languages": [
+        "de",
+        "en"
       ]
     },
     {
