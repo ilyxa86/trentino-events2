@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-22",
-  "currentEvents": 346,
-  "complete": 148,
+  "checkedAt": "2026-10-23",
+  "currentEvents": 350,
+  "complete": 144,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -336,20 +336,6 @@
       ]
     },
     {
-      "id": "oltre-i-passi-passeggiata-d-autunno-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "storie-da-brivido-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "alla-biscondola-pensieri-al-riparo-dal-vento-2026",
       "languages": [
         "de",
@@ -408,6 +394,13 @@
     },
     {
       "id": "inaugurazione-della-mostra-il-potere-della-musica-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "marilyn-100-eterna-primavera-alcune-altre-icone-del-cinema-in-trent-anni-2026",
       "languages": [
         "de",
         "en"
@@ -473,6 +466,13 @@
       ]
     },
     {
+      "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "il-peso-invisibile-la-fatica-che-non-si-vede-di-chi-assiste-ogni-giorno-2026",
       "languages": [
         "de",
@@ -509,6 +509,13 @@
     },
     {
       "id": "entra-se-hai-il-coraggio-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "giornata-del-riuso-del-libro-usato-e-non-solo-2026",
       "languages": [
         "de",
         "en"
@@ -666,6 +673,13 @@
       ]
     },
     {
+      "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "presentazione-libro-l-alba-della-repubblica-2026",
       "languages": [
         "de",
@@ -764,6 +778,13 @@
       ]
     },
     {
+      "id": "giornata-mondiale-della-prematurita-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "mese-mondiale-della-sensibilizzazione-sul-cancro-del-polmone-2026",
       "languages": [
         "de",
@@ -821,6 +842,13 @@
     },
     {
       "id": "un-mare-di-avventure-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-3",
       "languages": [
         "de",
         "en"
@@ -926,6 +954,20 @@
     },
     {
       "id": "la-fiaba-di-celeste-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-4",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "giornata-mondiale-del-dono-givingtuesday-2026",
       "languages": [
         "de",
         "en"
@@ -1051,6 +1093,13 @@
       ]
     },
     {
+      "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-5",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "gli-ultimi-orsi-polari-2026",
       "languages": [
         "de",
@@ -1073,6 +1122,13 @@
     },
     {
       "id": "mercato-dell-economia-solidale-2026-17",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "suoni-dal-doss-trento-2026",
       "languages": [
         "de",
         "en"
