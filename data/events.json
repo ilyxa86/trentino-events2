@@ -641,39 +641,6 @@
     "assetVerified": "2026-10-15"
   },
   {
-    "id": "sentinelle-di-pietra-2026",
-    "name": {
-      "de": "Sentinelle di pietra 2026",
-      "en": "Sentinelle di pietra 2026",
-      "it": "Sentinelle di pietra 2026"
-    },
-    "startDate": "2026-08-23",
-    "endDate": "2026-10-11",
-    "startTime": null,
-    "municipality": "Trentino",
-    "area": "Other Trentino",
-    "venue": null,
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Sentinelle di pietra 2026“ im Trentino. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Sentinelle di pietra 2026” event in Trentino. See the official event page for the latest details.",
-      "it": "Evento “Sentinelle di pietra 2026” in Trentino. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Sentinelle-di-pietra-2026",
-    "source": "Trentino Cultura - Rassegne",
-    "verified": "2026-08-26",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/forte-di-cadine-1/28094706-1-ita-IT/forte-di-cadine-1_imagefull.jpg",
-    "sourceUrls": [
-      "https://www.cultura.trentino.it/Rassegne/Sentinelle-di-pietra-2026"
-    ]
-  },
-  {
     "id": "c-sc-circuito-danza-2026",
     "name": {
       "de": "C:SC Circuito Danza 2026/2027",
@@ -2348,135 +2315,6 @@
     ]
   },
   {
-    "id": "letture-in-cinese-2026",
-    "name": {
-      "de": "Letture in cinese",
-      "en": "Letture in cinese",
-      "it": "Letture in cinese"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-10",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Letture in cinese“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Letture in cinese” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Letture in cinese” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Letture-in-cinese6",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Letture-in-cinese6"
-    ]
-  },
-  {
-    "id": "mercatino-dei-gaudenti-di-piazza-garzetti-2026-2",
-    "name": {
-      "de": "Mercatino dei Gaudenti di piazza Garzetti",
-      "en": "Mercatino dei Gaudenti di piazza Garzetti",
-      "it": "Mercatino dei Gaudenti di piazza Garzetti"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-10",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Mercatino dei Gaudenti di piazza Garzetti“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Mercatino dei Gaudenti di piazza Garzetti” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Mercatino dei Gaudenti di piazza Garzetti” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Garzetti9",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Garzetti9"
-    ]
-  },
-  {
-    "id": "mercato-contadino-di-piazza-dante-2026-7",
-    "name": {
-      "de": "Mercato contadino di piazza Dante",
-      "en": "Mercato contadino di piazza Dante",
-      "it": "Mercato contadino di piazza Dante"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-10",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Mercato contadino di piazza Dante“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Mercato contadino di piazza Dante” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Mercato contadino di piazza Dante” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante49",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante49"
-    ]
-  },
-  {
-    "id": "oktoberfest-mezzolombardo-2026",
-    "name": {
-      "de": "Oktoberfest Mezzolombardo",
-      "en": "Oktoberfest Mezzolombardo",
-      "it": "Oktoberfest Mezzolombardo"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-10",
-    "startTime": null,
-    "municipality": "Mezzolombardo",
-    "area": "Other Trentino",
-    "venue": "Mezzolombardo",
-    "category": "Wine & Gastronomy",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Oktoberfest Mezzolombardo“ in Mezzolombardo. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Oktoberfest Mezzolombardo” event in Mezzolombardo. See the official event page for the latest details.",
-      "it": "Evento “Oktoberfest Mezzolombardo” a Mezzolombardo. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/oktoberfest-mezzolombardo_e_88259193",
-    "source": "Visit Trentino - all events",
-    "verified": "2026-10-06",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visittrentino.info/assets-basic/events/visitdolomitipaganella-it/oktoberfest-mezzolombardo_88259193/7875417/image-thumb__7875417__moodboard_list/oktoberfest-mezzolombardo_88259193_2.3b81a658.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/oktoberfest-mezzolombardo_e_88259193"
-    ]
-  },
-  {
     "id": "rassegna-di-musica-sacra-2026",
     "name": {
       "de": "Rassegna di musica sacra",
@@ -2541,103 +2379,6 @@
     "sourceUrls": [
       "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno",
       "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno/"
-    ]
-  },
-  {
-    "id": "torneo-di-burraco-e-castagnata-2026",
-    "name": {
-      "de": "Torneo di Burraco e castagnata",
-      "en": "Torneo di Burraco e castagnata",
-      "it": "Torneo di Burraco e castagnata"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-10",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Torneo di Burraco e castagnata“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Torneo di Burraco e castagnata” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Torneo di Burraco e castagnata” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Torneo-di-Burraco-e-castagnata",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-07",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Torneo-di-Burraco-e-castagnata"
-    ]
-  },
-  {
-    "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026-7",
-    "name": {
-      "de": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
-      "en": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
-      "it": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\""
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-10",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio13",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio13"
-    ]
-  },
-  {
-    "id": "visita-guidata-gratuita-alla-mostra-da-piazza-delle-armi-a-giardino-piaz-2026",
-    "name": {
-      "de": "Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"",
-      "en": "Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"",
-      "it": "Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\""
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-10",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi2",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-09",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi",
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi2"
     ]
   },
   {
@@ -7020,6 +6761,42 @@
     }
   },
   {
+    "id": "marilyn-100-eterna-primavera-alcune-altre-icone-del-cinema-in-trent-anni-2026",
+    "name": {
+      "de": "Marilyn 100 – Eterna Primavera & alcune altre icone del cinema in trent’anni d’esposizioni",
+      "en": "Marilyn 100 – Eterna Primavera & alcune altre icone del cinema in trent’anni d’esposizioni",
+      "it": "Marilyn 100 – Eterna Primavera & alcune altre icone del cinema in trent’anni d’esposizioni"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "startTime": "17:30",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Sabato 24 ottobre alle 17:30 la sala Thun di Torre Mirana ospiterà l’inaugurazione della mostra personale di David Parenti “Marilyn 100 – Eterna Primavera & alcune altre icone del cinema in trent’anni d’esposizioni”. L’esposizione, patrocinata dal Comune di Trento, riunisce una serie di opere che, nel centenario della sua nascita, omaggiano il mito intramontabile di Marilyn Monroe."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Marilyn-100-Eterna-Primavera-alcune-altre-icone-del-cinema-in-trent-anni-d-esposizioni",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Marilyn-100-Eterna-Primavera-alcune-altre-icone-del-cinema-in-trent-anni-d-esposizioni"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Marilyn-100-Eterna-Primavera-alcune-altre-icone-del-cinema-in-trent-anni-d-esposizioni"
+    },
+    "descriptionVerified": "2026-10-23",
+    "assetVerified": "2026-10-23"
+  },
+  {
     "id": "mercatino-dei-gaudenti-di-piazza-dante-2026-2",
     "name": {
       "de": "Mercatino dei Gaudenti di piazza Dante",
@@ -7379,6 +7156,49 @@
     "descriptionVerified": "2026-10-15"
   },
   {
+    "id": "4th-national-trophy-cori-d-italia-2026",
+    "name": {
+      "de": "4th National Trophy “Cori d’Italia”",
+      "en": "4th National Trophy “Cori d’Italia”",
+      "it": "4th National Trophy “Cori d’Italia”"
+    },
+    "startDate": "2026-10-25",
+    "endDate": "2026-11-08",
+    "startTime": null,
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Competition and Festival for Traditional Male Choirs. Find out all about 4th National Trophy “Cori d’Italia” and other events in Ledro!",
+      "it": "Concorso e Festival per cori maschili popolari. Scopri tutto su 4° Trofeo Nazionale Cori d'Italia e altri eventi a Ledro!",
+      "de": "Wettbewerb und Festival für traditionelle Männerchöre. Erfahre alles über 4."
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/events/4th-national-trophy-cori-ditalia_48799",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/events/4th-national-trophy-cori-ditalia_48799"
+    ],
+    "descriptionSources": {
+      "en": "https://www.gardatrentino.it/en/events/4th-national-trophy-cori-ditalia_48799",
+      "it": "https://www.gardatrentino.it/it/eventi/4-trofeo-nazionale-cori-ditalia_48799",
+      "de": "https://www.gardatrentino.it/de/event/4-nationaler-wettbewerb-cori-ditalia_48799"
+    },
+    "descriptionVerified": "2026-10-23",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Trofeo_Nazionale_Cori_Italia.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/4th-national-trophy-cori-ditalia_48799",
+    "assetVerified": "2026-10-23"
+  },
+  {
     "id": "accordion-festival-in-ledro-2026-5",
     "name": {
       "de": "Accordion Festival in Ledro",
@@ -7630,10 +7450,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/maroni-in-festa_49075",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-18",
+    "verified": "2026-10-23",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
@@ -8023,6 +7844,42 @@
       "de": "https://eventi.comune.trento.it/Eventi/Curainsieme5",
       "en": "https://eventi.comune.trento.it/Eventi/Curainsieme5"
     }
+  },
+  {
+    "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026",
+    "name": {
+      "de": "Fili di storie - un ciclo di incontri per incontrarsi e condividere",
+      "en": "Fili di storie - un ciclo di incontri per incontrarsi e condividere",
+      "it": "Fili di storie - un ciclo di incontri per incontrarsi e condividere"
+    },
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Un incontro serale durante il quale si potranno condividere racconti letterari, storie fittizie e narrazioni di vita vissuta. La modalità con la quale verrà gestito l'incontro prevede la partecipazione di un'\"ospite\" che propone ai partecipanti una modalità di racconto (lettura, scrittura, narrazione particolare o legato ad un tema di attualità)."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere"
+    },
+    "descriptionVerified": "2026-10-23",
+    "assetVerified": "2026-10-23"
   },
   {
     "id": "fine-wine-tourism-2026",
@@ -9046,6 +8903,42 @@
     "image": "https://www.gardatrentino.it/website_images/events/2026_Events_DiVin_Ottobre_1.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
     "assetVerified": "2026-10-22"
+  },
+  {
+    "id": "giornata-del-riuso-del-libro-usato-e-non-solo-2026",
+    "name": {
+      "de": "Giornata del riuso del libro usato e non solo…",
+      "en": "Giornata del riuso del libro usato e non solo…",
+      "it": "Giornata del riuso del libro usato e non solo…"
+    },
+    "startDate": "2026-10-31",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Sabato 31 ottobre dalle 8:00 alle 18:00 si svolgerà l'ultima edizione dell'anno della Giornata del Riuso del libro usato. Venticinque postazioni aspetteranno i visitatori lungo i vialetti di piazza Dante per dare nuova vita a libri usati e oggetti da collezionismo come cartoline, stampe, santini e francobolli."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-del-libro-usato-e-non-solo5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-del-libro-usato-e-non-solo5"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-del-libro-usato-e-non-solo5"
+    },
+    "descriptionVerified": "2026-10-23",
+    "assetVerified": "2026-10-23"
   },
   {
     "id": "gruppo-cassa-centrale-trentino-business-run-2026-3",
@@ -10572,6 +10465,42 @@
     }
   },
   {
+    "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-2",
+    "name": {
+      "de": "Fili di storie - un ciclo di incontri per incontrarsi e condividere",
+      "en": "Fili di storie - un ciclo di incontri per incontrarsi e condividere",
+      "it": "Fili di storie - un ciclo di incontri per incontrarsi e condividere"
+    },
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Un incontro serale durante il quale si potranno condividere racconti letterari, storie fittizie e narrazioni di vita vissuta. La modalità con la quale verrà gestito l'incontro prevede la partecipazione di un'\"ospite\" che propone ai partecipanti una modalità di racconto (lettura, scrittura, narrazione particolare o legato ad un tema di attualità)."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere2"
+    },
+    "descriptionVerified": "2026-10-23",
+    "assetVerified": "2026-10-23"
+  },
+  {
     "id": "presentazione-libro-l-alba-della-repubblica-2026",
     "name": {
       "de": "Presentazione libro L'alba della Repubblica",
@@ -11307,6 +11236,42 @@
     "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/Mercatino_di_Arco/GARDADOLOMITI_ph-PRUGNOLA_INVERNO-21_DSC07722.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/christmas-market-in-arco_9004",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "giornata-mondiale-della-prematurita-2026",
+    "name": {
+      "de": "Giornata mondiale della prematurità",
+      "en": "Giornata mondiale della prematurità",
+      "it": "Giornata mondiale della prematurità"
+    },
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il Comune di Trento, aderendo all'iniziativa della Sin Società Italiana di Neonatologia Ets e Ant - Amici della Neonatologia Trentina Odv, illuminerà la sera del 15 novembre la Fontana del Nettuno in piazza del Duomo di colore viola e promuoverà l'iniziativa attraverso un messaggio che verrà proiettato sul ledwall posto in centro città presso l'ostello Giovane Europa. Nel mondo 1 bambino su 10 nasce prematuro."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-della-prematurita",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-della-prematurita"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-della-prematurita"
+    },
+    "descriptionVerified": "2026-10-23",
+    "assetVerified": "2026-10-23"
   },
   {
     "id": "gruppo-di-conversazione-sul-cinema-2026",
@@ -12294,6 +12259,42 @@
     }
   },
   {
+    "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-3",
+    "name": {
+      "de": "Fili di storie - un ciclo di incontri per incontrarsi e condividere",
+      "en": "Fili di storie - un ciclo di incontri per incontrarsi e condividere",
+      "it": "Fili di storie - un ciclo di incontri per incontrarsi e condividere"
+    },
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Un incontro serale durante il quale si potranno condividere racconti letterari, storie fittizie e narrazioni di vita vissuta. La modalità con la quale verrà gestito l'incontro prevede la partecipazione di un'\"ospite\" che propone ai partecipanti una modalità di racconto (lettura, scrittura, narrazione particolare o legato ad un tema di attualità)."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere3"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere3"
+    },
+    "descriptionVerified": "2026-10-23",
+    "assetVerified": "2026-10-23"
+  },
+  {
     "id": "storia-di-un-no-2026",
     "name": {
       "de": "Storia di un no",
@@ -12965,6 +12966,78 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/La-fiaba-di-Celeste"
     }
+  },
+  {
+    "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-4",
+    "name": {
+      "de": "Fili di storie - un ciclo di incontri per incontrarsi e condividere",
+      "en": "Fili di storie - un ciclo di incontri per incontrarsi e condividere",
+      "it": "Fili di storie - un ciclo di incontri per incontrarsi e condividere"
+    },
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Un incontro serale durante il quale si potranno condividere racconti letterari, storie fittizie e narrazioni di vita vissuta. La modalità con la quale verrà gestito l'incontro prevede la partecipazione di un'\"ospite\" che propone ai partecipanti una modalità di racconto (lettura, scrittura, narrazione particolare o legato ad un tema di attualità)."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere4"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere4"
+    },
+    "descriptionVerified": "2026-10-23",
+    "assetVerified": "2026-10-23"
+  },
+  {
+    "id": "giornata-mondiale-del-dono-givingtuesday-2026",
+    "name": {
+      "de": "Giornata mondiale del dono - GivingTuesday",
+      "en": "Giornata mondiale del dono - GivingTuesday",
+      "it": "Giornata mondiale del dono - GivingTuesday"
+    },
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il Comune di Trento, aderendo all'iniziativa della Fondazione filantropica Ets - Aifr e patrocinata da Anci, illuminerà la sera del 1° dicembre la Fontana del Nettuno in piazza del Duomo di colore rosso e promuoverà l'iniziativa attraverso un messaggio che verrà proiettato sul ledwall posto in centro città presso l'ostello Giovane Europa."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-del-dono-GivingTuesday",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-del-dono-GivingTuesday"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-del-dono-GivingTuesday"
+    },
+    "descriptionVerified": "2026-10-23",
+    "assetVerified": "2026-10-23"
   },
   {
     "id": "jan-lisiecki-2026",
@@ -13749,6 +13822,42 @@
     }
   },
   {
+    "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-5",
+    "name": {
+      "de": "Fili di storie - un ciclo di incontri per incontrarsi e condividere",
+      "en": "Fili di storie - un ciclo di incontri per incontrarsi e condividere",
+      "it": "Fili di storie - un ciclo di incontri per incontrarsi e condividere"
+    },
+    "startDate": "2026-12-15",
+    "endDate": "2026-12-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Un incontro serale durante il quale si potranno condividere racconti letterari, storie fittizie e narrazioni di vita vissuta. La modalità con la quale verrà gestito l'incontro prevede la partecipazione di un'\"ospite\" che propone ai partecipanti una modalità di racconto (lettura, scrittura, narrazione particolare o legato ad un tema di attualità)."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere5"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere5"
+    },
+    "descriptionVerified": "2026-10-23",
+    "assetVerified": "2026-10-23"
+  },
+  {
     "id": "gli-ultimi-orsi-polari-2026",
     "name": {
       "de": "Gli ultimi orsi polari",
@@ -13891,6 +14000,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale63"
     }
+  },
+  {
+    "id": "suoni-dal-doss-trento-2026",
+    "name": {
+      "de": "Suoni dal Doss Trento",
+      "en": "Suoni dal Doss Trento",
+      "it": "Suoni dal Doss Trento"
+    },
+    "startDate": "2026-12-18",
+    "endDate": "2026-12-18",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La Fanfara della Brigata alpina Julia si esibirà in concerto all’interno del Museo Nazionale Storico degli Alpini, luogo principe che ne custodisce le memorie, opportunamente allestito per l’accoglienza dei musicanti e degli ospiti. Il concerto, della durata di circa un’ora e 15 minuti, ripercorrerà i 154 anni dalla nascita delle Truppe Alpine con testi e musiche legate alla nostra memoria storica."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Suoni-dal-Doss-Trento",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Suoni-dal-Doss-Trento"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Suoni-dal-Doss-Trento"
+    },
+    "descriptionVerified": "2026-10-23",
+    "assetVerified": "2026-10-23"
   },
   {
     "id": "un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso-2026-4",
@@ -15773,8 +15918,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-22",
-    "assetVerified": "2026-10-22",
+    "descriptionVerified": "2026-10-23",
+    "assetVerified": "2026-10-23",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
@@ -16648,6 +16793,49 @@
       "https://www.festivaleconomia.it/",
       "https://www.ilsole24ore.com/art/festival-dell-economia-trento-2026-45mila-presenze-e-350-eventi-giovani-protagonisti-AIMQpGHD"
     ]
+  },
+  {
+    "id": "top-dolomites-outdoor-festival-2027",
+    "name": {
+      "de": "Top Dolomites Outdoor Festival",
+      "en": "Top Dolomites Outdoor Festival",
+      "it": "Top Dolomites Outdoor Festival"
+    },
+    "startDate": "2027-06-06",
+    "endDate": "2027-06-06",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Cycling race from Madonna di Campiglio to Riva del Garda. Find out all about Top Dolomites Outdoor Festival and other events in Surroundings!",
+      "it": "L'unico evento che unisce le Dolomiti di Brenta al Lago di Garda. Scopri tutto su Top Dolomites Outdoor Festival e altri eventi a Dintorni!",
+      "de": "Radrennen von Madonna di Campiglio nach Riva del Garda. Erfahre alles über Top Dolomites Outdoor Festival und andere Veranstaltungen in Umgebung!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/events/top-dolomites-outdoor-festival_49077",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-23",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=6",
+      "https://www.gardatrentino.it/en/events/top-dolomites-outdoor-festival_49077"
+    ],
+    "descriptionSources": {
+      "en": "https://www.gardatrentino.it/en/events/top-dolomites-outdoor-festival_49077",
+      "it": "https://www.gardatrentino.it/it/eventi/top-dolomites-outdoor-festival_49077",
+      "de": "https://www.gardatrentino.it/de/event/top-dolomites-outdoor-festival_49077"
+    },
+    "descriptionVerified": "2026-10-23",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Top_Dolomites_2.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/top-dolomites-outdoor-festival_49077",
+    "assetVerified": "2026-10-23"
   },
   {
     "id": "fb-festival-settenovecento-11a-edizione-rovereto-2027",
