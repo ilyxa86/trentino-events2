@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-23",
-  "currentEvents": 350,
-  "complete": 144,
+  "checkedAt": "2026-10-24",
+  "currentEvents": 352,
+  "complete": 148,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -336,42 +336,14 @@
       ]
     },
     {
-      "id": "alla-biscondola-pensieri-al-riparo-dal-vento-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "il-quinto-elemento-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "occidente-verso-oriente-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "teatro-cembra-andrea-fratellini-e-zio-tore-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "voci-dal-confine-otto-anni-tra-israeliani-e-palestinesi-elia-milani-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "50-anniversario-della-croce-bianca-di-trento-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "alla-biscondola-pensieri-al-riparo-dal-vento-2026-2",
       "languages": [
         "de",
         "en"
@@ -394,6 +366,13 @@
     },
     {
       "id": "inaugurazione-della-mostra-il-potere-della-musica-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "incontri-ravvicinati-treff-vo-namp-scopriamo-gli-urogalli-2026",
       "languages": [
         "de",
         "en"
@@ -460,6 +439,13 @@
     },
     {
       "id": "mese-del-gusto-2026-6",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "mese-del-gusto-2026-12",
       "languages": [
         "de",
         "en"
