@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-24",
-  "currentEvents": 352,
-  "complete": 148,
+  "checkedAt": "2026-10-25",
+  "currentEvents": 334,
+  "complete": 139,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -330,70 +330,6 @@
     },
     {
       "id": "eugenio-montale-temi-modelli-figure-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "50-anniversario-della-croce-bianca-di-trento-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "alla-biscondola-pensieri-al-riparo-dal-vento-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "coppie-scoppiate-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "gianni-berengo-gardin-mondi-da-abitare-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "inaugurazione-della-mostra-il-potere-della-musica-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "incontri-ravvicinati-treff-vo-namp-scopriamo-gli-urogalli-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "marilyn-100-eterna-primavera-alcune-altre-icone-del-cinema-in-trent-anni-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "si-fa-presto-a-dire-pace-ciclo-di-incontri-le-origini-dei-conflitti-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026",
       "languages": [
         "de",
         "en"
