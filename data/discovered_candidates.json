@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:09:44Z",
+  "generatedAt": "2026-10-25T08:26:49Z",
   "records": [
     {
       "sourceId": "alpe_cimbra_events",
@@ -32355,24 +32355,24 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
       "title": "Chi ci ha ispirato",
       "rawText": "Chi ci ha ispirato | 04.10 - 08.11.2026 ( | Every Saturday | ) | Lundo | - Strada Provinciale 1 | 14:00 - 17:00",
       "image": "",
       "candidateKey": "14b450de99dfbe09b32f1405",
-      "candidateSignature": "0e0a239b5a109e14c2ff2950"
+      "candidateSignature": "17584ba1867fb39872d6df5c"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
       "title": "Gino Pancheri. Female Figures",
       "rawText": "Gino Pancheri. Female Figures | 06.09 - 08.11.2026 ( | Every Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday | ) | Canale di Tenno | - Villa Canale 49 | 10:00 - 12:00",
       "image": "",
       "candidateKey": "1506deacabd44d7fc3ca7ec5",
-      "candidateSignature": "a7d09118d15295c6da777ca1"
+      "candidateSignature": "cad7d45c159dd14b838eeeaa"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -32410,13 +32410,13 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
       "detailUrl": "",
       "title": "Spokes of Design",
       "rawText": "Spokes of Design | 05.09 - 25.10.2026 ( | Every Thursday, Friday, Saturday | ) | Torbole sul Garda - Nago | - Via della Lova 18 | 16:00 - 20:00",
       "image": "",
       "candidateKey": "254f12e1586322e817b88772",
-      "candidateSignature": "c342688bd98dca3325678774"
+      "candidateSignature": "644da41710cd635513c31191"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -32454,24 +32454,13 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-      "detailUrl": "",
-      "title": "Festa della Noce",
-      "rawText": "Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore) | - Cavrasto square | top | Frantoi Aperti | 07.11 - 08.11.2026",
-      "image": "",
-      "candidateKey": "3534a2c286099040dff7a0af",
-      "candidateSignature": "6babc2279c0efd7187410592"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
       "title": "Aerovita",
       "rawText": "Aerovita | 31.05 - 23.12.2026 ( | Every Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday | ) | Arco | - Via Segantini 9 | 10:00 - 18:00",
       "image": "",
       "candidateKey": "356c1cf1d1c0ee88a1618582",
-      "candidateSignature": "39398e8008040987c3cdb2ed"
+      "candidateSignature": "16ffeeff407b8ed0825fe6a0"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -32509,17 +32498,6 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-      "detailUrl": "",
-      "title": "Alchimie d'autunno",
-      "rawText": "Alchimie d'autunno | 07.11 2026 | Santa Massenza | - Piazza San Vigilio | Livia Mattos | 10.11 2026 | Vezzano",
-      "image": "",
-      "candidateKey": "50d4fcec5a4142db6f47b980",
-      "candidateSignature": "2b2d59142e6f92ff2a6c2ffa"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
       "detailUrl": "",
       "title": "Lúcia de Carvalho",
@@ -32544,22 +32522,22 @@
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
-      "title": "49° Mostra Ornitologica Internazionale Trentina",
-      "rawText": "49° Mostra Ornitologica Internazionale Trentina | 24.10 2026 | Riva del Garda | - Via Baltera 20 | 09:00 - 18:00 | Other available dates | Festa dei Maroni",
+      "title": "Climbing: ARCO – A Meeting Place",
+      "rawText": "Climbing: ARCO – A Meeting Place | 31.10 2026 | Tenno (TN) | - Via Dante Alighieri 17 | 19:00 | 10-18 / 51 | <",
       "image": "",
-      "candidateKey": "613385211a8d699ba8f7c146",
-      "candidateSignature": "8fc466c71aefeac3621d2d9f"
+      "candidateKey": "642c136deaffb834490a40a5",
+      "candidateSignature": "c22910f30a966bee98b5bb22"
     },
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
       "detailUrl": "",
-      "title": "Climbing: ARCO – A Meeting Place",
-      "rawText": "Climbing: ARCO – A Meeting Place | 31.10 2026 | Tenno (TN) | - Via Dante Alighieri 17 | 19:00 | 10-18 / 51 | <",
+      "title": "49° Mostra Ornitologica Internazionale Trentina",
+      "rawText": "49° Mostra Ornitologica Internazionale Trentina | 25.10 2026 | Riva del Garda | - Via Baltera 20 | 09:00 - 16:00 | Farmers' market Arco | 02.01 - 31.12.2026 (",
       "image": "",
-      "candidateKey": "642c136deaffb834490a40a5",
-      "candidateSignature": "c22910f30a966bee98b5bb22"
+      "candidateKey": "648506dd32829c9c64e5c554",
+      "candidateSignature": "a7f8a5aae2d1761c29b3f7a2"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -32610,6 +32588,17 @@
       "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
       "detailUrl": "",
+      "title": "Alchimie d'autunno",
+      "rawText": "Alchimie d'autunno | 07.11 2026 | Santa Massenza | - Piazza San Vigilio | top | Frantoi Aperti | 07.11 - 08.11.2026",
+      "image": "",
+      "candidateKey": "8838c199ecb3b40a50c42baa",
+      "candidateSignature": "a17e492e627fceee1135acd4"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "detailUrl": "",
       "title": "100 e + anni di turismo nel Garda Trentino",
       "rawText": "100 e + anni di turismo nel Garda Trentino | 03.11 2026 | Riva del Garda | Arco’s Weekly Market | 04.11 2026 | Arco | - Towncentre",
       "image": "",
@@ -32619,13 +32608,24 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
       "detailUrl": "",
-      "title": "Mese del Gusto",
-      "rawText": "Mese del Gusto | 24.10 - 25.10.2026 | Riva del Garda | Other available dates | DiVin Ottobre | 12.10 - 31.10.2026 ( | Every Friday, Saturday, Sunday",
+      "title": "Festa della Noce",
+      "rawText": "Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore) | - Cavrasto square | top | Alchimie d'autunno | 07.11 2026",
       "image": "",
-      "candidateKey": "8f28ffdc8b69e0a8e4a4c0af",
-      "candidateSignature": "e7c371558ab2958ef945b9a5"
+      "candidateKey": "8fd4f34202b32e4e6958d372",
+      "candidateSignature": "5900f21518433003f1b0224b"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+      "detailUrl": "",
+      "title": "Frantoi Aperti",
+      "rawText": "Frantoi Aperti | 07.11 - 08.11.2026 | Riva del Garda | Livia Mattos | 10.11 2026 | Vezzano | - Via Antonio Stoppani 16",
+      "image": "",
+      "candidateKey": "a246970603e8b1b86cda7bd6",
+      "candidateSignature": "d3e0f3ecb94421ea6fbd0d00"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -32637,17 +32637,6 @@
       "image": "",
       "candidateKey": "a3d634075f6d70cef55889fc",
       "candidateSignature": "0e4cc8dce47d408fd1be7ad3"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-      "detailUrl": "",
-      "title": "Festa dei Maroni",
-      "rawText": "Festa dei Maroni | 25.10 2026 | Pranzo | - Piazza San Leonardo | 10:00 - 17:00 | Farmers' market Arco | 02.01 - 31.12.2026 (",
-      "image": "",
-      "candidateKey": "a53756d30f4e498a8cca997c",
-      "candidateSignature": "9dd024a9d5bdb96809162df8"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -32670,6 +32659,28 @@
       "image": "",
       "candidateKey": "a970c58235fd5aec0ee1d6e8",
       "candidateSignature": "b087213522aa430ff11dcd2b"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "detailUrl": "",
+      "title": "Arco Verticale",
+      "rawText": "Arco Verticale | 17.10 - 03.11.2026 | Bolognano | - Viale Stazione 6 | 09:00 - 12:00 | Other available dates | DiVin Ottobre",
+      "image": "",
+      "candidateKey": "ae85f230d9f87916d23a4fc3",
+      "candidateSignature": "cfe6d9708631316bb030ed39"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+      "detailUrl": "",
+      "title": "Mese del Gusto",
+      "rawText": "Mese del Gusto | 24.10 - 25.10.2026 | Riva del Garda | Other available dates | Gino Pancheri. Female Figures | 06.09 - 08.11.2026 ( | Every Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "image": "",
+      "candidateKey": "b3cdd0990548e0225e7587e4",
+      "candidateSignature": "3871d0ac36c27de1906327c8"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -32762,17 +32773,6 @@
     {
       "sourceId": "garda_trentino_events",
       "sourceName": "Garda Trentino - events",
-      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-      "detailUrl": "",
-      "title": "Frantoi Aperti",
-      "rawText": "Frantoi Aperti | 07.11 - 08.11.2026 | Riva del Garda | top | Alchimie d'autunno | 07.11 2026 | Santa Massenza",
-      "image": "",
-      "candidateKey": "e1ae37aa97e3db8b8a3841b8",
-      "candidateSignature": "c9ecee502f593c636cb5dbc6"
-    },
-    {
-      "sourceId": "garda_trentino_events",
-      "sourceName": "Garda Trentino - events",
       "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
       "detailUrl": "",
       "title": "Top Dolomites Outdoor Festival",
@@ -32813,6 +32813,17 @@
       "image": "",
       "candidateKey": "f33b7fcb2f7eb31ba577ee0c",
       "candidateSignature": "4366227a5b9ecf438e930b0b"
+    },
+    {
+      "sourceId": "garda_trentino_events",
+      "sourceName": "Garda Trentino - events",
+      "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+      "detailUrl": "",
+      "title": "Festa dei Maroni",
+      "rawText": "Festa dei Maroni | 25.10 2026 | Pranzo | - Piazza San Leonardo | 10:00 - 17:00 | Display al Forte di Nago | 11.07 - 31.10.2026 (",
+      "image": "",
+      "candidateKey": "f5ee223c411da7c9d6c70567",
+      "candidateSignature": "599efa1eab466dde64b0c746"
     },
     {
       "sourceId": "garda_trentino_events",
@@ -38406,17 +38417,6 @@
       "sourceId": "visitrovereto_estate",
       "sourceName": "Rovereto Estate programme",
       "pageUrl": "https://www.visitrovereto.it/rovereto-estate",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/un-sabato-con-il-sole-sul-monte-zugna",
-      "title": "Un sabato con il Sole sul Monte Zugna",
-      "rawText": "Scopri Punti di interesse e territorio Un sabato con il Sole sul Monte Zugna Trekking urbani Punti di interesse e territorio Borghi, vigneti, montagne Musei, cibo per la mente Castelli Luoghi storici Siti naturalistici In Malga Palazzi Chiese e luoghi sacri I Comuni della Vallagarina Vivi Eventi, cultura e outdoor Esperienze outdoor Luoghi della Grande Guerra Eventi, cultura e outdoor Eventi Esperienze Itinerari culturali Outdoor Mercati Centri benessere In famiglia Gusta Enogastronomia e prodotti tipici Il Marzemino Enogastronomia e prodotti tipici Ristoranti Vini Prodotti tipici Esperienze enogastronomiche Ricette Dove mangiare e dormire in Vallagarina Prenota Strutture ricettive e idee vacanza La Città delle Meraviglie (speciale gruppi)🎄 Natale Futurista (speciale gruppi)🎄 Strutture ricettive e idee vacanza Booking Dove dormire Regala la Vallagarina Noleggia la tua bici Idee vacanza Proposte per la scuola Offerte per gruppi Info Suggerimenti e contatti Card turistiche Uffici turistici a Rovereto e in Vallagarina Suggerimenti e contatti Uffici turistici Ricerca personale Come arrivare Come muoversi Mappe Card turistiche Guide App Cataloghi Webcam it en de Cerca:",
-      "image": "https://www.visitrovereto.it/wp-content/uploads/2021/05/Un-sabato-con-il-sole_Luca-Matassoni-650x358.png",
-      "candidateKey": "88a4864da0f17589d41f6649",
-      "candidateSignature": "72b055bf1be8d63335dbb959"
-    },
-    {
-      "sourceId": "visitrovereto_estate",
-      "sourceName": "Rovereto Estate programme",
-      "pageUrl": "https://www.visitrovereto.it/rovereto-estate",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/visite-guidate-rovereto",
       "title": "Trekking urbani",
       "rawText": "Trekking urbani Rovereto Da sabato 2 maggio a sabato 12 dicembre 2026",
@@ -38456,6 +38456,17 @@
       "image": "https://www.visitrovereto.it/wp-content/uploads/2015/10/Shopping-aspettando-Halloween-2026-1.jpg",
       "candidateKey": "0656669f5e27318aa817b41a",
       "candidateSignature": "aa295500a551e97dc6f4a00e"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-25&end_event_date=2026-11-01&filter_ref=week",
+      "title": "7 giorni",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "07b016ebeeb03fd37f0cbd7f",
+      "candidateSignature": "7f71974c2e7d5227b55725be"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -38559,17 +38570,6 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi/un-sabato-con-il-sole-sul-monte-zugna",
-      "title": "Un sabato con il Sole sul Monte Zugna",
-      "rawText": "Un sabato con il Sole sul Monte Zugna Osservatorio Astronomico Monte Zugna - Sabato 18 aprile, 23 maggio, 27 giugno, 18 luglio, 22 agosto, 26 settembre, 24 ottobre 2026 Un pomeriggio con gli esperti del Museo Civico a 1600 metri con merenda dolce o salata. Appuntamenti per guardare il Sole con occhi diversi grazie al telescopio dell ... Sul Monte Zugna si trova ...",
-      "image": "https://www.visitrovereto.it/wp-content/uploads/2021/05/Un-sabato-con-il-sole_Luca-Matassoni.png",
-      "candidateKey": "1e8474e671a9b601685493cf",
-      "candidateSignature": "e83b07a52b2f169bee69ba4c"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=9",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/una-guida-per-famiglie",
       "title": "Una guida per famiglie",
@@ -38614,13 +38614,13 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/natale-al-castello-di-avio",
       "title": "Natale al Castello di Avio",
       "rawText": "Natale al Castello di Avio Castello di Avio - Ogni sabato e domenica dal 21 novembre al 20 dicembre 2026, lunedì 7 e martedì 8 dicembre 2026 Un incanto di storia, musiche e sapori. Vivi il Natale in un luogo davvero magico: il Castello di Avio, Bene del FAI Fondo per l ... Dal 22 novembre al 21 dicembre torna il mercatino di Natale ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2017/11/Natale-al-Castello-di-Avio-3.png",
       "candidateKey": "2d18d71f1c4b45d941bd7630",
-      "candidateSignature": "e6efb4d82e5269ef68d2212f"
+      "candidateSignature": "e2a7cbcf20576082f957f1e4"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -38658,24 +38658,13 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/visite-guidate-rovereto",
       "title": "Trekking urbani",
       "rawText": "Trekking urbani Rovereto - Da sabato 2 maggio a sabato 12 dicembre 2026 Itinerari a tema per scoprire Rovereto e le vie della seta. Da maggio a dicembre itinerari guidati a tema per scoprire Rovereto e i tesori nascosti della Vallagarina. Cinque piacevoli percorsi ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2018/09/Trekking-urbani-Luca-Matassoni.jpg",
       "candidateKey": "34030b8201613df2e9297ff9",
-      "candidateSignature": "2dae0addcbfc26c629c24e2a"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-24&end_event_date=2026-10-24&filter_ref=today",
-      "title": "Oggi",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "346fe06df8f112cc1f554ffd",
-      "candidateSignature": "9cab357007c7644b7a267fc4"
+      "candidateSignature": "e99ee58311789fb3ffbe0186"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -38757,13 +38746,13 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=9",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=8",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/dai-neta",
       "title": "Dai nèta",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al Dai nèta Vallagarina - Tutto l'anno Uscite conviviali per raccogliere rifiuti in natura. Dai nèta promuove uscite conviviali per ripulire il territorio, iniziative dedicate al riuso e alla riduzione dei rifiuti, oltre a visite ... Regala la Vallagarina – Gift card Vallagarina - Per tutto il 2027 Colleziona momenti, non cose. Quale miglior regalo di un’esperienza in Trentino da donare a chi vuoi tu? La Vallagarina ti aspetta per vivere momenti indimenticabili! Regala emozioni che ... Una guida per famiglie Rovereto, Vallagarina e Monte Baldo dal 21-10- 20 26 al 31-12- 20 27 In viaggio con FortunaDino. Il libro è un invito ad attraversare Rovereto e la sua valle in compagnia di Isotta, Ugo e FortunaDino, il dinosauro che riporta grandi e piccini nel Giurassico, ... < 1 2 3 4 5 6 7 8 9",
+      "rawText": "Dai nèta Vallagarina - Tutto l'anno Uscite conviviali per raccogliere rifiuti in natura. Dai nèta promuove uscite conviviali per ripulire il territorio, iniziative dedicate al riuso e alla riduzione dei rifiuti, oltre a visite ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Dai-neta-Luca-Matassoni-3.png",
       "candidateKey": "657137a484ae64aabedd2e17",
-      "candidateSignature": "3367062299f80ee31b3c2f84"
+      "candidateSignature": "dfb670400fab1a7565808f90"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -38790,13 +38779,24 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=8",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/presepi-contro",
       "title": "Presepi Contro…",
       "rawText": "Presepi Contro… Fondazione Campana dei Caduti, Rovereto dal 21-11- 20 26 al 06-01- 20 27 Mostra temporanea alla Campana dei Caduti. La mostra è una riflessione sui drammi che colpiscono la sensibilità collettiva, la sintesi di un anno e dei suoi accadimenti per non dimenticare ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2024/10/Campana-dei-Caduti_Florio-Badocchi.png",
       "candidateKey": "7587188b93f9377d47595364",
-      "candidateSignature": "657c8aa26950318a30c77076"
+      "candidateSignature": "8e3b51d8933dca6ff8ffd6cd"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-26&end_event_date=2026-10-26&filter_ref=tomorrow",
+      "title": "Domani",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "76ae3b7b7874d88030de7ba2",
+      "candidateSignature": "ab3609abe0227b2ecb99b4f9"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -38819,6 +38819,17 @@
       "image": "https://www.visitrovereto.it/wp-content/uploads/2021/04/san-leonardo-2.jpg",
       "candidateKey": "7be0767c97c4d01d7ac53b7b",
       "candidateSignature": "13cce01449438faa09e72644"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-25&end_event_date=2026-10-25&filter_ref=today",
+      "title": "Oggi",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "7c8cdee9868772a059c62e0a",
+      "candidateSignature": "de4d7e16d26eae9635477ccb"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -38879,23 +38890,23 @@
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
       "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-24&end_event_date=2026-10-31&filter_ref=week",
-      "title": "7 giorni",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "9197335cb014409a419a2991",
-      "candidateSignature": "87750e93ae04cc7410eb2832"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/incontrarti",
       "title": "IncontrArti",
       "rawText": "IncontrArti Manifattura Tabacchi, Rovereto - Da sabato 3 ottobre a mercoledì 28 ottobre 2026 Dalle ceneri dalla colpa il fiorire del perdono. Amedeo Marchetti, Luigi Meregalli e Rabarama. Un percorso espositivo, realizzato all ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2024/09/IncontrArti-Manifattura-Tabacchi-Rovereto.jpg",
       "candidateKey": "959b343898da67ab281a10f5",
       "candidateSignature": "46335bceac4a3de0510838bf"
+    },
+    {
+      "sourceId": "visitrovereto_events",
+      "sourceName": "Visit Rovereto / Vallagarina - events",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-25&end_event_date=2026-11-24&filter_ref=month",
+      "title": "30 giorni",
+      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+      "image": "",
+      "candidateKey": "968e95b9d89519ea8661d919",
+      "candidateSignature": "55a0c1f3911b6f1a57fe2203"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -38944,24 +38955,13 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=6",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/interpretazioni-in-cantina-con-la-cadalora-2",
       "title": "Interpretazioni in cantina de La Cadalora",
       "rawText": "Interpretazioni in cantina de La Cadalora La Cadalora - Ala - Dal 1 gennaio 2026 al 31 dicembre 2026 Un viaggio tra antiche tradizioni e nuove visioni, racchiuso in tre calici d'eccezione. Un viaggio sensoriale tra i segreti della nostra cantina, dove il racconto della storia e l’emozione ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2026/04/Azienda-Agricola-La-Cadalora.jpg",
       "candidateKey": "a507767054c3bc28fc01e5f6",
-      "candidateSignature": "2879d3788d5c31ee3622db93"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-25&end_event_date=2026-10-25&filter_ref=tomorrow",
-      "title": "Domani",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "a6908765fa32806904f95f1c",
-      "candidateSignature": "404ec79526fb7e7f93d52469"
+      "candidateSignature": "9d06bfe51fe9c510af0f0003"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -39043,24 +39043,13 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-      "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-24&end_event_date=2026-11-23&filter_ref=month",
-      "title": "30 giorni",
-      "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-      "image": "",
-      "candidateKey": "bd2de974cc27e033a78a992d",
-      "candidateSignature": "a56fb45ffc0371e376659c28"
-    },
-    {
-      "sourceId": "visitrovereto_events",
-      "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/il-kilometro-delle-meraviglie",
       "title": "Rovereto – Kilometro delle Meraviglie",
       "rawText": "Rovereto – Kilometro delle Meraviglie Rovereto - I sabati da maggio a dicembre 2026 Dal Museo della Città alla scenografica cupola del Mart. Trekking urbano nel centro storico di Rovereto. Itinerario attraverso un chilometro di storie e personaggi che hanno reso celebre la città.",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2023/04/IL-KM-DELLE-MERAVIGLIE-Trekking-urbani-Luca-Matassoni-4.jpg",
       "candidateKey": "bf8bb0c567a84156c0dc860e",
-      "candidateSignature": "cc485056c6819d7450475c92"
+      "candidateSignature": "72578223da3092d814be37bd"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -39197,13 +39186,13 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/di-quadro-in-quadro",
       "title": "Di quadro in quadro",
       "rawText": "Di quadro in quadro Mart - Da sabato 13 giugno a domenica 1 novembre L'arte della citazione. Di quadro in quadro. L’arte della citazione indaga il ruolo della citazione nella storia dell’arte, intesa come ripresa e rielaborazione di motivi, temi ed elementi ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Di-quadro-in-quadro-Mart.jpg",
       "candidateKey": "d944fee9f46a6532220646b4",
-      "candidateSignature": "4f232c0fc407e28aadc93046"
+      "candidateSignature": "7ad0d4a19b3622b121a07ae0"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -39285,13 +39274,13 @@
     {
       "sourceId": "visitrovereto_events",
       "sourceName": "Visit Rovereto / Vallagarina - events",
-      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=6",
+      "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5",
       "detailUrl": "https://www.visitrovereto.it/vivi/eventi/visita-e-degustazione-da-letrari",
       "title": "Visita e Degustazione da Letrari",
       "rawText": "Visita e Degustazione da Letrari Letrari Soc. Agr. - Dal 1 gennaio 2026 al 31 dicembre 2026 Letrari – Tradizione di famiglia e bollicine di montagna. Nel cuore del Trentino, in Vallagarina, la cantina Letrari accoglie gli ospiti in un viaggio alla scoperta del Trentodoc, espressione ...",
       "image": "https://www.visitrovereto.it/wp-content/uploads/2025/06/Azienda-Agricola-Letrari-6.png",
       "candidateKey": "f223be2f2ef5f973b64e78bb",
-      "candidateSignature": "3b52ad112a4eb5c1a0ed3e79"
+      "candidateSignature": "c9e41cd19a40fdbbfa1e05d4"
     },
     {
       "sourceId": "visitrovereto_events",
@@ -39589,17 +39578,6 @@
       "image": "",
       "candidateKey": "08962049d25aab36b5a36cf3",
       "candidateSignature": "ee2491238366275df26c2214"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/inaugurazione-nuovo-tratto-ferrata-val-di-scala_e_136960627",
-      "title": "Inaugurazione Nuovo Tratto Ferrata Val di Scala",
-      "rawText": "Eventi Culturali, Sport Inaugurazione Nuovo Tratto Ferrata Val di Scala Ritrovo alla partenza della Ferrata. Inquadramento a cura del geologo Marco Bonat e saluti istituzionali. \"Merenda dell'alpinista\" a cura della Pro... Canal San Bovo 24/10/2026",
-      "image": "https://www.visittrentino.info/assets-basic/events/san-martino/inaugurazione-nuovo-tratto-ferrata-val-di-scala_136960627/7878682/image-thumb__7878682__moodboard_list/inaugurazione-nuovo-tratto-ferrata-val-di-scala_136960627_1.675e842e.jpg",
-      "candidateKey": "092fa760ce6352ee990aa92f",
-      "candidateSignature": "fa34b1fbccfd79970c516b4c"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -40958,6 +40936,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136926532",
+      "title": "alla biscondola - pensieri al riparo dal vento",
+      "rawText": "Altro alla biscondola - pensieri al riparo dal vento Camminata gentile Passi gentili Faver 25/10/2026",
+      "image": "https://www.visittrentino.info/assets-basic/events/fiemme/alla-biscondola---pensieri-al-riparo-dal-vento_136926532/7878232/image-thumb__7878232__moodboard_list/alla-biscondola---pensieri-al-riparo-dal-vento_136926532_1.a9cfd38e.jpg",
+      "candidateKey": "30a6b7ddfe85a1b5f791ed84",
+      "candidateSignature": "8659f3ce59bf081c989a47c9"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/presepi-contro-hellip_e_99804758",
       "title": "",
       "rawText": "",
@@ -41981,17 +41970,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136926534",
-      "title": "alla biscondola - pensieri al riparo dal vento",
-      "rawText": "Altro alla biscondola - pensieri al riparo dal vento incontri e confronti Prenderci cura delle nostre fragilità Sover 24/10/2026",
-      "image": "https://www.visittrentino.info/assets-basic/events/fiemme/alla-biscondola---pensieri-al-riparo-dal-vento_136926534/7878236/image-thumb__7878236__moodboard_list/alla-biscondola---pensieri-al-riparo-dal-vento_136926534_1.1195e21a.jpg",
-      "candidateKey": "49bfd04d8e65136bc3b1ad6b",
-      "candidateSignature": "5db744f5f679d835c4c59507"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/mercato-settimanale-arco_e_133503065",
       "title": "",
       "rawText": "",
@@ -42476,17 +42454,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/rassegna-teatrale-segonzano-nome-in-codice-afrodite_e_137070305",
-      "title": "Rassegna teatrale Segonzano - Nome in codice Afrodite",
-      "rawText": "Altro Rassegna teatrale Segonzano - Nome in codice Afrodite Filodrammatica Nuova Ribalta presso il teatro di Segonzano Segonzano 24/10/2026",
-      "image": "https://www.visittrentino.info/assets-basic/events/fiemme/rassegna-teatrale-segonzano---nome-in-codice-afrodite_137070305/7879493/image-thumb__7879493__moodboard_list/rassegna-teatrale-segonzano---nome-in-codice-afrodite_137070305_1.a7edfaf0.jpg",
-      "candidateKey": "543985d5ff9db0af740af711",
-      "candidateSignature": "2563285ca2294a69e29c61ec"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/scopri-la-fauna-e-la-flora-del-monte-bondone_e_91861874",
       "title": "",
       "rawText": "",
@@ -42735,17 +42702,6 @@
       "image": "",
       "candidateKey": "599ac6383c0b12063fce511f",
       "candidateSignature": "7c0aa64b6c5e33f72b37c15d"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136926536",
-      "title": "alla biscondola - pensieri al riparo dal vento",
-      "rawText": "Altro alla biscondola - pensieri al riparo dal vento Cinema d'autore Non ci resta che piangere? Sover 24/10/2026",
-      "image": "https://www.visittrentino.info/assets-basic/events/fiemme/alla-biscondola---pensieri-al-riparo-dal-vento_136926536/7878240/image-thumb__7878240__moodboard_list/alla-biscondola---pensieri-al-riparo-dal-vento_136926536_1.de09b975.jpg",
-      "candidateKey": "59cf4b8f4f09080d8f767873",
-      "candidateSignature": "64747f93e16af2155c579eed"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -43466,17 +43422,6 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/incontri-ravvicinati-tr-egrave-ff-vo-namp-scopriamo-gli-urogalli_e_136905851",
-      "title": "Incontri ravvicinati - Trèff vo namp : Scopriamo gli urogalli",
-      "rawText": "Altro Incontri ravvicinati - Trèff vo namp : Scopriamo gli urogalli Visita guidata divulgativa e interattiva alla scoperta degli animali delle Alpi e in particolare il mondo degli urogalli con la biologa Francesca... Lusérn - Luserna 24/10/2026",
-      "image": "https://www.visittrentino.info/assets-basic/events/altipiano/incontri-ravvicinati---tr-egrave-ff-vo-namp-scopriamo-gli-urogalli_136905851/7877898/image-thumb__7877898__moodboard_list/incontri-ravvicinati---tr-egrave-ff-vo-namp-scopriamo-gli-urogalli_136905851_1.ff72ec59.jpg",
-      "candidateKey": "6c4236899dc27154287f3c7f",
-      "candidateSignature": "92a8336cdb41ea624dd7f118"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/reboro-territorio-passione_e_135412217",
       "title": "",
       "rawText": "",
@@ -43538,17 +43483,6 @@
       "image": "",
       "candidateKey": "6ea3b6316342ccbf86bdfe7c",
       "candidateSignature": "7328ab990b9c0fb3e8302a3b"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136905842",
-      "title": "alla biscondola - pensieri al riparo dal vento",
-      "rawText": "Altro alla biscondola - pensieri al riparo dal vento camminata letteraria Stai dalla parte dei fragili Sover 24/10/2026",
-      "image": "https://www.visittrentino.info/assets-basic/events/fiemme/alla-biscondola---pensieri-al-riparo-dal-vento_136905842/7877881/image-thumb__7877881__moodboard_list/alla-biscondola---pensieri-al-riparo-dal-vento_136905842_1.528ed599.jpg",
-      "candidateKey": "6eaec7fc60edfa35f39bb41a",
-      "candidateSignature": "e4f42babf0621b17c3f8b3ed"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -44429,17 +44363,6 @@
       "image": "",
       "candidateKey": "868774f32a63a82b4303ecc1",
       "candidateSignature": "9318d2f0ef188c84f444e479"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/quello-che-vorrei-21.rassegna-teatrale-valfloriana_e_136988916",
-      "title": "Quello che vorrei - 21. Rassegna Teatrale Valfloriana",
-      "rawText": "Teatro/Danza Quello che vorrei - 21. Rassegna Teatrale Valfloriana Farsa comica ispirata ai nostri desideri indotti che con comicità e satira mette in risalto le contraddizioni del consumismo. Valfloriana 24/10/2026",
-      "image": "https://www.visittrentino.info/assets-basic/events/fiemme/quello-che-vorrei---21.-rassegna-teatrale-valfloriana_136988916/7878972/image-thumb__7878972__moodboard_list/quello-che-vorrei---21.-rassegna-teatrale-valfloriana_136988916_1.67c4c069.jpg",
-      "candidateKey": "86996566faa0ea7579f81805",
-      "candidateSignature": "5e2adb484e75994245e1fb72"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -45941,6 +45864,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/cinema-primiero-taddeo-l-esploratore-e-la-lampada-magica_e_136897913",
+      "title": "Cinema Primiero: Taddeo - L'esploratore e la lampada magica",
+      "rawText": "Cinema Cinema Primiero: Taddeo - L'esploratore e la lampada magica Proiezione del film d'animazione \"Taddeo - L'esploratore e la lampada magica\". Dopo che Taddeo ha accidentalmente scatenato un antico incantesimo,... Fiera di Primiero 24/10/2026 - 25/10/2026",
+      "image": "https://www.visittrentino.info/assets-basic/events/san-martino/cinema-primiero-taddeo---l-esploratore-e-la-lampada-magica_136897913/7877669/image-thumb__7877669__moodboard_list/cinema-primiero-taddeo---l-esploratore-e-la-lampada-magica_136897913_1.303504e6.jpg",
+      "candidateKey": "a8ba09317b8b7dcf162a09fe",
+      "candidateSignature": "8588b6584c209d426138d706"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-mondo-dietro-ad-una-mela-visita-guidata-alle-sale-di-lavorazione-di-melinda_e_134420115",
       "title": "",
       "rawText": "",
@@ -46524,6 +46458,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136926531",
+      "title": "alla biscondola - pensieri al riparo dal vento",
+      "rawText": "Altro alla biscondola - pensieri al riparo dal vento Arte e comunità Desideri di qui e d'altrove Faver 25/10/2026",
+      "image": "https://www.visittrentino.info/assets-basic/events/fiemme/alla-biscondola---pensieri-al-riparo-dal-vento_136926531/7878230/image-thumb__7878230__moodboard_list/alla-biscondola---pensieri-al-riparo-dal-vento_136926531_1.88eca6fc.jpg",
+      "candidateKey": "b7b575860122c182af1718e9",
+      "candidateSignature": "36bf865edc965a0a411bd225"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-vino-e-i-suoi-5-elementi-az.agr.zanini-luigi_e_92495775",
       "title": "",
       "rawText": "",
@@ -46651,17 +46596,6 @@
       "image": "",
       "candidateKey": "bad5d10e851a573cb5efa030",
       "candidateSignature": "aad8a958b8f5bf68a03f2689"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136905845",
-      "title": "alla biscondola - pensieri al riparo dal vento",
-      "rawText": "Altro alla biscondola - pensieri al riparo dal vento camminata e incontro Oltre il ponte - costruire la pace Grumes 24/10/2026",
-      "image": "https://www.visittrentino.info/assets-basic/events/fiemme/alla-biscondola---pensieri-al-riparo-dal-vento_136905845/7877887/image-thumb__7877887__moodboard_list/alla-biscondola---pensieri-al-riparo-dal-vento_136905845_1.1646431e.jpg",
-      "candidateKey": "bc83499fed1d9207576403d8",
-      "candidateSignature": "b717e94c3e824db495467b1e"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -47294,6 +47228,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/cinema-primiero-l-estranea_e_136897921",
+      "title": "Cinema Primiero: L'Estranea",
+      "rawText": "Cinema Cinema Primiero: L'Estranea Proiezione del film drammatico \"L'estranea\". Un intenso thriller psicologico con un cast d'eccezione dove il regista trasforma l'horror in un... Fiera di Primiero 24/10/2026 - 25/10/2026",
+      "image": "https://www.visittrentino.info/assets-basic/events/san-martino/cinema-primiero-l-estranea_136897921/7877673/image-thumb__7877673__moodboard_list/cinema-primiero-l-estranea_136897921_1.55441399.jpg",
+      "candidateKey": "cc8f91e6bbe160d7f8092791",
+      "candidateSignature": "40fe960b69b00b40a6709973"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/dal-melo-al-calice-apple-blood-cider_e_92495833",
       "title": "",
       "rawText": "",
@@ -47877,6 +47822,17 @@
       "sourceId": "visittrentino_all_events",
       "sourceName": "Visit Trentino - all events",
       "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/progetto-opera_e_74337367",
+      "title": "Progetto opera",
+      "rawText": "Conferenze/Congressi, Teatro/Danza Progetto opera Le Nozze di Figaro di Wolfgang Amadeus Mozart Rovereto 17/10/2026 - 25/10/2026",
+      "image": "https://www.visittrentino.info/assets-basic/events/www-visitrovereto-it/-progetto-opera-_74337367/7808258/image-thumb__7808258__moodboard_list/-progetto-opera-_74337367_1.1145e143.jpg",
+      "candidateKey": "de73550e0282dc0ef4a74fa3",
+      "candidateSignature": "cb2c9690f58ea8fb72bfaede"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
       "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-con-degustazione-cantina-terre-del-lagorai_e_64185507",
       "title": "",
       "rawText": "",
@@ -48158,17 +48114,6 @@
       "image": "",
       "candidateKey": "e55cb10bbfaa0031b47dd73a",
       "candidateSignature": "925b2f5f01f879527ed4f051"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/vertical-montegada_e_136897912",
-      "title": "Vertical Montegada",
-      "rawText": "Sport Vertical Montegada Vertical Montegada: gara di corsa ai piedi delle Pale di San Martino valida come 6^ tappa del circuito 4VK. Ore 12.00: ritrovo partecipanti e... San Martino di Castrozza 24/10/2026",
-      "image": "https://www.visittrentino.info/assets-basic/events/san-martino/vertical-montegada_136897912/7877667/image-thumb__7877667__moodboard_list/vertical-montegada_136897912_1.b5a6de2b.jpg",
-      "candidateKey": "e58e4af2b3fecd3d04d2262f",
-      "candidateSignature": "e141fa4900ac3be1670f6559"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -48609,17 +48554,6 @@
       "image": "",
       "candidateKey": "f0a88a10eb5c59cc8c89f11a",
       "candidateSignature": "c3c475f18828ee40a6a96ec8"
-    },
-    {
-      "sourceId": "visittrentino_all_events",
-      "sourceName": "Visit Trentino - all events",
-      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/laboratorio-creativo-di-porcellana_e_137021659",
-      "title": "Laboratorio Creativo di Porcellana",
-      "rawText": "Altro Laboratorio Creativo di Porcellana Maddalena ci aspetta nel suo accogliente laboratorio nel centro storico di Tonadico. Potremo imparare la tecnica base per realizzare oggetti in... Primiero-Tonadico 24/10/2026",
-      "image": "https://www.visittrentino.info/assets-basic/events/san-martino/laboratorio-creativo-di-porcellana_137021659/7879147/image-thumb__7879147__moodboard_list/laboratorio-creativo-di-porcellana_137021659_1.25139cd7.jpg",
-      "candidateKey": "f111140193a013915c458c22",
-      "candidateSignature": "372d182ee5e093272fbf67fe"
     },
     {
       "sourceId": "visittrentino_all_events",
@@ -49181,6 +49115,17 @@
       "image": "",
       "candidateKey": "ff2e5f7c33907d60fea8b160",
       "candidateSignature": "a5a63834ae9e8753807ef26f"
+    },
+    {
+      "sourceId": "visittrentino_all_events",
+      "sourceName": "Visit Trentino - all events",
+      "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136926533",
+      "title": "alla biscondola - pensieri al riparo dal vento",
+      "rawText": "Altro alla biscondola - pensieri al riparo dal vento Spettacolo teatrale Bianco come il carbone Faver 25/10/2026",
+      "image": "https://www.visittrentino.info/assets-basic/events/fiemme/alla-biscondola---pensieri-al-riparo-dal-vento_136926533/7878234/image-thumb__7878234__moodboard_list/alla-biscondola---pensieri-al-riparo-dal-vento_136926533_1.2f2c5e01.jpg",
+      "candidateKey": "ff56c80ec33b44cd5fb2bd51",
+      "candidateSignature": "bb7c9985ccf1f504f8f5198d"
     },
     {
       "sourceId": "visittrentino_all_events",

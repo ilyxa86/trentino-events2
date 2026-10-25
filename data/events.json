@@ -1640,38 +1640,6 @@
     ]
   },
   {
-    "id": "festa-della-zucca-e-degli-ortaggi-invernali-2026-2",
-    "name": {
-      "de": "Festa della Zucca e degli Ortaggi Invernali",
-      "en": "Festa della Zucca e degli Ortaggi Invernali",
-      "it": "Festa della Zucca e degli Ortaggi Invernali"
-    },
-    "startDate": "2026-10-04",
-    "endDate": "2026-10-11",
-    "startTime": null,
-    "municipality": "Lasino",
-    "area": "Other Trentino",
-    "venue": "Lasino",
-    "category": "Festival",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Festa della Zucca e degli Ortaggi Invernali“ in Lasino. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Festa della Zucca e degli Ortaggi Invernali” event in Lasino. See the official event page for the latest details.",
-      "it": "Evento “Festa della Zucca e degli Ortaggi Invernali” a Lasino. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=6",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-01",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=6"
-    ]
-  },
-  {
     "id": "festival-dei-piccoli-2026",
     "name": {
       "de": "Festival dei Piccoli",
@@ -1713,42 +1681,6 @@
     "assetVerified": "2026-10-15"
   },
   {
-    "id": "ganzega-d-autunno-2026-2",
-    "name": {
-      "de": "Ganzega d'Autunno",
-      "en": "Ganzega d'Autunno",
-      "it": "Ganzega d'Autunno"
-    },
-    "startDate": "2026-10-04",
-    "endDate": "2026-10-11",
-    "startTime": "18:00",
-    "municipality": "Arco",
-    "area": "Alto Garda",
-    "venue": "Arco",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Ganzega d'Autunno“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Ganzega d'Autunno” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “Ganzega d'Autunno” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/discover/events?page=4",
-      "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=7"
-    ]
-  },
-  {
     "id": "ganzega-d-autunno-2026-3",
     "name": {
       "de": "Ganzega d'Autunno",
@@ -1778,43 +1710,6 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events"
-    ]
-  },
-  {
-    "id": "international-chess-tournament-citta-di-arco-2026",
-    "name": {
-      "de": "International Chess Tournament Città di Arco",
-      "en": "International Chess Tournament Città di Arco",
-      "it": "International Chess Tournament Città di Arco"
-    },
-    "startDate": "2026-10-04",
-    "endDate": "2026-10-11",
-    "startTime": "15:00",
-    "municipality": "Arco",
-    "area": "Alto Garda",
-    "venue": "Arco",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „International Chess Tournament Città di Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“International Chess Tournament Città di Arco” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “International Chess Tournament Città di Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-01",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/discover/events?page=4",
-      "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=7"
     ]
   },
   {
@@ -1934,67 +1829,6 @@
     },
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15"
-  },
-  {
-    "id": "ram-film-2026",
-    "name": {
-      "en": "RAM Film Festival",
-      "it": "RAM Film Festival",
-      "de": "RAM Film Festival"
-    },
-    "startDate": "2026-10-07",
-    "endDate": "2026-10-11",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Multiple venues",
-    "category": "Film & Culture",
-    "status": "NEW",
-    "confirmed": true,
-    "description": {
-      "en": "Archaeology and cultural film festival combining screenings, talks, exhibitions and visits.",
-      "it": "Festival cinematografico di archeologia e cultura con proiezioni, incontri, mostre e visite.",
-      "de": "Archaeology and cultural film festival combining screenings, talks, exhibitions and visits."
-    },
-    "organizer": "Fondazione Museo Civico di Rovereto",
-    "price": "See programme",
-    "officialUrl": "https://www.ramfilmfestival.it/RAMfilmfestival",
-    "source": "Official organizer",
-    "verified": "2026-08-25"
-  },
-  {
-    "id": "giornate-fai-d-autunno-2026",
-    "name": {
-      "de": "Giornate FAI d’Autunno",
-      "en": "Giornate FAI d’Autunno",
-      "it": "Giornate FAI d’Autunno"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-11",
-    "startTime": null,
-    "municipality": "Avio",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Avio",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Giornate FAI d’Autunno“ in Avio. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Giornate FAI d’Autunno” event in Avio. See the official event page for the latest details.",
-      "it": "Evento “Giornate FAI d’Autunno” a Avio. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/giornate-fai-vallagarina",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-11",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/04/Castelli-e-vigneti_lug20_@Matteo-Bruseghini-4.jpg",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/giornate-fai-vallagarina",
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/giornate-fai-d-autunno_e_2774660"
-    ]
   },
   {
     "id": "grasparola-2026",
@@ -2118,240 +1952,6 @@
     "image": "https://s3-eu-west-1.amazonaws.com/static.opencity.opencontent.it/var/roveretopnrr/storage/images/media/images/mondo2/129590-1-ita-IT/Mondo_large.jpg",
     "imageSourceUrl": "https://www.comune.rovereto.tn.it/Novita/Comunicati/Rovereto-ospitera-la-seconda-edizione-de-Il-Canto-della-Terra",
     "assetVerified": "2026-10-05"
-  },
-  {
-    "id": "international-chess-tournament-citta-di-arco-2026-6",
-    "name": {
-      "de": "International Chess Tournament Città di Arco",
-      "en": "International Chess Tournament Città di Arco",
-      "it": "International Chess Tournament Città di Arco"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-11",
-    "startTime": "15:00",
-    "municipality": "Arco",
-    "area": "Alto Garda",
-    "venue": "Arco",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „International Chess Tournament Città di Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“International Chess Tournament Città di Arco” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “International Chess Tournament Città di Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-09",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
-  },
-  {
-    "id": "rassegna-di-musica-sacra-2026",
-    "name": {
-      "de": "Rassegna di musica sacra",
-      "en": "Rassegna di musica sacra",
-      "it": "Rassegna di musica sacra"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-11",
-    "startTime": null,
-    "municipality": "Pergine Valsugana",
-    "area": "Other Trentino",
-    "venue": "Pergine Valsugana",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Rassegna di musica sacra“ in Pergine Valsugana. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Rassegna di musica sacra” event in Pergine Valsugana. See the official event page for the latest details.",
-      "it": "Evento “Rassegna di musica sacra” a Pergine Valsugana. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/rassegna-di-musica-sacra_e_136818724",
-    "source": "Visit Trentino - all events",
-    "verified": "2026-10-11",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/rassegna-di-musica-sacra_136818724/7876967/image-thumb__7876967__moodboard_list/rassegna-di-musica-sacra_136818724_1.d7c35606.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/rassegna-di-musica-sacra_e_136818724"
-    ]
-  },
-  {
-    "id": "sapori-d-autunno-2026",
-    "name": {
-      "de": "Sapori d’autunno",
-      "en": "Sapori d’autunno",
-      "it": "Sapori d’autunno"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-11",
-    "startTime": null,
-    "municipality": "Brentonico",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Brentonico",
-    "category": "Wine & Gastronomy",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Sapori d’autunno“ in Brentonico. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Sapori d’autunno” event in Brentonico. See the official event page for the latest details.",
-      "it": "Evento “Sapori d’autunno” a Brentonico. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno/",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/10/Sapori-dautunno-copertina-evento.png",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno",
-      "https://www.visitrovereto.it/vivi/eventi/sapori-dautunno/"
-    ]
-  },
-  {
-    "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-5",
-    "name": {
-      "de": "100 e + anni di turismo nel Garda Trentino",
-      "en": "100 e + anni di turismo nel Garda Trentino",
-      "it": "100 e + anni di turismo nel Garda Trentino"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "startTime": "18:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „100 e + anni di turismo nel Garda Trentino“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“100 e + anni di turismo nel Garda Trentino” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “100 e + anni di turismo nel Garda Trentino” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-05",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/weather/garda-trentino"
-    ],
-    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
-    "assetVerified": "2026-10-05"
-  },
-  {
-    "id": "accordion-festival-in-ledro-2026-4",
-    "name": {
-      "de": "Accordion Festival in Ledro",
-      "en": "Accordion Festival in Ledro",
-      "it": "Accordion Festival in Ledro"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "startTime": "20:30",
-    "municipality": "Ledro",
-    "area": "Alto Garda",
-    "venue": "Ledro",
-    "category": "Festival",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Accordion Festival in Ledro“ in Ledro. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Accordion Festival in Ledro” event in Ledro. See the official event page for the latest details.",
-      "it": "Evento “Accordion Festival in Ledro” a Ledro. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-11",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
-  },
-  {
-    "id": "autunno-divino-2026",
-    "name": {
-      "de": "Autunno DiVino",
-      "en": "Autunno DiVino",
-      "it": "Autunno DiVino"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "startTime": null,
-    "municipality": "Besenello",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Besenello",
-    "category": "Wine & Gastronomy",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Autunno DiVino“ in Besenello. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Autunno DiVino” event in Besenello. See the official event page for the latest details.",
-      "it": "Evento “Autunno DiVino” a Besenello. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/autunno-divino",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-09-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2015/09/Moscato-Giallo-Autunno-DiVino-Luca-Matassoni-2.jpg",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/autunno-divino"
-    ]
-  },
-  {
-    "id": "dal-fucile-alla-matita-2026-2",
-    "name": {
-      "de": "Dal fucile alla matita",
-      "en": "Dal fucile alla matita",
-      "it": "Dal fucile alla matita"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "startTime": "10:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
   },
   {
     "id": "dal-fucile-alla-matita-2026-3",
@@ -2581,77 +2181,6 @@
     ]
   },
   {
-    "id": "e-arrivato-un-bastimento-carico-di-2026",
-    "name": {
-      "de": "È arrivato un bastimento carico di...",
-      "en": "È arrivato un bastimento carico di...",
-      "it": "È arrivato un bastimento carico di..."
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „È arrivato un bastimento carico di...“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“È arrivato un bastimento carico di...” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “È arrivato un bastimento carico di...” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di"
-    ]
-  },
-  {
-    "id": "festa-del-latte-2026",
-    "name": {
-      "de": "Festa del Latte",
-      "en": "Festa del Latte",
-      "it": "Festa del Latte"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "startTime": "11:00",
-    "municipality": "Fiavè",
-    "area": "Other Trentino",
-    "venue": "Fiavè",
-    "category": "Festival",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Festa del Latte“ in Fiavè. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Festa del Latte” event in Fiavè. See the official event page for the latest details.",
-      "it": "Evento “Festa del Latte” a Fiavè. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=8",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-10",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/discover/events?page=4",
-      "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=7",
-      "https://www.gardatrentino.it/en/discover/events?page=8"
-    ]
-  },
-  {
     "id": "festa-del-latte-2026-2",
     "name": {
       "de": "Festa del Latte",
@@ -2694,112 +2223,6 @@
     "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Festa_della_noce.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/it/eventi/festa-della-noce_49041",
     "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "fiera-di-san-francesco-2026",
-    "name": {
-      "de": "Fiera di San Francesco",
-      "en": "Fiera di San Francesco",
-      "it": "Fiera di San Francesco"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "startTime": null,
-    "municipality": "Arco",
-    "area": "Alto Garda",
-    "venue": "Arco",
-    "category": "Trade Fair",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Fiera di San Francesco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Fiera di San Francesco” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “Fiera di San Francesco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/discover/events?page=4",
-      "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=7"
-    ]
-  },
-  {
-    "id": "gruppo-cassa-centrale-trentino-business-run-2026-4",
-    "name": {
-      "de": "Gruppo Cassa Centrale - Trentino Business Run",
-      "en": "Gruppo Cassa Centrale - Trentino Business Run",
-      "it": "Gruppo Cassa Centrale - Trentino Business Run"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "startTime": "15:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Business & Networking",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Gruppo Cassa Centrale - Trentino Business Run“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Gruppo Cassa Centrale - Trentino Business Run” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Gruppo Cassa Centrale - Trentino Business Run” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-08",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
-    ]
-  },
-  {
-    "id": "international-chess-tournament-citta-di-arco-2026-2",
-    "name": {
-      "de": "International Chess Tournament Città di Arco",
-      "en": "International Chess Tournament Città di Arco",
-      "it": "International Chess Tournament Città di Arco"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "startTime": "15:00",
-    "municipality": "Arco",
-    "area": "Alto Garda",
-    "venue": "Arco",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „International Chess Tournament Città di Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“International Chess Tournament Città di Arco” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “International Chess Tournament Città di Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=7",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-06",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/discover/events?page=4",
-      "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=7"
-    ]
   },
   {
     "id": "international-chess-tournament-citta-di-arco-2026-3",
@@ -2927,71 +2350,6 @@
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events"
-    ]
-  },
-  {
-    "id": "la-citta-biblioteca-2026",
-    "name": {
-      "de": "La Città Biblioteca",
-      "en": "La Città Biblioteca",
-      "it": "La Città Biblioteca"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „La Città Biblioteca“ in Rovereto. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“La Città Biblioteca” event in Rovereto. See the official event page for the latest details.",
-      "it": "Evento “La Città Biblioteca” a Rovereto. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/la-citta-biblioteca-un-viaggio-nel-labirinto-dei-racconti",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-01",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Biblioteca-Civica-Tartarotti-2024-Luca-Matassoni-.jpg",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/la-citta-biblioteca-un-viaggio-nel-labirinto-dei-racconti"
-    ]
-  },
-  {
-    "id": "la-scuola-policorale-romana-del-sei-settecento-musicantica-2026",
-    "name": {
-      "de": "La Scuola policorale romana del Sei-Settecento - Musicantica",
-      "en": "La Scuola policorale romana del Sei-Settecento - Musicantica",
-      "it": "La Scuola policorale romana del Sei-Settecento - Musicantica"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „La Scuola policorale romana del Sei-Settecento - Musicantica“ in Trento. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“La Scuola policorale romana del Sei-Settecento - Musicantica” event in Trento. See the official event page for the latest details.",
-      "it": "Evento “La Scuola policorale romana del Sei-Settecento - Musicantica” a Trento. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-Scuola-policorale-romana-del-Sei-Settecento-Musicantica",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-24",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/La-Scuola-policorale-romana-del-Sei-Settecento-Musicantica"
     ]
   },
   {
@@ -4463,12 +3821,13 @@
     "price": "See official page",
     "officialUrl": "https://www.visitrovereto.it/vivi/eventi/progetto-opera",
     "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-10",
+    "verified": "2026-10-25",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "image": "https://www.visitrovereto.it/wp-content/uploads/2023/09/teatro-zandonai-foto-di-luca-matassoni-2023-4.jpg",
     "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/progetto-opera"
+      "https://www.visitrovereto.it/vivi/eventi/progetto-opera",
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/progetto-opera_e_74337367"
     ],
     "descriptionSources": {
       "it": "https://www.visitrovereto.it/vivi/eventi/progetto-opera/",
@@ -7581,10 +6940,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-19",
+    "verified": "2026-10-25",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/events/mese-del-gusto_61067"
     ],
@@ -15213,6 +14573,49 @@
     "descriptionVerified": "2026-10-15"
   },
   {
+    "id": "49-mostra-ornitologica-internazionale-trentina-2026",
+    "name": {
+      "de": "49° Mostra Ornitologica Internazionale Trentina",
+      "en": "49° Mostra Ornitologica Internazionale Trentina",
+      "it": "49° Mostra Ornitologica Internazionale Trentina"
+    },
+    "startDate": "2026-12-31",
+    "endDate": "2026-12-31",
+    "startTime": "09:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "International Ornithological Show . Find out all about 49° Mostra Ornitologica Internazionale Trentina and other events in Riva del Garda!",
+      "it": "Concorso Specialistico Internazionale. Scopri tutto su 49° Mostra Ornitologica Internazionale Trentina e altri eventi a Riva del Garda!",
+      "de": "Internationale Ornithologische Show. Erfahre alles über 49° Mostra Ornitologica Internazionale Trentina und andere Veranstaltungen in Riva del Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/events/49-mostra-ornitologica-internazionale-trentina_11680",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-25",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
+      "https://www.gardatrentino.it/en/events/49-mostra-ornitologica-internazionale-trentina_11680"
+    ],
+    "descriptionSources": {
+      "en": "https://www.gardatrentino.it/en/events/49-mostra-ornitologica-internazionale-trentina_11680",
+      "it": "https://www.gardatrentino.it/it/eventi/49-mostra-ornitologica-internazionale-trentina_11680",
+      "de": "https://www.gardatrentino.it/de/event/49-mostra-ornitologica-internazionale-trentina_11680"
+    },
+    "descriptionVerified": "2026-10-25",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Garda_Aves.jpg",
+    "imageSourceUrl": "https://www.gardatrentino.it/en/events/49-mostra-ornitologica-internazionale-trentina_11680",
+    "assetVerified": "2026-10-25"
+  },
+  {
     "id": "5th-stage-of-the-triveneto-bmx-trophy-2026",
     "name": {
       "de": "5th Stage of the Triveneto BMX Trophy",
@@ -16039,8 +15442,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-24",
-    "assetVerified": "2026-10-24",
+    "descriptionVerified": "2026-10-25",
+    "assetVerified": "2026-10-25",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
