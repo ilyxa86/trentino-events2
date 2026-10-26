@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-25",
-  "currentEvents": 334,
-  "complete": 139,
+  "checkedAt": "2026-10-26",
+  "currentEvents": 328,
+  "complete": 131,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -29,14 +29,6 @@
       "languages": [
         "de",
         "en"
-      ]
-    },
-    {
-      "id": "il-grimorio-le-leggende-e-il-castello-2026-2",
-      "languages": [
-        "de",
-        "en",
-        "it"
       ]
     },
     {
@@ -87,23 +79,7 @@
       ]
     },
     {
-      "id": "baricentri-identita-urbane-dei-quartieri-2-giugno-e-degasperi-2026-6",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "valledeilaghi-book-festival-2026-2",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "european-mobility-week-2026-3",
       "languages": [
         "de",
         "en",
@@ -143,14 +119,6 @@
     },
     {
       "id": "dalla-svizzera-all-austria-fino-ad-arco-2026-5",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "dalla-svizzera-all-austria-fino-ad-arco-2026-6",
       "languages": [
         "de",
         "en",
@@ -204,14 +172,6 @@
       ]
     },
     {
-      "id": "rs-feva-european-championships-2026-2",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "rs-feva-european-championships-2026-3",
       "languages": [
         "de",
@@ -251,14 +211,6 @@
       ]
     },
     {
-      "id": "dal-fucile-alla-matita-2026-6",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "dal-fucile-alla-matita-2026-7",
       "languages": [
         "de",
@@ -284,14 +236,6 @@
     },
     {
       "id": "international-chess-tournament-citta-di-arco-2026-3",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "international-chess-tournament-citta-di-arco-2026-4",
       "languages": [
         "de",
         "en",
@@ -330,44 +274,6 @@
     },
     {
       "id": "eugenio-montale-temi-modelli-figure-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "accordion-festival-in-ledro-2026-5",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "foliage-al-lago-di-cei-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "garbage-ride-walk-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "gruppo-cassa-centrale-trentino-business-run-2026-2",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "mese-del-gusto-2026-2",
       "languages": [
         "de",
         "en"
@@ -524,6 +430,13 @@
       ]
     },
     {
+      "id": "voci-per-il-benessere-alla-pari-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "alla-scoperta-di-trento-2026-11",
       "languages": [
         "de",
@@ -564,6 +477,13 @@
         "de",
         "en",
         "it"
+      ]
+    },
+    {
+      "id": "mese-del-gusto-2026-13",
+      "languages": [
+        "de",
+        "en"
       ]
     },
     {
@@ -735,6 +655,13 @@
       ]
     },
     {
+      "id": "le-fiabe-come-strumento-di-relazione-e-di-prevenzione-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "le-storie-del-sabato-al-caminetto-2026",
       "languages": [
         "de",
@@ -763,6 +690,13 @@
       ]
     },
     {
+      "id": "non-e-solo-una-panchina-un-segno-una-voce-un-impegno-contro-la-violenza-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "un-mare-di-avventure-2026",
       "languages": [
         "de",
@@ -784,7 +718,35 @@
       ]
     },
     {
+      "id": "amici-nei-libri-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "devi-solo-ringraziare-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "manifesto-25-novembre-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-13",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "serata-informativa-sulla-violenza-contro-le-donne-2026",
       "languages": [
         "de",
         "en"
@@ -812,6 +774,13 @@
       ]
     },
     {
+      "id": "non-restiamo-a-guardare-il-ruolo-della-comunita-nella-prevenzione-della-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "antropocene-e-altri-poeti-2026",
       "languages": [
         "de",
@@ -820,6 +789,13 @@
     },
     {
       "id": "haydn-stagione-d-opera-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "per-giulia-e-per-tutte-noi-2026",
       "languages": [
         "de",
         "en"
@@ -882,6 +858,13 @@
       ]
     },
     {
+      "id": "conferenza-stampa-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-4",
       "languages": [
         "de",
@@ -903,6 +886,13 @@
       ]
     },
     {
+      "id": "mappe-emotive-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-14",
       "languages": [
         "de",
@@ -918,6 +908,13 @@
     },
     {
       "id": "mercato-dell-economia-solidale-2026-15",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "stop-alla-violenza-generazioni-alleate-per-il-futuro-2026",
       "languages": [
         "de",
         "en"
@@ -1323,6 +1320,13 @@
     },
     {
       "id": "via-pal-2027",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "vittimologia-psicopedagogia-e-salutogenesi-nella-prevenzione-alla-violen-2027",
       "languages": [
         "de",
         "en"
