@@ -2474,86 +2474,6 @@
     "assetVerified": "2026-10-18"
   },
   {
-    "id": "prisma-aurea-2026",
-    "name": {
-      "de": "Prisma Aurea",
-      "en": "Prisma Aurea",
-      "it": "Prisma Aurea"
-    },
-    "startDate": "2026-10-15",
-    "endDate": "2026-10-15",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Sul palco, l’incontro tra cinque interpreti che, ognuno con la propria storia straordinaria, hanno conquistato le scene internazionali. Rosanne Philippens, violinista olandese, si distingue per la combinazione di energia comunicativa e raffinatezza, con un repertorio che spazia da Bach alle avanguardie, sempre con il suo timbro luminoso e riconoscibile.",
-      "de": "Auf der Bühne treten fünf Interpretinnen zusammen, die jeweils mit ihrer außergewöhnlichen Biografie internationale Bühnenerfahrung mitbringen; darunter die niederländische Geigerin Rosanne Philippens, bekannt für ihre verbindliche Ausdruckskraft und klangliche Brillanz. Das Programm spannt einen Bogen von Bach bis zu avantgardistischen Positionen und legt Wert auf musikalische Präzision und strahlenden Ton.",
-      "en": "Five performers meet on stage, each with remarkable international careers, including Dutch violinist Rosanne Philippens, noted for combining communicative energy with refined tone; the concert emphasizes clarity and a luminous timbre. The repertoire ranges from Bach to contemporary avant-garde works, showcasing individual artistry within a cohesive ensemble experience."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Prisma-Aurea",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Prisma-Aurea"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Prisma-Aurea",
-      "de": "https://eventi.comune.trento.it/Eventi/Prisma-Aurea",
-      "en": "https://eventi.comune.trento.it/Eventi/Prisma-Aurea"
-    }
-  },
-  {
-    "id": "altra-piazza-fest-2026",
-    "name": {
-      "de": "Altra Piazza Fest 2026",
-      "en": "Altra Piazza Fest 2026",
-      "it": "Altra Piazza Fest 2026"
-    },
-    "startDate": "2026-10-16",
-    "endDate": "2026-10-16",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Cos'è Programma del Festival Venerdì 16 ottobre 2026 11:00 – 23:00 | Area Street Food | piazza S. Maria Maggiore Spazio dedicato al cibo e alla convivialità, attivo per tutta la durata del festival. 13:00 – 14:30 | Spazio Talk | Bar Picaro Incontro con Francesco Ghia (Professore associato di Filosofia morale e Filosofia della storia presso l’Università di Trento e Presidente dell’Associazione Italiana di Filosofia della Religione). 14:30 – 16:30 | “Giardino delle Associazioni” | piazza S.",
-      "de": "Das Festivalprogramm umfasst ganztägig eine Street-Food-Area für gemeinsames Essen und Begegnung sowie ein Talk-Programm, Workshops und den \"Giardino delle Associazioni\", wo Vereine sich präsentieren und Austausch fördern. Am 16. Oktober stehen Essensangebote, Vorträge mit lokalen Akademikern und ein Raum für zivilgesellschaftliche Initiativen im Mittelpunkt des Ganztagesangebots.",
-      "en": "The festival day features an all-day street-food area for convivial dining together, alongside talks, workshops and a \"Garden of Associations\" where community groups display activities and foster exchange. On Friday 16 October the schedule mixes food, public talks with local academics and spaces dedicated to civic organizations throughout the day."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Altra-Piazza-Fest-2026",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-14",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Altra-Piazza-Fest-2026"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Altra-Piazza-Fest-2026",
-      "de": "https://eventi.comune.trento.it/Eventi/Altra-Piazza-Fest-2026",
-      "en": "https://eventi.comune.trento.it/Eventi/Altra-Piazza-Fest-2026"
-    }
-  },
-  {
     "id": "casteldi-sera-2026",
     "name": {
       "de": "Casteldì sera",
@@ -7728,6 +7648,42 @@
     ]
   },
   {
+    "id": "halloween-a-1000-metri-il-bondone-dei-bambini-2026",
+    "name": {
+      "de": "Halloween a 1000 metri: il Bondone dei bambini",
+      "en": "Halloween a 1000 metri: il Bondone dei bambini",
+      "it": "Halloween a 1000 metri: il Bondone dei bambini"
+    },
+    "startDate": "2026-10-31",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Bondone",
+    "area": "Trento",
+    "venue": "Bondone",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il Bondone si prepara ad accogliere i più piccoli con un calendario di appuntamenti dedicati alla scoperta delle tradizioni, al divertimento e alla condivisione. L'associazione ProLoco Monte Bondone, firmataria del patto di collaborazione \"Gestione condivisa del Malgone di Candriai\" propone l'iniziativa Halloween a 1000 metri"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Halloween-a-1000-metri-il-Bondone-dei-bambini",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Halloween-a-1000-metri-il-Bondone-dei-bambini"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Halloween-a-1000-metri-il-Bondone-dei-bambini"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
+  },
+  {
     "id": "in-cammino-con-il-museo-2026-2",
     "name": {
       "de": "In cammino con il museo",
@@ -8317,6 +8273,44 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "alluvione-1966-in-trentino-2026",
+    "name": {
+      "de": "Alluvione 1966 in Trentino",
+      "en": "Alluvione 1966 in Trentino",
+      "it": "Alluvione 1966 in Trentino"
+    },
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Sessant’anni fa il Trentino fu colpito da una catastrofica alluvione che devastò il territorio con un’eccezionale serie di frane e allagamenti. I danni maggiori si ebbero tra il 4 e il 5 novembre 1966."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Alluvione-1966-in-Trentino",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Alluvione-1966-in-Trentino"
+    ],
+    "descriptionSources": {
+      "it": "https://www.cultura.trentino.it/Rassegne/Alluvione-1966-in-Trentino"
+    },
+    "descriptionVerified": "2026-10-27",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-arancio2/27441205-1-ita-IT/sfondo-arancio_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Alluvione-1966-in-Trentino",
+    "assetVerified": "2026-10-27"
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-10",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -8392,6 +8386,42 @@
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "l-amore-si-impara-2026",
+    "name": {
+      "de": "L'amore si impara",
+      "en": "L'amore si impara",
+      "it": "L'amore si impara"
+    },
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Dialogo pubblico con Marzia Camarda, autrice del Dizionario di genere. Incontro condotto dal Circolo del Cinema San Marco, intervengono:"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/L-amore-si-impara",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/L-amore-si-impara"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/L-amore-si-impara"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
   },
   {
     "id": "lilt-for-men-2026",
@@ -9110,6 +9140,42 @@
     ]
   },
   {
+    "id": "lanternata-di-san-martino-il-bondone-dei-bambini-2026",
+    "name": {
+      "de": "Lanternata di San Martino: il Bondone dei bambini",
+      "en": "Lanternata di San Martino: il Bondone dei bambini",
+      "it": "Lanternata di San Martino: il Bondone dei bambini"
+    },
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "startTime": null,
+    "municipality": "Bondone",
+    "area": "Trento",
+    "venue": "Bondone",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il Bondone si prepara ad accogliere i più piccoli con un calendario di appuntamenti dedicati alla scoperta delle tradizioni, al divertimento e alla condivisione. L'associazione ProLoco Monte Bondone, firmataria del patto di collaborazione \"Gestione condivisa del Malgone di Candriai\" organizza la suggestiva Lanternata di San Martino."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Lanternata-di-San-Martino-il-Bondone-dei-bambini",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Lanternata-di-San-Martino-il-Bondone-dei-bambini"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Lanternata-di-San-Martino-il-Bondone-dei-bambini"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
+  },
+  {
     "id": "mese-del-gusto-2026-13",
     "name": {
       "de": "Mese del Gusto",
@@ -9655,6 +9721,42 @@
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213"
   },
   {
+    "id": "il-lavoro-non-e-neutro-2026",
+    "name": {
+      "de": "Il lavoro non è neutro",
+      "en": "Il lavoro non è neutro",
+      "it": "Il lavoro non è neutro"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "ll convegno esplora come stereotipi, modelli organizzativi e dinamiche di potere influenzano le disuguaglianze di genere nel mondo del lavoro. Attraverso un approccio interdisciplinare e il confronto tra diverse professioni, saranno approfondite le modalità con cui queste disuguaglianze si manifestano nei contesti lavorativi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-lavoro-non-e-neutro",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Il-lavoro-non-e-neutro"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Il-lavoro-non-e-neutro"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
+  },
+  {
     "id": "fb-mercatini-di-natale-di-arco-christmas-market-2026",
     "name": {
       "de": "Mercatini di Natale di Arco (Christmas Market)",
@@ -9756,6 +9858,42 @@
     "assetVerified": "2026-10-05"
   },
   {
+    "id": "show-me-your-labels-2026",
+    "name": {
+      "de": "Show me your Labels",
+      "en": "Show me your Labels",
+      "it": "Show me your Labels"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "L'evento, dedicato al tema delle etichette sociali, si svolge attorno all'opera scultorea \"Show Me Your Labels\" di Tania Dotti e invita i visitatori a interagire e partecipare attivamente all'opera. La curatrice Eva Lavinia Maffei introdurrà e condurrà l'incontro, mentre la psicologa dott.ssa Paola Taufer offrirà un approfondimento professionale sul fenomeno delle etichette sociali e sui suoi potenziali effetti sulla salute mentale."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Show-me-your-Labels",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Show-me-your-Labels"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Show-me-your-Labels"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
+  },
+  {
     "id": "alla-scoperta-di-trento-2026-12",
     "name": {
       "de": "Alla scoperta di Trento",
@@ -9790,6 +9928,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento22"
     }
+  },
+  {
+    "id": "circle-time-adolescenza-le-relazioni-romantiche-incontro-di-formazione-2026",
+    "name": {
+      "de": "Circle Time adolescenza: le relazioni romantiche, incontro di formazione",
+      "en": "Circle Time adolescenza: le relazioni romantiche, incontro di formazione",
+      "it": "Circle Time adolescenza: le relazioni romantiche, incontro di formazione"
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "In cosa consistono le relazioni romantiche? Perchè influiscono nelle tappe di crescita e nella costruzione di sè?"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Circle-Time-adolescenza-le-relazioni-romantiche-incontro-di-formazione",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Circle-Time-adolescenza-le-relazioni-romantiche-incontro-di-formazione"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Circle-Time-adolescenza-le-relazioni-romantiche-incontro-di-formazione"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
   },
   {
     "id": "from-taste-to-taste-2026",
@@ -9948,6 +10122,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante54"
     }
+  },
+  {
+    "id": "pari-passo-ridisegnare-il-lavoro-tra-genere-famiglia-e-professione-2026",
+    "name": {
+      "de": "Pari passo: ridisegnare il lavoro tra genere, famiglia e professione",
+      "en": "Pari passo: ridisegnare il lavoro tra genere, famiglia e professione",
+      "it": "Pari passo: ridisegnare il lavoro tra genere, famiglia e professione"
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Confronto sul rapporto tra lavoro genere, famiglia, professione e responsabilità di cura. L’obiettivo è mettere in dialogo istituzioni, mondo del lavoro, professionisti e professioniste, previdenza e associazioni per individuare strumenti e possibili azioni concrete a sostegno della parità professionale."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pari-passo-ridisegnare-il-lavoro-tra-genere-famiglia-e-professione",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Pari-passo-ridisegnare-il-lavoro-tra-genere-famiglia-e-professione"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Pari-passo-ridisegnare-il-lavoro-tra-genere-famiglia-e-professione"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
   },
   {
     "id": "pomeriggi-di-giochi-da-tavolo-2026",
@@ -10454,6 +10664,42 @@
     }
   },
   {
+    "id": "qual-e-il-prezzo-del-genere-2026",
+    "name": {
+      "de": "Qual è il prezzo del genere?",
+      "en": "Qual è il prezzo del genere?",
+      "it": "Qual è il prezzo del genere?"
+    },
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Tra cultura, comportamenti e aspettative sociali: comprendere i fattori che modellano il nostro rapporto con il denaro e il ruolo dell’educazione finanziaria per costruire maggiore consapevolezza economica. Le differenze economiche tra donne e uomini non dipendono soltanto dalle scelte individuali, ma affondano le radici in fattori sociali, culturali e psicologici che influenzano il nostro rapporto con il denaro."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Qual-e-il-prezzo-del-genere",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Qual-e-il-prezzo-del-genere"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Qual-e-il-prezzo-del-genere"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
+  },
+  {
     "id": "event-2026",
     "name": {
       "de": "<<",
@@ -10522,6 +10768,42 @@
     },
     "descriptionVerified": "2026-10-21",
     "assetVerified": "2026-10-21"
+  },
+  {
+    "id": "le-parole-fanno-la-differenza-2026",
+    "name": {
+      "de": "Le parole fanno la differenza",
+      "en": "Le parole fanno la differenza",
+      "it": "Le parole fanno la differenza"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Eventi per la giornata internazionale per l’eliminazione della violenza contro le donne Evento per alunni, insegnanti, famiglie e cittadinanza"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Le-parole-fanno-la-differenza",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Le-parole-fanno-la-differenza"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Le-parole-fanno-la-differenza"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
   },
   {
     "id": "trento-christmas-2026",
@@ -10594,6 +10876,42 @@
     }
   },
   {
+    "id": "primo-amore-2026",
+    "name": {
+      "de": "Primo amore",
+      "en": "Primo amore",
+      "it": "Primo amore"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Visione del film \"Primo amore\" di Matteo Gaarrone, dolorosa ed enigmatica storia di amore e disfacimento fisico e psichico. A seguire, intervento della dott.ssa Alessia Tuselli del Centro di Studi Interdisciplinari di Genere."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Primo-amore",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Primo-amore"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Primo-amore"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
+  },
+  {
     "id": "rovereto-christmas-2026",
     "name": {
       "en": "Rintocchi di Luce – Christmas in Rovereto",
@@ -10664,6 +10982,42 @@
     "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "rompi-il-silenzio-amore-non-e-violenza-2026",
+    "name": {
+      "de": "Rompi il silenzio. Amore non è Violenza",
+      "en": "Rompi il silenzio. Amore non è Violenza",
+      "it": "Rompi il silenzio. Amore non è Violenza"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Evento teatrale a cura della \"Compagnia che non c’è\" con l'obiettivo di sensibilizzare la comunità sul tema della violenza contro le donne, promuovere una cultura del rispetto, della parità e della prevenzione, offrire strumenti per riconoscere e comprendere le diverse forme di violenza, favorire il dialogo e la riflessione collettiva e coinvolgere attivamente la cittadinanza in un tema di forte rilevanza sociale. Eventi per la giornata internazionale per l’eliminazione della violenza contro le donne"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Rompi-il-silenzio.-Amore-non-e-Violenza",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Rompi-il-silenzio.-Amore-non-e-Violenza"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Rompi-il-silenzio.-Amore-non-e-Violenza"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
   },
   {
     "id": "un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso-2026-3",
@@ -11127,6 +11481,42 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "la-parita-in-gioco-2026",
+    "name": {
+      "de": "La parità in gioco",
+      "en": "La parità in gioco",
+      "it": "La parità in gioco"
+    },
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-23",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Nel pomeriggio, con un'esperta sul tema, si affronterà come riconoscere le discriminazioni e violenze di genere nel mondo sportivo e come si può sviluppare una \"buona prassi\" per fronteggiarle. Presso Sala Agorà, la sala polivalente e auditorium principale della Casa Sociale di Povo, situata in Via Salè 1 a Povo (Trento)"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-parita-in-gioco",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-parita-in-gioco"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/La-parita-in-gioco"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
+  },
+  {
     "id": "un-mare-di-avventure-2026",
     "name": {
       "de": "Un mare di avventure",
@@ -11233,6 +11623,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Storia-di-un-no"
     }
+  },
+  {
+    "id": "trento-non-solo-a-passo-d-uomo-2026",
+    "name": {
+      "de": "Trento, (non solo) a passo d'uomo",
+      "en": "Trento, (non solo) a passo d'uomo",
+      "it": "Trento, (non solo) a passo d'uomo"
+    },
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La città, dopo il tramonto, cambia fisionomia, e non sempre risulta accogliente per tutti: si propone di esplorare la vivibilità notturna di Trento, con l'assunto che la sicurezza urbana non derivi da logiche securitarie o di sola sorveglianza, ma da una progettazione inclusiva e di qualità degli spazi e dei collegamenti."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Trento-non-solo-a-passo-d-uomo",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Trento-non-solo-a-passo-d-uomo"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Trento-non-solo-a-passo-d-uomo"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
   },
   {
     "id": "amici-nei-libri-2026",
@@ -11379,6 +11805,42 @@
     }
   },
   {
+    "id": "non-sempre-si-vede-riconoscere-la-violenza-contro-le-donne-con-disabilit-2026",
+    "name": {
+      "de": "Non sempre si vede. Riconoscere la violenza contro le donne con disabilità",
+      "en": "Non sempre si vede. Riconoscere la violenza contro le donne con disabilità",
+      "it": "Non sempre si vede. Riconoscere la violenza contro le donne con disabilità"
+    },
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-25",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "L’evento affronta un tema ancora poco esplorato: la violenza contro le donne con disabilità, nelle sue diverse forme – fisica, psicologica, economica e digitale – e la particolare condizione di vulnerabilità che nasce dall’interazione tra genere e disabilità. Al centro dell’incontro vi sarà il concetto di discriminazione intersezionale, che ricorre quando più fattori discriminatori non si limitano a sommarsi, ma interagiscono tra loro dando origine a una condizione nuova e specifica."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Non-sempre-si-vede.-Riconoscere-la-violenza-contro-le-donne-con-disabilita",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Non-sempre-si-vede.-Riconoscere-la-violenza-contro-le-donne-con-disabilita"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Non-sempre-si-vede.-Riconoscere-la-violenza-contro-le-donne-con-disabilita"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
+  },
+  {
     "id": "serata-informativa-sulla-violenza-contro-le-donne-2026",
     "name": {
       "de": "Serata informativa sulla violenza contro le donne",
@@ -11413,6 +11875,42 @@
     },
     "descriptionVerified": "2026-10-26",
     "assetVerified": "2026-10-26"
+  },
+  {
+    "id": "storia-di-un-no-2026-2",
+    "name": {
+      "de": "Storia di un NO",
+      "en": "Storia di un NO",
+      "it": "Storia di un NO"
+    },
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-25",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Spettacolo teatrale per ragazzi e ragazze delle superiori sulle relazioni tra i generi a cui segue dibattito. Spettacolo riservato alle scuole in continuità con i progetti scolastici in corso."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Storia-di-un-NO2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Storia-di-un-NO2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Storia-di-un-NO2"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
   },
   {
     "id": "goya-quartet-2026",
@@ -13054,6 +13552,42 @@
     "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "strozegada-de-santa-luzia-il-bondone-dei-bambini-2026",
+    "name": {
+      "de": "Strozegada de Santa Luzia: il Bondone dei bambini",
+      "en": "Strozegada de Santa Luzia: il Bondone dei bambini",
+      "it": "Strozegada de Santa Luzia: il Bondone dei bambini"
+    },
+    "startDate": "2026-12-13",
+    "endDate": "2026-12-13",
+    "startTime": null,
+    "municipality": "Bondone",
+    "area": "Trento",
+    "venue": "Bondone",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il Bondone si prepara ad accogliere i più piccoli con un calendario di appuntamenti dedicati alla scoperta delle tradizioni, al divertimento e alla condivisione. L'associazione ProLoco Monte Bondone, firmataria del patto di collaborazione \"Gestione condivisa del Malgone di Candriai\" organizza la tradizionale Strozegada di Santa Lucia ."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Strozegada-de-Santa-Luzia-il-Bondone-dei-bambini",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-27",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Strozegada-de-Santa-Luzia-il-Bondone-dei-bambini"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Strozegada-de-Santa-Luzia-il-Bondone-dei-bambini"
+    },
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27"
   },
   {
     "id": "mamme-in-cerchio-2026-3",
@@ -15233,8 +15767,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-26",
-    "assetVerified": "2026-10-26",
+    "descriptionVerified": "2026-10-27",
+    "assetVerified": "2026-10-27",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
