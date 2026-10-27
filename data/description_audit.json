@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-26",
-  "currentEvents": 328,
-  "complete": 131,
+  "checkedAt": "2026-10-27",
+  "currentEvents": 343,
+  "complete": 129,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -358,6 +358,13 @@
       ]
     },
     {
+      "id": "halloween-a-1000-metri-il-bondone-dei-bambini-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "in-cammino-con-il-museo-2026-2",
       "languages": [
         "de",
@@ -395,7 +402,21 @@
       ]
     },
     {
+      "id": "alluvione-1966-in-trentino-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "scappo-a-teatro-scuole-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "l-amore-si-impara-2026",
       "languages": [
         "de",
         "en"
@@ -477,6 +498,13 @@
         "de",
         "en",
         "it"
+      ]
+    },
+    {
+      "id": "lanternata-di-san-martino-il-bondone-dei-bambini-2026",
+      "languages": [
+        "de",
+        "en"
       ]
     },
     {
@@ -578,7 +606,28 @@
       ]
     },
     {
+      "id": "il-lavoro-non-e-neutro-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "show-me-your-labels-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "alla-scoperta-di-trento-2026-12",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "circle-time-adolescenza-le-relazioni-romantiche-incontro-di-formazione-2026",
       "languages": [
         "de",
         "en"
@@ -600,6 +649,13 @@
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-12",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "pari-passo-ridisegnare-il-lavoro-tra-genere-famiglia-e-professione-2026",
       "languages": [
         "de",
         "en"
@@ -648,7 +704,35 @@
       ]
     },
     {
+      "id": "qual-e-il-prezzo-del-genere-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "dai-neta-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "le-parole-fanno-la-differenza-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "primo-amore-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "rompi-il-silenzio-amore-non-e-violenza-2026",
       "languages": [
         "de",
         "en"
@@ -697,6 +781,13 @@
       ]
     },
     {
+      "id": "la-parita-in-gioco-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "un-mare-di-avventure-2026",
       "languages": [
         "de",
@@ -712,6 +803,13 @@
     },
     {
       "id": "storia-di-un-no-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "trento-non-solo-a-passo-d-uomo-2026",
       "languages": [
         "de",
         "en"
@@ -746,7 +844,21 @@
       ]
     },
     {
+      "id": "non-sempre-si-vede-riconoscere-la-violenza-contro-le-donne-con-disabilit-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "serata-informativa-sulla-violenza-contro-le-donne-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "storia-di-un-no-2026-2",
       "languages": [
         "de",
         "en"
@@ -999,6 +1111,13 @@
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-16",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "strozegada-de-santa-luzia-il-bondone-dei-bambini-2026",
       "languages": [
         "de",
         "en"
