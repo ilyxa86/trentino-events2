@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-27",
-  "currentEvents": 343,
-  "complete": 129,
+  "checkedAt": "2026-10-28",
+  "currentEvents": 344,
+  "complete": 127,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -294,27 +294,6 @@
       ]
     },
     {
-      "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "il-peso-invisibile-la-fatica-che-non-si-vede-di-chi-assiste-ogni-giorno-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "un-laboratorio-da-paura-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "citta-alberi-salute-progettare-il-cambiamento-2026",
       "languages": [
         "de",
@@ -394,11 +373,25 @@
       ]
     },
     {
+      "id": "il-cimitero-racconta-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "in-cammino-con-il-museo-2026",
       "languages": [
         "de",
         "en",
         "it"
+      ]
+    },
+    {
+      "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026",
+      "languages": [
+        "de",
+        "en"
       ]
     },
     {
@@ -413,6 +406,14 @@
       "languages": [
         "de",
         "en"
+      ]
+    },
+    {
+      "id": "cineforum-san-marco-2026",
+      "languages": [
+        "de",
+        "en",
+        "it"
       ]
     },
     {
@@ -802,6 +803,13 @@
       ]
     },
     {
+      "id": "incontro-di-approfondimento-per-amministratore-trice-di-sostegno-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "storia-di-un-no-2026",
       "languages": [
         "de",
@@ -1005,6 +1013,13 @@
       ]
     },
     {
+      "id": "incontro-di-approfondimento-per-amministratore-trice-di-sostegno-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-14",
       "languages": [
         "de",
@@ -1051,6 +1066,14 @@
       "languages": [
         "de",
         "en"
+      ]
+    },
+    {
+      "id": "teatro-di-ala-stagione-2026",
+      "languages": [
+        "de",
+        "en",
+        "it"
       ]
     },
     {
