@@ -1721,43 +1721,6 @@
     "descriptionVerified": "2026-10-15"
   },
   {
-    "id": "fora-fest-2026",
-    "name": {
-      "de": "Fòra Fest",
-      "en": "Fòra Fest",
-      "it": "Fòra Fest"
-    },
-    "startDate": "2026-10-06",
-    "endDate": "2026-10-17",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Una rassegna culturale diffusa per la salute mentale e l'inclusione a Rovereto e in tutto il Trentino. La salute mentale è ancora oggi un tema caratterizzato da stigma e uno dei principali ostacoli all'inclusione e alla piena partecipazione sociale dell'individuo all'interno della comunità."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/fora-fest",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-08",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Fora-Fest.png",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/fora-fest"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/fora-fest/"
-    },
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
-  },
-  {
     "id": "haydn-stagione-sinfonica-27-2026",
     "name": {
       "de": "Haydn Stagione Sinfonica 2026/27",
@@ -2472,207 +2435,6 @@
     },
     "descriptionVerified": "2026-10-18",
     "assetVerified": "2026-10-18"
-  },
-  {
-    "id": "casteldi-sera-2026",
-    "name": {
-      "de": "Casteldì sera",
-      "en": "Casteldì sera",
-      "it": "Casteldì sera"
-    },
-    "startDate": "2026-10-16",
-    "endDate": "2026-10-16",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Scopri il Castello del Buonconsiglio in una veste inedita con un'apertura serale straordinaria. Dopo l'orario di chiusura, lasciati accompagnare in una visita guidata tra ambienti suggestivi e luoghi segreti, per vivere il castello in un'atmosfera unica.",
-      "de": "Diese Abendöffnung des Castello del Buonconsiglio ermöglicht Führungsteilnehmern nach regulärer Schließzeit ungewöhnliche Einblicke in besonders stimmungsvolle und verborgene Bereiche der Burg. Besucher erleben das historische Anwesen bei einer geführten Tour in einer atmosphärisch dichter Abendstimmung und entdecken sonst nicht zugängliche Räume.",
-      "en": "This special evening opening of Castello del Buonconsiglio offers guided visits after regular closing time, providing atmospheric access to evocative and normally hidden parts of the castle. Participants are led through suggestive environments and secret corners, experiencing the historic site in a uniquely nocturnal setting."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Casteldi-sera5",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Casteldi-sera5"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Casteldi-sera5",
-      "de": "https://eventi.comune.trento.it/Eventi/Casteldi-sera5",
-      "en": "https://eventi.comune.trento.it/Eventi/Casteldi-sera5"
-    }
-  },
-  {
-    "id": "nicolo-dorigati-nel-segno-del-barocco-2026",
-    "name": {
-      "de": "NICOLÒ DORIGATI. Nel segno del Barocco",
-      "en": "NICOLÒ DORIGATI. Nel segno del Barocco",
-      "it": "NICOLÒ DORIGATI. Nel segno del Barocco"
-    },
-    "startDate": "2026-10-16",
-    "endDate": "2026-10-16",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Il Museo Diocesano Tridentino dedica la prima mostra monografica a Nicolò Dorigati (Trento, 1662 – 1740/1742), uno dei principali protagonisti della pittura trentina tra Sei e Settecento. Per quasi cinquant'anni Dorigati lavorò soprattutto per la Chiesa, realizzando pale d'altare, cicli decorativi e ritratti destinati a chiese, conventi e famiglie del territorio.",
-      "de": "Das Diözesanmuseum Trento widmet seine erste Monografie Nicolò Dorigati (1662–1740/42) und stellt sein Werk als Schlüsselgestalt der trentinischen Malerei zwischen 17. und 18. Jahrhundert vor. Die Ausstellung zeigt seine knapp fünf Jahrzehnte währende Produktion für Kirchen, Klöster und lokale Familien, darunter Altarbilder, dekorative Zyklen und Porträts.",
-      "en": "The Diocesan Museum of Trento presents the first monographic exhibition devoted to Nicolò Dorigati (1662–1740/42), highlighting his role as a major figure in Trentino painting between the 17th and 18th centuries. The show traces nearly fifty years of work produced mainly for churches, convents and local patrons, including altarpieces, decorative cycles and portraits."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-06",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2",
-      "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco2"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco2",
-      "de": "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2",
-      "en": "https://eventi.comune.trento.it/Eventi/NICOLO-DORIGATI.-Nel-segno-del-Barocco2"
-    }
-  },
-  {
-    "id": "ottobre-in-liberty-2026-2",
-    "name": {
-      "de": "Ottobre in Liberty",
-      "en": "Ottobre in Liberty",
-      "it": "Ottobre in Liberty"
-    },
-    "startDate": "2026-10-16",
-    "endDate": "2026-10-16",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Per informazioni potete passare in biblioteca, telefonare al numero 0461 889559 o mandare una e-mail a bibliotea.ragazzi@comune.trento.it . Per aggiornamenti seguite il sito della biblioteca e le pagine facebook e instagram .",
-      "de": "Die Veranstaltung bündelt bibliothekarische Angebote mit Informationen zur Reihe; Interessenten können sich direkt über die städtische Bibliothek telefonisch, per E‑Mail oder vor Ort erkundigen. Ergänzende Hinweise und aktuelle Meldungen werden über die Bibliothekskanäle und Social‑Media‑Auftritte kommuniziert.",
-      "en": "The program is coordinated through the municipal library, which provides contact options by phone, email and in-person for information about activities linked to the Liberty-themed October initiative. Updates and additional details are communicated via the library’s website and its Facebook and Instagram pages."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty",
-      "de": "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty",
-      "en": "https://eventi.comune.trento.it/Eventi/Ottobre-in-Liberty"
-    }
-  },
-  {
-    "id": "padre-fabrizio-forti-intitolazione-piazzale-carcere-di-trento-2026",
-    "name": {
-      "de": "Padre Fabrizio Forti - intitolazione piazzale carcere di Trento",
-      "en": "Padre Fabrizio Forti - intitolazione piazzale carcere di Trento",
-      "it": "Padre Fabrizio Forti - intitolazione piazzale carcere di Trento"
-    },
-    "startDate": "2026-10-16",
-    "endDate": "2026-10-16",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "A dieci anni dalla morte, il Comune di Trento ricorda la figura di padre Fabrizio Forti, frate cappuccino, cappellano del carcere di Trento, fondatore e anima della mensa della Provvidenza. A padre Forti sarà intitolato il piazzale davanti alla Casa circondariale, inoltre in suo ricordo sarà scoperta una targa in un’aiuola all’ingresso del carcere.",
-      "de": "Zehn Jahre nach seinem Tod ehrt die Gemeinde Trento Padre Fabrizio Forti, Kapuziner und langjähriger Gefängnisseelsorger, indem sie den Vorplatz des Gefängnisses nach ihm benennt und eine Gedenktafel an einem Beet am Eingang anbringt. Die Widmung würdigt Fortis Engagement, insbesondere als Gründer und treibende Kraft der Mensa della Provvidenza.",
-      "en": "Ten years after his death the municipality of Trento commemorates Father Fabrizio Forti, a Capuchin friar and prison chaplain, by dedicating the square in front of the prison to him and unveiling a plaque in a planting bed at the entrance. The ceremony recognizes his role as founder and driving force behind the Mensa della Provvidenza."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-15",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento",
-      "de": "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento",
-      "en": "https://eventi.comune.trento.it/Eventi/Padre-Fabrizio-Forti-intitolazione-piazzale-carcere-di-Trento"
-    }
-  },
-  {
-    "id": "un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso-2026-2",
-    "name": {
-      "de": "Un libro ben scelto ti salva da tutto, persino da te stesso",
-      "en": "Un libro ben scelto ti salva da tutto, persino da te stesso",
-      "it": "Un libro ben scelto ti salva da tutto, persino da te stesso"
-    },
-    "startDate": "2026-10-16",
-    "endDate": "2026-10-16",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Un appuntamento mensile non solo di libri da raccontare, ma anche di storie da vivere insieme.",
-      "de": "Dieser monatliche Treff verbindet Buchempfehlungen mit gemeinsamer Erzähl- und Erlebnisvermittlung, sodass die Lektüre nicht nur vorgestellt, sondern in gemeinschaftliche Aktivitäten verwandelt wird. Das Format lädt Teilnehmende ein, Geschichten aktiv zu teilen und Literatur als Anlass für gemeinsames Erleben zu nutzen.",
-      "en": "This monthly appointment is not only about recommending books but about living stories together: sessions pair literary suggestions with shared activities so reading becomes an interactive, communal experience. The format encourages participants to exchange narratives and engage with books as starting points for collective storytelling and experiences."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso7",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso7"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso7",
-      "de": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso7",
-      "en": "https://eventi.comune.trento.it/Eventi/Un-libro-ben-scelto-ti-salva-da-tutto-persino-da-te-stesso7"
-    }
   },
   {
     "id": "wired-next-2026",
@@ -8031,6 +7793,42 @@
     }
   },
   {
+    "id": "il-cimitero-racconta-2026",
+    "name": {
+      "de": "Il cimitero racconta",
+      "en": "Il cimitero racconta",
+      "it": "Il cimitero racconta"
+    },
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-02",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Alle ore 16:00, con ritrovo all’ingresso di via Madruzzo e conclusione nella Sala del commiato, si terrà “Il Cimitero racconta”, un percorso tra storie, immagini, parole e musica pensato per riscoprire il Cimitero Monumentale quale patrimonio culturale della città. L’iniziativa intreccerà le storie con le immagini, affidate a Lucia Oss, le parole di Raffaella Lenzi e le musiche di Mertcan Uzel."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-cimitero-racconta",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Il-cimitero-racconta"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Il-cimitero-racconta"
+    },
+    "descriptionVerified": "2026-10-28",
+    "assetVerified": "2026-10-28"
+  },
+  {
     "id": "arco-verticale-2026",
     "name": {
       "de": "Arco Verticale",
@@ -8273,6 +8071,42 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026",
+    "name": {
+      "de": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "en": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "it": "Voci di pietra sulle ali del vento: storie insolite di Trento"
+    },
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Laboratorio di scrittura creativa dedicato a chi vuole scoprire la città in modo originale e, allo stesso tempo, ritrovare il piacere di dare forma alle proprie parole. Il laboratorio intreccia passi lenti per le vie di Trento e momenti di scrittura, un percorso che segue alcuni dei racconti contenuti nel libro di Lucia Oss (Voci di pietra sulle ali del vento: storie insolite di Trento), come una mappa di voci nascoste, monumenti che si animano, dettagli che diventano portali narrativi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento"
+    },
+    "descriptionVerified": "2026-10-28",
+    "assetVerified": "2026-10-28"
+  },
+  {
     "id": "alluvione-1966-in-trentino-2026",
     "name": {
       "de": "Alluvione 1966 in Trentino",
@@ -8386,6 +8220,38 @@
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "cineforum-san-marco-2026",
+    "name": {
+      "de": "Cineforum San Marco 2026/2027",
+      "en": "Cineforum San Marco 2026/2027",
+      "it": "Cineforum San Marco 2026/2027"
+    },
+    "startDate": "2026-11-05",
+    "endDate": "2026-12-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {},
+    "descriptionStatus": "missing",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Cineforum-San-Marco-2026-2027",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-10-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Cineforum-San-Marco-2026-2027"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cineforum-san-marco2/28196356-1-ita-IT/cineforum-san-marco_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Cineforum-San-Marco-2026-2027",
+    "assetVerified": "2026-10-28"
   },
   {
     "id": "l-amore-si-impara-2026",
@@ -8871,6 +8737,49 @@
     "descriptionVerified": "2026-10-15"
   },
   {
+    "id": "climbing-arco-a-meeting-place-2026",
+    "name": {
+      "de": "Climbing: ARCO – A Meeting Place",
+      "en": "Climbing: ARCO – A Meeting Place",
+      "it": "Climbing: ARCO – A Meeting Place"
+    },
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "startTime": "19:00",
+    "municipality": "Tenno",
+    "area": "Alto Garda",
+    "venue": "Tenno",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Celebrating the 20th anniversary of the opening of the “Rhythmic Routes”. Find out all about Climbing: ARCO – A Meeting Place and other events in Tenno!",
+      "it": "In occasione del 20° anniversario dell'apertura delle vie \"ritmiche\". Scopri tutto su Arrampicata: ARCO - Un luogo d'incontro e altri eventi a Tenno!",
+      "de": "Zum 20. Jubiläum der Erschließung der „rhythmischen Routen“."
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/climbing-arco-a-meeting-place_103378",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/climbing-arco-a-meeting-place_103378",
+      "https://www.gardatrentino.it/en/discover/events?page=2"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/climbing-arco-a-meeting-place_103378",
+      "it": "https://www.gardatrentino.it/it/eventi/arrampicata-arco-un-luogo-dincontro_103378",
+      "de": "https://www.gardatrentino.it/de/event/klettern-arco-ein-ort-der-begegnung_103378"
+    },
+    "descriptionVerified": "2026-10-28",
+    "image": "https://www.gardatrentino.it/website_images/events/vie_ritmiche.png",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/climbing-arco-a-meeting-place_103378",
+    "assetVerified": "2026-10-28"
+  },
+  {
     "id": "festa-della-noce-2026",
     "name": {
       "de": "Festa della Noce",
@@ -8942,10 +8851,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/frantoi-aperti_11319",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-18",
+    "verified": "2026-10-28",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -11589,6 +11499,42 @@
     "assetVerified": "2026-10-23"
   },
   {
+    "id": "incontro-di-approfondimento-per-amministratore-trice-di-sostegno-2026",
+    "name": {
+      "de": "Incontro di approfondimento per amministratore/trice di sostegno",
+      "en": "Incontro di approfondimento per amministratore/trice di sostegno",
+      "it": "Incontro di approfondimento per amministratore/trice di sostegno"
+    },
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Cos'è Incontro online martedì 24 novembre dalle 17:30 alle 19:30 Argomento: La pianificazione condivisa della cure (Pcc): introduzione giuridico-sanitaria per amministratori e amministratrici di sostegno Formatori: Simone Penasa, professore associato di diritto pubblico comparato presso Università di Trento e Gino Gobber, direttore Dipartimento ad attività integrata cure primarie e Unità operativa cure palliative presso Asuit A chi è rivolto Tutti/e"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Incontro-di-approfondimento-per-amministratore-trice-di-sostegno",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Incontro-di-approfondimento-per-amministratore-trice-di-sostegno"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Incontro-di-approfondimento-per-amministratore-trice-di-sostegno"
+    },
+    "descriptionVerified": "2026-10-28",
+    "assetVerified": "2026-10-28"
+  },
+  {
     "id": "storia-di-un-no-2026",
     "name": {
       "de": "Storia di un no",
@@ -12766,6 +12712,42 @@
     "assetVerified": "2026-10-26"
   },
   {
+    "id": "incontro-di-approfondimento-per-amministratore-trice-di-sostegno-2026-2",
+    "name": {
+      "de": "Incontro di approfondimento per amministratore/trice di sostegno",
+      "en": "Incontro di approfondimento per amministratore/trice di sostegno",
+      "it": "Incontro di approfondimento per amministratore/trice di sostegno"
+    },
+    "startDate": "2026-12-02",
+    "endDate": "2026-12-02",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Cos'è Incontro in presenza presso Fondazione Franco Demarchi mercoledì 2 dicembre dalle 17:30 alle 19:30 Argomento: Incontro informativo sull'Amministrazione di sostegno associativa Intervengono: Simone Di Giorgio, avvocato e collaboratore dell'Associazione comitato amministratore di sostegno in Trentino parteciperanno con la loro testimonianza realtà che svolgono questo incarico: Associazione comitato per l'amministratore di sostegno in Trentino e Associazione Rencureme A chi è rivolto Tutti/e"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Incontro-di-approfondimento-per-amministratore-trice-di-sostegno2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Incontro-di-approfondimento-per-amministratore-trice-di-sostegno2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Incontro-di-approfondimento-per-amministratore-trice-di-sostegno2"
+    },
+    "descriptionVerified": "2026-10-28",
+    "assetVerified": "2026-10-28"
+  },
+  {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-14",
     "name": {
       "de": "Mercato contadino di via Fabio Filzi",
@@ -13016,6 +12998,38 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante57"
     }
+  },
+  {
+    "id": "teatro-di-ala-stagione-2026",
+    "name": {
+      "de": "Teatro di Ala | Stagione 2026/2027",
+      "en": "Teatro di Ala | Stagione 2026/2027",
+      "it": "Teatro di Ala | Stagione 2026/2027"
+    },
+    "startDate": "2026-12-05",
+    "endDate": "2027-03-14",
+    "startTime": null,
+    "municipality": "Ala",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Ala",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {},
+    "descriptionStatus": "missing",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Teatro-di-Ala-Stagione-2026-2027",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-10-28",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Teatro-di-Ala-Stagione-2026-2027"
+    ],
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Teatro-di-Ala-Stagione-2026-2027",
+    "assetVerified": "2026-10-28"
   },
   {
     "id": "natale-di-montagna-2026",
@@ -15767,8 +15781,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-27",
-    "assetVerified": "2026-10-27",
+    "descriptionVerified": "2026-10-28",
+    "assetVerified": "2026-10-28",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
