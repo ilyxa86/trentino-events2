@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-28",
-  "currentEvents": 344,
-  "complete": 127,
+  "checkedAt": "2026-10-29",
+  "currentEvents": 348,
+  "complete": 123,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -165,13 +165,6 @@
       ]
     },
     {
-      "id": "incontrarti-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "rs-feva-european-championships-2026-3",
       "languages": [
         "de",
@@ -294,20 +287,6 @@
       ]
     },
     {
-      "id": "citta-alberi-salute-progettare-il-cambiamento-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "un-laboratorio-da-paura-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "l-ora-delle-storie-2026",
       "languages": [
         "de",
@@ -388,6 +367,13 @@
       ]
     },
     {
+      "id": "presentazione-libro-la-lacrima-del-serpente-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026",
       "languages": [
         "de",
@@ -396,6 +382,13 @@
     },
     {
       "id": "alluvione-1966-in-trentino-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "let-s-read-together-2026",
       "languages": [
         "de",
         "en"
@@ -452,7 +445,21 @@
       ]
     },
     {
+      "id": "un-autunno-pieno-di-storie-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "voci-per-il-benessere-alla-pari-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "ti-presento-l-opera-scent-of-time-il-profumo-del-tempo-2026",
       "languages": [
         "de",
         "en"
@@ -552,6 +559,13 @@
     },
     {
       "id": "presentazione-libro-l-alba-della-repubblica-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-2",
       "languages": [
         "de",
         "en"
@@ -698,6 +712,13 @@
       ]
     },
     {
+      "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-3",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "la-storia-del-rock-1-2026",
       "languages": [
         "de",
@@ -705,7 +726,21 @@
       ]
     },
     {
+      "id": "note-al-museo-musica-in-sala-arazzi-5-edizione-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "qual-e-il-prezzo-del-genere-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "casteldi-sera-2026",
       "languages": [
         "de",
         "en"
@@ -818,6 +853,13 @@
     },
     {
       "id": "trento-non-solo-a-passo-d-uomo-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-4",
       "languages": [
         "de",
         "en"
@@ -1013,6 +1055,13 @@
       ]
     },
     {
+      "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-5",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "incontro-di-approfondimento-per-amministratore-trice-di-sostegno-2026-2",
       "languages": [
         "de",
@@ -1099,6 +1148,13 @@
     },
     {
       "id": "mercato-dell-economia-solidale-2026-16",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-6",
       "languages": [
         "de",
         "en"
