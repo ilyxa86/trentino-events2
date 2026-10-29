@@ -1803,48 +1803,6 @@
     "assetVerified": "2026-10-15"
   },
   {
-    "id": "greenwalkexperience-2026",
-    "name": {
-      "de": "Greenwalkexperience",
-      "en": "Greenwalkexperience",
-      "it": "Greenwalkexperience"
-    },
-    "startDate": "2026-10-10",
-    "endDate": "2026-10-17",
-    "startTime": null,
-    "municipality": "Vallarsa",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Vallarsa",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Geführte Tour mit Nordic-Walking-Stöcken – Bewegung, Entdeckung und Wohlbefinden Bereiten Sie sich im Oktober darauf vor, bei langsamen Wanderungen, Sinnesübungen und Aktivitäten für das psychophysische Wohlbefinden bewusst in die Natur einzutauchen. Drei Termine, die Sie nicht verpassen sollten, unter der Leitung des Wanderbegleiters, Agroökologen und Nature-Tutors Stefano Delugan .",
-      "en": "A guided walking tour with hiking poles, combining movement, discovery and wellbeing This October, get ready to experience a mindful immersion in nature through slow walks, sensory exercises and activities promoting mental and physical wellbeing. Three unmissable events led by guide, agroecologist and nature tutor Stefano Delugan .",
-      "it": "Itinerario guidato con i bastoncini tra movimento, scoperta e benessere Ad ottobre, preparati a vivere un'immersione consapevole nella natura attraverso camminate lente, esercizi sensoriali e attività di benessere psicofisico. Tre appuntamenti imperdibili con la guida dell'accompagnatore, agroecologo e natural-tutor Stefano Delugan ."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience/",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-09-11",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/09/Greenwalkexperience-Luca-Matassoni-.jpg",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience",
-      "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience/"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/greenwalkexperience/",
-      "en": "https://www.visitrovereto.it/en/enjoy/events/greenwalkexperience/",
-      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/greenwalkexperience/"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
-  },
-  {
     "id": "dal-fucile-alla-matita-2026-3",
     "name": {
       "de": "Dal fucile alla matita",
@@ -2464,86 +2422,6 @@
     "verified": "2026-08-25"
   },
   {
-    "id": "alla-scoperta-di-trento-2026-8",
-    "name": {
-      "de": "Alla scoperta di Trento",
-      "en": "Alla scoperta di Trento",
-      "it": "Alla scoperta di Trento"
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Scopri la città di Trento con una guida turistica! Trento, nel cuore delle Alpi, ha una storia millenaria, fatta di tradizione mitteleuropea a cavallo tra mondo germanico e mondo italiano, le cui testimonianze sono visibili nel bel centro storico e sono perfettamente custodite, epoca dopo epoca, nei siti archeologici e nei musei d'eccellenza che la città ospita.",
-      "de": "Bei diesem geführten Stadtrundgang tauchen Besucher in die vielschichtige Geschichte Trentinos ein, deren mitteleuropäische und italienische Einflüsse sich im gut erhaltenen historischen Zentrum zeigen. Die Tour führt an archäologischen Stätten und herausragenden Museen vorbei und erläutert, wie sich die Stadt über die Jahrhunderte kulturell entwickelt hat.",
-      "en": "On this guided walk visitors explore Trento’s layered past, observing how Central European and Italian influences shaped the compact historic centre. The route highlights archaeological sites and prominent museums, explaining the city’s centuries-long cultural evolution and the tangible traces that remain in its streets and collections."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento18",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento18"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento18",
-      "de": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento18",
-      "en": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento18"
-    }
-  },
-  {
-    "id": "escape-room-la-lacrima-dell-ultimo-atto-2026-2",
-    "name": {
-      "de": "Escape Room - La Lacrima dell’ultimo atto",
-      "en": "Escape Room - La Lacrima dell’ultimo atto",
-      "it": "Escape Room - La Lacrima dell’ultimo atto"
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "A Cadine, Trento, torna l’escape room del Gruppo Oasi: un’esperienza al coperto per giovani, adulti e famiglie, nei weekend di ottobre 2026. Vivi l’emozione e il mistero con il tuo team, tra indizi segreti ed enigmi da risolvere insieme.",
-      "de": "Im Innenraum der Escape Room-Erfahrung des Gruppo Oasi lösen Teams aus Jugendlichen, Erwachsenen und Familien gemeinschaftlich Rätsel und folgen geheimen Hinweisen, um die Herausforderung zu meistern. Die Veranstaltung in Cadine bietet an ausgewählten Wochenenden im Oktober eine spannungsreiche, kooperative Spielumgebung voller Mystery-Elemente.",
-      "en": "The Gruppo Oasi indoor escape room in Cadine invites teams of youths, adults and families to work together solving puzzles and uncovering secret clues to overcome the challenge. Scheduled across October weekends, the experience delivers cooperative mystery-driven gameplay in a contained, immersive setting."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-30",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2",
-      "de": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2",
-      "en": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto2"
-    }
-  },
-  {
     "id": "fiera-di-san-luca-2026",
     "name": {
       "de": "Fiera di San Luca",
@@ -2583,89 +2461,6 @@
     "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "mercato-contadino-di-piazza-dante-2026-8",
-    "name": {
-      "de": "Mercato contadino di piazza Dante",
-      "en": "Mercato contadino di piazza Dante",
-      "it": "Mercato contadino di piazza Dante"
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Il mercato si svolge in piazza Dante (Circoscrizione Centro storico - Piedicastello) ogni sabato esclusi i festivi dalle 7:30 alle 13:00",
-      "de": "Der Bauernmarkt auf der Piazza Dante findet jeden Samstag (außer an Feiertagen) statt und bietet regionale Erzeugnisse von lokalen Produzenten direkt im Stadtteilzentrum an. Besucher können zwischen 7:30 und 13:00 Uhr frische Lebensmittel und typische Waren erwerben und die Marktatmosphäre des historischen Viertels erleben.",
-      "en": "The farmers’ market on Piazza Dante takes place every Saturday (excluding public holidays) and brings local producers into the city-centre neighbourhood to sell regional goods. Running from 7:30 to 13:00, it offers visitors the chance to buy fresh produce and typical products while enjoying the market atmosphere of the historic district."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante50",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante50"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante50",
-      "de": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante50",
-      "en": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante50"
-    }
-  },
-  {
-    "id": "mese-del-gusto-2026-10",
-    "name": {
-      "de": "Mese del Gusto",
-      "en": "Mese del Gusto",
-      "it": "Mese del Gusto"
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Mese del Gusto im Garda Trentino: Das herbstliche Food-Festival. Alle Informationen zu Events, Terminen, kulinarische Themenwege und Highlights.",
-      "en": "Autumn sees the return of events with taste: Mese del Gusto is the name capturing the gastronomic happenings that will bring Garda Trentino to the table.",
-      "it": "Rassegna di eventi autunnali che valorizzano i prodotti tipici del Garda Trentino."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-12",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
-    ],
-    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "en": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
-      "it": "https://www.gardatrentino.it/it/dolce-vita/food-and-wine/mese-del-gusto",
-      "de": "https://www.gardatrentino.it/de/dolce-vita/genuss/mese-del-gusto"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15"
   },
   {
     "id": "mese-del-gusto-2026-11",
@@ -2833,96 +2628,6 @@
     },
     "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15"
-  },
-  {
-    "id": "reboro-territorio-passione-2026",
-    "name": {
-      "de": "Reboro, Territorio & Passione",
-      "en": "Reboro, Territorio & Passione",
-      "it": "Reboro, Territorio & Passione"
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Die Veranstaltung im Zeichen des Reboro, des großen Passito aus dem Trentino. Erfahre alles über Reboro, Territorio & Passione und andere Veranstaltungen in Valle dei Laghi, Valle dei Laghi!",
-      "en": "The event dedicated to Reboro, a great Trentino red made with dried grapes is back. Find out all about Reboro, Territorio & Passione and other events in Valle dei Laghi, Valle dei Laghi!",
-      "it": "Torna l’appuntamento dedicato al grande rosso da appassimento Trentino . Scopri tutto su Reboro, Territorio & Passione e altri eventi a Valle dei Laghi, Valle dei Laghi!"
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/events/reboro-territorio-passione-_47996",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-14",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/discover/events?page=4",
-      "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=7",
-      "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/events/reboro-territorio-passione-_47996"
-    ],
-    "descriptionSources": {
-      "de": "https://www.gardatrentino.it/de/event/reboro-territorio-passione-_47996",
-      "en": "https://www.gardatrentino.it/en/events/reboro-territorio-passione-_47996",
-      "it": "https://www.gardatrentino.it/it/eventi/reboro-territorio-passione-_47996"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Reboro.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/events/reboro-territorio-passione-_47996",
-    "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "salita-alla-cantoria-del-duomo-2026-3",
-    "name": {
-      "de": "Salita alla cantoria del duomo",
-      "en": "Salita alla cantoria del duomo",
-      "it": "Salita alla cantoria del duomo"
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Il percorso darà l’opportunità ai visitatori di solcare i gradini delle scale rampanti che conducono alla cosiddetta cantoria, luogo solitamente chiuso al pubblico. L’itinerario si snoderà all’interno del Museo Diocesano Tridentino, dove si potranno attraversare gli ambienti utilizzati dal principe vescovo.",
-      "de": "Die Führung ermöglicht den Aufstieg über die gewundenen Treppen zur Cantoria, einem normalerweise für die Öffentlichkeit verschlossenen Bereich, und gewährt ungewöhnliche Einblicke in die Kirchenarchitektur. Der Rundgang verläuft durch den Diözesanmuseum Tridentino und zeigt Räume, die einst vom Fürstbischof genutzt wurden, und erzählt von ihrer historischen Nutzung.",
-      "en": "This visit grants access via the winding staircases up to the cantoria, an area usually closed to the public, offering rare architectural viewpoints. The itinerary continues through the Diocesan Museum of Trento, passing rooms historically used by the prince-bishop and revealing aspects of their past functions and context."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9",
-      "de": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9",
-      "en": "https://eventi.comune.trento.it/Eventi/Salita-alla-cantoria-del-duomo9"
-    }
   },
   {
     "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026-8",
@@ -8030,6 +7735,42 @@
     ]
   },
   {
+    "id": "presentazione-libro-la-lacrima-del-serpente-2026",
+    "name": {
+      "de": "Presentazione libro La lacrima del serpente",
+      "en": "Presentazione libro La lacrima del serpente",
+      "it": "Presentazione libro La lacrima del serpente"
+    },
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "I serpenti non piangono, ma anche loro conoscono il dolore. Arianna vive prigioniera di un’accusa che l’ha condannata prima di qualsiasi tribunale, mentre la verità fatica a trovare spazio tra sospetti e pregiudizi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-La-lacrima-del-serpente",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Presentazione-libro-La-lacrima-del-serpente"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-La-lacrima-del-serpente"
+    },
+    "descriptionVerified": "2026-10-29",
+    "assetVerified": "2026-10-29"
+  },
+  {
     "id": "stagione-audipop-2026",
     "name": {
       "de": "Stagione AudiPOP 2026/2027",
@@ -8143,6 +7884,42 @@
     "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-arancio2/27441205-1-ita-IT/sfondo-arancio_opengraph.jpg",
     "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Alluvione-1966-in-Trentino",
     "assetVerified": "2026-10-27"
+  },
+  {
+    "id": "let-s-read-together-2026",
+    "name": {
+      "de": "Let's read together",
+      "en": "Let's read together",
+      "it": "Let's read together"
+    },
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-04",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "L'ingresso è libero, per informazioni si può chiamare il numero 0461 912533 o mandare una e-mail all'indirizzo biblioteca.villazzano@comune.trento.it"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Let-s-read-together5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Let-s-read-together5"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Let-s-read-together5"
+    },
+    "descriptionVerified": "2026-10-29",
+    "assetVerified": "2026-10-29"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-10",
@@ -8434,6 +8211,42 @@
     }
   },
   {
+    "id": "un-autunno-pieno-di-storie-2026",
+    "name": {
+      "de": "Un autunno pieno di storie",
+      "en": "Un autunno pieno di storie",
+      "it": "Un autunno pieno di storie"
+    },
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per informazioni telefonare al numero 0461 889868 oppure scrivere all'indirizzo e-mail biblioteca.mattarello@comune.trento.it"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Un-autunno-pieno-di-storie",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Un-autunno-pieno-di-storie"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Un-autunno-pieno-di-storie"
+    },
+    "descriptionVerified": "2026-10-29",
+    "assetVerified": "2026-10-29"
+  },
+  {
     "id": "voci-per-il-benessere-alla-pari-2026",
     "name": {
       "de": "Voci per il benessere alla pari",
@@ -8468,6 +8281,42 @@
     },
     "descriptionVerified": "2026-10-26",
     "assetVerified": "2026-10-26"
+  },
+  {
+    "id": "ti-presento-l-opera-scent-of-time-il-profumo-del-tempo-2026",
+    "name": {
+      "de": "Ti presento l'opera - Scent of time. Il profumo del tempo",
+      "en": "Ti presento l'opera - Scent of time. Il profumo del tempo",
+      "it": "Ti presento l'opera - Scent of time. Il profumo del tempo"
+    },
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-06",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "SCENT OF TIME. IL PROFUMO DEL TEMPO Una lekythos attica per raccontare storie di aromi dal mondo antico alla contemporaneità Venerdì 6 novembre, alle ore 17:30, il Castello del Buonconsiglio ospita uno speciale appuntamento con “Ti presento l’opera”, un’occasione per riscoprire il mondo antico attraverso un’esperienza che intreccia archeologia, profumi e memoria."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ti-presento-l-opera-Scent-of-time.-Il-profumo-del-tempo",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ti-presento-l-opera-Scent-of-time.-Il-profumo-del-tempo"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Ti-presento-l-opera-Scent-of-time.-Il-profumo-del-tempo"
+    },
+    "descriptionVerified": "2026-10-29",
+    "assetVerified": "2026-10-29"
   },
   {
     "id": "alla-scoperta-di-trento-2026-11",
@@ -9342,6 +9191,42 @@
     },
     "descriptionVerified": "2026-10-21",
     "assetVerified": "2026-10-21"
+  },
+  {
+    "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-2",
+    "name": {
+      "de": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "en": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "it": "Voci di pietra sulle ali del vento: storie insolite di Trento"
+    },
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Laboratorio di scrittura creativa dedicato a chi vuole scoprire la città in modo originale e, allo stesso tempo, ritrovare il piacere di dare forma alle proprie parole. Il laboratorio intreccia passi lenti per le vie di Trento e momenti di scrittura, un percorso che segue alcuni dei racconti contenuti nel libro di Lucia Oss (Voci di pietra sulle ali del vento: storie insolite di Trento), come una mappa di voci nascoste, monumenti che si animano, dettagli che diventano portali narrativi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento2"
+    },
+    "descriptionVerified": "2026-10-29",
+    "assetVerified": "2026-10-29"
   },
   {
     "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026",
@@ -10377,6 +10262,42 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-3",
+    "name": {
+      "de": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "en": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "it": "Voci di pietra sulle ali del vento: storie insolite di Trento"
+    },
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-17",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Laboratorio di scrittura creativa dedicato a chi vuole scoprire la città in modo originale e, allo stesso tempo, ritrovare il piacere di dare forma alle proprie parole. Il laboratorio intreccia passi lenti per le vie di Trento e momenti di scrittura, un percorso che segue alcuni dei racconti contenuti nel libro di Lucia Oss (Voci di pietra sulle ali del vento: storie insolite di Trento), come una mappa di voci nascoste, monumenti che si animano, dettagli che diventano portali narrativi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento3"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento3"
+    },
+    "descriptionVerified": "2026-10-29",
+    "assetVerified": "2026-10-29"
+  },
+  {
     "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026-2",
     "name": {
       "de": "Corso avanzato per amministratore/trice di sostegno",
@@ -10492,6 +10413,44 @@
       "de": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi54",
       "en": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi54"
     }
+  },
+  {
+    "id": "note-al-museo-musica-in-sala-arazzi-5-edizione-2026",
+    "name": {
+      "de": "Note al Museo | Musica in Sala arazzi\" - 5° edizione",
+      "en": "Note al Museo | Musica in Sala arazzi\" - 5° edizione",
+      "it": "Note al Museo | Musica in Sala arazzi\" - 5° edizione"
+    },
+    "startDate": "2026-11-18",
+    "endDate": "2027-05-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Una nuova stagione di concerti tra jazz e contaminazioni musicali, nella suggestiva cornice del Museo Diocesano Tridentino. Il Museo Diocesano Tridentino presenta la quinta edizione di Note al Museo."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Note-al-Museo-Musica-in-Sala-arazzi-5-edizione",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-10-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Note-al-Museo-Musica-in-Sala-arazzi-5-edizione"
+    ],
+    "descriptionSources": {
+      "it": "https://www.cultura.trentino.it/Rassegne/Note-al-Museo-Musica-in-Sala-arazzi-5-edizione"
+    },
+    "descriptionVerified": "2026-10-29",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/note-al-museo7/28207862-1-ita-IT/note-al-museo_opengraph.png",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Note-al-Museo-Musica-in-Sala-arazzi-5-edizione",
+    "assetVerified": "2026-10-29"
   },
   {
     "id": "mercato-del-giovedi-2026-13",
@@ -10641,6 +10600,42 @@
       "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=1&lang=it"
     ],
     "removalReason": "Calendar navigation item, not an event"
+  },
+  {
+    "id": "casteldi-sera-2026",
+    "name": {
+      "de": "Casteldì sera",
+      "en": "Casteldì sera",
+      "it": "Casteldì sera"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Scopri il Castello del Buonconsiglio in una veste inedita con un'apertura serale straordinaria. Dopo l'orario di chiusura, lasciati accompagnare in una visita guidata tra ambienti suggestivi e luoghi segreti, per vivere il castello in un'atmosfera unica."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Casteldi-sera6",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Casteldi-sera6"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Casteldi-sera6"
+    },
+    "descriptionVerified": "2026-10-29",
+    "assetVerified": "2026-10-29"
   },
   {
     "id": "dai-neta-2026",
@@ -11605,6 +11600,42 @@
     },
     "descriptionVerified": "2026-10-27",
     "assetVerified": "2026-10-27"
+  },
+  {
+    "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-4",
+    "name": {
+      "de": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "en": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "it": "Voci di pietra sulle ali del vento: storie insolite di Trento"
+    },
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Laboratorio di scrittura creativa dedicato a chi vuole scoprire la città in modo originale e, allo stesso tempo, ritrovare il piacere di dare forma alle proprie parole. Il laboratorio intreccia passi lenti per le vie di Trento e momenti di scrittura, un percorso che segue alcuni dei racconti contenuti nel libro di Lucia Oss (Voci di pietra sulle ali del vento: storie insolite di Trento), come una mappa di voci nascoste, monumenti che si animano, dettagli che diventano portali narrativi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento4"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento4"
+    },
+    "descriptionVerified": "2026-10-29",
+    "assetVerified": "2026-10-29"
   },
   {
     "id": "amici-nei-libri-2026",
@@ -12712,6 +12743,42 @@
     "assetVerified": "2026-10-26"
   },
   {
+    "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-5",
+    "name": {
+      "de": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "en": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "it": "Voci di pietra sulle ali del vento: storie insolite di Trento"
+    },
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Laboratorio di scrittura creativa dedicato a chi vuole scoprire la città in modo originale e, allo stesso tempo, ritrovare il piacere di dare forma alle proprie parole. Il laboratorio intreccia passi lenti per le vie di Trento e momenti di scrittura, un percorso che segue alcuni dei racconti contenuti nel libro di Lucia Oss (Voci di pietra sulle ali del vento: storie insolite di Trento), come una mappa di voci nascoste, monumenti che si animano, dettagli che diventano portali narrativi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento5"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento5"
+    },
+    "descriptionVerified": "2026-10-29",
+    "assetVerified": "2026-10-29"
+  },
+  {
     "id": "incontro-di-approfondimento-per-amministratore-trice-di-sostegno-2026-2",
     "name": {
       "de": "Incontro di approfondimento per amministratore/trice di sostegno",
@@ -13304,6 +13371,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale62"
     }
+  },
+  {
+    "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-6",
+    "name": {
+      "de": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "en": "Voci di pietra sulle ali del vento: storie insolite di Trento",
+      "it": "Voci di pietra sulle ali del vento: storie insolite di Trento"
+    },
+    "startDate": "2026-12-10",
+    "endDate": "2026-12-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Laboratorio di scrittura creativa dedicato a chi vuole scoprire la città in modo originale e, allo stesso tempo, ritrovare il piacere di dare forma alle proprie parole. Il laboratorio intreccia passi lenti per le vie di Trento e momenti di scrittura, un percorso che segue alcuni dei racconti contenuti nel libro di Lucia Oss (Voci di pietra sulle ali del vento: storie insolite di Trento), come una mappa di voci nascoste, monumenti che si animano, dettagli che diventano portali narrativi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento6",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-29",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento6"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-Trento6"
+    },
+    "descriptionVerified": "2026-10-29",
+    "assetVerified": "2026-10-29"
   },
   {
     "id": "alla-scoperta-di-trento-2026-16",
@@ -14890,10 +14993,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143",
     "source": "Garda Trentino - events",
-    "verified": "2026-09-30",
+    "verified": "2026-10-29",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/weather/garda-trentino",
       "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143"
@@ -15781,8 +15885,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-28",
-    "assetVerified": "2026-10-28",
+    "descriptionVerified": "2026-10-29",
+    "assetVerified": "2026-10-29",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
