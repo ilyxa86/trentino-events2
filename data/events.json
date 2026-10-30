@@ -1998,38 +1998,6 @@
     ]
   },
   {
-    "id": "dal-fucile-alla-matita-2026-10",
-    "name": {
-      "de": "Dal fucile alla matita",
-      "en": "Dal fucile alla matita",
-      "it": "Dal fucile alla matita"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-18",
-    "startTime": "10:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-05",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
-    ]
-  },
-  {
     "id": "festa-del-latte-2026-2",
     "name": {
       "de": "Festa del Latte",
@@ -2245,44 +2213,6 @@
     "descriptionVerified": "2026-10-15"
   },
   {
-    "id": "rovereto-open-wta-125-2026",
-    "name": {
-      "de": "Rovereto Open – WTA 125",
-      "en": "Rovereto Open – WTA 125",
-      "it": "Rovereto Open – WTA 125"
-    },
-    "startDate": "2026-10-12",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Rovereto si prepara ad accogliere il grande tennis internazionale Dal 12 al 18 ottobre 2026, il WTA 125 torna a Rovereto con la sua seconda edizione, confermando il circuito mondiale femminile in Trentino. Una settimana di sport, passione ed emozioni in cui talento e determinazione si incontrano, trasformando la città in un palcoscenico d’eccellenza per il tennis femminile."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125/",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-07",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Rovereto-Open-WTA-125-Circolo-Tennis-Rovereto-.jpg",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125",
-      "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125/"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/rovereto-open-wta-125/"
-    },
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
-  },
-  {
     "id": "fb-sensoriamo-per-bimbi-0-18-mesi-ciclo-di-incontri-2026",
     "name": {
       "de": "SensoriAmo (per bimbi 0-18 mesi) — ciclo di incontri",
@@ -2355,155 +2285,6 @@
       "it": "https://www.cultura.trentino.it/Rassegne/Altri-Quadri-2026-2027"
     },
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15"
-  },
-  {
-    "id": "in-un-soffio-d-aria-2026",
-    "name": {
-      "de": "In un soffio d'Aria",
-      "en": "In un soffio d'Aria",
-      "it": "In un soffio d'Aria"
-    },
-    "startDate": "2026-10-15",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Culture & Dance",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Mostra di acquerelli tra arte, musica, teatro e laboratori"
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/in-un-soffio-d-aria_e_136778796",
-    "source": "Visit Trentino - all events",
-    "verified": "2026-10-18",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visittrentino.info/assets-basic/events/www-visitrovereto-it/-in-un-soffio-d-aria-_136778796/7876573/image-thumb__7876573__moodboard_list/-in-un-soffio-d-aria-_136778796_1.e486ce7b.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/in-un-soffio-d-aria_e_136778796"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/in-un-soffio-d-aria_e_136778796"
-    },
-    "descriptionVerified": "2026-10-18",
-    "assetVerified": "2026-10-18"
-  },
-  {
-    "id": "wired-next-2026",
-    "name": {
-      "en": "Wired Next Fest Trentino",
-      "it": "Wired Next Fest Trentino",
-      "de": "Wired Next Fest Trentino"
-    },
-    "startDate": "2026-10-16",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Historic centre",
-    "category": "Business & Innovation",
-    "status": "NEW",
-    "confirmed": true,
-    "description": {
-      "en": "Technology and innovation festival with talks, workshops, exhibitions and live events.",
-      "it": "Festival di tecnologia e innovazione con talk, workshop, mostre ed eventi dal vivo.",
-      "de": "Technology and innovation festival with talks, workshops, exhibitions and live events."
-    },
-    "organizer": "Wired / Trentino partners",
-    "price": "See programme",
-    "officialUrl": "https://www.trentinomarketing.org/it/grandi-eventi",
-    "source": "Trentino Marketing",
-    "verified": "2026-08-25"
-  },
-  {
-    "id": "fiera-di-san-luca-2026",
-    "name": {
-      "de": "Fiera di San Luca",
-      "en": "Fiera di San Luca",
-      "it": "Fiera di San Luca"
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Vallarsa",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Vallarsa",
-    "category": "Trade Fair",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Torna la 38esima edizione della Fiera di San Luca, l'antica fiera del bestiame che negli anni si è trasformata in un'occasione per stare assieme in allegria! Nella piazza del paese di Parrocchia, in Vallarsa, allevatori, produttori agricoli, artigiani e associazioni incontreranno il pubblico in un momento di festa tra i colori, i profumi e i sapori dell’autunno.",
-      "de": "Die 38. Ausgabe der Fiera di San Luca verbindet die Tradition eines Viehmarkts mit einem bunten Herbstfest, bei dem Züchter, landwirtschaftliche Produzenten, Handwerker und Vereine zusammenkommen. Auf dem Dorfplatz von Parrocchia in Vallarsa entstehen Marktstände, kulinarische Düfte und gesellige Begegnungen, die lokale Produkte und Gemeinschaftsleben präsentieren.",
-      "en": "The 38th Fiera di San Luca blends the legacy of a livestock fair with a lively autumn gathering where breeders, agricultural producers, craftsmen and associations meet the public. Held in Parrocchia’s village square in Vallarsa, the event fills the area with market stalls, seasonal scents and convivial moments showcasing local produce and community life."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-09-28",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2018/10/Fiera-di-San-Luca-Alessandro-Casagrande.jpg",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca/",
-      "de": "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca",
-      "en": "https://www.visitrovereto.it/vivi/eventi/fiera-di-san-luca"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "mese-del-gusto-2026-11",
-    "name": {
-      "de": "Mese del Gusto",
-      "en": "Mese del Gusto",
-      "it": "Mese del Gusto"
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Mese del Gusto im Garda Trentino: Das herbstliche Food-Festival. Alle Informationen zu Events, Terminen, kulinarische Themenwege und Highlights.",
-      "en": "Autumn sees the return of events with taste: Mese del Gusto is the name capturing the gastronomic happenings that will bring Garda Trentino to the table.",
-      "it": "Rassegna di eventi autunnali che valorizzano i prodotti tipici del Garda Trentino."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-15",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
-    ],
-    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "en": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
-      "it": "https://www.gardatrentino.it/it/dolce-vita/food-and-wine/mese-del-gusto",
-      "de": "https://www.gardatrentino.it/de/dolce-vita/genuss/mese-del-gusto"
-    },
-    "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15"
   },
   {
@@ -2630,87 +2411,6 @@
     "descriptionVerified": "2026-10-15"
   },
   {
-    "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026-8",
-    "name": {
-      "de": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
-      "en": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
-      "it": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\""
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Una visita guidata per scoprire la rinnovata sezione egizia del museo e la mostra temporanea dedicata all’affascinante civiltà dell’antico Egitto.",
-      "de": "Die Führung stellt die erneuerte ägyptische Abteilung des Museums sowie die temporäre Ausstellung zur altägyptischen Kultur vor und erläutert bedeutende Artefakte. Besucher erhalten kontextuelle Einblicke in die Lebenswelt und Symbolik des Nils, begleitet von erklärenden Kommentaren zur Ausstellungsgestaltung.",
-      "en": "The guided tour introduces the museum’s renewed Egyptian section and the temporary exhibition dedicated to ancient Egyptian civilization, highlighting key artifacts. Visitors gain contextual insights into Nile cultures and symbolism, with interpretive commentary on the objects and the exhibition layout."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14",
-      "de": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14",
-      "en": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio14"
-    }
-  },
-  {
-    "id": "visita-guidata-gratuita-alla-mostra-da-piazza-delle-armi-a-giardino-piaz-2026-2",
-    "name": {
-      "de": "Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"",
-      "en": "Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"",
-      "it": "Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\""
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "La Fondazione Museo storico del Trentino propone una visita guidata gratuita alla mostra dedicata al parco di Piazza Venezia e al monumento ad Alcide De Gasperi. Durata : 45 minuti Prenotazione obbligatoria : edu@museostorico.it Ritrovo : presso l’installazione al centro del parco di Piazza Venezia",
-      "de": "Die kostenlose Führung erkundet die Entwicklung des Piazza-Venezia-Parks und das Denkmal für Alcide De Gasperi, mit einer Dauer von etwa 45 Minuten. Treffpunkt ist die Installation in der Parkmitte; die Teilnahme erfordert Anmeldung gemäß den Angaben der Fondazione Museo storico del Trentino.",
-      "en": "This free guided tour examines the transformation of Piazza Venezia into a park and the monument to Alcide De Gasperi over a roughly 45-minute visit. The meeting point is the installation at the centre of the park, and participation requires prior reservation as organised by the Fondazione Museo storico del Trentino."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi3",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-09",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi3",
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi4"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi3",
-      "de": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi3",
-      "en": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi3"
-    }
-  },
-  {
     "id": "divin-ottobre-2026-2",
     "name": {
       "de": "DiVin Ottobre",
@@ -2751,88 +2451,6 @@
     "descriptionVerified": "2026-10-15",
     "image": "https://www.gardatrentino.it/website_images/events/2026_Events_DiVin_Ottobre_1.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
-    "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "festa-della-castagna-2026",
-    "name": {
-      "de": "Festa della Castagna",
-      "en": "Festa della Castagna",
-      "it": "Festa della Castagna"
-    },
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Brentonico",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Brentonico",
-    "category": "Festival",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Traditionelles Kastanienfest in den Höfen von Castione. In dem kleinen Bergdorf Castione auf der Brentonico-Hochebene kann man die besten Produkte des Monte Baldo probieren: Marroni , eine geschätzte Kastaniensorte, die hier seit Jahrhunderten produziert wird und sich durch ihren unverwechselbaren Geschmack und ihre Qualität auszeichnet.",
-      "en": "Traditional chestnut festival in the courts of Castione. In the small mountain village of Castione , on the Brentonico Plateau, on the Brentonico Plateau, you can taste the best products of Monte Baldo: marroni , a prized variety of chestnuts that have been produced here for centuries and are distinguished by their unmistakable flavour and quality.",
-      "it": "La tradizionale festa dedicata ai marroni Nel piccolo borgo montano sull'Altopiano di Brentonico, il Circolo di Castione organizza la consueta Festa della Castagna di Castione , evento aperto a tutti dove potrai assaggiare i prodotti di punta del Monte Baldo: i marroni , una pregiata varietà di castagne prodotte da secoli in questa terra che si differenziano per un’inconfondibile sapore e per la loro qualità."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/festa-castagna-castione",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-09-30",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2020/10/Castagne_Luca-Matassoni-3.png",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/festa-castagna-castione"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/festa-castagna-castione/",
-      "en": "https://www.visitrovereto.it/en/enjoy/events/festa-castagna-castione/",
-      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/festa-castagna-castione/"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "foliage-al-lago-di-cei-2026",
-    "name": {
-      "de": "Foliage al Lago di Cei",
-      "en": "Foliage al Lago di Cei",
-      "it": "Foliage al Lago di Cei"
-    },
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Villa Lagarina",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Villa Lagarina",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Lasciati incantare dalla magia dell'autunno! Domenica 18 ottobre 2026 torna l'imperdibile appuntamento con il Foliage al Lago di Cei.",
-      "de": "Das Herbsterlebnis am Lago di Cei lädt Besucher ein, die Naturveränderung und Farbenpracht der Saison zu genießen und die malerische Umgebung des Sees zu erkunden. Die Veranstaltung am 18. Oktober bietet Gelegenheit zu einem entspannten Spaziergang in der herbstlichen Landschaft und fotografischen Eindrücken.",
-      "en": "The autumn event at Lake Cei invites visitors to enjoy the seasonal colour changes and the scenic lakeside surroundings, perfect for relaxed walks and nature observation. Held on 18 October, it offers an opportunity to experience the landscape’s fall tones and capture memorable photographs of the area."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-13",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2023/10/Foliage-al-Lago-di-Cei-Tommaso-Prugnola.jpg",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina/",
-      "de": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina",
-      "en": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
   },
   {
@@ -2878,46 +2496,6 @@
     "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Grasparola_1.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/grasparola_62345",
     "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "i-conflitti-incrociati-in-medio-oriente-ciclo-di-incontri-le-origini-dei-2026",
-    "name": {
-      "de": "I conflitti incrociati in Medio Oriente - ciclo di incontri \"Le origini dei conflitti\"",
-      "en": "I conflitti incrociati in Medio Oriente - ciclo di incontri \"Le origini dei conflitti\"",
-      "it": "I conflitti incrociati in Medio Oriente - ciclo di incontri \"Le origini dei conflitti\""
-    },
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Sport & Outdoor",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "L'Associazione San Pio X, nell'ambito del patto di collaborazione \"Un patto di magia e trasformazione, promuove un ciclo di incontri di approfondimento sulle radici storiche dei conflitti contemporanei. Attraverso il contributo di storici, giornalisti e mediatori internazionali, saranno proposte occasioni di conoscenza, confronto e dialogo, su temi quali colonialismo, confini, decolonizzazione, identità nazionali, etnie, religioni e le circostanze che hanno contribuito a costruire l'autonomia e la pace nel nostro territorio.",
-      "de": "Die Veranstaltungsreihe des Vereins San Pio X bietet mit Historikern, Journalisten und Mediatoren vertiefende Gespräche zu den historischen Wurzeln zeitgenössischer Konflikte im Nahen Osten. Die Treffen thematisieren Aspekte wie Kolonialismus, Grenzziehungen, Dekolonisierung, nationale Identitäten, Ethnien und Religionen, um Verständnis, Dialog und Reflexion zu fördern.",
-      "en": "Organised by the San Pio X Association, this lecture cycle brings historians, journalists and international mediators together to explore the historical roots of contemporary Middle Eastern conflicts. Sessions address colonialism, borders, decolonization, national identities, ethnic and religious factors, and the conditions that have influenced autonomy and peace in the region."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/I-conflitti-incrociati-in-Medio-Oriente-ciclo-di-incontri-Le-origini-dei-conflitti",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-12",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/I-conflitti-incrociati-in-Medio-Oriente-ciclo-di-incontri-Le-origini-dei-conflitti"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/I-conflitti-incrociati-in-Medio-Oriente-ciclo-di-incontri-Le-origini-dei-conflitti",
-      "de": "https://eventi.comune.trento.it/Eventi/I-conflitti-incrociati-in-Medio-Oriente-ciclo-di-incontri-Le-origini-dei-conflitti",
-      "en": "https://eventi.comune.trento.it/Eventi/I-conflitti-incrociati-in-Medio-Oriente-ciclo-di-incontri-Le-origini-dei-conflitti"
-    }
   },
   {
     "id": "l-eco-dei-porteghi-2026",
@@ -7384,6 +6962,42 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "esplorazioniincastello-2026",
+    "name": {
+      "de": "esplorAZIONIinCASTELLO",
+      "en": "esplorAZIONIinCASTELLO",
+      "it": "esplorAZIONIinCASTELLO"
+    },
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Una visita guidata alla scoperta di ambienti affascinanti, di segreti e curiosità nel Castello del Buonconsiglio. La visita è pensata per grandi e bambine e bambini dai 6 anni, con un linguaggio semplice e momenti coinvolgenti per un’esperienza da condividere in famiglia."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/esplorAZIONIinCASTELLO4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/esplorAZIONIinCASTELLO4"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/esplorAZIONIinCASTELLO4"
+    },
+    "descriptionVerified": "2026-10-30",
+    "assetVerified": "2026-10-30"
+  },
+  {
     "id": "la-famiglia-va-a-teatro-2026",
     "name": {
       "de": "La famiglia va a teatro 2026/2027",
@@ -7420,6 +7034,42 @@
     "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/newsletter/28186985-1-ita-IT/newsletter_opengraph.jpg",
     "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/La-famiglia-va-a-teatro-2026-2027",
     "assetVerified": "2026-10-22"
+  },
+  {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Biglietti acquistabili online o presso la biglietteria del castello."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio15",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio15"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio15"
+    },
+    "descriptionVerified": "2026-10-30",
+    "assetVerified": "2026-10-30"
   },
   {
     "id": "commemorazione-dei-caduti-di-tutte-le-guerre-2026",
@@ -7735,6 +7385,42 @@
     ]
   },
   {
+    "id": "pane-e-femminismi-2026",
+    "name": {
+      "de": "Pane e Femminismi",
+      "en": "Pane e Femminismi",
+      "it": "Pane e Femminismi"
+    },
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Pane e Femminismi è un progetto culturale - Bookclub - che si ispira alle tavolate delle grandi occasioni familiari e trasforma la sensazione di non poter parlare di alcuni argomenti in opportunità per parlare anche di temi complessi come i femminismi, l’intersezionalità, i diritti, i corpi, il lavoro. Da tre anni consente alle persone di discutere, confrontarsi, imparare, decostruire pensieri e consapevolezze."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pane-e-Femminismi",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Pane-e-Femminismi"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Pane-e-Femminismi"
+    },
+    "descriptionVerified": "2026-10-30",
+    "assetVerified": "2026-10-30"
+  },
+  {
     "id": "presentazione-libro-la-lacrima-del-serpente-2026",
     "name": {
       "de": "Presentazione libro La lacrima del serpente",
@@ -7884,6 +7570,42 @@
     "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-arancio2/27441205-1-ita-IT/sfondo-arancio_opengraph.jpg",
     "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Alluvione-1966-in-Trentino",
     "assetVerified": "2026-10-27"
+  },
+  {
+    "id": "come-colibri-in-volo-tra-prosa-e-poesia-2026",
+    "name": {
+      "de": "\"Come colibrì. In volo tra prosa e poesia\"",
+      "en": "\"Come colibrì. In volo tra prosa e poesia\"",
+      "it": "\"Come colibrì. In volo tra prosa e poesia\""
+    },
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-04",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "\"Il Colibrì\", la piccola biblioteca di Martignano, e il Circolo \"El Capitel\" sono lieti di invitarvi alla presentazione del libro: \" Come colibrì, in volo tra prosa e pesia \" dell'autrice Enrica Buratti Rossi, un’opera intima e delicata in cui parole, versi e acquerelli si fondono in un’unica espressione artistica."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Come-colibri.-In-volo-tra-prosa-e-poesia",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Come-colibri.-In-volo-tra-prosa-e-poesia"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Come-colibri.-In-volo-tra-prosa-e-poesia"
+    },
+    "descriptionVerified": "2026-10-30",
+    "assetVerified": "2026-10-30"
   },
   {
     "id": "let-s-read-together-2026",
@@ -10638,6 +10360,42 @@
     "assetVerified": "2026-10-29"
   },
   {
+    "id": "cineforum-alla-biblioteca-castello-di-carta-a-montevaccino-2026",
+    "name": {
+      "de": "Cineforum alla biblioteca \"Castello di carta\" a Montevaccino",
+      "en": "Cineforum alla biblioteca \"Castello di carta\" a Montevaccino",
+      "it": "Cineforum alla biblioteca \"Castello di carta\" a Montevaccino"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ritorna il cineforum per ragazze e ragazzi alla biblioteca \"Castello di carta\"! Il Circolo comunitario di Montevaccino, che garantisce l'apertura dell'ex punto prestito di Montevaccino nell'ambito del patto di collaborazione \"Castello di carta\", invita grandi e piccini al primo appuntamento di cineforum della stagione."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Cineforum-alla-biblioteca-Castello-di-carta-a-Montevaccino",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Cineforum-alla-biblioteca-Castello-di-carta-a-Montevaccino"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Cineforum-alla-biblioteca-Castello-di-carta-a-Montevaccino"
+    },
+    "descriptionVerified": "2026-10-30",
+    "assetVerified": "2026-10-30"
+  },
+  {
     "id": "dai-neta-2026",
     "name": {
       "de": "Dai nèta",
@@ -11302,6 +11060,43 @@
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "fiera-di-santa-caterina-2026",
+    "name": {
+      "de": "Fiera di Santa Caterina",
+      "en": "Fiera di Santa Caterina",
+      "it": "Fiera di Santa Caterina"
+    },
+    "startDate": "2026-11-22",
+    "endDate": "2026-11-22",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Trade Fair",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Domenica 22 novembre torna il tradizionale appuntamento con la fiera di Santa Caterina nel cuore del centro storico della città, pronto a prendere vita tra bancarelle, spettacoli e incontri speciali. Anche quest'anno, in programma una serie di iniziative."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/fiera-di-santa-caterina-rovereto",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-30",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2024/10/Borgo-Santa-Caterina_Luca-Matassoni-2.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/fiera-di-santa-caterina-rovereto"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/fiera-di-santa-caterina-rovereto/"
+    },
+    "descriptionVerified": "2026-10-30",
+    "assetVerified": "2026-10-30"
   },
   {
     "id": "non-e-solo-una-panchina-un-segno-una-voce-un-impegno-contro-la-violenza-2026",
@@ -15885,8 +15680,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-29",
-    "assetVerified": "2026-10-29",
+    "descriptionVerified": "2026-10-30",
+    "assetVerified": "2026-10-30",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
