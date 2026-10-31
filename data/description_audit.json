@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-30",
-  "currentEvents": 343,
-  "complete": 113,
+  "checkedAt": "2026-10-31",
+  "currentEvents": 353,
+  "complete": 114,
   "incomplete": [
     {
       "id": "i-colori-di-tridentum-2025",
@@ -287,13 +287,6 @@
       ]
     },
     {
-      "id": "entra-se-hai-il-coraggio-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "giornata-del-riuso-del-libro-usato-e-non-solo-2026",
       "languages": [
         "de",
@@ -325,6 +318,13 @@
     },
     {
       "id": "l-equivoco-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "teatro-cembra-quattro-bombe-in-tasca-2026",
       "languages": [
         "de",
         "en"
@@ -565,6 +565,13 @@
       ]
     },
     {
+      "id": "autumn-stories-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "danish-string-quartet-2026",
       "languages": [
         "de",
@@ -586,6 +593,13 @@
       ]
     },
     {
+      "id": "storie-tra-le-foglie-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-2",
       "languages": [
         "de",
@@ -601,6 +615,20 @@
     },
     {
       "id": "desaparecidos-scomparsi-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "incontri-mensili-con-consigli-di-lettura-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "l-ora-delle-storie-2026-2",
       "languages": [
         "de",
         "en"
@@ -754,6 +782,13 @@
       ]
     },
     {
+      "id": "gruppo-di-lettura-di-sopramonte-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "qual-e-il-prezzo-del-genere-2026",
       "languages": [
         "de",
@@ -831,6 +866,13 @@
       ]
     },
     {
+      "id": "natale-nelle-valli-del-leno-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "a-teatro-a-teatro-2026",
       "languages": [
         "de",
@@ -859,7 +901,21 @@
       ]
     },
     {
+      "id": "storie-tra-le-foglie-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "un-mare-di-avventure-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "alessio-boni-omar-pedrini-in-uomini-si-diventa-paridee-2026",
       "languages": [
         "de",
         "en"
@@ -951,6 +1007,13 @@
     },
     {
       "id": "goya-quartet-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "l-ora-delle-storie-2026-3",
       "languages": [
         "de",
         "en"
