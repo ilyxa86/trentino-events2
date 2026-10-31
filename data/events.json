@@ -2498,83 +2498,6 @@
     "assetVerified": "2026-10-15"
   },
   {
-    "id": "l-eco-dei-porteghi-2026",
-    "name": {
-      "de": "L'eco dei porteghi",
-      "en": "L'eco dei porteghi",
-      "it": "L'eco dei porteghi"
-    },
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Levico Terme",
-    "area": "Other Trentino",
-    "venue": "Levico Terme",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Domenica 18 ottobre Via Garibaldi, Levico Terme"
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/l-eco-dei-porteghi_e_123037915",
-    "source": "Visit Trentino - all events",
-    "verified": "2026-10-18",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/l-27eco-dei-porteghi-_123037915/7876969/image-thumb__7876969__moodboard_list/l-27eco-dei-porteghi-_123037915_1.4af3c767.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/l-eco-dei-porteghi_e_123037915"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/l-eco-dei-porteghi_e_123037915"
-    },
-    "descriptionVerified": "2026-10-18",
-    "assetVerified": "2026-10-18"
-  },
-  {
-    "id": "un-amuleto-per-l-eternita-2026",
-    "name": {
-      "de": "Un amuleto per l'eternità",
-      "en": "Un amuleto per l'eternità",
-      "it": "Un amuleto per l'eternità"
-    },
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Piccoli oggetti, animali e divinità: gli amuleti egizi sono potenti strumenti magici di protezione. Lungo il percorso puoi cercarli e scoprire significati e funzioni e, poi, nel laboratorio, creare il tuo scarabeo del cuore.",
-      "de": "Die Präsentation und der begleitende Workshop beschäftigen sich mit der Bedeutungswelt ägyptischer Amulette, die als Schutzobjekte Tierdarstellungen, Gottheiten und kleine Artefakte umfassen. Besucher können Bedeutungen und Funktionen der Amulette entdecken und im Labor selbst ein persönliches Skarabäus-Amulett anfertigen.",
-      "en": "This activity examines Egyptian amulets—small objects, animals and deities used as protective magical items—and explains their meanings and functions. Alongside the interpretive route, a hands-on workshop allows participants to create their own scarab amulet, connecting historical context with practical crafting."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita",
-      "de": "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita",
-      "en": "https://eventi.comune.trento.it/Eventi/Un-amuleto-per-l-eternita"
-    }
-  },
-  {
     "id": "unicorno-autunno-market-mercatino-del-riuso-2026",
     "name": {
       "de": "Unicorno Autunno Market - Mercatino del Riuso",
@@ -6945,12 +6868,13 @@
     "price": "See official page",
     "officialUrl": "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween",
     "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-09",
+    "verified": "2026-10-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "image": "https://www.visitrovereto.it/wp-content/uploads/2015/10/Shopping-aspettando-Halloween-2026-1.jpg",
     "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween"
+      "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween",
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/shopping-aspettando-halloween_e_317997"
     ],
     "descriptionSources": {
       "it": "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween/",
@@ -6960,6 +6884,43 @@
     "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "teatro-cembra-quattro-bombe-in-tasca-2026",
+    "name": {
+      "de": "Teatro Cembra - Quattro bombe in tasca",
+      "en": "Teatro Cembra - Quattro bombe in tasca",
+      "it": "Teatro Cembra - Quattro bombe in tasca"
+    },
+    "startDate": "2026-10-31",
+    "endDate": "2026-10-31",
+    "startTime": null,
+    "municipality": "Cembra",
+    "area": "Other Trentino",
+    "venue": "Cembra",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Doss Caslir APS presenta la stagione 2026 - 2027"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/teatro-cembra-quattro-bombe-in-tasca_e_137070303",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/fiemme/teatro-cembra---quattro-bombe-in-tasca_137070303/7879489/image-thumb__7879489__moodboard_list/teatro-cembra---quattro-bombe-in-tasca_137070303_1.2c405881.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/teatro-cembra-quattro-bombe-in-tasca_e_137070303"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/teatro-cembra-quattro-bombe-in-tasca_e_137070303"
+    },
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31"
   },
   {
     "id": "esplorazioniincastello-2026",
@@ -7225,6 +7186,49 @@
     "image": "https://www.gardatrentino.it/website_images/events/mostre/2026_Events_Mostra_Arco_Verticale.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/arco-verticale_103430",
     "assetVerified": "2026-10-18"
+  },
+  {
+    "id": "climbing-arco-a-meeting-place-2026-2",
+    "name": {
+      "de": "Climbing: ARCO – A Meeting Place",
+      "en": "Climbing: ARCO – A Meeting Place",
+      "it": "Climbing: ARCO – A Meeting Place"
+    },
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-03",
+    "startTime": "19:00",
+    "municipality": "Tenno",
+    "area": "Alto Garda",
+    "venue": "Tenno",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Celebrating the 20th anniversary of the opening of the “Rhythmic Routes”. Find out all about Climbing: ARCO – A Meeting Place and other events in Tenno!",
+      "it": "In occasione del 20° anniversario dell'apertura delle vie \"ritmiche\". Scopri tutto su Arrampicata: ARCO - Un luogo d'incontro e altri eventi a Tenno!",
+      "de": "Zum 20. Jubiläum der Erschließung der „rhythmischen Routen“."
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/climbing-arco-a-meeting-place_103378",
+    "source": "Garda Trentino - events",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/climbing-arco-a-meeting-place_103378",
+      "https://www.gardatrentino.it/en/discover/events"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/climbing-arco-a-meeting-place_103378",
+      "it": "https://www.gardatrentino.it/it/eventi/arrampicata-arco-un-luogo-dincontro_103378",
+      "de": "https://www.gardatrentino.it/de/event/klettern-arco-ein-ort-der-begegnung_103378"
+    },
+    "descriptionVerified": "2026-10-31",
+    "image": "https://www.gardatrentino.it/website_images/events/vie_ritmiche.png",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/climbing-arco-a-meeting-place_103378",
+    "assetVerified": "2026-10-31"
   },
   {
     "id": "crepe-nel-mondo-2026-7",
@@ -8807,6 +8811,42 @@
     "descriptionVerified": "2026-10-15"
   },
   {
+    "id": "autumn-stories-2026",
+    "name": {
+      "de": "Autumn stories",
+      "en": "Autumn stories",
+      "it": "Autumn stories"
+    },
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per informazioni telefonare al numero 0461 889815 o scrivere una e-mail a biblioteca.gardolo@comune.trento.it"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Autumn-stories",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Autumn-stories"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Autumn-stories"
+    },
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31"
+  },
+  {
     "id": "danish-string-quartet-2026",
     "name": {
       "de": "Danish String Quartet",
@@ -8915,6 +8955,42 @@
     "assetVerified": "2026-10-21"
   },
   {
+    "id": "storie-tra-le-foglie-2026",
+    "name": {
+      "de": "Storie tra le foglie",
+      "en": "Storie tra le foglie",
+      "it": "Storie tra le foglie"
+    },
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per informazioni chiamare: 0461 889797 o scrivere una e-mail: biblioteca.argentario@comune.trento.it"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Storie-tra-le-foglie",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Storie-tra-le-foglie"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Storie-tra-le-foglie"
+    },
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31"
+  },
+  {
     "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-2",
     "name": {
       "de": "Voci di pietra sulle ali del vento: storie insolite di Trento",
@@ -9021,6 +9097,78 @@
     },
     "descriptionVerified": "2026-10-21",
     "assetVerified": "2026-10-21"
+  },
+  {
+    "id": "incontri-mensili-con-consigli-di-lettura-2026",
+    "name": {
+      "de": "Incontri mensili con consigli di lettura",
+      "en": "Incontri mensili con consigli di lettura",
+      "it": "Incontri mensili con consigli di lettura"
+    },
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per aggiornamenti seguite il sito della biblioteca e le pagine facebook , instagram"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Incontri-mensili-con-consigli-di-lettura",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Incontri-mensili-con-consigli-di-lettura"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Incontri-mensili-con-consigli-di-lettura"
+    },
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31"
+  },
+  {
+    "id": "l-ora-delle-storie-2026-2",
+    "name": {
+      "de": "L'ora delle storie",
+      "en": "L'ora delle storie",
+      "it": "L'ora delle storie"
+    },
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per informazioni chiamare il numero 0461 889786 o mandare una e-mail a: biblioteca.ravina@comune.trento.it"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie14",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie14"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie14"
+    },
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-11",
@@ -10175,6 +10323,42 @@
     "assetVerified": "2026-10-29"
   },
   {
+    "id": "gruppo-di-lettura-di-sopramonte-2026",
+    "name": {
+      "de": "Gruppo di lettura di Sopramonte",
+      "en": "Gruppo di lettura di Sopramonte",
+      "it": "Gruppo di lettura di Sopramonte"
+    },
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il gruppo di lettura di Sopramonte si ritrova eccezionalmente in biblioteca, per riflettere in occasione della Giornata internazionale per l'eliminazione della violenza contro le donne. Partecipa anche tu, scegliendo uno tra questi romanzi:"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Gruppo-di-lettura-di-Sopramonte",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Gruppo-di-lettura-di-Sopramonte"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Gruppo-di-lettura-di-Sopramonte"
+    },
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31"
+  },
+  {
     "id": "mercato-del-giovedi-2026-13",
     "name": {
       "de": "Mercato del giovedì",
@@ -11024,6 +11208,43 @@
     }
   },
   {
+    "id": "natale-nelle-valli-del-leno-2026",
+    "name": {
+      "de": "Natale nelle Valli del Leno",
+      "en": "Natale nelle Valli del Leno",
+      "it": "Natale nelle Valli del Leno"
+    },
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "startTime": null,
+    "municipality": "Trambileno",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Trambileno",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "I paesi di Terragnolo, Trambileno e Vallarsa ti danno il benvenuto nelle Valli del Leno, dove tra presepi, mercatini, enogastronomia e spettacoli, potrai lasciarti incantare dalla magia dei Natali della Vallagarina. Passeggia alla scoperta dell'atmosfera del Natale nelle frazioni del Comune di Trambileno."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/il-natale-nelle-valli-del-leno",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2017/10/Il-Natale-nelle-Valli-del-Leno-2024-Luca-Matassoni.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/il-natale-nelle-valli-del-leno"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/il-natale-nelle-valli-del-leno/"
+    },
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31"
+  },
+  {
     "id": "a-teatro-a-teatro-2026",
     "name": {
       "de": "A teatro! A teatro!",
@@ -11217,6 +11438,42 @@
     "assetVerified": "2026-10-27"
   },
   {
+    "id": "storie-tra-le-foglie-2026-2",
+    "name": {
+      "de": "Storie tra le foglie",
+      "en": "Storie tra le foglie",
+      "it": "Storie tra le foglie"
+    },
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-23",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per informazioni chiamare: 0461 889797 o scrivere una e-mail: biblioteca.argentario@comune.trento.it"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Storie-tra-le-foglie2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Storie-tra-le-foglie2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Storie-tra-le-foglie2"
+    },
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31"
+  },
+  {
     "id": "un-mare-di-avventure-2026",
     "name": {
       "de": "Un mare di avventure",
@@ -11251,6 +11508,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Un-mare-di-avventure"
     }
+  },
+  {
+    "id": "alessio-boni-omar-pedrini-in-uomini-si-diventa-paridee-2026",
+    "name": {
+      "de": "Alessio Boni & Omar Pedrini in “Uomini si diventa\" - PARIDEE",
+      "en": "Alessio Boni & Omar Pedrini in “Uomini si diventa\" - PARIDEE",
+      "it": "Alessio Boni & Omar Pedrini in “Uomini si diventa\" - PARIDEE"
+    },
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il femminicida non è un malato, è un figlio sano del patriarcato. È uno di noi, cresciuto come noi, che pensa come noi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Alessio-Boni-Omar-Pedrini-in-Uomini-si-diventa-PARIDEE",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Alessio-Boni-Omar-Pedrini-in-Uomini-si-diventa-PARIDEE"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Alessio-Boni-Omar-Pedrini-in-Uomini-si-diventa-PARIDEE"
+    },
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31"
   },
   {
     "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-3",
@@ -11719,6 +12012,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Goya-Quartet"
     }
+  },
+  {
+    "id": "l-ora-delle-storie-2026-3",
+    "name": {
+      "de": "L'ora delle storie",
+      "en": "L'ora delle storie",
+      "it": "L'ora delle storie"
+    },
+    "startDate": "2026-11-26",
+    "endDate": "2026-11-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per informazioni chiamare il numero 0461 889786 o mandare una e-mail a: biblioteca.ravina@comune.trento.it"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie15",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie15"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie15"
+    },
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31"
   },
   {
     "id": "mercato-del-giovedi-2026-14",
@@ -13862,6 +14191,47 @@
     }
   },
   {
+    "id": "il-natale-di-villa-lagarina-2026",
+    "name": {
+      "de": "Il Natale di Villa Lagarina",
+      "en": "Il Natale di Villa Lagarina",
+      "it": "Il Natale di Villa Lagarina"
+    },
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-19",
+    "startTime": null,
+    "municipality": "Villa Lagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Villa Lagarina",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Nel piccolo borgo di Villa Lagarina attendi il Natale con iniziative per tutti i gusti. In attesa del Natale, una giornata da trascorrere in compagnia tra attività per bambini, laboratori e l'arrivo di Babbo Natale con numerosi doni.",
+      "en": "In the small village of Villa Lagarina wait for Christmas with initiatives for everyone Music, mulled wine, fortaie, stalls of local products and local cooperatives are just a taste of what you can find at Villa Lagarina. For families, many children’s workshops and the exciting coming of Santa Claus.",
+      "de": "In der kleinen Ortschaft Villa Lagarina erwarten Sie Weihnachten mit Initiativen für jeden Geschmack Musik, Glühwein, Fortaie, Stände mit lokalen Produkten und lokalen Genossenschaften sind nur ein Vorgeschmack auf das, was Sie in der Villa Lagarina finden können. Für die ganze Familie gibt es viele Kinderlabors und den spannenden Weihnachtsmann."
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/natale-a-villa-lagarina",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-10-31",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2024/09/I-Natali-della-Vallagarina_Natale-a-Villa-Lagarina_Luca-Matassoni-.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/natale-a-villa-lagarina"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/natale-a-villa-lagarina/",
+      "en": "https://www.visitrovereto.it/en/enjoy/events/natale-a-villa-lagarina/",
+      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/natale-a-villa-lagarina/"
+    },
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31"
+  },
+  {
     "id": "mercatino-dei-gaudenti-di-piazza-dante-2026-4",
     "name": {
       "de": "Mercatino dei Gaudenti di piazza Dante",
@@ -15680,8 +16050,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-30",
-    "assetVerified": "2026-10-30",
+    "descriptionVerified": "2026-10-31",
+    "assetVerified": "2026-10-31",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
