@@ -1,24 +1,10 @@
 {
-  "checkedAt": "2026-10-31",
-  "currentEvents": 353,
-  "complete": 114,
+  "checkedAt": "2026-11-01",
+  "currentEvents": 330,
+  "complete": 103,
   "incomplete": [
     {
-      "id": "i-colori-di-tridentum-2025",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "competition-anelli-di-congiunzione-le-gallerie-di-piedicastello-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "la-nuova-stagione-di-castello-san-giovanni-2026",
       "languages": [
         "de",
         "en"
@@ -87,14 +73,6 @@
       ]
     },
     {
-      "id": "european-mobility-week-2026-4",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "european-mobility-week-2026-6",
       "languages": [
         "de",
@@ -123,13 +101,6 @@
         "de",
         "en",
         "it"
-      ]
-    },
-    {
-      "id": "ottobre-a-teatro-2026",
-      "languages": [
-        "de",
-        "en"
       ]
     },
     {
@@ -220,22 +191,6 @@
       ]
     },
     {
-      "id": "dal-fucile-alla-matita-2026-9",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "international-chess-tournament-citta-di-arco-2026-3",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "international-chess-tournament-citta-di-arco-2026-5",
       "languages": [
         "de",
@@ -259,13 +214,6 @@
       ]
     },
     {
-      "id": "mese-del-gusto-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "eugenio-montale-temi-modelli-figure-2026-2",
       "languages": [
         "de",
@@ -280,57 +228,6 @@
       ]
     },
     {
-      "id": "mese-del-gusto-2026-12",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "giornata-del-riuso-del-libro-usato-e-non-solo-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "gruppo-cassa-centrale-trentino-business-run-2026-3",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "halloween-a-1000-metri-il-bondone-dei-bambini-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "in-cammino-con-il-museo-2026-2",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "l-equivoco-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "teatro-cembra-quattro-bombe-in-tasca-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "esplorazioniincastello-2026",
       "languages": [
         "de",
@@ -338,7 +235,21 @@
       ]
     },
     {
+      "id": "il-bambino-su-marte-teatro-dei-bambini-a-folgaria-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "la-famiglia-va-a-teatro-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "trekking-del-foliage-2026",
       "languages": [
         "de",
         "en"
