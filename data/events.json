@@ -2498,560 +2498,6 @@
     "assetVerified": "2026-10-15"
   },
   {
-    "id": "unicorno-autunno-market-mercatino-del-riuso-2026",
-    "name": {
-      "de": "Unicorno Autunno Market - Mercatino del Riuso",
-      "en": "Unicorno Autunno Market - Mercatino del Riuso",
-      "it": "Unicorno Autunno Market - Mercatino del Riuso"
-    },
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Domenica 18 ottobre al Parco Duca d'Aosta , l'associazione Quartiere San Pio X organizza l'Unicorno Autunno Market, nell'ambito del patto di collaborazione \"Un patto di magia e trasformazione\". Si tratta di un mercatino del riuso fondato sul baratto: un’occasione per scambiare libri, vestiti e oggetti che non utilizziamo più, ma che possono essere ancora utili e preziosi per qualcun altro.",
-      "de": "Das Unicorno Autunno Market ist ein Tauschmarkt im Parco Duca d’Aosta, der auf Barter-Prinzipien basiert und zum Austausch von Büchern, Kleidung und Gegenständen einlädt. Die Veranstaltung, organisiert vom Quartierverein San Pio X, fördert Wiederverwendung und Nachhaltigkeit durch gemeinschaftliches Tauschen statt Wegwerfen.",
-      "en": "Unicorno Autunno Market at Parco Duca d’Aosta is a reuse market founded on bartering, where people can exchange books, clothes and other items they no longer need. Organised by the Quartiere San Pio X association within a collaboration pact, it encourages reuse and sustainability through community-led swapping activities."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Unicorno-Autunno-Market-Mercatino-del-Riuso",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-12",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Unicorno-Autunno-Market-Mercatino-del-Riuso"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Unicorno-Autunno-Market-Mercatino-del-Riuso",
-      "de": "https://eventi.comune.trento.it/Eventi/Unicorno-Autunno-Market-Mercatino-del-Riuso",
-      "en": "https://eventi.comune.trento.it/Eventi/Unicorno-Autunno-Market-Mercatino-del-Riuso"
-    }
-  },
-  {
-    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
-    "name": {
-      "de": "Visita guidata al Castello del Buonconsiglio",
-      "en": "Visita guidata al Castello del Buonconsiglio",
-      "it": "Visita guidata al Castello del Buonconsiglio"
-    },
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-18",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Biglietti acquistabili online o presso la biglietteria del castello."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio13",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio13"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio13"
-    }
-  },
-  {
-    "id": "visitate-il-garda-2026-2",
-    "name": {
-      "de": "Visitate il Garda!",
-      "en": "Visitate il Garda!",
-      "it": "Visitate il Garda!"
-    },
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-18",
-    "startTime": "10:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Grafik und Tourismuswerbung von der Belle Époque bis zum modernen Tourismus. Erfahre alles über Visitate il Garda! und andere Veranstaltungen in Riva del Garda!",
-      "en": "Graphics and promotion from the Belle Époque to modern tourism. Find out all about Visitate il Garda! and other events in Riva del Garda!",
-      "it": "Grafica e promozione dalla Belle Èpoque al turismo moderno. Scopri tutto su Visitate il Garda! e altri eventi a Riva del Garda!"
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/events/visitate-il-garda_97567",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-03",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/events/visitate-il-garda_97567"
-    ],
-    "descriptionSources": {
-      "de": "https://www.gardatrentino.it/de/event/visitate-il-garda_97567",
-      "en": "https://www.gardatrentino.it/en/events/visitate-il-garda_97567",
-      "it": "https://www.gardatrentino.it/it/eventi/visitate-il-garda_97567"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_100_anni_turismo_APT.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/events/visitate-il-garda_97567",
-    "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "cancro-in-due-atti-2026",
-    "name": {
-      "de": "Cancro in due atti",
-      "en": "Cancro in due atti",
-      "it": "Cancro in due atti"
-    },
-    "startDate": "2026-10-19",
-    "endDate": "2026-10-19",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Lunedì 19 ottobre alle 19:30 Speck&Tech organizza al Muse un incontro dedicato al rapporto tra ricerca sul cancro e intelligenza artificiale, in collaborazione con la Fondazione Pezcoller e il supporto della Fondazione Caritro. L’obiettivo è raccontare, in modo accessibile ma senza semplificare troppo, come l’intelligenza artificiale stia entrando nella ricerca oncologica e quali possibilità concrete possa aprire nei prossimi anni."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Cancro-in-due-atti",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-08",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Cancro-in-due-atti"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Cancro-in-due-atti"
-    }
-  },
-  {
-    "id": "crepe-nel-mondo-2026",
-    "name": {
-      "de": "Crepe nel mondo",
-      "en": "Crepe nel mondo",
-      "it": "Crepe nel mondo"
-    },
-    "startDate": "2026-10-19",
-    "endDate": "2026-10-19",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Festival",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo"
-    }
-  },
-  {
-    "id": "dalla-citta-alla-stanza-sinergie-tra-progetto-urbano-e-composizione-arch-2026",
-    "name": {
-      "de": "Dalla città alla stanza: sinergie tra progetto urbano e composizione architettonica",
-      "en": "Dalla città alla stanza: sinergie tra progetto urbano e composizione architettonica",
-      "it": "Dalla città alla stanza: sinergie tra progetto urbano e composizione architettonica"
-    },
-    "startDate": "2026-10-19",
-    "endDate": "2026-10-19",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Come può il progetto architettonico contribuire a trasformare gli spazi urbani in luoghi di relazione e partecipazione? Il talk presenta i lavori sviluppati dagli studenti dei corsi di Urbanistica e Composizione architettonica del corso di laurea quinquennale di Ingegeneria Edile e Architettura dell’Università degli Studi di Trento, dedicati al territorio della Circoscrizione San Giuseppe – Santa Chiara."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Dalla-citta-alla-stanza-sinergie-tra-progetto-urbano-e-composizione-architettonica",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-16",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Dalla-citta-alla-stanza-sinergie-tra-progetto-urbano-e-composizione-architettonica"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Dalla-citta-alla-stanza-sinergie-tra-progetto-urbano-e-composizione-architettonica"
-    },
-    "descriptionVerified": "2026-10-16",
-    "assetVerified": "2026-10-16"
-  },
-  {
-    "id": "gruppo-di-conversazione-sul-cinema-2026-3",
-    "name": {
-      "de": "Gruppo di conversazione sul cinema",
-      "en": "Gruppo di conversazione sul cinema",
-      "it": "Gruppo di conversazione sul cinema"
-    },
-    "startDate": "2026-10-19",
-    "endDate": "2026-10-19",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Film & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Proseguono gli appuntamenti per gli amanti del cinema. Il gruppo solitamente si riunisce ogni terzo lunedì del mese e l'ingresso è libero."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema9",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema9"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Gruppo-di-conversazione-sul-cinema9"
-    }
-  },
-  {
-    "id": "la-scuola-primaria-di-ravina-assemblea-pubblica-2026",
-    "name": {
-      "de": "La scuola primaria di Ravina - assemblea pubblica",
-      "en": "La scuola primaria di Ravina - assemblea pubblica",
-      "it": "La scuola primaria di Ravina - assemblea pubblica"
-    },
-    "startDate": "2026-10-19",
-    "endDate": "2026-10-19",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Tutta la cittadinanza è invitata alla spiegazione e confronto sul progetto di ricostruzione scolastica che apre a collaborazioni con la comunità. Saranno presenti le rappresentanti scolastiche e le assessore competenti Elisabetta Bozzarelli e Gianna Frizzera."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-scuola-primaria-di-Ravina-assemblea-pubblica",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-09",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/La-scuola-primaria-di-Ravina-assemblea-pubblica"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/La-scuola-primaria-di-Ravina-assemblea-pubblica"
-    }
-  },
-  {
-    "id": "mamme-in-cerchio-2026",
-    "name": {
-      "de": "Mamme in cerchio",
-      "en": "Mamme in cerchio",
-      "it": "Mamme in cerchio"
-    },
-    "startDate": "2026-10-19",
-    "endDate": "2026-10-19",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "La Circoscrizione propone una nuova serie di incontri di gruppo gratuiti, con la cadenza di una volta al mese, rivolti a donne in gravidanza, neogenitori e caregiver (nonni, baby-sitter), con l’obiettivo di promuovere una cultura e cura dell’infanzia attenta e consapevole, contrastare l'isolamento delle famiglie, favorire il benessere materno e la condivisione di esperienze durante la gravidanza e nei primi anni di vita dei figli."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio2",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-08",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio2"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mamme-in-cerchio2"
-    }
-  },
-  {
-    "id": "ottobre-in-biblioteca-2026-4",
-    "name": {
-      "de": "Ottobre in biblioteca",
-      "en": "Ottobre in biblioteca",
-      "it": "Ottobre in biblioteca"
-    },
-    "startDate": "2026-10-19",
-    "endDate": "2026-10-19",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Per informazioni telefonare al numero 0461 889868 oppure scrivere all'indirizzo e-mail biblioteca.mattarello@comune.trento.it"
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca3",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca3"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca3"
-    }
-  },
-  {
-    "id": "pietre-di-pane-memorie-di-geografie-fragili-installazione-site-specific-2026",
-    "name": {
-      "de": "Pietre di pane. Memorie di Geografie fragili - Installazione site specific",
-      "en": "Pietre di pane. Memorie di Geografie fragili - Installazione site specific",
-      "it": "Pietre di pane. Memorie di Geografie fragili - Installazione site specific"
-    },
-    "startDate": "2026-10-19",
-    "endDate": "2026-10-19",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Giovanna Silva realizza un’installazione site-specific diffusa nel centro di Trento, utilizzando gli spazi della cartellonistica pubblicitaria e istituzionale. Su supporti normalmente destinati alla comunicazione commerciale, l’artista presenta una serie di fotografie dedicate alla Val di Stava, teatro nel 1985 di uno dei più gravi disastri industriali italiani: il cedimento dei bacini di una miniera sull’abitato."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane.-Memorie-di-Geografie-fragili-Installazione-site-specific",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-23",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Pietre-di-pane.-Memorie-di-Geografie-fragili-Installazione-site-specific"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane.-Memorie-di-Geografie-fragili-Installazione-site-specific"
-    }
-  },
-  {
-    "id": "curainsieme-2026-4",
-    "name": {
-      "de": "Curainsieme",
-      "en": "Curainsieme",
-      "it": "Curainsieme"
-    },
-    "startDate": "2026-10-20",
-    "endDate": "2026-10-20",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Torna anche quest’anno il corso di formazione gratuito per caregiver familiari, con sei incontri a cadenza settimanale, in programma da fine settembre a inizio novembre alla Fondazione Franco Demarchi, in piazza Santa Maria Maggiore 7. L’appuntamento è sempre di martedì, dalle 17:00 alle 19:00."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Curainsieme4",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-19",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Curainsieme4"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Curainsieme4"
-    }
-  },
-  {
-    "id": "rieducazione-alla-speranza-2026",
-    "name": {
-      "de": "Rieducazione alla speranza",
-      "en": "Rieducazione alla speranza",
-      "it": "Rieducazione alla speranza"
-    },
-    "startDate": "2026-10-20",
-    "endDate": "2026-10-20",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Quale ruolo può svolgere il quartiere nei percorsi educativi e nella formazione delle giovani generazioni? A partire dalle esperienze realizzate nel territorio di San Giuseppe e dal progetto Alfabeti di Quartiere, il talk approfondisce il valore educativo della comunità e delle relazioni di prossimità."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Rieducazione-alla-speranza",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-16",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Rieducazione-alla-speranza"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Rieducazione-alla-speranza"
-    },
-    "descriptionVerified": "2026-10-16",
-    "assetVerified": "2026-10-16"
-  },
-  {
-    "id": "coppia-aperta-quasi-spalancata-con-chiara-francini-2026",
-    "name": {
-      "de": "Coppia aperta quasi spalancata con Chiara Francini",
-      "en": "Coppia aperta quasi spalancata con Chiara Francini",
-      "it": "Coppia aperta quasi spalancata con Chiara Francini"
-    },
-    "startDate": "2026-10-21",
-    "endDate": "2026-10-21",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Dance",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Lo spettacolo “Ruoli secondari” di Ferzan Ozpetek, previsto dal 21 al 25 ottobre, è stato annullato per imprevisti problemi organizzativi legati alla produzione. Al suo posto, nelle stesse date e agli stessi orari, arriva “Coppia aperta, quasi spalancata” di Dario Fo e Franca Rame, con Chiara Francini e Alessandro Federico, per la regia di Alessandro Tedeschi."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Coppia-aperta-quasi-spalancata-con-Chiara-Francini",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-16",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Coppia-aperta-quasi-spalancata-con-Chiara-Francini"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Coppia-aperta-quasi-spalancata-con-Chiara-Francini"
-    },
-    "descriptionVerified": "2026-10-16",
-    "assetVerified": "2026-10-16"
-  },
-  {
-    "id": "eugenio-montale-temi-modelli-figure-2026",
-    "name": {
-      "de": "Eugenio Montale: temi, modelli, figure",
-      "en": "Eugenio Montale: temi, modelli, figure",
-      "it": "Eugenio Montale: temi, modelli, figure"
-    },
-    "startDate": "2026-10-21",
-    "endDate": "2026-10-21",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "21 e 30 ottobre, 11 e 26 novembre 2026 Sala convegni \"F. Zeni\" Museo di Scienze e Archeologia Borgo Santa Caterina 41 Rovereto (TN) Pubblico DOCENTE • In presenza presso la sala convegni \"F."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure",
-    "source": "Trentino Cultura - Rassegne",
-    "verified": "2026-09-09",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure"
-    ],
-    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/montale/28117114-1-ita-IT/montale_opengraph.png",
-    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://www.cultura.trentino.it/Rassegne/Eugenio-Montale-temi-modelli-figure"
-    },
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15"
-  },
-  {
     "id": "eugenio-montale-temi-modelli-figure-2026-2",
     "name": {
       "de": "Eugenio Montale: temi, modelli, figure",
@@ -3088,394 +2534,6 @@
     },
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15"
-  },
-  {
-    "id": "formazione-per-l-amministratore-di-sostegno-2026",
-    "name": {
-      "de": "Formazione per l'amministratore di sostegno",
-      "en": "Formazione per l'amministratore di sostegno",
-      "it": "Formazione per l'amministratore di sostegno"
-    },
-    "startDate": "2026-10-21",
-    "endDate": "2026-10-21",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Incontro di orientamento per amministratori/trici di sostegno sulla gestione dei rapporti giuridici e economici di persone con disabilità Valentina Visioli - direttrice Fondazione \"Abitare il futuro\""
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Formazione-per-l-amministratore-di-sostegno3",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-06",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Formazione-per-l-amministratore-di-sostegno3"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Formazione-per-l-amministratore-di-sostegno3"
-    }
-  },
-  {
-    "id": "mercato-contadino-di-via-fabio-filzi-2026-8",
-    "name": {
-      "de": "Mercato contadino di via Fabio Filzi",
-      "en": "Mercato contadino di via Fabio Filzi",
-      "it": "Mercato contadino di via Fabio Filzi"
-    },
-    "startDate": "2026-10-21",
-    "endDate": "2026-10-21",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Il mercato si svolge in via Fabio Filzi (Circoscrizione San Giuseppe - Santa Chiara) ogni mercoledì esclusi i festivi dalle 7:30 alle 12:30"
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi50",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi50"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-via-Fabio-Filzi50"
-    }
-  },
-  {
-    "id": "verso-un-giardino-inclusivo-trento-una-comunita-amica-delle-persone-con-2026",
-    "name": {
-      "de": "Verso un giardino inclusivo - Trento una comunità amica delle persone con demenza",
-      "en": "Verso un giardino inclusivo - Trento una comunità amica delle persone con demenza",
-      "it": "Verso un giardino inclusivo - Trento una comunità amica delle persone con demenza"
-    },
-    "startDate": "2026-10-21",
-    "endDate": "2026-10-21",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Come progettare spazi comuni capaci di rispondere ai bisogni di tutte le persone? Il talk presenta un percorso partecipativo dedicato alla progettazione inclusiva e alla cura degli spazi condivisi, con il contributo di Shifton, studio di design per l’innovazione sociale, e degli studenti del corso di \"Progetto 2\" della laurea magistrale in Eco-Social Design della Libera Università di Bolzano."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Verso-un-giardino-inclusivo-Trento-una-comunita-amica-delle-persone-con-demenza",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-16",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Verso-un-giardino-inclusivo-Trento-una-comunita-amica-delle-persone-con-demenza"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Verso-un-giardino-inclusivo-Trento-una-comunita-amica-delle-persone-con-demenza"
-    },
-    "descriptionVerified": "2026-10-16",
-    "assetVerified": "2026-10-16"
-  },
-  {
-    "id": "viaggio-nella-memoria-del-medioevo-latino-2026",
-    "name": {
-      "de": "Viaggio nella memoria del Medioevo Latino",
-      "en": "Viaggio nella memoria del Medioevo Latino",
-      "it": "Viaggio nella memoria del Medioevo Latino"
-    },
-    "startDate": "2026-10-21",
-    "endDate": "2026-10-21",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Mercoledì 21 ottobre, alla Badia San Lorenzo di Trento, l’Ensemble Vocale Exsurge Domine propone un viaggio nella memoria del Medioevo latino, dal canto ambrosiano, romano antico e beneventano alla polifonia di Guillaume Du Fay, con il mottetto Vasilissa ergo gaude, tramandato dal codice Trento 87.",
-      "de": "In der Badia San Lorenzo bietet das Vokalensemble Exsurge Domine ein musikalisches Programm, das die Hörer auf eine Zeitreise in das latinische Mittelalter mitnimmt und verschiedene liturgische Gesangsformen umfasst. Von ambrosianischem, altrömischem und beneventanischem Choral bis hin zur mehrstimmigen Satzkunst von Guillaume Du Fay erklingen Quellen wie das Codex Trento 87.",
-      "en": "At Badia San Lorenzo the vocal ensemble Exsurge Domine presents a program tracing the sound world of Latin medieval music, showcasing liturgical chants alongside early polyphony. The concert moves from Ambrosian, ancient Roman and Beneventan chant traditions to polyphonic works by Guillaume Du Fay, including repertory preserved in the Trento 87 codex."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-24",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino",
-      "de": "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino",
-      "en": "https://eventi.comune.trento.it/Eventi/Viaggio-nella-memoria-del-Medioevo-Latino"
-    }
-  },
-  {
-    "id": "bambu-di-roberto-castello-2026",
-    "name": {
-      "de": "Bambu di Roberto Castello",
-      "en": "Bambu di Roberto Castello",
-      "it": "Bambu di Roberto Castello"
-    },
-    "startDate": "2026-10-22",
-    "endDate": "2026-10-22",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Dance",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Il 22 ottobre alle 20.30, al Teatro di Vezzano, arriva BAMBU con tre assoli di danza contemporanea firmati da artiste di Nigeria, Repubblica Democratica del Congo e Kenya. MAHAKA, KIZAZI e THIN LINE raccontano libertà, memoria e identità femminile, tra tradizione e cambiamento.",
-      "de": "Im Teatro di Vezzano werden drei zeitgenössische Solo-Tänze gezeigt, die von Künstlerinnen aus Nigeria, der Demokratischen Republik Kongo und Kenia stammen und unterschiedliche Aspekte weiblicher Erfahrung untersuchen. Die Stücke mit Titeln Mahaka, Kizazi und Thin Line verknüpfen Elemente von Tradition und Wandel, wobei Themen wie Freiheit, Erinnerung und weibliche Identität im Mittelpunkt stehen.",
-      "en": "At Teatro di Vezzano the evening presents three contemporary dance solos crafted by artists from Nigeria, the Democratic Republic of Congo and Kenya, each offering a distinct perspective on feminine experience. The pieces—Mahaka, Kizazi and Thin Line—explore strands of freedom, memory and female identity, blending traditional impulses with processes of change."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-15",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello",
-      "de": "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello",
-      "en": "https://eventi.comune.trento.it/Eventi/Bambu-di-Roberto-Castello"
-    }
-  },
-  {
-    "id": "ciclo-di-incontri-a-tema-salute-e-prevenzione-2026-2",
-    "name": {
-      "de": "Ciclo di incontri a tema salute e prevenzione",
-      "en": "Ciclo di incontri a tema salute e prevenzione",
-      "it": "Ciclo di incontri a tema salute e prevenzione"
-    },
-    "startDate": "2026-10-22",
-    "endDate": "2026-10-22",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Sport & Outdoor",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Secondo incontro Il benessere al femminile Adolescenza, età adulta e menopausa: il ruolo dell'integrazione, con Francesca Carità e il team della farmaciste di Povo",
-      "de": "Im zweiten Treffen der Reihe zur Gesundheit und Prävention fokussiert der Vortrag auf frauenspezifisches Wohlbefinden über Lebensphasen hinweg. Fachleute, unter anderem Francesca Carità und das Team der Apothekerinnen von Povo, erörtern die Bedeutung von Ergänzungsstrategien in der Pubertät, im Erwachsenenalter und in der Menopause.",
-      "en": "The second meeting in the health and prevention series concentrates on women’s wellbeing across life stages, from adolescence through adulthood to menopause. Francesca Carità and the team of pharmacists from Povo discuss the role of nutritional and integrative approaches in supporting health during these transitional phases."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2",
-      "de": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2",
-      "en": "https://eventi.comune.trento.it/Eventi/Ciclo-di-incontri-a-tema-salute-e-prevenzione2"
-    }
-  },
-  {
-    "id": "crepe-nel-mondo-2026-2",
-    "name": {
-      "de": "Crepe nel mondo",
-      "en": "Crepe nel mondo",
-      "it": "Crepe nel mondo"
-    },
-    "startDate": "2026-10-22",
-    "endDate": "2026-10-22",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Festival",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali.",
-      "de": "Das Festival Crepe nel Mondo widmet sich geopolitischen Bruchlinien, die heutige internationale Spannungen und ungelöste Fragestellungen prägen, und analysiert deren Auswirkungen auf Gesellschaft, Politik und Wirtschaft. Zwischen dem 19. Oktober und dem 3. November 2026 bringt die Reihe Diskussionen, Vorträge und Analysen zusammen, die die globalen Verwerfungen und ihre lokalen Folgen beleuchten.",
-      "en": "Crepe nel Mondo is a festival focused on geopolitical fault lines and unresolved international tensions that shape contemporary societies, politics and economies. Running from 19 October to 3 November 2026, the program gathers analyses and discussions aimed at unpacking the fractures that continue to redefine global balances and their local repercussions."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2",
-      "de": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2",
-      "en": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo2"
-    }
-  },
-  {
-    "id": "le-consort-2026",
-    "name": {
-      "de": "Le Consort",
-      "en": "Le Consort",
-      "it": "Le Consort"
-    },
-    "startDate": "2026-10-22",
-    "endDate": "2026-10-22",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Dal cuore di Parigi, Le Consort nasce nel 2015 con una missione chiara: riportare al centro della scena la sonata in trio barocca, vero cuore pulsante della musica da camera del Seicento e Settecento. Composto da due violini, un violoncello e un clavicembalo, l’ensemble combina precisione tecnica e naturalezza espressiva, trasformando ogni esecuzione in un’esperienza intima e coinvolgente.",
-      "de": "Das Ensemble Le Consort aus Paris widmet sich der Wiederbelebung der Trio-Sonate des Barock und Frühbarock, einem zentralen Repertoire der Kammermusik des 17. und 18. Jahrhunderts. Besetzt mit zwei Violinen, Violoncello und Cembalo verbinden die Musiker technische Präzision und expressive Natürlichkeit, sodass jede Aufführung eine intime, expressiv ausgefeilte Hörerfahrung liefert.",
-      "en": "Le Consort, an ensemble originating from Paris, aims to restore the baroque trio sonata to the center of chamber music programming, focusing on repertory from the 17th and 18th centuries. With two violins, cello and harpsichord, the group blends technical precision and expressive ease to deliver intimate, stylistically informed performances."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Le-Consort",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Le-Consort"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Le-Consort",
-      "de": "https://eventi.comune.trento.it/Eventi/Le-Consort",
-      "en": "https://eventi.comune.trento.it/Eventi/Le-Consort"
-    }
-  },
-  {
-    "id": "mercato-del-giovedi-2026-9",
-    "name": {
-      "de": "Mercato del giovedì",
-      "en": "Mercato del giovedì",
-      "it": "Mercato del giovedì"
-    },
-    "startDate": "2026-10-22",
-    "endDate": "2026-10-22",
-    "startTime": "07:15",
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Presso le circa 160 bancarelle dislocate nelle vie del centro (via Verdi, via Prati, via Maffei, via Esterle, via Borsieri, via Al Torrione) potrete fare acquisti di prodotti enogastronomici, ma anche abbigliamento, scarpe, accessori, oggettistica, casalinghi e molto altro. In piazza del Duomo invece sono presenti circa 20 bancarelle dedicate a fiori, piante e prodotti agricoli (frutta, verdura e miele).",
-      "de": "Der Donnerstagmarkt erstreckt sich mit etwa 160 Ständen durch die Altstadtstraßen und bietet ein breites Warenangebot von Lebensmitteln bis Mode und Haushaltswaren. Auf dem Domplatz ergänzen rund 20 Stände das Angebot mit Blumen, Pflanzen und landwirtschaftlichen Erzeugnissen wie Obst, Gemüse undHonig, wodurch der Markt sowohl Alltagsbedarf als auch Spezialitäten abdeckt.",
-      "en": "The Thursday market fills the city centre with roughly 160 stalls spread across streets such as Via Verdi and Via Prati, selling food products alongside clothing, shoes, accessories, homeware and various goods. Around 20 additional stalls in Piazza del Duomo specialise in flowers, plants and agricultural produce like fruit, vegetables and honey, offering both everyday items and local specialties."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi79",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi79"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi79",
-      "de": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi79",
-      "en": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi79"
-    }
-  },
-  {
-    "id": "mercato-dell-economia-solidale-2026-9",
-    "name": {
-      "de": "Mercato dell'economia solidale",
-      "en": "Mercato dell'economia solidale",
-      "it": "Mercato dell'economia solidale"
-    },
-    "startDate": "2026-10-22",
-    "endDate": "2026-10-22",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "All'interno del mercato si possono trovare le seguenti tipologie di prodotto: Il \"Mercato dell'economia solidale\" è gestito dalla Cooperativa Social Tank.",
-      "de": "Der Solidarwirtschafts-Markt wird von der Genossenschaft Social Tank organisiert und präsentiert Produkte, die diesem Wirtschaftsmodell entsprechen. Besucher finden dort eine Auswahl an Waren, die oft lokal, nachhaltig oder sozial orientiert sind, wobei das Format den Prinzipien der solidarischen Ökonomie verpflichtet ist.",
-      "en": "The Market of the Solidarity Economy is run by the cooperative Social Tank and features goods aligned with the principles of solidarity-based economic practice. Within the market visitors can browse products that typically emphasise local production, sustainability or social value, reflecting the cooperative’s community-oriented approach."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale55",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale55"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale55",
-      "de": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale55",
-      "en": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale55"
-    }
   },
   {
     "id": "oltre-i-passi-passeggiata-d-autunno-2026",
@@ -6959,6 +6017,43 @@
     "assetVerified": "2026-10-30"
   },
   {
+    "id": "il-bambino-su-marte-teatro-dei-bambini-a-folgaria-2026",
+    "name": {
+      "de": "IL BAMBINO SU MARTE - Teatro dei bambini a Folgaria",
+      "en": "IL BAMBINO SU MARTE - Teatro dei bambini a Folgaria",
+      "it": "IL BAMBINO SU MARTE - Teatro dei bambini a Folgaria"
+    },
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-01",
+    "startTime": null,
+    "municipality": "Folgaria",
+    "area": "Other Trentino",
+    "venue": "Folgaria",
+    "category": "Film & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per la rassegna \"Il Teatro dei Bambini\" iL Gruppo Panta Rei mette in scena lo spettacolo per bambini IL PRIMO BAMBINO SU MARTE Luogo: Cinema Teatro Paradiso Folgaria, via Cesare Battisti. Ore: 17:00."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-bambino-su-marte-teatro-dei-bambini-a-folgaria_e_137090869",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-01",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/altipiano/il-bambino-su-marte---teatro-dei-bambini-a-folgaria_137090869/7879719/image-thumb__7879719__moodboard_list/il-bambino-su-marte---teatro-dei-bambini-a-folgaria_137090869_1.8d25fda8.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-bambino-su-marte-teatro-dei-bambini-a-folgaria_e_137090869"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-bambino-su-marte-teatro-dei-bambini-a-folgaria_e_137090869"
+    },
+    "descriptionVerified": "2026-11-01",
+    "assetVerified": "2026-11-01"
+  },
+  {
     "id": "la-famiglia-va-a-teatro-2026",
     "name": {
       "de": "La famiglia va a teatro 2026/2027",
@@ -6995,6 +6090,43 @@
     "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/newsletter/28186985-1-ita-IT/newsletter_opengraph.jpg",
     "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/La-famiglia-va-a-teatro-2026-2027",
     "assetVerified": "2026-10-22"
+  },
+  {
+    "id": "trekking-del-foliage-2026",
+    "name": {
+      "de": "Trekking del foliage",
+      "en": "Trekking del foliage",
+      "it": "Trekking del foliage"
+    },
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-01",
+    "startTime": null,
+    "municipality": "Molveno",
+    "area": "Other Trentino",
+    "venue": "Molveno",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Escursione con le guide alpine alla montagna di Prada per ammirare i boschi vestiti dal foliage e il lago di Molveno dall'alto"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trekking-del-foliage_e_136905861",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-01",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitdolomitipaganella-it/trekking-del-foliage_136905861/7877907/image-thumb__7877907__moodboard_list/trekking-del-foliage_136905861_2.c2928179.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trekking-del-foliage_e_136905861"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trekking-del-foliage_e_136905861"
+    },
+    "descriptionVerified": "2026-11-01",
+    "assetVerified": "2026-11-01"
   },
   {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026",
@@ -8522,10 +7654,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/garda-trentino-half-marathon_8995",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-26",
+    "verified": "2026-11-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
@@ -9655,11 +8788,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-19",
+    "verified": "2026-11-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
@@ -12590,11 +11724,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/christmas-market-in-canale-di-tenno_11698",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-19",
+    "verified": "2026-11-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -14817,10 +13952,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/nadal-a-dro_50620",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-12",
+    "verified": "2026-11-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
@@ -14980,11 +14116,12 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/aspettando-il-natale_63457",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-19",
+    "verified": "2026-11-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events?page=10",
+      "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
       "https://www.gardatrentino.it/en/discover/events?page=7",
@@ -15158,10 +14295,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-29",
+    "verified": "2026-11-01",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/weather/garda-trentino",
@@ -16050,8 +15188,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-31",
-    "assetVerified": "2026-10-31",
+    "descriptionVerified": "2026-11-01",
+    "assetVerified": "2026-11-01",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
