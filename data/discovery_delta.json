@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T10:28:59Z",
+  "generatedAt": "2026-11-02T11:03:34Z",
   "counts": {
-    "ADDED": 21,
-    "CHANGED": 43,
-    "MISSING": 25,
-    "TOTAL": 89
+    "ADDED": 14,
+    "CHANGED": 5,
+    "MISSING": 9,
+    "TOTAL": 28
   },
   "missingSafety": "MISSING is emitted only when both previous and current source audits were COMPLETE.",
   "changes": [
@@ -13,13 +13,27 @@
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
         "detailUrl": "",
-        "title": "Antoine Boyer & Yeore Kim",
-        "rawText": "Antoine Boyer & Yeore Kim | 03.12 2026 | Vezzano | - Via Antonio Stoppani 16 | 21:00 - 23:30 | Bookable online | 19-27 / 41",
+        "title": "Garda Trentino Half Marathon",
+        "rawText": "Garda Trentino Half Marathon | 06.11 - 08.11.2026 | Arco | , | Riva del Garda | 09:00 - 15:00 | Ultimate Landscapes",
         "image": "",
-        "candidateKey": "0b30a5c1db04e7d152477060",
-        "candidateSignature": "bf6613d8cfa542d61b6e7509"
+        "candidateKey": "1dddd6e3350ef09903efc5a0",
+        "candidateSignature": "b19d2cc64a6f40f29fb86dc9"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "detailUrl": "",
+        "title": "Frantoi Aperti",
+        "rawText": "Frantoi Aperti | 07.11 - 08.11.2026 | Riva del Garda | Chi ci ha ispirato | 04.10 - 08.11.2026 ( | Every Saturday | )",
+        "image": "",
+        "candidateKey": "2b4b4755ad0f63563faef09b",
+        "candidateSignature": "63f8811014585d9135621dc9"
       }
     },
     {
@@ -29,15 +43,58 @@
         "sourceName": "Garda Trentino - events",
         "pageUrl": "https://www.gardatrentino.it/en/discover/events",
         "detailUrl": "",
-        "title": "Arco Verticale",
-        "rawText": "Arco Verticale | 17.10 - 03.11.2026 | Bolognano | - Viale Stazione 6 | 09:00 - 12:00 | Other available dates | top",
+        "title": "Farmers' market in Riva del Garda",
+        "rawText": "Farmers' market in Riva del Garda | 01.01 - 28.12.2026 ( | Every Friday | ) | Riva del Garda | 08:30 - 13:00 | 1-9 / 41",
         "image": "",
-        "candidateKey": "16c0a595aad6b747ea82d9f7",
-        "candidateSignature": "c43966919bfed5e6f224f626"
+        "candidateKey": "b38946e5ee9af1af142cffd0",
+        "candidateSignature": "0e53eeebd9eaaaff81bbc5c1"
       }
     },
     {
       "change": "ADDED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
+        "detailUrl": "",
+        "title": "Farmers' market Arco",
+        "rawText": "Farmers' market Arco | 02.01 - 31.12.2026 ( | Every Tuesday | ) | Arco | 08:00 - 13:00 | Aerovita",
+        "image": "",
+        "candidateKey": "b717966beb294986b74f0310",
+        "candidateSignature": "50339567a3a64ff8ebedef32"
+      }
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "detailUrl": "",
+        "title": "Chi ci ha ispirato",
+        "rawText": "Chi ci ha ispirato | 04.10 - 08.11.2026 ( | Every Saturday | ) | Lundo | - Strada Provinciale 1 | 14:00 - 17:00",
+        "image": "",
+        "candidateKey": "14b450de99dfbe09b32f1405",
+        "candidateSignature": "17584ba1867fb39872d6df5c"
+      },
+      "previousSignature": "0e0a239b5a109e14c2ff2950"
+    },
+    {
+      "change": "MISSING",
+      "candidate": {
+        "sourceId": "garda_trentino_events",
+        "sourceName": "Garda Trentino - events",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "detailUrl": "",
+        "title": "Farmers' market in Riva del Garda",
+        "rawText": "Farmers' market in Riva del Garda | 01.01 - 28.12.2026 ( | Every Friday | ) | Riva del Garda | 08:30 - 13:00 | top",
+        "image": "",
+        "candidateKey": "1ccc4a7928237e21033a1fb4",
+        "candidateSignature": "289f7ff8aa60132bb2ab1dd2"
+      }
+    },
+    {
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -51,63 +108,21 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
+        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
         "detailUrl": "",
-        "title": "Mese del Gusto",
-        "rawText": "Mese del Gusto | 07.11 - 08.11.2026 | Riva del Garda | top | Frantoi Aperti | 07.11 - 08.11.2026 | Riva del Garda",
+        "title": "Farmers' market Arco",
+        "rawText": "Farmers' market Arco | 02.01 - 31.12.2026 ( | Every Tuesday | ) | Arco | 08:00 - 13:00 | Arco’s Weekly Market",
         "image": "",
-        "candidateKey": "38cdf0b4a94040b718887341",
-        "candidateSignature": "2ece82d90ab3f75b8d1934dc"
+        "candidateKey": "2a8acfc51ff7624b9385ee94",
+        "candidateSignature": "a7e199e0479a48e1d9e3333d"
       }
     },
     {
-      "change": "ADDED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Christmas Market in Arco",
-        "rawText": "Christmas Market in Arco | 13.11 2026 | Arco | - Towncentre | 10:00 - 19:00 | Other available dates | 10-18 / 41",
-        "image": "",
-        "candidateKey": "4852d4cdb00887cb194caa88",
-        "candidateSignature": "96ae563d4983affed78e7eab"
-      }
-    },
-    {
-      "change": "ADDED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "Top Dolomites Outdoor Festival",
-        "rawText": "Top Dolomites Outdoor Festival | 04.06 - 06.06.2027 | Pinzolo | - Piazza San Giacomo, | Riva del Garda | 37-41 / 41 | <",
-        "image": "",
-        "candidateKey": "59ceeb8bc9ca3b77e8d88a33",
-        "candidateSignature": "bfebc9d8f5d5c30e3d072447"
-      }
-    },
-    {
-      "change": "ADDED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Festa della Noce",
-        "rawText": "Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore) | - Cavrasto square | top | Alchimie d'autunno | 07.11 2026",
-        "image": "",
-        "candidateKey": "8fd4f34202b32e4e6958d372",
-        "candidateSignature": "5fe36a18b2346062d7472514"
-      }
-    },
-    {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "garda_trentino_events",
         "sourceName": "Garda Trentino - events",
@@ -121,467 +136,137 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "CHANGED",
       "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Alchimie d'autunno",
-        "rawText": "Alchimie d'autunno | 07.11 2026 | Santa Massenza | - Piazza San Vigilio | top | Mese del Gusto | 07.11 - 08.11.2026",
+        "sourceId": "visitrovereto_estate",
+        "sourceName": "Rovereto Estate programme",
+        "pageUrl": "https://www.visitrovereto.it/rovereto-estate",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "title": "eventi",
+        "rawText": "Breadcrumb Home Rovereto Estate Rovereto Estate Un’estate insieme, tra un morso d’anguria e un desiderio di pace Vivi un’estate ricca di ritmo, bellezza e condivisione: dalle piazze storiche, custodi di pietra e memoria, fino ai parchi urbani accarezzati dal vento della sera, ogni angolo prende vita attraverso festival di rilievo internazionale, concerti sotto le stelle e rassegne pensate per unire le generazioni. Un palinsesto vibrante ma accogliente, dove la grande cultura e la quotidianità si incontrano . Accendi le tue serate, lasciati ispirare e respira l’energia dell’estate a Rovereto. Scarica il calendario con tutte le iniziative qui . Trekking urbani Rovereto Da sabato 2 maggio a sabato 12 dicembre 2026 Ci vado anch’io! Rovereto, Vallagarina e Monte Baldo dal 02-01- 20 26 al 30-12- 20 26 E noi che ne sappiamo? MITAG Museo Storico Italiano della Guerra Dal 23 maggio 2025 all'8 dicembre 2026 Vuoi rimanere aggiornato su eventi e offerte di Visitrovereto? Iscriviti alla newsletter",
         "image": "",
-        "candidateKey": "a864247e51d7c0d54f7ec017",
-        "candidateSignature": "e4d7a2fc7e993e0baefc8eee"
-      }
+        "candidateKey": "71e98b7a8b5833be0b32d6bc",
+        "candidateSignature": "cb592fb153054cc5bcb342bd"
+      },
+      "previousSignature": "93524074863524611c97ea92"
     },
     {
       "change": "ADDED",
       "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
-        "detailUrl": "",
-        "title": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE",
-        "rawText": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE | 26.12 - 28.12.2026 | Lundo | 17:00 - 21:00 | 28-36 / 41 | < | Previous",
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-11-02&end_event_date=2026-12-02&filter_ref=month",
+        "title": "30 giorni",
+        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
         "image": "",
-        "candidateKey": "badf72199889bc64a663bba4",
-        "candidateSignature": "54540d69fd6fff09cbed01d1"
-      }
-    },
-    {
-      "change": "ADDED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
-        "detailUrl": "",
-        "title": "Garda Trentino Xmas Trail",
-        "rawText": "Garda Trentino Xmas Trail | 12.12 2026 | Torbole sul Garda - Nago | - Via della Lova 18 | 09:00 - 15:00 | Lúcia de Carvalho | 12.12 2026",
-        "image": "",
-        "candidateKey": "d116b7914a90720e9fd94de3",
-        "candidateSignature": "6ebc16b44c8c81465a564307"
+        "candidateKey": "1ae885a1c5e0dfc725ea4f28",
+        "candidateSignature": "2b84b5cfc960419eef192cf0"
       }
     },
     {
       "change": "ADDED",
       "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-        "detailUrl": "",
-        "title": "Flea market in Arco",
-        "rawText": "Flea market in Arco | 21.11 2026 | Arco | - Towncentre | 08:00 - 17:00 | Other available dates | Quando la musica racconta",
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-11-02&end_event_date=2026-11-02&filter_ref=today",
+        "title": "Oggi",
+        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
         "image": "",
-        "candidateKey": "e804aa234976a14b62067c55",
-        "candidateSignature": "26c5195206259f6e28b4aa0f"
-      }
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
-        "detailUrl": "",
-        "title": "Nadal a Dro",
-        "rawText": "Nadal a Dro | 12.12 - 24.12.2026 | Dro | - Via Cesare Battisti, 14 | 20:00 - 00:00 | Aspettando il Natale | 19.12 2026",
-        "image": "",
-        "candidateKey": "02b3fb53a0b332c2bd5eb7ab",
-        "candidateSignature": "467c0d9b25a7ced204dc9ad1"
-      },
-      "previousSignature": "a9f6d2c11927735285f0215e"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "100 e + anni di turismo nel Garda Trentino",
-        "rawText": "100 e + anni di turismo nel Garda Trentino | 03.11 2026 | Riva del Garda | Farmers' market Arco | 02.01 - 31.12.2026 ( | Every Tuesday | )",
-        "image": "",
-        "candidateKey": "1d10264cf374f7fcb3538cfd",
-        "candidateSignature": "254126938bad2286bc4d7a97"
-      },
-      "previousSignature": "e65feb5a71b36e2b3cf71154"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-        "detailUrl": "",
-        "title": "Quando la musica racconta",
-        "rawText": "Quando la musica racconta | 22.11 2026 | Riva del Garda | - Largo Marconi 5, | Riva del Garda | - Via Maffei 18, | Riva del Garda",
-        "image": "",
-        "candidateKey": "1d1e16e0ddb969a621d0910f",
-        "candidateSignature": "e122b57786ee8907f33d81b5"
-      },
-      "previousSignature": "9fee46b0af6e978eb5c6cffa"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-        "detailUrl": "",
-        "title": "FAIR OF SANT’ANDREA",
-        "rawText": "FAIR OF SANT’ANDREA | 30.11 2026 | Riva del Garda | 07:30 - 18:00 | Antoine Boyer & Yeore Kim | 03.12 2026 | Vezzano",
-        "image": "",
-        "candidateKey": "257f522c3abf09f2afad9789",
-        "candidateSignature": "47690c51ba5019d66ee1febd"
-      },
-      "previousSignature": "80c1ab5bba873b702a2aacaf"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Farmers' market Arco",
-        "rawText": "Farmers' market Arco | 02.01 - 31.12.2026 ( | Every Tuesday | ) | Arco | 08:00 - 13:00 | Arco’s Weekly Market",
-        "image": "",
-        "candidateKey": "2a8acfc51ff7624b9385ee94",
-        "candidateSignature": "a7e199e0479a48e1d9e3333d"
-      },
-      "previousSignature": "b5e95d54db13b64277814857"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Riva del Garda’s Weekly Market",
-        "rawText": "Riva del Garda’s Weekly Market | 11.11 2026 | Riva del Garda | 08:00 - 14:00 | Other available dates | top | From Taste to Taste",
-        "image": "",
-        "candidateKey": "317628697ca12c76e8b45b41",
-        "candidateSignature": "aa3b4801728f52481df6a51d"
-      },
-      "previousSignature": "4da0a5bbb274111d3a36923f"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "From Taste to Taste",
-        "rawText": "From Taste to Taste | 13.11 - 14.11.2026 | Riva del Garda | - Piazza Garibaldi, | Riva del Garda | - Piazza Battisti | 10:30 - 21:00",
-        "image": "",
-        "candidateKey": "4f25e2f19ce9bb444d0ff287",
-        "candidateSignature": "4276572a75878f7dea62fba7"
-      },
-      "previousSignature": "d7da5575b35cfa8a565fd8df"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
-        "detailUrl": "",
-        "title": "Lúcia de Carvalho",
-        "rawText": "Lúcia de Carvalho | 12.12 2026 | Vezzano | - Via Antonio Stoppani 16 | 21:00 - 23:30 | Bookable online | Nadal a Dro",
-        "image": "",
-        "candidateKey": "59449d48fb049de35ecb421f",
-        "candidateSignature": "9c1b91117bd1b77060c5d7aa"
-      },
-      "previousSignature": "846b84a8d739dbe11f2d79b7"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Livia Mattos",
-        "rawText": "Livia Mattos | 10.11 2026 | Vezzano | - Via Antonio Stoppani 16 | 21:00 - 23:30 | Bookable online | Riva del Garda’s Weekly Market",
-        "image": "",
-        "candidateKey": "c348e31967da1fc47247664b",
-        "candidateSignature": "c9e09db54bb74852bd3263e2"
-      },
-      "previousSignature": "7461dd979bb9c1459103f3b3"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-        "detailUrl": "",
-        "title": "Christmas Market in Canale di Tenno",
-        "rawText": "Christmas Market in Canale di Tenno | 28.11 - 29.11.2026 | Canale di Tenno | 09:30 - 18:00 | Other available dates | FAIR OF SANT’ANDREA | 30.11 2026",
-        "image": "",
-        "candidateKey": "e0282a48b0f6d29fee329464",
-        "candidateSignature": "894b048bf2d98be801ba8477"
-      },
-      "previousSignature": "4546c8b0eab3790a5b12cb78"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
-        "detailUrl": "",
-        "title": "Aspettando il Natale",
-        "rawText": "Aspettando il Natale | 19.12 2026 | Ronzo Chienis | - Via Teatro 13/B | 16:30 - 20:30 | Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE | 26.12 - 28.12.2026",
-        "image": "",
-        "candidateKey": "e0494050a63e66a19bc6a4a8",
-        "candidateSignature": "beae2f02fbdf8c177febde3c"
-      },
-      "previousSignature": "7a8851036bf20bf601f508a3"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Arco’s Weekly Market",
-        "rawText": "Arco’s Weekly Market | 04.11 2026 | Arco | - Towncentre | 08:00 - 14:00 | Other available dates | top",
-        "image": "",
-        "candidateKey": "f91975fa25ca459a2dc82355",
-        "candidateSignature": "9d89e1ace0479c392c5456cd"
-      },
-      "previousSignature": "2e1fbbbf98755f6fee1cf2f3"
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Festa della Noce",
-        "rawText": "Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore) | - Cavrasto square | 10-18 / 45 | < | Previous",
-        "image": "",
-        "candidateKey": "13c80428548681e907d2ec00",
-        "candidateSignature": "0ad87b866b89b3b926e0aa91"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "Top Dolomites Outdoor Festival",
-        "rawText": "Top Dolomites Outdoor Festival | 04.06 - 06.06.2027 | Pinzolo | - Piazza San Giacomo, | Riva del Garda | 37-45 / 45 | <",
-        "image": "",
-        "candidateKey": "15ef06079826e2eb2d091b90",
-        "candidateSignature": "2491d8b6b8afc993a23c9145"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
-        "detailUrl": "",
-        "title": "Antoine Boyer & Yeore Kim",
-        "rawText": "Antoine Boyer & Yeore Kim | 03.12 2026 | Vezzano | - Via Antonio Stoppani 16 | 21:00 - 23:30 | Bookable online | top",
-        "image": "",
-        "candidateKey": "427a3f09363bd19f17f85765",
-        "candidateSignature": "c00dea602ac83cb7060f489c"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Mese del Gusto",
-        "rawText": "Mese del Gusto | 07.11 - 08.11.2026 | Riva del Garda | top | Alchimie d'autunno | 07.11 2026 | Santa Massenza",
-        "image": "",
-        "candidateKey": "49599fa30afd56c2cc0ad60d",
-        "candidateSignature": "83ee03a0e229bfe9a364e1d3"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-        "detailUrl": "",
-        "title": "Flea market in Arco",
-        "rawText": "Flea market in Arco | 21.11 2026 | Arco | - Towncentre | 08:00 - 17:00 | Other available dates | 19-27 / 45",
-        "image": "",
-        "candidateKey": "4df0ba63bc0854643cda5514",
-        "candidateSignature": "93fc5630bb7ea1b8ea610dd1"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Climbing: ARCO – A Meeting Place",
-        "rawText": "Climbing: ARCO – A Meeting Place | 31.10 2026 | Tenno (TN) | - Via Dante Alighieri 17 | 19:00 | Arco Verticale | 17.10 - 03.11.2026",
-        "image": "",
-        "candidateKey": "54fbf31ab71615b154becc92",
-        "candidateSignature": "3d8e318503d6041bcdd1c9e6"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Halloween for Kids",
-        "rawText": "Halloween for Kids | 31.10 2026 | Bezzecca | 15:00 | Gino Pancheri. Female Figures | 06.09 - 08.11.2026 ( | Every Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-        "image": "",
-        "candidateKey": "623a1f0f1d04aa4c9cf03aec",
-        "candidateSignature": "c62978f1596d21559d2cc5c5"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Frantoi Aperti",
-        "rawText": "Frantoi Aperti | 07.11 - 08.11.2026 | Riva del Garda | top | Festa della Noce | 07.11 - 08.11.2026 | Cavrasto (Bleggio Superiore)",
-        "image": "",
-        "candidateKey": "64d2370f00f8812f357a3eb3",
-        "candidateSignature": "57a87f4b51529ef03e5a541a"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=3",
-        "detailUrl": "",
-        "title": "Christmas Market in Arco",
-        "rawText": "Christmas Market in Arco | 13.11 2026 | Arco | - Towncentre | 10:00 - 19:00 | Other available dates | top",
-        "image": "",
-        "candidateKey": "864175fe388cf38062bb8367",
-        "candidateSignature": "6e73ace1352210490ad84afd"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Alchimie d'autunno",
-        "rawText": "Alchimie d'autunno | 07.11 2026 | Santa Massenza | - Piazza San Vigilio | top | Frantoi Aperti | 07.11 - 08.11.2026",
-        "image": "",
-        "candidateKey": "8838c199ecb3b40a50c42baa",
-        "candidateSignature": "5fb1999012fc65a49409b9e5"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "DiVin Ottobre",
-        "rawText": "DiVin Ottobre | 12.10 - 31.10.2026 ( | Every Friday, Saturday, Sunday | ) | Riva del Garda | Ultimate Landscapes | 19.12 - 21.12.2026 (",
-        "image": "",
-        "candidateKey": "a215eff3908acbb610cf6167",
-        "candidateSignature": "0c69f7bce5f541e22790789f"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Arco Verticale",
-        "rawText": "Arco Verticale | 17.10 - 03.11.2026 | Bolognano | - Viale Stazione 6 | 09:00 - 12:00 | Other available dates | DiVin Ottobre",
-        "image": "",
-        "candidateKey": "ae85f230d9f87916d23a4fc3",
-        "candidateSignature": "cfe6d9708631316bb030ed39"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events",
-        "detailUrl": "",
-        "title": "Display al Forte di Nago",
-        "rawText": "Display al Forte di Nago | 11.07 - 31.10.2026 ( | Every Thursday, Friday, Saturday | ) | Nago | - Via al Castèl Pénede | 10:00 - 12:30",
-        "image": "",
-        "candidateKey": "de0c09633cce0914cfb88371",
-        "candidateSignature": "4c3611dcf07f65b2201da0f4"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-        "detailUrl": "",
-        "title": "Garda Trentino Half Marathon",
-        "rawText": "Garda Trentino Half Marathon | 06.11 - 08.11.2026 | Arco | , | Riva del Garda | 09:00 - 15:00 | Farmers' market in Riva del Garda",
-        "image": "",
-        "candidateKey": "e19ff3d562c5c399b041b4a6",
-        "candidateSignature": "6405fc6bd4fddb47274af700"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
-        "detailUrl": "",
-        "title": "Garda Trentino Xmas Trail",
-        "rawText": "Garda Trentino Xmas Trail | 12.12 2026 | Torbole sul Garda - Nago | - Via della Lova 18 | 09:00 - 15:00 | 28-36 / 45 | <",
-        "image": "",
-        "candidateKey": "f63ea4679d7f168780b6f06e",
-        "candidateSignature": "125821eafd02e330c0abaaf1"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "garda_trentino_events",
-        "sourceName": "Garda Trentino - events",
-        "pageUrl": "https://www.gardatrentino.it/en/discover/events?page=5",
-        "detailUrl": "",
-        "title": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE",
-        "rawText": "Shalom - Pace: NATIVITY SCENE IN LUNDO VILLAGE | 26.12 - 28.12.2026 | Lundo | 17:00 - 21:00 | top | GRINCH MISSION: Target Santa’s House | 27.12 2026",
-        "image": "",
-        "candidateKey": "f6fe9a8fb70a69ec08234c12",
-        "candidateSignature": "e2cae378bc006883fd88dc87"
+        "candidateKey": "835449e377fda48c34f26ee9",
+        "candidateSignature": "4d970d502c0f4685913512b0"
       }
     },
     {
       "change": "ADDED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-11-02&end_event_date=2026-11-09&filter_ref=week",
+        "title": "7 giorni",
+        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+        "image": "",
+        "candidateKey": "aea5673e332bcc4ee237a82a",
+        "candidateSignature": "f1ce474b75da3d0bad35869a"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/i-natali-dellalta-vallagarina",
+        "title": "I Natali dell’Alta Vallagarina",
+        "rawText": "I Natali dell’Alta Vallagarina Calliano, Besenello, Nomi e Volano - Dal 4 al 27 dicembre 2026 Luci e Note di Speranza. Un progetto condiviso dalle amministrazioni di Calliano, Besenello, Nomi e Volano, per vivere insieme la magia delle feste. I Natali dell ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2025/11/Natali-Alta-Vallagarina-1.jpg",
+        "candidateKey": "f6045c95e0a40704a6329389",
+        "candidateSignature": "4e59d0323823d9fd09d479ed"
+      }
+    },
+    {
+      "change": "ADDED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-11-03&end_event_date=2026-11-03&filter_ref=tomorrow",
+        "title": "Domani",
+        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
+        "image": "",
+        "candidateKey": "fbaa08a8370924060ad8ffba",
+        "candidateSignature": "0b19f984842f6f8561d7baa1"
+      }
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/sulle-tracce-dei-dinosauri",
+        "title": "Sulle tracce dei dinosauri",
+        "rawText": "Sulle tracce dei dinosauri Orme dei dinosauri, Rovereto dal 14-02- 20 26 al 28-11- 20 26 Un tuffo nel passato. Visite guidate con gli esperti della Fondazione Museo Civico di Rovereto. Scopri gli appuntamenti al sito paleontologico dei Lavini di Marco, tra i più importanti e spettacolari ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2025/04/Sulle-tracce-dei-dinosauri.jpg",
+        "candidateKey": "33b568ca78096cada78d4ce3",
+        "candidateSignature": "05e6ed93cffd11fe588d7641"
+      },
+      "previousSignature": "e01e7fb1f828cde6b0703720"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/visite-guidate-rovereto",
+        "title": "Trekking urbani",
+        "rawText": "Trekking urbani Rovereto - Da sabato 2 maggio a sabato 12 dicembre 2026 Itinerari a tema per scoprire Rovereto e le vie della seta. Da maggio a dicembre itinerari guidati a tema per scoprire Rovereto e i tesori nascosti della Vallagarina. Cinque piacevoli percorsi ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2018/09/Trekking-urbani-Luca-Matassoni.jpg",
+        "candidateKey": "34030b8201613df2e9297ff9",
+        "candidateSignature": "d877d08f98325f40a9e4b320"
+      },
+      "previousSignature": "e99ee58311789fb3ffbe0186"
+    },
+    {
+      "change": "CHANGED",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/sorsi-di-natale",
+        "title": "Sorsi di Natale",
+        "rawText": "Sorsi di Natale Palazzo Scherer in Via Nuova, Ala - Ogni sabato e domenica dal 28 novembre al 20 dicembre 2026 Scopri e acquista le migliori etichette del territorio. Ad Ala sorge la Bolla “Sorsi di Natale ... Dal 28 novembre al 20 dicembre, la Bolla “Sorsi di Natale” ti aspetta sabato e ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2025/11/Sorsi-di-Natale-Luca-Matassoni-2.jpg",
+        "candidateKey": "c836cf1e230ae69446c0ae97",
+        "candidateSignature": "3d32227c181085eed7a47ed4"
+      },
+      "previousSignature": "05376c24e9ee71d81335896a"
+    },
+    {
+      "change": "MISSING",
       "candidate": {
         "sourceId": "visitrovereto_events",
         "sourceName": "Visit Rovereto / Vallagarina - events",
@@ -595,7 +280,7 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "visitrovereto_events",
         "sourceName": "Visit Rovereto / Vallagarina - events",
@@ -609,7 +294,7 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
       "candidate": {
         "sourceId": "visitrovereto_events",
         "sourceName": "Visit Rovereto / Vallagarina - events",
@@ -623,7 +308,21 @@
       }
     },
     {
-      "change": "ADDED",
+      "change": "MISSING",
+      "candidate": {
+        "sourceId": "visitrovereto_events",
+        "sourceName": "Visit Rovereto / Vallagarina - events",
+        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
+        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/di-quadro-in-quadro",
+        "title": "Di quadro in quadro",
+        "rawText": "Di quadro in quadro Mart - Da sabato 13 giugno a domenica 1 novembre L'arte della citazione. Di quadro in quadro. L’arte della citazione indaga il ruolo della citazione nella storia dell’arte, intesa come ripresa e rielaborazione di motivi, temi ed elementi ...",
+        "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Di-quadro-in-quadro-Mart.jpg",
+        "candidateKey": "d944fee9f46a6532220646b4",
+        "candidateSignature": "7ad0d4a19b3622b121a07ae0"
+      }
+    },
+    {
+      "change": "MISSING",
       "candidate": {
         "sourceId": "visitrovereto_events",
         "sourceName": "Visit Rovereto / Vallagarina - events",
@@ -637,594 +336,17 @@
       }
     },
     {
-      "change": "CHANGED",
+      "change": "ADDED",
       "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/natale-brentonico",
-        "title": "Natale di Montagna",
-        "rawText": "Natale di Montagna Brentonico - Dal 6 dicembre 2026 al 30 dicembre 2026 La magia delle feste per grandi e piccini. Nel borgo alpino di Brentonico, vicino alle piste da sci, il Natale si avvicina. Pini e alberi illuminati, tavolini e panchine in legno, luci e grandi ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2017/11/Natale-in-montagna.png",
-        "candidateKey": "045ea522bfccb422889b195d",
-        "candidateSignature": "0f7ef6685053391baba2f82f"
-      },
-      "previousSignature": "5e8d29c9ed3962fcbed6812b"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?pno=8&lang=it",
-        "title": "8",
-        "rawText": "1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "0fa6ac05c18cfb07527ef066",
-        "candidateSignature": "c364b91c0d6d442aeea74202"
-      },
-      "previousSignature": "10f35bae9c81b6cb3ccc7965"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?pno=6&lang=it",
-        "title": "6",
-        "rawText": "1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "10f6e8c0ca0a100fcc7a9b18",
-        "candidateSignature": "3a69454270904308ad8a67c3"
-      },
-      "previousSignature": "5256af82091151935f1a0d37"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/krampus-in-vallagarina",
-        "title": "Sfilate dei Krampus in Vallagarina",
-        "rawText": "Sfilate dei Krampus in Vallagarina Vallagarina - 4, 8 e 12 dicembre 2026 I Krampus invadono la Vallagarina. Suggestioni tra folklore e leggenda. Quella dei Krampus, esseri dalle fattezze demoniache con maschere spaventose e lunghe corna, è una storia di origini ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2025/11/Krampus-in-Vallagarina-foto-di-Luca-Matassoni.jpg",
-        "candidateKey": "1744ad31e4a896496d3b16e2",
-        "candidateSignature": "243f804bc83ad6e49db4e986"
-      },
-      "previousSignature": "29fc6811c5f80eedaa824fc6"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2&lang=it",
-        "title": "2",
-        "rawText": "< 1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "17b50450e4a54c3537849ade",
-        "candidateSignature": "90d1eb1937843ddb926ce92e"
-      },
-      "previousSignature": "6536af628708aab12867490e"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/fiera-di-santa-caterina-rovereto",
-        "title": "Fiera di Santa Caterina",
-        "rawText": "Fiera di Santa Caterina Borgo Santa Caterina - Domenica, 22 novembre 2026 Una delle più antiche fiere trentine. La storia di Rovereto e dei suoi abitanti continua fuori e dentro all’antico Borgo di Santa Caterina che per l ... Domenica 22 novembre torna il ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2024/10/Borgo-Santa-Caterina_Luca-Matassoni-2.png",
-        "candidateKey": "1be7cf3038d7ac1ed9022849",
-        "candidateSignature": "ca0396f1938079f2c2d96738"
-      },
-      "previousSignature": "453f82623ab94b11a0ce311f"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/pattinaggio-a-riva-di-vallarsa",
-        "title": "Pattinaggio a Riva di Vallarsa",
-        "rawText": "Pattinaggio a Riva di Vallarsa Riva di Vallarsa - Tutti i weekend e nei giorni festivi dal 12 dicembre 2026 al 31 gennaio 2027 Per vivere l'inverno sui pattini. Non perderti la pista di pattinaggio dove il divertimento è assicurato! Un luogo da vivere con gli amici o la famiglia, per sfrecciare sui pattini a tutta ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2022/12/pattinaggio-vallarsa-1.jpg",
-        "candidateKey": "1ceb2aeb0a875ea726ee6096",
-        "candidateSignature": "526e87f9b99c1a02890ec11a"
-      },
-      "previousSignature": "eab8c6cf978f0102d64b120a"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=8",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/una-guida-per-famiglie",
-        "title": "Una guida per famiglie",
-        "rawText": "Una guida per famiglie Rovereto, Vallagarina e Monte Baldo dal 21-10- 20 26 al 31-12- 20 27 In viaggio con FortunaDino. Il libro è un invito ad attraversare Rovereto e la sua valle in compagnia di Isotta, Ugo e FortunaDino, il dinosauro che riporta grandi e piccini nel Giurassico, ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Copertina-In-viaggio-con-FortunaDino.png",
-        "candidateKey": "24191f035deede91070a79ac",
-        "candidateSignature": "2df053297bec595780ef052b"
-      },
-      "previousSignature": "b73785876de091241144a960"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/vivallis-blind",
-        "title": "Vivallis Blind",
-        "rawText": "Vivallis Blind Cantina Vivallis - Nogaredo - Dal 1 gennaio 2026 al 31 dicembre 2026 Una degustazione alla cieca nella splendida location della cantina Vivallis di Nogaredo. Un ... Un percorso tra storia e tecnologia per farti toccare con mano la nostra realtà e respirare il ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2024/02/Vivallis-Luca-Matassoni.png",
-        "candidateKey": "27659dcbe20a2fb3283d3993",
-        "candidateSignature": "a384851fa8189e3be5d710b6"
-      },
-      "previousSignature": "8dbf357646b8a7eb14d86872"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?pno=4&lang=it",
-        "title": "4",
-        "rawText": "1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "43cc8946dbfd98e2908790dc",
-        "candidateSignature": "372ff751f1770fe73a41da8a"
-      },
-      "previousSignature": "68232eabc82952182012c962"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/mercatini-di-natale-a-santantonio-pomarolo",
-        "title": "Mercatini di Natale a Sant’Antonio – POMAROLO",
-        "rawText": "Mercatini di Natale a Sant’Antonio – POMAROLO S. Antonio - Pomarolo - Tutti i sabati e le domeniche dal 28 novembre al 20 dicembre 2026, lunedì 7 e martedì 8 dicembre 2026 Per la prima volta i mercatini di Natale in una location esclusiva a Pomarolo. Nella splendida cornice della località di S. Antonio, proprietà dei Conti Bossi Fedrigotti, quattro fine settimana ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Mercatini-di-Natale-a-SantAntonio-POMAROLO.png",
-        "candidateKey": "4adec60e8aa21ac21f638d10",
-        "candidateSignature": "6827a4002f315ffc0390c78b"
-      },
-      "previousSignature": "54de9da805c4ed8df93c6633"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=8",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/regala-la-vallagarina",
-        "title": "Regala la Vallagarina – Gift card",
-        "rawText": "Regala la Vallagarina – Gift card Vallagarina - Per tutto il 2027 Colleziona momenti, non cose. Quale miglior regalo di un’esperienza in Trentino da donare a chi vuoi tu? La Vallagarina ti aspetta per vivere momenti indimenticabili! Regala emozioni che ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2025/12/Regala-la-Vallagarina-2.png",
-        "candidateKey": "60d262fc18279b623f39e9e7",
-        "candidateSignature": "b5f0360e6e646c22772c72bf"
-      },
-      "previousSignature": "0cc1c7b3e97f3e48b52c18d5"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3&lang=it",
-        "title": ">",
-        "rawText": "< 1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "6863f5941435d5a49f60d74e",
-        "candidateSignature": "e900931cfd25b2c057a8d535"
-      },
-      "previousSignature": "c958193dfac224cef8677a14"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/passeggiata-vigneti-san-leonardo",
-        "title": "Visita e degustazione a San Leonardo",
-        "rawText": "Visita e degustazione a San Leonardo San Leonardo - Avio - Dal 1 gennaio 2026 al 31 dicembre 2026 Relax tra i vigneti e la storia. Lungo il corso del fiume Adige una piccola chiesetta sembra indicare un luogo non comune, al suo fianco un cancello ed una cinta muraria medievale. Benvenuto a San Leonardo!",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2021/04/san-leonardo-2.jpg",
-        "candidateKey": "7be0767c97c4d01d7ac53b7b",
-        "candidateSignature": "5cbfb3d9901e95b7f259106f"
-      },
-      "previousSignature": "13cce01449438faa09e72644"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it",
-        "title": "1",
-        "rawText": "< 1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "7d06b35c8796f297cfd25409",
-        "candidateSignature": "01bf9ca5ba64b030c9670e94"
-      },
-      "previousSignature": "4ce4f7a008c69d14f2aef1db"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?pno=7&lang=it",
-        "title": "7",
-        "rawText": "1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "7df330d712508268bbb19646",
-        "candidateSignature": "a92fb7c7a3100bc0a8ee9470"
-      },
-      "previousSignature": "c372394b8d6ea9a526400a09"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=6",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/visita-al-produttore",
-        "title": "Da Maso Salengo una visita alla cantina di famiglia",
-        "rawText": "Da Maso Salengo una visita alla cantina di famiglia Maso Salengo - Volano - Dal 1 gennaio 2026 al 31 dicembre 2026 Maso Salengo ti apre le sue porte. Giuseppina e la sua famiglia ti aspettano per raccontarti la loro storia, per mostrarti di persona come e dove viene prodotto il vino e per farti scoprire ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2021/03/maso-salengo-3.jpg",
-        "candidateKey": "979c83ae1cd19307d03b1fd4",
-        "candidateSignature": "e18eb5fc2ef8fd8134608230"
-      },
-      "previousSignature": "d730dbdb40c46148918573df"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=6",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/sulle-rotte-del-cioccolato",
-        "title": "Sulle rotte del cioccolato",
-        "rawText": "Sulle rotte del cioccolato Exquisita - Rovereto - Dal 1 gennaio 2026 al 31 dicembre 2026 Il cioccolato come non lo hai mai provato. Da Exquisita il cioccolato non è solo gusto: è un intreccio di cultura, storia, sensi ed emozioni. Un’esperienza da vivere con tutti e cinque i sensi.",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2023/02/sulle-rotte-del-cioccolato-foto-di-luca-matassoni-3.jpg",
-        "candidateKey": "99e9359ab1ff3f85d38b99d2",
-        "candidateSignature": "3c3cab29af150f961861d441"
-      },
-      "previousSignature": "969cc75300653dfc9b12df1a"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?pno=5&lang=it",
-        "title": "5",
-        "rawText": "1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "b2f0bdadf54ab910d94716ea",
-        "candidateSignature": "4df4133b67f985d78945eae4"
-      },
-      "previousSignature": "8cd4915b90864febb3356b83"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/il-natale-nelle-valli-del-leno",
-        "title": "Natale nelle Valli del Leno",
-        "rawText": "Natale nelle Valli del Leno Terragnolo, Trambileno, Vallarsa - Dal 21 novembre 2026 al 10 gennaio 2027 Tradizione, canti natalizi e paesaggi mozzafiato. I paesi di Terragnolo, Trambileno e Vallarsa ti danno il benvenuto nelle Valli del Leno, dove tra presepi, mercatini, enogastronomia e spettacoli ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2017/10/Il-Natale-nelle-Valli-del-Leno-2024-Luca-Matassoni.jpg",
-        "candidateKey": "b50e6ba9ab68080300080570",
-        "candidateSignature": "c1f232b8494be8972b3afb05"
-      },
-      "previousSignature": "84df07ef1c4d69e95ead1fa7"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/alla-scoperta-del-vino-artigianale-di-montagna",
-        "title": "Alla scoperta del vino artigianale di montagna",
-        "rawText": "Alla scoperta del vino artigianale di montagna Azienda Agricola Vignali Varás - Dal 1 gennaio 2026 al 31 dicembre 2026 Wine from the Alps. Scopri il territorio di Isera in Vallagarina e visita i vigneti di montagna. Un’esperienza dove potrai conoscere il percorso che porta alla realizzazione di una bottiglia ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2024/02/Vignali-Varas-2.jpg",
-        "candidateKey": "b5802e1c67409b4bfa8308ef",
-        "candidateSignature": "791b98be5ea1376882ad1441"
-      },
-      "previousSignature": "2c96a776275ac9df7a1aee44"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/viva-abbondanzabertoni",
-        "title": "VIVA!",
-        "rawText": "VIVA! Rovereto, Teatro alla Cartiera e Teatro Zandonai - Da settembre a dicembre La rassegna per i 30 anni della Compagnia Abbondanza/Bertoni. Da settembre a dicembre: 12 appuntamenti, 18 lavori e oltre 20 artiste e artisti della scena nazionale e internazionale. Dopo la ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2026/09/VIVA-CRY-VIOLET.jpg",
-        "candidateKey": "b956ce4cbbb9da9c0c6d16d9",
-        "candidateSignature": "6455099aee474a968a480959"
-      },
-      "previousSignature": "618dd057f955e88abdb45205"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=7&lang=it",
-        "title": "7",
-        "rawText": "< 1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "c13c258a80481896213e365b",
-        "candidateSignature": "9334c1a2f203945b96c482ae"
-      },
-      "previousSignature": "048650513214824f3c40ec6c"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=5&lang=it",
-        "title": "5",
-        "rawText": "< 1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "cac5f0de1255088b1581dde1",
-        "candidateSignature": "7ccb525d4442f88f4fee25ac"
-      },
-      "previousSignature": "f9b15e0c5b41293688fadf7b"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?pno=3&lang=it",
-        "title": "3",
-        "rawText": "1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "cb677c8a531a12966bdb591c",
-        "candidateSignature": "db1a7d432d7ddeb09b92e760"
-      },
-      "previousSignature": "00308400f9f18c5b0a371b1e"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=3",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/festival-dei-piccoli",
-        "title": "Festival dei Piccoli",
-        "rawText": "Festival dei Piccoli Rovereto - Dal 4 ottobre al 20 dicembre 2026 Il festival di teatro per bambini e famiglie che stavi aspettando! Un ricco calendario di spettacoli teatrali per accompagnare i più giovani a riflettere sul tema della bellezza ... Un festival ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2025/08/Il-Festival-dei-Piccoli.png",
-        "candidateKey": "cbe616d9573be04c4877aca7",
-        "candidateSignature": "a3e72ecca38abdb469cfbe23"
-      },
-      "previousSignature": "1df62d075fbd79da569956e1"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=8&lang=it",
-        "title": "8",
-        "rawText": "< 1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "d69d25a633330e4402b3bf4a",
-        "candidateSignature": "4e71fbdd2ca98dfb6864d5fa"
-      },
-      "previousSignature": "4fbbb406ed4488f221c0bb67"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=4&lang=it",
-        "title": "4",
-        "rawText": "< 1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "dbd69ebf2372175e1844a65d",
-        "candidateSignature": "a25baef90ce3dec86646f291"
-      },
-      "previousSignature": "c85b15c3fa2fe500828e05db"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=6&lang=it",
-        "title": "6",
-        "rawText": "< 1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "e209b3c9b03e79d43cb53d86",
-        "candidateSignature": "485315904ec9dc72481ccaa8"
-      },
-      "previousSignature": "140a266bdb7886159c0e06dd"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/festival-meteorologia",
-        "title": "Festivalmeteorologia",
-        "rawText": "Festivalmeteorologia Rovereto dal 19-11- 20 26 al 22-11- 20 26 IL TEMPO NEL TEMPO - Meteo, clima e storia. Un ... Il Festivalmeteorologia, giunto alla sua XII edizione, offre un ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2018/08/festivalmeteorologia-luca-mercalli.jpg",
-        "candidateKey": "e61f7b2a82cda29e237e0f3f",
-        "candidateSignature": "5e7c37c306f48cdb4dfd7f6d"
-      },
-      "previousSignature": "86b5c83fc117b57e55494a3d"
-    },
-    {
-      "change": "CHANGED",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?pno=2&lang=it",
-        "title": ">",
-        "rawText": "1 2 3 4 5 6 7 8 >",
-        "image": "",
-        "candidateKey": "fdf293f4d8b1b28cc73244f4",
-        "candidateSignature": "4e78c9c50575c0f7c872c586"
-      },
-      "previousSignature": "964dcaadfff55a2a1e018ae8"
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-31&end_event_date=2026-10-31&filter_ref=today",
-        "title": "Oggi",
-        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-        "image": "",
-        "candidateKey": "03ea069f3d38ba4123b6f6b0",
-        "candidateSignature": "a6e48207aa87d2701333c67e"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-11-01&end_event_date=2026-11-01&filter_ref=tomorrow",
-        "title": "Domani",
-        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-        "image": "",
-        "candidateKey": "050330fd07218afc7e856d3a",
-        "candidateSignature": "3df12b3ca08b317c4f52754a"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween",
-        "title": "Shopping aspettando Halloween",
-        "rawText": "Shopping aspettando Halloween Centro Storico Rovereto - Sabato 31 ottobre 2026 Una giornata da urlo a Rovereto. Tremate e preparatevi, molte cose accadranno, durante la notte più paurosa dell’anno! L ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2015/10/Shopping-aspettando-Halloween-2026-1.jpg",
-        "candidateKey": "0656669f5e27318aa817b41a",
-        "candidateSignature": "aa295500a551e97dc6f4a00e"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=9",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=9",
-        "title": "configurazione delle preferenze cookie",
-        "rawText": "Un'esperienza su misura Questo sito utilizza cookie tecnici e, previa acquisizione del consenso, cookie analitici e di profilazione, di prima e di terza parte. La chiusura del banner comporta il permanere delle impostazioni e la continuazione della navigazione in assenza di cookie diversi da quelli tecnici. Il tuo consenso all’uso dei cookie diversi da quelli tecnici è opzionale e revocabile in ogni momento tramite la configurazione delle preferenze cookie . Per avere più informazioni su ciascun tipo di cookie che usiamo, puoi leggere la nostra Cookie Policy .",
-        "image": "",
-        "candidateKey": "2e009cd392250c3acb7e6ba9",
-        "candidateSignature": "9afa3e8584cd77170f56b235"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-31&end_event_date=2026-11-07&filter_ref=week",
-        "title": "7 giorni",
-        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-        "image": "",
-        "candidateKey": "50c4c5c41d97f43616e213d5",
-        "candidateSignature": "533df8e0ada549f4490ebc36"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?start_event_date=2026-10-31&end_event_date=2026-11-30&filter_ref=month",
-        "title": "30 giorni",
-        "rawText": "Oggi Domani 7 giorni 30 giorni Ricerca avanzata Dal Al",
-        "image": "",
-        "candidateKey": "a66b34415e19083dfc7b56d8",
-        "candidateSignature": "c274f293577e456aed19fe5a"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?pno=9&lang=it",
-        "title": "9",
-        "rawText": "1 2 3 4 5 6 7 8 9 >",
-        "image": "",
-        "candidateKey": "a87d53644a15fccd4274013d",
-        "candidateSignature": "fdaa0315854bc6faa6206d79"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi/enotour-tra-il-borgo-di-ala-e-le-piccole-dolomiti",
-        "title": "Enotour tra il borgo di Ala e le Piccole Dolomiti",
-        "rawText": "Enotour tra il borgo di Ala e le Piccole Dolomiti Borgo dei Posseri - Ala (TN) - Dal 1 marzo 2026 al 31 ottobre 2026 Un viaggio multisensoriale a passo lento, dove il calice incontra la terra in cui affonda le radici. Cosa può esserci di più emozionante che sorseggiare un vino direttamente tra le radure, ...",
-        "image": "https://www.visitrovereto.it/wp-content/uploads/2026/05/3.png",
-        "candidateKey": "c37e1ef921ff23f292a88e18",
-        "candidateSignature": "1a7c19faec2f2fb9c955f6ba"
-      }
-    },
-    {
-      "change": "MISSING",
-      "candidate": {
-        "sourceId": "visitrovereto_events",
-        "sourceName": "Visit Rovereto / Vallagarina - events",
-        "pageUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=2",
-        "detailUrl": "https://www.visitrovereto.it/vivi/eventi?lang=it&pno=9&lang=it",
-        "title": "9",
-        "rawText": "< 1 2 3 4 5 6 7 8 9 >",
-        "image": "",
-        "candidateKey": "e7aeff70823ddb44ffd7d247",
-        "candidateSignature": "f3582ae4ccce83f57c848733"
+        "sourceId": "visittrentino_all_events",
+        "sourceName": "Visit Trentino - all events",
+        "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/dolomitismo-racconti-verticali_e_137070042",
+        "title": "Dolomitismo - Racconti Verticali",
+        "rawText": "Cinema Dolomitismo - Racconti Verticali Una docuserie prodotta da Fondazione Dolomiti UNESCO ideata e diretta da Emanuele Confortin. Una serata speciale organizzata da ApT San Martino di... Fiera di Primiero 06/11/2026",
+        "image": "https://www.visittrentino.info/assets-basic/events/san-martino/dolomitismo---racconti-verticali_137070042/7879464/image-thumb__7879464__moodboard_list/dolomitismo---racconti-verticali_137070042_1.8d1d77bb.jpg",
+        "candidateKey": "0c41e0073fdcdfcad1a234de",
+        "candidateSignature": "ae13089e6ca3e7591e9d1595"
       }
     },
     {
@@ -1233,12 +355,12 @@
         "sourceId": "visittrentino_all_events",
         "sourceName": "Visit Trentino - all events",
         "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/colori-in-movimento_e_137191738",
-        "title": "Colori in Movimento!",
-        "rawText": "Altro Colori in Movimento! Laboratorio gioco per bambini e bambine dai 3 anni in su con Jennifer e Alice ispirato dalla creatività di Hervè Tullet. Info e prenotazioni:... Canal San Bovo 02/11/2026",
-        "image": "https://www.visittrentino.info/assets-basic/events/san-martino/colori-in-movimento-_137191738/7880529/image-thumb__7880529__moodboard_list/colori-in-movimento-_137191738_1.f53c15b7.jpg",
-        "candidateKey": "309696d3910fb878ddb15863",
-        "candidateSignature": "5a776474c60a1fcfc2d4077a"
+        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/apertura-chiesetta-sant-ippolito-e-cassiano_e_136942457",
+        "title": "Apertura Chiesetta Sant'Ippolito e Cassiano",
+        "rawText": "Visite Guidate, Altro Apertura Chiesetta Sant'Ippolito e Cassiano Chiesetta Sant'Ippolito e Cassiano, dalle 10 alle 18 Castello Tesino 31/10/2026 - 02/11/2026",
+        "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/apertura-chiesetta-sant-27ippolito-e-cassiano_136942457/7878459/image-thumb__7878459__moodboard_list/apertura-chiesetta-sant-27ippolito-e-cassiano_136942457_1.7cad7ac4.jpg",
+        "candidateKey": "5ddbc101774e7bcd1535d14f",
+        "candidateSignature": "d5f4184fc2c770144f4cc7e5"
       }
     },
     {
@@ -1247,12 +369,12 @@
         "sourceId": "visittrentino_all_events",
         "sourceName": "Visit Trentino - all events",
         "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/borgo-a-due-facce-tra-sacro-e-profano_e_136905865",
-        "title": "Borgo a due facce: tra sacro e profano",
-        "rawText": "Altro Borgo a due facce: tra sacro e profano Facile escursione con guide locali nelle ville di Pergnano, Senaso e Dolaso del borgo di San Lorenzo in Banale, tra i più belli d'Italia. San Lorenzo in Banale 31/10/2026 - 01/11/2026",
-        "image": "https://www.visittrentino.info/assets-basic/events/visitdolomitipaganella-it/borgo-a-due-facce-tra-sacro-e-profano_136905865/7877913/image-thumb__7877913__moodboard_list/borgo-a-due-facce-tra-sacro-e-profano_136905865_2.8d69b918.jpg",
-        "candidateKey": "3a003c98abe920b3b24cd074",
-        "candidateSignature": "881ae010008f5dabe44d7fe6"
+        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/arco-verticale_e_136904571",
+        "title": "Arco Verticale",
+        "rawText": "Mostre, Eventi Culturali Arco Verticale Progetto fotografico di Norma Todeschi Arco 17/10/2026 - 03/11/2026",
+        "image": "https://www.visittrentino.info/assets-basic/events/garda-trentino/arco-verticale_136904571/7877847/image-thumb__7877847__moodboard_list/arco-verticale_136904571_1.92d32f79.jpg",
+        "candidateKey": "a132d10f20ea361c539a0abf",
+        "candidateSignature": "72637a1849ac52a8577ecdcf"
       }
     },
     {
@@ -1261,12 +383,12 @@
         "sourceId": "visittrentino_all_events",
         "sourceName": "Visit Trentino - all events",
         "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/visita-ai-borghi-con-i-greeters_e_136940226",
-        "title": "Visita ai borghi con i Greeters",
-        "rawText": "Altro Visita ai borghi con i Greeters Una camminata tra amici, insieme ai nostri Greeters. San Lorenzo in Banale 01/11/2026",
-        "image": "https://www.visittrentino.info/assets-basic/events/visitdolomitipaganella-it/visita-ai-borghi-con-i-greeters_136940226/7878313/image-thumb__7878313__moodboard_list/visita-ai-borghi-con-i-greeters_136940226_2.8d69b918.jpg",
-        "candidateKey": "9acd9c12ba6817e68cbc1ad1",
-        "candidateSignature": "2f4f2094825d6b728fe709f1"
+        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/cinema-primiero-the-social-il-prezzo-della-verit-agrave_e_136897907",
+        "title": "Cinema Primiero: The Social - Il prezzo della verità",
+        "rawText": "Cinema Cinema Primiero: The Social - Il prezzo della verità Proiezione del film biografico \"The Social - Il prezzo della verità\". Benchè creda nel proprio lavoro e nella \"missione\" di Facebook, l'ingegnere... Fiera di Primiero 28/10/2026 - 04/11/2026",
+        "image": "https://www.visittrentino.info/assets-basic/events/san-martino/cinema-primiero-the-social---il-prezzo-della-verit-agrave-_136897907/7877659/image-thumb__7877659__moodboard_list/cinema-primiero-the-social---il-prezzo-della-verit-agrave-_136897907_1.cff2aaf0.jpg",
+        "candidateKey": "c6854fc89c83924b3197182e",
+        "candidateSignature": "79a8dd728f2d255857e346d4"
       }
     },
     {
@@ -1275,26 +397,12 @@
         "sourceId": "visittrentino_all_events",
         "sourceName": "Visit Trentino - all events",
         "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-bambino-su-marte-teatro-dei-bambini-a-folgaria_e_137090869",
-        "title": "IL BAMBINO SU MARTE - Teatro dei bambini a Folgaria",
-        "rawText": "Altro IL BAMBINO SU MARTE - Teatro dei bambini a Folgaria Per la rassegna \"Il Teatro dei Bambini\" iL Gruppo Panta Rei mette in scena lo spettacolo per bambini IL PRIMO BAMBINO SU MARTE Luogo: Cinema... Folgaria 01/11/2026",
-        "image": "https://www.visittrentino.info/assets-basic/events/altipiano/il-bambino-su-marte---teatro-dei-bambini-a-folgaria_137090869/7879719/image-thumb__7879719__moodboard_list/il-bambino-su-marte---teatro-dei-bambini-a-folgaria_137090869_1.8d25fda8.jpg",
-        "candidateKey": "af9139af145974d540585158",
-        "candidateSignature": "d3d6322d50d6411f56c9fd6a"
-      }
-    },
-    {
-      "change": "ADDED",
-      "candidate": {
-        "sourceId": "visittrentino_all_events",
-        "sourceName": "Visit Trentino - all events",
-        "pageUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
-        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/trekking-del-foliage_e_136905861",
-        "title": "Trekking del foliage",
-        "rawText": "Sport Trekking del foliage Escursione con le guide alpine alla montagna di Prada per ammirare i boschi vestiti dal foliage e il lago di Molveno dall'alto San Lorenzo in Banale 01/11/2026",
-        "image": "https://www.visittrentino.info/assets-basic/events/visitdolomitipaganella-it/trekking-del-foliage_136905861/7877907/image-thumb__7877907__moodboard_list/trekking-del-foliage_136905861_2.c2928179.jpg",
-        "candidateKey": "bb3183c43d6a6404a94d5dc1",
-        "candidateSignature": "9b1fa297619679eaaa4ebb40"
+        "detailUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/di-coniglietti-scoiattoli-e-finali-sorprendenti_e_134742948",
+        "title": "… Di coniglietti, scoiattoli e finali sorprendenti",
+        "rawText": "Altro, Intrattenimento della Località … Di coniglietti, scoiattoli e finali sorprendenti venerdì 6 novembre ore 16:30 Serra del Parco Storico Levico Terme 06/11/2026",
+        "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/-e2-80-a6-di-coniglietti-2c-scoiattoli-e-finali-sorprendenti_134742948/7877805/image-thumb__7877805__moodboard_list/-e2-80-a6-di-coniglietti-2c-scoiattoli-e-finali-sorprendenti_134742948_1.524b9a2d.jpg",
+        "candidateKey": "fbba820acc9c57ea9fa0662d",
+        "candidateSignature": "d13f86ba3d5c30fcb206f507"
       }
     }
   ]

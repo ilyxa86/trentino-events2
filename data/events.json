@@ -2288,6 +2288,43 @@
     "descriptionVerified": "2026-10-15"
   },
   {
+    "id": "arco-verticale-2026-2",
+    "name": {
+      "de": "Arco Verticale",
+      "en": "Arco Verticale",
+      "it": "Arco Verticale"
+    },
+    "startDate": "2026-10-17",
+    "endDate": "2026-11-03",
+    "startTime": null,
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Progetto fotografico di Norma Todeschi . Cosa fare in Trentino - Eventi Trentino"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/arco-verticale_e_136904571",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/garda-trentino/arco-verticale_136904571/7877847/image-thumb__7877847__moodboard_list/arco-verticale_136904571_1.92d32f79.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/arco-verticale_e_136904571"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/arco-verticale_e_136904571"
+    },
+    "descriptionVerified": "2026-11-02",
+    "assetVerified": "2026-11-02"
+  },
+  {
     "id": "mese-del-gusto-2026",
     "name": {
       "de": "Mese del Gusto",
@@ -2534,151 +2571,6 @@
     },
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15"
-  },
-  {
-    "id": "oltre-i-passi-passeggiata-d-autunno-2026",
-    "name": {
-      "de": "Oltre i passi - Passeggiata d'autunno",
-      "en": "Oltre i passi - Passeggiata d'autunno",
-      "it": "Oltre i passi - Passeggiata d'autunno"
-    },
-    "startDate": "2026-10-22",
-    "endDate": "2026-10-22",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Giovedì 22 ottobre, a partire dalle ore 15.30 , presso la tensostruttura di Villazzano 3, si terrà un pomeriggio dedicato alla socialità, alla condivisione e alla scoperta del territorio, con attività pensate per coinvolgere grandi e piccoli. Nel corso del pomeriggio sono previsti laboratori, giochi e una merenda preparata dalle cuoche dei nidi d’infanzia di Madonna Bianca e Villazzano 3."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Oltre-i-passi-Passeggiata-d-autunno",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-20",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Oltre-i-passi-Passeggiata-d-autunno"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Oltre-i-passi-Passeggiata-d-autunno"
-    },
-    "descriptionVerified": "2026-10-20",
-    "assetVerified": "2026-10-20"
-  },
-  {
-    "id": "storie-da-brivido-2026",
-    "name": {
-      "de": "Storie da brivido",
-      "en": "Storie da brivido",
-      "it": "Storie da brivido"
-    },
-    "startDate": "2026-10-22",
-    "endDate": "2026-10-22",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Letture per bambini e bambine dai 3 ai 6 anni"
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Storie-da-brivido",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-15",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Storie-da-brivido"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Storie-da-brivido"
-    }
-  },
-  {
-    "id": "alla-biscondola-pensieri-al-riparo-dal-vento-2026",
-    "name": {
-      "de": "alla biscondola - pensieri al riparo dal vento",
-      "en": "alla biscondola - pensieri al riparo dal vento",
-      "it": "alla biscondola - pensieri al riparo dal vento"
-    },
-    "startDate": "2026-10-23",
-    "endDate": "2026-10-23",
-    "startTime": null,
-    "municipality": "Grumes",
-    "area": "Other Trentino",
-    "venue": "Grumes",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Incontri e confronti Provate sempre a riparare il mondo"
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136905844",
-    "source": "Visit Trentino - all events",
-    "verified": "2026-10-21",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visittrentino.info/assets-basic/events/fiemme/alla-biscondola---pensieri-al-riparo-dal-vento_136905844/7877885/image-thumb__7877885__moodboard_list/alla-biscondola---pensieri-al-riparo-dal-vento_136905844_1.94bd9b8f.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136905844"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136905844"
-    },
-    "descriptionVerified": "2026-10-21",
-    "assetVerified": "2026-10-21"
-  },
-  {
-    "id": "il-quinto-elemento-2026",
-    "name": {
-      "de": "Il Quinto Elemento",
-      "en": "Il Quinto Elemento",
-      "it": "Il Quinto Elemento"
-    },
-    "startDate": "2026-10-23",
-    "endDate": "2026-10-23",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Dopo aver esplorato, lungo un percorso quadriennale, terra, acqua, fuoco e aria, venti artisti dell’Unione Cattolica Artisti Italiani (Ucai) Sezione di Trento, si confrontano ora con una dimensione più misteriosa e intangibile: il Quinto Elemento, ponte tra materia e spirito, tra visibile e invisibile, tra realtà esteriore ed interiorità."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-Quinto-Elemento",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-21",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Il-Quinto-Elemento"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Il-Quinto-Elemento"
-    },
-    "descriptionVerified": "2026-10-21",
-    "assetVerified": "2026-10-21"
   },
   {
     "id": "occidente-verso-oriente-2026",
@@ -7139,6 +7031,43 @@
     },
     "descriptionVerified": "2026-10-26",
     "assetVerified": "2026-10-26"
+  },
+  {
+    "id": "di-coniglietti-scoiattoli-e-finali-sorprendenti-2026",
+    "name": {
+      "de": "… Di coniglietti, scoiattoli e finali sorprendenti",
+      "en": "… Di coniglietti, scoiattoli e finali sorprendenti",
+      "it": "… Di coniglietti, scoiattoli e finali sorprendenti"
+    },
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-06",
+    "startTime": "16:30",
+    "municipality": "Levico Terme",
+    "area": "Other Trentino",
+    "venue": "Levico Terme",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "venerdì 6 novembre ore 16:30 Serra del Parco Storico"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/di-coniglietti-scoiattoli-e-finali-sorprendenti_e_134742948",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/-e2-80-a6-di-coniglietti-2c-scoiattoli-e-finali-sorprendenti_134742948/7877805/image-thumb__7877805__moodboard_list/-e2-80-a6-di-coniglietti-2c-scoiattoli-e-finali-sorprendenti_134742948_1.524b9a2d.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/di-coniglietti-scoiattoli-e-finali-sorprendenti_e_134742948"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/di-coniglietti-scoiattoli-e-finali-sorprendenti_e_134742948"
+    },
+    "descriptionVerified": "2026-11-02",
+    "assetVerified": "2026-11-02"
   },
   {
     "id": "ti-presento-l-opera-scent-of-time-il-profumo-del-tempo-2026",
@@ -12182,6 +12111,43 @@
     }
   },
   {
+    "id": "i-natali-dell-alta-vallagarina-2026",
+    "name": {
+      "de": "I Natali dell’Alta Vallagarina",
+      "en": "I Natali dell’Alta Vallagarina",
+      "it": "I Natali dell’Alta Vallagarina"
+    },
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-27",
+    "startTime": null,
+    "municipality": "Besenello",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Besenello",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "I Natali dell'Alta Vallagarina è il frutto di un lavoro sinergico che unisce spettacoli, eventi e iniziative che avranno luogo nei comuni di Calliano, Besenello, Nomi e Volano nel periodo di Natale. Una ricca programmazione che spazia dalla cultura all'enogastronomia, con proposte per tutte le età."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/i-natali-dellalta-vallagarina",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-11-02",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2025/11/Natali-Alta-Vallagarina-1.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/i-natali-dellalta-vallagarina"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/i-natali-dellalta-vallagarina/"
+    },
+    "descriptionVerified": "2026-11-02",
+    "assetVerified": "2026-11-02"
+  },
+  {
     "id": "stop-alla-violenza-generazioni-alleate-per-il-futuro-2026",
     "name": {
       "de": "Stop alla violenza - generazioni alleate per il futuro",
@@ -15188,8 +15154,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-11-01",
-    "assetVerified": "2026-11-01",
+    "descriptionVerified": "2026-11-02",
+    "assetVerified": "2026-11-02",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
