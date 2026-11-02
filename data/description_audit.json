@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-01",
-  "currentEvents": 330,
+  "checkedAt": "2026-11-02",
+  "currentEvents": 329,
   "complete": 103,
   "incomplete": [
     {
@@ -214,6 +214,13 @@
       ]
     },
     {
+      "id": "arco-verticale-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "eugenio-montale-temi-modelli-figure-2026-2",
       "languages": [
         "de",
@@ -228,35 +235,7 @@
       ]
     },
     {
-      "id": "esplorazioniincastello-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "il-bambino-su-marte-teatro-dei-bambini-a-folgaria-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "la-famiglia-va-a-teatro-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "trekking-del-foliage-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "visita-guidata-al-castello-del-buonconsiglio-2026",
       "languages": [
         "de",
         "en"
@@ -385,6 +364,13 @@
     },
     {
       "id": "voci-per-il-benessere-alla-pari-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "di-coniglietti-scoiattoli-e-finali-sorprendenti-2026",
       "languages": [
         "de",
         "en"
@@ -1093,6 +1079,13 @@
     },
     {
       "id": "mercato-dell-economia-solidale-2026-15",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "i-natali-dell-alta-vallagarina-2026",
       "languages": [
         "de",
         "en"
