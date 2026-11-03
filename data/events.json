@@ -2573,116 +2573,6 @@
     "descriptionVerified": "2026-10-15"
   },
   {
-    "id": "occidente-verso-oriente-2026",
-    "name": {
-      "de": "Occidente verso Oriente",
-      "en": "Occidente verso Oriente",
-      "it": "Occidente verso Oriente"
-    },
-    "startDate": "2026-10-23",
-    "endDate": "2026-10-23",
-    "startTime": "17:30",
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Sarà inaugurata venerdì 23 ottobre alle 17:30, nelle Cantine di Torre Mirana, la mostra Occidente verso Oriente, curata dall’associazione Art di Bolzano e Trento. L’evento sarà accompagnato dall’intervento musicale del Quintetto d'archi Deligistei e dalla presentazione del libro di Lilia Ianeva Satta Antidoto, edito da Edit Faenza."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Occidente-verso-Oriente",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-22",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Occidente-verso-Oriente"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Occidente-verso-Oriente"
-    },
-    "descriptionVerified": "2026-10-22",
-    "assetVerified": "2026-10-22"
-  },
-  {
-    "id": "teatro-cembra-andrea-fratellini-e-zio-tore-2026",
-    "name": {
-      "de": "Teatro Cembra - Andrea Fratellini e zio Tore",
-      "en": "Teatro Cembra - Andrea Fratellini e zio Tore",
-      "it": "Teatro Cembra - Andrea Fratellini e zio Tore"
-    },
-    "startDate": "2026-10-23",
-    "endDate": "2026-10-23",
-    "startTime": null,
-    "municipality": "Cembra",
-    "area": "Other Trentino",
-    "venue": "Cembra",
-    "category": "Culture & Dance",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Doss Caslir APS presenta la stagione 2026 - 2027"
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/teatro-cembra-andrea-fratellini-e-zio-tore_e_136825218",
-    "source": "Visit Trentino - all events",
-    "verified": "2026-10-22",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visittrentino.info/assets-basic/events/fiemme/teatro-cembra---andrea-fratellini-e-zio-tore_136825218/7879495/image-thumb__7879495__moodboard_list/teatro-cembra---andrea-fratellini-e-zio-tore_136825218_1.feb01b2a.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/teatro-cembra-andrea-fratellini-e-zio-tore_e_136825218"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/teatro-cembra-andrea-fratellini-e-zio-tore_e_136825218"
-    },
-    "descriptionVerified": "2026-10-22",
-    "assetVerified": "2026-10-22"
-  },
-  {
-    "id": "voci-dal-confine-otto-anni-tra-israeliani-e-palestinesi-elia-milani-2026",
-    "name": {
-      "de": "Voci dal confine. Otto anni tra israeliani e Palestinesi - Elia Milani",
-      "en": "Voci dal confine. Otto anni tra israeliani e Palestinesi - Elia Milani",
-      "it": "Voci dal confine. Otto anni tra israeliani e Palestinesi - Elia Milani"
-    },
-    "startDate": "2026-10-23",
-    "endDate": "2026-10-23",
-    "startTime": "20:30",
-    "municipality": "Levico Terme",
-    "area": "Other Trentino",
-    "venue": "Levico Terme",
-    "category": "Culture & Dance",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Venerdì 23 ottobre ore 20:30 Teatro Mons. D."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/voci-dal-confine.otto-anni-tra-israeliani-e-palestinesi-elia-milani_e_116297593",
-    "source": "Visit Trentino - all events",
-    "verified": "2026-10-19",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/voci-dal-confine.-otto-anni-tra-israeliani-e-palestinesi---elia-milani_116297593/7878457/image-thumb__7878457__moodboard_list/voci-dal-confine.-otto-anni-tra-israeliani-e-palestinesi---elia-milani_116297593_1.614bf91e.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/voci-dal-confine.otto-anni-tra-israeliani-e-palestinesi-elia-milani_e_116297593"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/voci-dal-confine.otto-anni-tra-israeliani-e-palestinesi-elia-milani_e_116297593"
-    },
-    "descriptionVerified": "2026-10-19",
-    "assetVerified": "2026-10-19"
-  },
-  {
     "id": "50-anniversario-della-croce-bianca-di-trento-2026",
     "name": {
       "de": "50° Anniversario della Croce Bianca di Trento",
@@ -7070,6 +6960,42 @@
     "assetVerified": "2026-11-02"
   },
   {
+    "id": "giochiamo-let-s-play-2026",
+    "name": {
+      "de": "Giochiamo? Let's play!",
+      "en": "Giochiamo? Let's play!",
+      "it": "Giochiamo? Let's play!"
+    },
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-06",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Proseguono gli appuntamenti autunnali di Spazi per crescere, il progetto rivolto a genitori e bambini da 0 a 3 anni per sperimentare le buone pratiche di cura ed educazione che favoriscono lo sviluppo e la relazione genitori-figli promosso da Agorà Famiglie. Attraverso giochi, letture, musica e coccole gli incontri saranno occasione per genitori, nonni, baby sitter e altre persone che si prendono cura del bambino di confrontarsi sull’importanza delle buone pratiche nello sviluppo dei più piccoli insieme a operatrici preparate e formate."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Giochiamo-Let-s-play5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Giochiamo-Let-s-play5"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Giochiamo-Let-s-play5"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
+  },
+  {
     "id": "ti-presento-l-opera-scent-of-time-il-profumo-del-tempo-2026",
     "name": {
       "de": "Ti presento l'opera - Scent of time. Il profumo del tempo",
@@ -8089,6 +8015,42 @@
     "assetVerified": "2026-10-29"
   },
   {
+    "id": "conversazione-d-autore-monica-maggioni-2026",
+    "name": {
+      "de": "Conversazione d'autore: Monica Maggioni",
+      "en": "Conversazione d'autore: Monica Maggioni",
+      "it": "Conversazione d'autore: Monica Maggioni"
+    },
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La giornalista, conduttrice televisiva e dirigente d'azienda italiana Monica Maggioni, Presidente della Rai dal 2015 al 2018, in una conversazione con la giornalista Fausta Slanzi dal titolo: “L’avversario leale: Monica Maggioni sui grandi temi dell’attualità”. Analisi e riflessioni per fare il punto sugli scenari geopolitici e sulle dinamiche che stanno trasformando l’attualità internazionale."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Conversazione-d-autore-Monica-Maggioni",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Conversazione-d-autore-Monica-Maggioni"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Conversazione-d-autore-Monica-Maggioni"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
+  },
+  {
     "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026",
     "name": {
       "de": "Corso avanzato per amministratore/trice di sostegno",
@@ -8413,6 +8375,42 @@
     }
   },
   {
+    "id": "trento-fashion-week-2026",
+    "name": {
+      "de": "Trento Fashion Week",
+      "en": "Trento Fashion Week",
+      "it": "Trento Fashion Week"
+    },
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Trento Fashion Week è un progetto culturale e sociale che intreccia moda, identità e territorio. Una settimana dedicata al valore del made to measure, dove l’abito e l’accessorio nascono nei laboratori e negli atelier del Trentino attraverso mani esperte, idee nuove e una visione sostenibile."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Trento-Fashion-Week",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Trento-Fashion-Week"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Trento-Fashion-Week"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
+  },
+  {
     "id": "riva-christmas-2026",
     "name": {
       "en": "Di Gusto in Gusto – Christmas Village",
@@ -8484,6 +8482,42 @@
     "assetVerified": "2026-10-27"
   },
   {
+    "id": "leggiamo-let-s-read-2026",
+    "name": {
+      "de": "Leggiamo? Let's read!",
+      "en": "Leggiamo? Let's read!",
+      "it": "Leggiamo? Let's read!"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Proseguono gli appuntamenti autunnali di Spazi per crescere, il progetto rivolto a genitori e bambini da 0 a 3 anni per sperimentare le buone pratiche di cura ed educazione che favoriscono lo sviluppo e la relazione genitori-figli promosso da Agorà Famiglie. Attraverso giochi, letture, musica e coccole gli incontri saranno occasione per genitori, nonni, baby sitter e altre persone che si prendono cura del bambino di confrontarsi sull’importanza delle buone pratiche nello sviluppo dei più piccoli insieme a operatrici preparate e formate."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Leggiamo-Let-s-read3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Leggiamo-Let-s-read3"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Leggiamo-Let-s-read3"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
+  },
+  {
     "id": "fb-mercatini-di-natale-di-arco-christmas-market-2026",
     "name": {
       "de": "Mercatini di Natale di Arco (Christmas Market)",
@@ -8543,9 +8577,16 @@
     },
     "organizer": "Assocentro",
     "price": "Free access",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+    "officialUrl": "https://www.visittrentino.info/it/guida/mercatini-di-natale/mercatino-di-natale-di-arco_e_134989781",
     "source": "Visit Trentino",
-    "verified": "2026-08-25"
+    "verified": "2026-08-25",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi",
+      "https://www.visittrentino.info/it/guida/mercatini-di-natale/mercatino-di-natale-di-arco_e_134989781"
+    ],
+    "image": "https://www.visittrentino.info/assets-basic/events/garda-trentino/mercatino-di-natale-di-arco_134989781/7859458/image-thumb__7859458__contentgallery/mercatino-di-natale-di-arco_134989781_1.0d9314a0.jpg",
+    "imageSourceUrl": "https://www.visittrentino.info/it/guida/mercatini-di-natale/mercatino-di-natale-di-arco_e_134989781",
+    "assetVerified": "2026-11-03"
   },
   {
     "id": "fb-mercatino-di-natale-di-gusto-in-gusto-villaggio-del-gusto-riva-d-2026",
@@ -8583,6 +8624,43 @@
     "image": "https://www.visittrentino.info/assets-basic/events/garda-trentino/mercatino-di-natale-di-gusto-in-gusto_134989782/7859468/image-thumb__7859468__contentgallery/mercatino-di-natale-di-gusto-in-gusto_134989782_1.e2d49373.jpg",
     "imageSourceUrl": "https://www.visittrentino.info/it/guida/mercatini-di-natale/mercatino-di-natale-di-gusto-in-gusto_e_134989782",
     "assetVerified": "2026-10-05"
+  },
+  {
+    "id": "sagra-del-baccala-2026",
+    "name": {
+      "de": "Sagra del baccalà",
+      "en": "Sagra del baccalà",
+      "it": "Sagra del baccalà"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-15",
+    "startTime": null,
+    "municipality": "Villa Lagarina",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Villa Lagarina",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La Sagra del baccalà rappresenta l’ identità del territorio , la forza, la storia, la cultura e la tradizione di una comunità. Gli ospiti avranno l'opportunità di scegliere e assaggiare quei piatti che affondano le proprie radici nella società contadina genuina e povera che per tanti anni ha segnato la Vallagarina ed il Trentino."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/sagra-del-baccala",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2015/10/piatti-di-baccalà.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/sagra-del-baccala"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/sagra-del-baccala/"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
   },
   {
     "id": "show-me-your-labels-2026",
@@ -8852,6 +8930,43 @@
     }
   },
   {
+    "id": "natale-a-pergine-mercatino-di-natale-di-pergine-valsugana-2026",
+    "name": {
+      "de": "Natale a Pergine - Mercatino di Natale di Pergine Valsugana 2026",
+      "en": "Natale a Pergine - Mercatino di Natale di Pergine Valsugana 2026",
+      "it": "Natale a Pergine - Mercatino di Natale di Pergine Valsugana 2026"
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-12-31",
+    "startTime": null,
+    "municipality": "Pergine Valsugana",
+    "area": "Other Trentino",
+    "venue": "Pergine Valsugana",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Centro storico Pergine Valsugana . Cosa fare in Trentino - Eventi Trentino"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/natale-a-pergine-mercatino-di-natale-di-pergine-valsugana-2026_e_54400143",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/natale-a-pergine---mercatino-di-natale-di-pergine-valsugana-2026_54400143/7877811/image-thumb__7877811__moodboard_list/natale-a-pergine---mercatino-di-natale-di-pergine-valsugana-2026_54400143_1.0acf324e.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/natale-a-pergine-mercatino-di-natale-di-pergine-valsugana-2026_e_54400143"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/mercatini-di-natale/natale-a-pergine-mercatino-di-natale-di-pergine-valsugana-2026_e_54400143"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
+  },
+  {
     "id": "pari-passo-ridisegnare-il-lavoro-tra-genere-famiglia-e-professione-2026",
     "name": {
       "de": "Pari passo: ridisegnare il lavoro tra genere, famiglia e professione",
@@ -9041,6 +9156,47 @@
     },
     "descriptionVerified": "2026-10-23",
     "assetVerified": "2026-10-23"
+  },
+  {
+    "id": "pattinaggio-a-rovereto-2026",
+    "name": {
+      "de": "Pattinaggio a Rovereto",
+      "en": "Pattinaggio a Rovereto",
+      "it": "Pattinaggio a Rovereto"
+    },
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-15",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Vuoi cimentarti in piroette artistiche oppure semplicemente pattinare in tranquillità su una bella pista ghiacciata? Qualunque sia la scelta il divertimento sulle lame è assicurato per adulti e bambini!",
+      "en": "Do you want to try out artistic pirouettes or simply skate peacefully on a nice ice rink? Whatever the choice, fun is guaranteed for adults and children!",
+      "de": "Wollen Sie Pirouetten versuchen oder einfach nur in aller Ruhe auf einer schönen Eisbahn Schlittschuh laufen? Auf jeden Fall ist der Spaß für Erwachsene und Kinder garantiert!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/pattinaggio-a-rovereto",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2021/10/Pattinaggio_Luca-Matassoni.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/pattinaggio-a-rovereto"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/pattinaggio-a-rovereto/",
+      "en": "https://www.visitrovereto.it/en/enjoy/events/pattinaggio-a-rovereto/",
+      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/pattinaggio-a-rovereto/"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
   },
   {
     "id": "gruppo-di-conversazione-sul-cinema-2026",
@@ -10308,6 +10464,47 @@
     "assetVerified": "2026-10-31"
   },
   {
+    "id": "presepi-contro-2026",
+    "name": {
+      "de": "Presepi Contro…",
+      "en": "Presepi Contro…",
+      "it": "Presepi Contro…"
+    },
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Nel filone di tale tradizione si pone Muky , al secolo Wanda Berasi, poetessa, promotrice culturale e attivissima ceramista. \" Presepi contro… \" è una mostra che riflette sui drammi che più hanno colpito la nostra sensibilità collettiva nel corso dell'ultimo anno, la sintesi di dodici mesi di lutti e di sventure.",
+      "en": "Muky , whose real name was Wanda Berasi, carries on this tradition. A poet, cultural promoter and highly active ceramic artist, she presents \" Presepi contro… \", an exhibition that reflects on the tragedies that have most deeply affected our collective consciousness over the past year, bringing together twelve months of loss and misfortune.",
+      "de": "In dieser Tradition steht Muky , mit bürgerlichem Namen Wanda Berasi, Dichterin, Kulturförderin und äußerst aktive Keramikkünstlerin. „ Presepi contro… “ ist eine Ausstellung, die zum Nachdenken über die Tragödien anregt, die unser kollektives Empfinden im Laufe des vergangenen Jahres besonders erschüttert haben – eine Zusammenfassung von zwölf Monaten voller Trauer und Unglück."
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/presepi-contro",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2024/10/Campana-dei-Caduti_Florio-Badocchi.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/presepi-contro"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/presepi-contro/",
+      "en": "https://www.visitrovereto.it/en/enjoy/events/presepi-contro/",
+      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/presepi-contro/"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
+  },
+  {
     "id": "a-teatro-a-teatro-2026",
     "name": {
       "de": "A teatro! A teatro!",
@@ -10344,6 +10541,47 @@
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "festivalmeteorologia-2026",
+    "name": {
+      "de": "Festivalmeteorologia",
+      "en": "Festivalmeteorologia",
+      "it": "Festivalmeteorologia"
+    },
+    "startDate": "2026-11-22",
+    "endDate": "2026-11-22",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il Festivalmeteorologia, giunto alla sua XII edizione, offre un'occasione di incontro a tutti i diversi protagonisti del settore , dai servizi meteorologici, ai professionisti, alle imprese, al mondo della ricerca, all'università, alla scuola, al mondo delle associazioni meteoamatoriali. Le scuole possono prenotare laboratori, esperienze e lezioni interattive con esperti da tutta Italia, coordinati dalla Fondazione Museo Civico di Rovereto.",
+      "en": "Now in its 12th edition, Festivalmeteorologia offers a meeting opportunity for all the diverse stakeholders in the sector , from meteorological services, professionals, and businesses to the research community, universities, schools, and amateur weather associations. Schools can book workshops, hands, on experiences, and interactive lessons with experts from all over Italy, coordinated by the Rovereto Civic Museum Foundation.",
+      "de": "Ein bundesweit einzigartiges Erlebnis, das die Meteorologie für alle zugänglich macht und gleichzeitig die notwendige wissenschaftliche Strenge bewahrt. Das Festivalmeteorologia, das bereits in seine XII."
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/festival-meteorologia",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2018/08/festivalmeteorologia-luca-mercalli.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/festival-meteorologia"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/festival-meteorologia/",
+      "en": "https://www.visitrovereto.it/en/enjoy/events/festival-meteorology/",
+      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/meteorologie-festival/"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
   },
   {
     "id": "fiera-di-santa-caterina-2026",
@@ -10594,19 +10832,22 @@
     "descriptionStatus": "partial",
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Alessio-Boni-Omar-Pedrini-in-Uomini-si-diventa-PARIDEE",
+    "officialUrl": "https://www.eventbrite.it/e/biglietti-alessio-boni-omar-pedrini-in-uomini-si-diventa-villazzano-paridee-2003449205505",
     "source": "Agenda Trento - official Comune di Trento agenda",
     "verified": "2026-10-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Alessio-Boni-Omar-Pedrini-in-Uomini-si-diventa-PARIDEE"
+      "https://eventi.comune.trento.it/Eventi/Alessio-Boni-Omar-Pedrini-in-Uomini-si-diventa-PARIDEE",
+      "https://www.eventbrite.it/e/biglietti-alessio-boni-omar-pedrini-in-uomini-si-diventa-villazzano-paridee-2003449205505"
     ],
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Alessio-Boni-Omar-Pedrini-in-Uomini-si-diventa-PARIDEE"
     },
     "descriptionVerified": "2026-10-31",
-    "assetVerified": "2026-10-31"
+    "assetVerified": "2026-11-03",
+    "image": "https://www.eventbrite.it/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1196674715%252F2989436370460%252F1%252Foriginal.20261027-120533%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D8247d46570f2cc1728733778e0ff9a9e&w=940&q=75",
+    "imageSourceUrl": "https://www.eventbrite.it/e/biglietti-alessio-boni-omar-pedrini-in-uomini-si-diventa-villazzano-paridee-2003449205505"
   },
   {
     "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-3",
@@ -10751,6 +10992,42 @@
     },
     "descriptionVerified": "2026-10-27",
     "assetVerified": "2026-10-27"
+  },
+  {
+    "id": "uomini-si-diventa-2026",
+    "name": {
+      "de": "Uomini si diventa",
+      "en": "Uomini si diventa",
+      "it": "Uomini si diventa"
+    },
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il femminicida non è un malato, è un figlio sano del patriarcato. È uno di noi, cresciuto come noi, che pensa come noi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Uomini-si-diventa",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Uomini-si-diventa"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Uomini-si-diventa"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
   },
   {
     "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-4",
@@ -12184,6 +12461,42 @@
     "assetVerified": "2026-10-26"
   },
   {
+    "id": "tienimi-vicino-keep-me-close-l-importanza-del-contatto-2026",
+    "name": {
+      "de": "Tienimi vicino! Keep me close! L'importanza del contatto",
+      "en": "Tienimi vicino! Keep me close! L'importanza del contatto",
+      "it": "Tienimi vicino! Keep me close! L'importanza del contatto"
+    },
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-04",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Proseguono gli appuntamenti autunnali di Spazi per crescere, il progetto rivolto a genitori e bambini da 0 a 3 anni per sperimentare le buone pratiche di cura ed educazione che favoriscono lo sviluppo e la relazione genitori-figli promosso da Agorà Famiglie. Attraverso giochi, letture, musica e coccole gli incontri saranno occasione per genitori, nonni, baby sitter e altre persone che si prendono cura del bambino di confrontarsi sull’importanza delle buone pratiche nello sviluppo dei più piccoli insieme a operatrici preparate e formate."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Tienimi-vicino!-Keep-me-close!-L-importanza-del-contatto2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Tienimi-vicino!-Keep-me-close!-L-importanza-del-contatto2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Tienimi-vicino!-Keep-me-close!-L-importanza-del-contatto2"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
+  },
+  {
     "id": "5-dicembre-giornata-internazionale-del-volontariato-2026",
     "name": {
       "de": "5 dicembre Giornata internazionale del volontariato",
@@ -12632,6 +12945,42 @@
     },
     "descriptionVerified": "2026-10-29",
     "assetVerified": "2026-10-29"
+  },
+  {
+    "id": "musichiamo-let-s-make-some-music-2026",
+    "name": {
+      "de": "Musichiamo? Let's make some music!",
+      "en": "Musichiamo? Let's make some music!",
+      "it": "Musichiamo? Let's make some music!"
+    },
+    "startDate": "2026-12-11",
+    "endDate": "2026-12-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Proseguono gli appuntamenti autunnali di Spazi per crescere, il progetto rivolto a genitori e bambini da 0 a 3 anni per sperimentare le buone pratiche di cura ed educazione che favoriscono lo sviluppo e la relazione genitori-figli promosso da Agorà Famiglie. Attraverso giochi, letture, musica e coccole gli incontri saranno occasione per genitori, nonni, baby sitter e altre persone che si prendono cura del bambino di confrontarsi sull’importanza delle buone pratiche nello sviluppo dei più piccoli insieme a operatrici preparate e formate."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Musichiamo-Let-s-make-some-music5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-03",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Musichiamo-Let-s-make-some-music5"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Musichiamo-Let-s-make-some-music5"
+    },
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03"
   },
   {
     "id": "alla-scoperta-di-trento-2026-16",
@@ -15154,8 +15503,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-11-02",
-    "assetVerified": "2026-11-02",
+    "descriptionVerified": "2026-11-03",
+    "assetVerified": "2026-11-03",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
