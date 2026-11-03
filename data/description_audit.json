@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-02",
-  "currentEvents": 329,
-  "complete": 103,
+  "checkedAt": "2026-11-03",
+  "currentEvents": 338,
+  "complete": 105,
   "incomplete": [
     {
       "id": "competition-anelli-di-congiunzione-le-gallerie-di-piedicastello-2026",
@@ -242,20 +242,6 @@
       ]
     },
     {
-      "id": "commemorazione-dei-caduti-di-tutte-le-guerre-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "il-cimitero-racconta-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "in-cammino-con-il-museo-2026",
       "languages": [
         "de",
@@ -371,6 +357,13 @@
     },
     {
       "id": "di-coniglietti-scoiattoli-e-finali-sorprendenti-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "giochiamo-let-s-play-2026",
       "languages": [
         "de",
         "en"
@@ -504,6 +497,13 @@
       ]
     },
     {
+      "id": "conversazione-d-autore-monica-maggioni-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026",
       "languages": [
         "de",
@@ -567,7 +567,28 @@
       ]
     },
     {
+      "id": "trento-fashion-week-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "il-lavoro-non-e-neutro-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "leggiamo-let-s-read-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "sagra-del-baccala-2026",
       "languages": [
         "de",
         "en"
@@ -610,6 +631,13 @@
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-12",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "natale-a-pergine-mercatino-di-natale-di-pergine-valsugana-2026",
       "languages": [
         "de",
         "en"
@@ -841,6 +869,13 @@
     },
     {
       "id": "trento-non-solo-a-passo-d-uomo-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "uomini-si-diventa-2026",
       "languages": [
         "de",
         "en"
@@ -1099,6 +1134,13 @@
       ]
     },
     {
+      "id": "tienimi-vicino-keep-me-close-l-importanza-del-contatto-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "5-dicembre-giornata-internazionale-del-volontariato-2026",
       "languages": [
         "de",
@@ -1157,6 +1199,13 @@
     },
     {
       "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-6",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "musichiamo-let-s-make-some-music-2026",
       "languages": [
         "de",
         "en"
