@@ -2573,195 +2573,6 @@
     "descriptionVerified": "2026-10-15"
   },
   {
-    "id": "50-anniversario-della-croce-bianca-di-trento-2026",
-    "name": {
-      "de": "50° Anniversario della Croce Bianca di Trento",
-      "en": "50° Anniversario della Croce Bianca di Trento",
-      "it": "50° Anniversario della Croce Bianca di Trento"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Mezzo secolo di soccorso, presenza costante sul territorio e dedizione verso gli altri: la Croce Bianca di Trento taglia l’importante traguardo dei suoi cinquant’anni di fondazione (1976–2026).Per celebrare cinquant'anni di attività segnati da impegno, solidarietà e passione al fianco dei cittadini, l'Associazione promuove un'intera giornata di festa e condivisione che si terrà sabato 24 ottobre 2026 nel cuore della città, in piazza Duomo .L’evento, organizzato con il sostegno e il contributo del Comune di Trento, nasce per ripercorrere la storia…"
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/50-Anniversario-della-Croce-Bianca-di-Trento",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-15",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/50-Anniversario-della-Croce-Bianca-di-Trento"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/50-Anniversario-della-Croce-Bianca-di-Trento"
-    },
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "alla-biscondola-pensieri-al-riparo-dal-vento-2026-2",
-    "name": {
-      "de": "alla biscondola - pensieri al riparo dal vento",
-      "en": "alla biscondola - pensieri al riparo dal vento",
-      "it": "alla biscondola - pensieri al riparo dal vento"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Grumes",
-    "area": "Other Trentino",
-    "venue": "Grumes",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "camminata e incontro Oltre il ponte - costruire la pace"
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136905845",
-    "source": "Visit Trentino - all events",
-    "verified": "2026-10-24",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visittrentino.info/assets-basic/events/fiemme/alla-biscondola---pensieri-al-riparo-dal-vento_136905845/7877887/image-thumb__7877887__moodboard_list/alla-biscondola---pensieri-al-riparo-dal-vento_136905845_1.1646431e.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136905845"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alla-biscondola-pensieri-al-riparo-dal-vento_e_136905845"
-    },
-    "descriptionVerified": "2026-10-24",
-    "assetVerified": "2026-10-24"
-  },
-  {
-    "id": "alla-scoperta-di-trento-2026-9",
-    "name": {
-      "de": "Alla scoperta di Trento",
-      "en": "Alla scoperta di Trento",
-      "it": "Alla scoperta di Trento"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Scopri la città di Trento con una guida turistica! Trento, nel cuore delle Alpi, ha una storia millenaria, fatta di tradizione mitteleuropea a cavallo tra mondo germanico e mondo italiano, le cui testimonianze sono visibili nel bel centro storico e sono perfettamente custodite, epoca dopo epoca, nei siti archeologici e nei musei d'eccellenza che la città ospita.",
-      "de": "Bei der Stadtführung lernen Besucher die vielschichtige Geschichte Trentinos kennen, geprägt von einer mitteleuropäischen Tradition an der Schnittstelle von deutschsprachigem und italienischem Kulturraum. Die Tour führt durch das gut erhaltene historische Zentrum und verweist auf archäologische Stätten und Museen, die Zeugnisse der langen Stadtgeschichte bewahren.",
-      "en": "This guided visit to Trento introduces participants to the city’s millennial history, shaped by Mitteleuropean influences at the crossroads of Germanic and Italian worlds. The walk explores the well-preserved historic centre and highlights archaeological sites and museums that conserve the city’s layered cultural heritage."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento19",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento19"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento19",
-      "de": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento19",
-      "en": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento19"
-    }
-  },
-  {
-    "id": "coppie-scoppiate-2026",
-    "name": {
-      "de": "Coppie scoppiate",
-      "en": "Coppie scoppiate",
-      "it": "Coppie scoppiate"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Dance",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "\"Coppie scoppiate\" di Derek Benfield – traduzione di Maria Teresa Petruzzi (per gentile concessione della Mtp Associati Srls – Roma) - Gruppo teatrale \"I Sottotesto\" aps di Nogaredo Un sipario che non si apre costringe Henry, attore di teatro, a tornare inaspettatamente a casa. Al rientro non trova la moglie Georgina ma la vicina di casa, Rachel, in compagnia di un impacciato giovanotto."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-16",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Coppie-scoppiate"
-    }
-  },
-  {
-    "id": "escape-room-la-lacrima-dell-ultimo-atto-2026-3",
-    "name": {
-      "de": "Escape Room - La Lacrima dell’ultimo atto",
-      "en": "Escape Room - La Lacrima dell’ultimo atto",
-      "it": "Escape Room - La Lacrima dell’ultimo atto"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "A Cadine, Trento, torna l’escape room del Gruppo Oasi: un’esperienza al coperto per giovani, adulti e famiglie, nei weekend di ottobre 2026. Vivi l’emozione e il mistero con il tuo team, tra indizi segreti ed enigmi da risolvere insieme.",
-      "de": "In Cadine veranstaltet die Gruppe Oasi an Wochenenden im Oktober eine Indoor-Escape-Room-Erfahrung für Jugendliche, Erwachsene und Familien, die gemeinsam Rätsel lösen müssen. Teilnehmende erleben eine spannungsreiche Mischung aus Hinweisen und Geheimnissen, die Teamarbeit und Kombinationsfähigkeit fordert.",
-      "en": "In Cadine the Gruppo Oasi returns with an indoor escape-room experience on October weekends, designed for young people, adults and families to solve puzzles together. Participants engage with clues and mysteries that require collaboration and problem-solving, delivering a mix of suspense and teamwork-driven challenge."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-30",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3",
-      "de": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3",
-      "en": "https://eventi.comune.trento.it/Eventi/Escape-Room-La-Lacrima-dell-ultimo-atto3"
-    }
-  },
-  {
     "id": "eventi-di-halloween-in-vallagarina-2026",
     "name": {
       "de": "Eventi di Halloween in Vallagarina",
@@ -2802,309 +2613,6 @@
     "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "gianni-berengo-gardin-2026",
-    "name": {
-      "de": "Gianni Berengo Gardin",
-      "en": "Gianni Berengo Gardin",
-      "it": "Gianni Berengo Gardin"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Lo sguardo compositivo, i grandi architetti e un paese che cambia attraverso la lente di Gianni Berengo Gardin. Al Mart una collezione di 120 immagini per celebrare la straordinaria capacità compositiva e visione urbanistica di uno tra i maggiori protagonisti della fotografia contemporanea, ad un anno dalla sua scomparsa.",
-      "de": "Im Mart wird eine Sammlung von 120 Fotografien gezeigt, die anlässlich des ersten Todestages eines der bedeutendsten Vertreter der zeitgenössischen Fotografie dessen außergewöhnliche Bildkomposition und städtebauliche Vision würdigt. Die Ausstellung ist in neun Bereiche gegliedert und umfasst 120 Fotografien aus dem Familienarchiv.",
-      "en": "A compositional perspective, great architects and a changing country as seen through the lens of Gianni Berengo Gardin. At the Mart Museum, a collection of 120 photographs celebrates the extraordinary compositional skill and urban vision of one of the leading figures in contemporary photography, one year after his death."
-    },
-    "descriptionStatus": "complete",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-19",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Mondi-da-abitare.png",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare/",
-      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/gianni-berengo-gardin-mondi-da-abitare/",
-      "en": "https://www.visitrovereto.it/en/enjoy/events/gianni-berengo-gardin-mondi-da-abitare/"
-    },
-    "descriptionVerified": "2026-10-20",
-    "assetVerified": "2026-10-20"
-  },
-  {
-    "id": "gianni-berengo-gardin-mondi-da-abitare-2026",
-    "name": {
-      "de": "Gianni Berengo Gardin. Mondi da abitare",
-      "en": "Gianni Berengo Gardin. Mondi da abitare",
-      "it": "Gianni Berengo Gardin. Mondi da abitare"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {},
-    "descriptionStatus": "missing",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-17",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/10/Mondi-da-abitare.png",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/gianni-berengo-gardin-mondi-da-abitare"
-    ],
-    "descriptionSources": {},
-    "descriptionVerified": "2026-10-17",
-    "assetVerified": "2026-10-17"
-  },
-  {
-    "id": "giornata-del-riuso-a-ravina-2026",
-    "name": {
-      "de": "Giornata del riuso a Ravina",
-      "en": "Giornata del riuso a Ravina",
-      "it": "Giornata del riuso a Ravina"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Sport & Outdoor",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Sabato 24 ottobre 2026 vieni a prendere abiti, scarpe, accessori, oggettistica casa, tessili, giocattoli dalle 9:00 alle 12:00 e dalle 14:00 alle 17:00 in sala della circoscrizione via val Gola 2 Ravina",
-      "de": "Am Samstag in Ravina können Besucher zwischen 9:00–12:00 und 14:00–17:00 gebrauchte Kleidung, Schuhe, Wohnaccessoires, Textilien und Spielzeug kostenlos mitnehmen. Die Veranstaltung findet in der Versammlungshalle in der Via Val Gola 2 statt und fördert Wiederverwendung und nachhaltigen Umgang mit Gebrauchsgegenständen in der Nachbarschaft.",
-      "en": "On Saturday in Ravina people can pick up second-hand clothes, shoes, home items, textiles and toys for free between 9:00–12:00 and 14:00–17:00 in the local district hall on Via Val Gola 2. The event encourages reuse and local sharing of household goods to reduce waste and extend item lifecycles."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-05",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7",
-      "de": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7",
-      "en": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-a-Ravina7"
-    }
-  },
-  {
-    "id": "inaugurazione-della-mostra-il-potere-della-musica-2026",
-    "name": {
-      "de": "Inaugurazione della mostra \"Il potere della musica\"",
-      "en": "Inaugurazione della mostra \"Il potere della musica\"",
-      "it": "Inaugurazione della mostra \"Il potere della musica\""
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Sabato 24 ottobre alle ore 17.00 , il Castello del Buonconsiglio inaugura la grande mostra autunnale “Il potere della musica. Arte, corti e strumenti dal Rinascimento al Barocco“ ."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Inaugurazione-della-mostra-Il-potere-della-musica",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-20",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Inaugurazione-della-mostra-Il-potere-della-musica"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Inaugurazione-della-mostra-Il-potere-della-musica"
-    },
-    "descriptionVerified": "2026-10-20",
-    "assetVerified": "2026-10-20"
-  },
-  {
-    "id": "incontri-ravvicinati-treff-vo-namp-scopriamo-gli-urogalli-2026",
-    "name": {
-      "de": "Incontri ravvicinati - Trèff vo namp : Scopriamo gli urogalli",
-      "en": "Incontri ravvicinati - Trèff vo namp : Scopriamo gli urogalli",
-      "it": "Incontri ravvicinati - Trèff vo namp : Scopriamo gli urogalli"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Luserna",
-    "area": "Other Trentino",
-    "venue": "Luserna",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Visita guidata divulgativa e interattiva alla scoperta degli animali delle Alpi e in particolare il mondo degli urogalli con la biologa Francesca Mor. Aperta a tutti, adulti e famiglie."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/incontri-ravvicinati-tr-egrave-ff-vo-namp-scopriamo-gli-urogalli_e_136905851",
-    "source": "Visit Trentino - all events",
-    "verified": "2026-10-24",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visittrentino.info/assets-basic/events/altipiano/incontri-ravvicinati---tr-egrave-ff-vo-namp-scopriamo-gli-urogalli_136905851/7877898/image-thumb__7877898__moodboard_list/incontri-ravvicinati---tr-egrave-ff-vo-namp-scopriamo-gli-urogalli_136905851_1.ff72ec59.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/incontri-ravvicinati-tr-egrave-ff-vo-namp-scopriamo-gli-urogalli_e_136905851"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/incontri-ravvicinati-tr-egrave-ff-vo-namp-scopriamo-gli-urogalli_e_136905851"
-    },
-    "descriptionVerified": "2026-10-24",
-    "assetVerified": "2026-10-24"
-  },
-  {
-    "id": "l-orso-di-shakespeare-2026",
-    "name": {
-      "de": "L'orso di Shakespeare",
-      "en": "L'orso di Shakespeare",
-      "it": "L'orso di Shakespeare"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "L'autore dialoga con Chiara Bertamini (Biblioteca comunale di Trento). Ingresso libero fino ad esaurimento posti.",
-      "de": "Der Autor führt ein Gespräch mit Chiara Bertamini von der Stadtbibliothek Trento; die Veranstaltung bietet Raum für literarischen Austausch und Einblicke in das Werk. Der Eintritt ist frei bis zum Platzangebot, sodass Interessierte an der öffentlichen Begegnung teilnehmen können.",
-      "en": "The author engages in a dialogue with Chiara Bertamini from the Trento public library, offering a conversational encounter that sheds light on the book and its themes. Admission is free until capacity is reached, providing the audience an accessible occasion for direct exchange with the author."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/L-orso-di-Shakespeare",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/L-orso-di-Shakespeare"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare",
-      "de": "https://eventi.comune.trento.it/Eventi/L-orso-di-Shakespeare",
-      "en": "https://eventi.comune.trento.it/Eventi/L-orso-di-Shakespeare"
-    }
-  },
-  {
-    "id": "marilyn-100-eterna-primavera-alcune-altre-icone-del-cinema-in-trent-anni-2026",
-    "name": {
-      "de": "Marilyn 100 – Eterna Primavera & alcune altre icone del cinema in trent’anni d’esposizioni",
-      "en": "Marilyn 100 – Eterna Primavera & alcune altre icone del cinema in trent’anni d’esposizioni",
-      "it": "Marilyn 100 – Eterna Primavera & alcune altre icone del cinema in trent’anni d’esposizioni"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": "17:30",
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Film & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Sabato 24 ottobre alle 17:30 la sala Thun di Torre Mirana ospiterà l’inaugurazione della mostra personale di David Parenti “Marilyn 100 – Eterna Primavera & alcune altre icone del cinema in trent’anni d’esposizioni”. L’esposizione, patrocinata dal Comune di Trento, riunisce una serie di opere che, nel centenario della sua nascita, omaggiano il mito intramontabile di Marilyn Monroe."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Marilyn-100-Eterna-Primavera-alcune-altre-icone-del-cinema-in-trent-anni-d-esposizioni",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-23",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Marilyn-100-Eterna-Primavera-alcune-altre-icone-del-cinema-in-trent-anni-d-esposizioni"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Marilyn-100-Eterna-Primavera-alcune-altre-icone-del-cinema-in-trent-anni-d-esposizioni"
-    },
-    "descriptionVerified": "2026-10-23",
-    "assetVerified": "2026-10-23"
-  },
-  {
-    "id": "mercatino-dei-gaudenti-di-piazza-dante-2026-2",
-    "name": {
-      "de": "Mercatino dei Gaudenti di piazza Dante",
-      "en": "Mercatino dei Gaudenti di piazza Dante",
-      "it": "Mercatino dei Gaudenti di piazza Dante"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Istituito nel 1998 e regolamentato dal Disciplinare del Mercatino dei Gaudenti e dei criteri di selezione del soggetto gestore il Mercatino dei Gaudenti è riservato a privati cittadini, collezionisti, associazioni di volontariato, ad artisti e artigiani hobbisti che vogliono vendere o scambiare la loro merce personale. Sono esclusi coloro che effettuano vendita di oggetti, precedentemente acquistati a tale scopo.",
-      "de": "Der Mercatino dei Gaudenti in Piazza Dante bietet Privatpersonen, Sammlern, Ehrenamtlichen sowie Hobbykünstlern und -handwerkern die Möglichkeit, persönliche Gegenstände zu verkaufen oder zu tauschen. Die Veranstaltung ist geregelt und schließt explizit kommerzielle Händler aus, die Waren gezielt zum Weiterverkauf einkaufen.",
-      "en": "The Mercatino dei Gaudenti in Piazza Dante is reserved for private citizens, collectors, volunteer associations, and hobby artists and craftsmen who wish to sell or swap their personal items. The market operates under a specific regulation that excludes sellers who procure goods solely for resale."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Dante10",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Dante10"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Dante10",
-      "de": "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Dante10",
-      "en": "https://eventi.comune.trento.it/Eventi/Mercatino-dei-Gaudenti-di-piazza-Dante10"
-    }
   },
   {
     "id": "mercato-contadino-di-piazza-dante-2026-9",
@@ -6660,10 +6168,11 @@
     "price": "See official page",
     "officialUrl": "https://www.cultura.trentino.it/Rassegne/Cineforum-San-Marco-2026-2027",
     "source": "Trentino Cultura - Rassegne",
-    "verified": "2026-10-28",
+    "verified": "2026-11-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Cineforum-San-Marco-2026",
       "https://www.cultura.trentino.it/Rassegne/Cineforum-San-Marco-2026-2027"
     ],
     "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/cineforum-san-marco2/28196356-1-ita-IT/cineforum-san-marco_opengraph.png",
@@ -6996,6 +6505,43 @@
     "assetVerified": "2026-11-03"
   },
   {
+    "id": "l-uovo-protagonista-2026",
+    "name": {
+      "de": "L'uovo, protagonista",
+      "en": "L'uovo, protagonista",
+      "it": "L'uovo, protagonista"
+    },
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-06",
+    "startTime": null,
+    "municipality": "Cembra",
+    "area": "Other Trentino",
+    "venue": "Cembra",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Una cena degustazione tra territorio e stagionalità"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/l-uovo-protagonista_e_137171804",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/fiemme/l-uovo-protagonista_137171804/7880383/image-thumb__7880383__moodboard_list/l-uovo-protagonista_137171804_1.1451349e.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/l-uovo-protagonista_e_137171804"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/l-uovo-protagonista_e_137171804"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "ti-presento-l-opera-scent-of-time-il-profumo-del-tempo-2026",
     "name": {
       "de": "Ti presento l'opera - Scent of time. Il profumo del tempo",
@@ -7218,6 +6764,42 @@
     }
   },
   {
+    "id": "passeggiata-del-benessere-2026",
+    "name": {
+      "de": "Passeggiata del Benessere",
+      "en": "Passeggiata del Benessere",
+      "it": "Passeggiata del Benessere"
+    },
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "- rilassarsi e stare in buona compagnia; - osservare da vicino la biodiversità del territorio."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Passeggiata-del-Benessere3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Passeggiata-del-Benessere3"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Passeggiata-del-Benessere3"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "sicut-luna-perfecta-musicantica-2026",
     "name": {
       "de": "Sicut Luna Perfecta - Musicantica",
@@ -7252,6 +6834,78 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Sicut-Luna-Perfecta-Musicantica"
     }
+  },
+  {
+    "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026",
+    "name": {
+      "de": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "en": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "it": "Visita guidata alla collezione egizia del Castello del Buonconsiglio"
+    },
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Visite guidate alla collezione egizia del museo: ogni sabato, ore 15.00 Ogni sabato al Castello del Buonconsiglio una visita guidata alla scoperta della collezione di antichità egizie del Museo , che si presenta in un allestimento innovativo e immersivo. Partecipa anche tu e lasciati affascinare dai reperti provenienti dalle “Terre del Nilo”, raccolti da collezionisti e appassionati nell’Ottocento."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-8",
@@ -7297,6 +6951,42 @@
     },
     "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15"
+  },
+  {
+    "id": "ascolta-immagini-che-risuonano-2026",
+    "name": {
+      "de": "Ascolta! Immagini che risuonano",
+      "en": "Ascolta! Immagini che risuonano",
+      "it": "Ascolta! Immagini che risuonano"
+    },
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Attraverso un percorso di suoni, colori ed emozioni, i bambini e le bambine possono scoprirlo tra le opere in mostra. Un’esperienza di ascolto, osservazione dei dipinti e degli strumenti musicali antichi, per riconoscere i suoni dentro e fuori di noi ed esplorare il ruolo che la musica ha nella vita quotidiana, ieri come oggi. attività indicata per famiglie con bambini 6>11 anni"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ascolta!-Immagini-che-risuonano",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ascolta!-Immagini-che-risuonano"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Ascolta!-Immagini-che-risuonano"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "climbing-arco-a-meeting-place-2026",
@@ -7413,10 +7103,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/frantoi-aperti_11319",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-28",
+    "verified": "2026-11-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
@@ -7672,10 +7363,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-26",
+    "verified": "2026-11-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events",
       "https://www.gardatrentino.it/en/discover/events?page=2",
       "https://www.gardatrentino.it/en/events/mese-del-gusto_61067"
     ],
@@ -7686,6 +7378,78 @@
     "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Header.png",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
     "assetVerified": "2026-10-26"
+  },
+  {
+    "id": "pinocchio-teatro-del-drago-2026",
+    "name": {
+      "de": "Pinocchio - Teatro del drago",
+      "en": "Pinocchio - Teatro del drago",
+      "it": "Pinocchio - Teatro del drago"
+    },
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il Pinocchio del Teatro del Drago porta in scena la celebre fiaba di Collodi tra pupazzi, attori, musica e immagini ispirate alle tavole di Alain Letort. Uno spettacolo colorato e pieno di meraviglia, per grandi e piccoli."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pinocchio-Teatro-del-drago",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Pinocchio-Teatro-del-drago"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Pinocchio-Teatro-del-drago"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-2",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Tariffa: 3,00 € + biglietto di ingresso (gratuito per i possessori di Membership Card OLTRE e OLTRE Plus )"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio16",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio16"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio16"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta-2026",
@@ -8123,6 +7887,42 @@
     "assetVerified": "2026-10-21"
   },
   {
+    "id": "il-sentiero-azzurro-2026",
+    "name": {
+      "de": "Il sentiero azzurro",
+      "en": "Il sentiero azzurro",
+      "it": "Il sentiero azzurro"
+    },
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "In un atmosfera sospesa tra avventura e realismo magico, la protagonista intraprende un viaggio trasformativo lungo i paesaggi naturali del Brasile. Il cammino si rivela un percorso intimo di riconnessione con le proprie radici, segnato dall'incontro con personaggi eccentrici e dalla riscoperta di sè."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-sentiero-azzurro",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Il-sentiero-azzurro"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Il-sentiero-azzurro"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "incontri-mensili-con-consigli-di-lettura-2026",
     "name": {
       "de": "Incontri mensili con consigli di lettura",
@@ -8375,6 +8175,42 @@
     }
   },
   {
+    "id": "robert-johnson-non-se-n-e-mai-andato-2026",
+    "name": {
+      "de": "Robert Johnson non se n'è mai andato",
+      "en": "Robert Johnson non se n'è mai andato",
+      "it": "Robert Johnson non se n'è mai andato"
+    },
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Robert Johnson non se n’è mai andato è un viaggio nel Mississippi degli anni Trenta, nel mondo da cui è nato il blues e nella vita di un uomo che ha deciso di inseguire la musica senza sapere dove lo avrebbe portato. Robert ha poco, spesso pochissimo."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Robert-Johnson-non-se-n-e-mai-andato",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Robert-Johnson-non-se-n-e-mai-andato"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Robert-Johnson-non-se-n-e-mai-andato"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "trento-fashion-week-2026",
     "name": {
       "de": "Trento Fashion Week",
@@ -8516,6 +8352,42 @@
     },
     "descriptionVerified": "2026-11-03",
     "assetVerified": "2026-11-03"
+  },
+  {
+    "id": "m-a-m-longevity-nutrizione-e-longevita-2026",
+    "name": {
+      "de": "M.A.M. Longevity - Nutrizione e Longevità",
+      "en": "M.A.M. Longevity - Nutrizione e Longevità",
+      "it": "M.A.M. Longevity - Nutrizione e Longevità"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Si parlerà di muscoli: il vero investimento per il futuro. Massa muscolare, forza, proteine e ruolo dell'attività fisica nella prevenzione della fragilità"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/M.A.M.-Longevity-Nutrizione-e-Longevita",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/M.A.M.-Longevity-Nutrizione-e-Longevita"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/M.A.M.-Longevity-Nutrizione-e-Longevita"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "fb-mercatini-di-natale-di-arco-christmas-market-2026",
@@ -9075,6 +8947,78 @@
     }
   },
   {
+    "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-2",
+    "name": {
+      "de": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "en": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "it": "Visita guidata alla collezione egizia del Castello del Buonconsiglio"
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Visite guidate alla collezione egizia del museo: ogni sabato, ore 15.00 Ogni sabato al Castello del Buonconsiglio una visita guidata alla scoperta della collezione di antichità egizie del Museo , che si presenta in un allestimento innovativo e immersivo. Partecipa anche tu e lasciati affascinare dai reperti provenienti dalle “Terre del Nilo”, raccolti da collezionisti e appassionati nell’Ottocento."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio2"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-2",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica2"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "christmas-market-in-rango-2026",
     "name": {
       "de": "Christmas Market in Rango",
@@ -9158,6 +9102,42 @@
     "assetVerified": "2026-10-23"
   },
   {
+    "id": "i-meravigliosi-viaggi-di-gulliver-2026",
+    "name": {
+      "de": "I meravigliosi viaggi di Gulliver",
+      "en": "I meravigliosi viaggi di Gulliver",
+      "it": "I meravigliosi viaggi di Gulliver"
+    },
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Una credenza e una cassapanca. Una vela e la prua di una nave."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/I-meravigliosi-viaggi-di-Gulliver",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/I-meravigliosi-viaggi-di-Gulliver"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/I-meravigliosi-viaggi-di-Gulliver"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "pattinaggio-a-rovereto-2026",
     "name": {
       "de": "Pattinaggio a Rovereto",
@@ -9197,6 +9177,78 @@
     },
     "descriptionVerified": "2026-11-03",
     "assetVerified": "2026-11-03"
+  },
+  {
+    "id": "storie-di-musica-in-castello-2026",
+    "name": {
+      "de": "Storie di musica in castello",
+      "en": "Storie di musica in castello",
+      "it": "Storie di musica in castello"
+    },
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Storie di animali, di principi e dame, di musici e buffoni, storie fantastiche o forse vere: storie di musica raccontate nella suggestiva cornice del Castello a bambini e grandi che vogliono lasciarsi incantare. E poi c’è lo spazio per inventare nuove storie di musiche a corte."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Storie-di-musica-in-castello",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Storie-di-musica-in-castello"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Storie-di-musica-in-castello"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-3",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Tariffa: 3,00 € + biglietto di ingresso (gratuito per i possessori di Membership Card OLTRE e OLTRE Plus )"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio17",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio17"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio17"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "gruppo-di-conversazione-sul-cinema-2026",
@@ -10505,6 +10557,78 @@
     "assetVerified": "2026-11-03"
   },
   {
+    "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-3",
+    "name": {
+      "de": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "en": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "it": "Visita guidata alla collezione egizia del Castello del Buonconsiglio"
+    },
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Visite guidate alla collezione egizia del museo: ogni sabato, ore 15.00 Ogni sabato al Castello del Buonconsiglio una visita guidata alla scoperta della collezione di antichità egizie del Museo , che si presenta in un allestimento innovativo e immersivo. Partecipa anche tu e lasciati affascinare dai reperti provenienti dalle “Terre del Nilo”, raccolti da collezionisti e appassionati nell’Ottocento."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio3"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio3"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-3",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica3"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica3"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "a-teatro-a-teatro-2026",
     "name": {
       "de": "A teatro! A teatro!",
@@ -10541,6 +10665,42 @@
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "ascolta-immagini-che-risuonano-2026-2",
+    "name": {
+      "de": "Ascolta! Immagini che risuonano",
+      "en": "Ascolta! Immagini che risuonano",
+      "it": "Ascolta! Immagini che risuonano"
+    },
+    "startDate": "2026-11-22",
+    "endDate": "2026-11-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Attraverso un percorso di suoni, colori ed emozioni, i bambini e le bambine possono scoprirlo tra le opere in mostra. Un’esperienza di ascolto, osservazione dei dipinti e degli strumenti musicali antichi, per riconoscere i suoni dentro e fuori di noi ed esplorare il ruolo che la musica ha nella vita quotidiana, ieri come oggi. attività indicata per famiglie con bambini 6>11 anni"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ascolta!-Immagini-che-risuonano2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Ascolta!-Immagini-che-risuonano2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Ascolta!-Immagini-che-risuonano2"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "festivalmeteorologia-2026",
@@ -10701,6 +10861,42 @@
     "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/Casa_di_Babbo_Natale/GARDADOLOMITI_ph-PRUGNOLA_INVERNO-21_DSC08120_1.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/santas-house_9212",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-4",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-11-22",
+    "endDate": "2026-11-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Tariffa: 3,00 € + biglietto di ingresso (gratuito per i possessori di Membership Card OLTRE e OLTRE Plus )"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio18",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio18"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio18"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "la-parita-in-gioco-2026",
@@ -11138,6 +11334,42 @@
     "assetVerified": "2026-10-26"
   },
   {
+    "id": "il-caso-137-2026",
+    "name": {
+      "de": "Il caso 137",
+      "en": "Il caso 137",
+      "it": "Il caso 137"
+    },
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-25",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "L'ispettrice Stéphanie viene incaricata di indagare su un gruppo di colleghi poliziotti sospettati di aver ferito gravemente un giovane durante una manifestazione. Man mano che l'inchiesta procede, la donna si trova ad affrontare reticenze interne e pressioni che metteranno a dura prova il suo senso di giustizia."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-caso-1372",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Il-caso-1372"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Il-caso-1372"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "manifesto-25-novembre-2026",
     "name": {
       "de": "Manifesto 25 Novembre",
@@ -11571,6 +11803,42 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "m-a-m-longevity-nutrizione-e-longevita-2026-2",
+    "name": {
+      "de": "M.A.M. Longevity - Nutrizione e Longevità",
+      "en": "M.A.M. Longevity - Nutrizione e Longevità",
+      "it": "M.A.M. Longevity - Nutrizione e Longevità"
+    },
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Si parlerà di infiammazione, intestino e immunità: quanto conta ciò che mangiamo? Microbiota, fibra, alimenti ultraprocessati e alimentazione equilibrata."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/M.A.M.-Longevity-Nutrizione-e-Longevita2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/M.A.M.-Longevity-Nutrizione-e-Longevita2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/M.A.M.-Longevity-Nutrizione-e-Longevita2"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "per-giulia-e-per-tutte-noi-2026",
     "name": {
       "de": "Per Giulia e per Tutte Noi",
@@ -11906,6 +12174,78 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-4",
+    "name": {
+      "de": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "en": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "it": "Visita guidata alla collezione egizia del Castello del Buonconsiglio"
+    },
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-28",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Visite guidate alla collezione egizia del museo: ogni sabato, ore 15.00 Ogni sabato al Castello del Buonconsiglio una visita guidata alla scoperta della collezione di antichità egizie del Museo , che si presenta in un allestimento innovativo e immersivo. Partecipa anche tu e lasciati affascinare dai reperti provenienti dalle “Terre del Nilo”, raccolti da collezionisti e appassionati nell’Ottocento."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio4"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio4"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-4",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-28",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica4"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica4"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "christmas-market-in-canale-di-tenno-2026",
     "name": {
       "de": "Christmas Market in Canale di Tenno",
@@ -11954,6 +12294,78 @@
     "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/Mercatino_di_Canale_e_Rango/2022_Mercatino_Natale_Canale.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/christmas-market-in-canale-di-tenno_11698",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "i-giorni-dell-attesa-2026",
+    "name": {
+      "de": "I giorni dell'attesa",
+      "en": "I giorni dell'attesa",
+      "it": "I giorni dell'attesa"
+    },
+    "startDate": "2026-11-29",
+    "endDate": "2026-11-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "“Quanto manca a Natale?” cominciano a chiedere i bambini e le bambine. Conta in famiglia i giorni che ci separano da questa festa, realizzando un calendario dell’Avvento personalizzato."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/I-giorni-dell-attesa",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/I-giorni-dell-attesa"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/I-giorni-dell-attesa"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-11-29",
+    "endDate": "2026-11-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Tariffa: 3,00 € + biglietto di ingresso (gratuito per i possessori di Membership Card OLTRE e OLTRE Plus )"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio19",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio19"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio19"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "giornata-internazionale-di-cities-for-life-citta-per-la-vita-citta-contr-2026",
@@ -12637,6 +13049,78 @@
     "assetVerified": "2026-10-28"
   },
   {
+    "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-5",
+    "name": {
+      "de": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "en": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "it": "Visita guidata alla collezione egizia del Castello del Buonconsiglio"
+    },
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Visite guidate alla collezione egizia del museo: ogni sabato, ore 15.00 Ogni sabato al Castello del Buonconsiglio una visita guidata alla scoperta della collezione di antichità egizie del Museo , che si presenta in un allestimento innovativo e immersivo. Partecipa anche tu e lasciati affascinare dai reperti provenienti dalle “Terre del Nilo”, raccolti da collezionisti e appassionati nell’Ottocento."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio5"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio5"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-5",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-05",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica5"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica5"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "natale-di-montagna-2026",
     "name": {
       "de": "Natale di Montagna",
@@ -12676,6 +13160,42 @@
     "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-7",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-06",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Tariffa: 3,00 € + biglietto di ingresso (gratuito per i possessori di Membership Card OLTRE e OLTRE Plus )"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio20",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio20"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio20"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "night-of-burning-stills-2026",
@@ -12746,10 +13266,11 @@
     "price": "See official page",
     "officialUrl": "https://www.gardatrentino.it/en/events/the-grinch-house_62776",
     "source": "Garda Trentino - events",
-    "verified": "2026-10-26",
+    "verified": "2026-11-05",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events?page=3",
       "https://www.gardatrentino.it/en/discover/events?page=4",
       "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6",
@@ -12765,6 +13286,43 @@
     "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/casa_del_grinch/2023_GARDADOLOMITI_Prugnola_INVERNO_Grinch.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/the-grinch-house_62776",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "lo-schiaccianoci-mm-contemporary-dance-company-2026",
+    "name": {
+      "de": "Lo Schiaccianoci - MM Contemporary Dance Company",
+      "en": "Lo Schiaccianoci - MM Contemporary Dance Company",
+      "it": "Lo Schiaccianoci - MM Contemporary Dance Company"
+    },
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-09",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Una nuova lettura de Lo Schiaccianoci firmata da Mauro Bigonzetti, con la MM Contemporary Dance Company. Tra sogno, desiderio e paure della crescita, la fiaba di Clara si trasforma in un viaggio coreografico sulle musiche di Čajkovskij, tra emozione e meraviglia."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Lo-Schiaccianoci-MM-Contemporary-Dance-Company",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Lo-Schiaccianoci-MM-Contemporary-Dance-Company",
+      "https://eventi.comune.trento.it/Eventi/Lo-Schiaccianoci-MM-Contemporary-Dance-Company2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Lo-Schiaccianoci-MM-Contemporary-Dance-Company"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-15",
@@ -12945,6 +13503,42 @@
     },
     "descriptionVerified": "2026-10-29",
     "assetVerified": "2026-10-29"
+  },
+  {
+    "id": "m-a-m-longevity-nutrizione-e-longevita-2026-3",
+    "name": {
+      "de": "M.A.M. Longevity - Nutrizione e Longevità",
+      "en": "M.A.M. Longevity - Nutrizione e Longevità",
+      "it": "M.A.M. Longevity - Nutrizione e Longevità"
+    },
+    "startDate": "2026-12-11",
+    "endDate": "2026-12-11",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il piano della longevità: costruire il proprio stile di vita. Alimentazione, movimento, sonno, stress e prevenzione: come trasformare le conoscenze acquisitie in abitudini quotidiane."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/M.A.M.-Longevity-Nutrizione-e-Longevita3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/M.A.M.-Longevity-Nutrizione-e-Longevita3"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/M.A.M.-Longevity-Nutrizione-e-Longevita3"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "musichiamo-let-s-make-some-music-2026",
@@ -13245,6 +13839,78 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-6",
+    "name": {
+      "de": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "en": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "it": "Visita guidata alla collezione egizia del Castello del Buonconsiglio"
+    },
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Visite guidate alla collezione egizia del museo: ogni sabato, ore 15.00 Ogni sabato al Castello del Buonconsiglio una visita guidata alla scoperta della collezione di antichità egizie del Museo , che si presenta in un allestimento innovativo e immersivo. Partecipa anche tu e lasciati affascinare dai reperti provenienti dalle “Terre del Nilo”, raccolti da collezionisti e appassionati nell’Ottocento."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio6",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio6"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio6"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-6",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica6",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica6"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica6"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "strozegada-de-santa-luzia-il-bondone-dei-bambini-2026",
     "name": {
       "de": "Strozegada de Santa Luzia: il Bondone dei bambini",
@@ -13279,6 +13945,42 @@
     },
     "descriptionVerified": "2026-10-27",
     "assetVerified": "2026-10-27"
+  },
+  {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-8",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-12-13",
+    "endDate": "2026-12-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Tariffa: 3,00 € + biglietto di ingresso (gratuito per i possessori di Membership Card OLTRE e OLTRE Plus )"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio21",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio21"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio21"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "mamme-in-cerchio-2026-3",
@@ -13664,14 +14366,15 @@
     "descriptionStatus": "complete",
     "organizer": null,
     "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/natale-a-villa-lagarina",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/sagra-del-baccala/",
     "source": "Visit Rovereto / Vallagarina - events",
     "verified": "2026-10-31",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "image": "https://www.visitrovereto.it/wp-content/uploads/2024/09/I-Natali-della-Vallagarina_Natale-a-Villa-Lagarina_Luca-Matassoni-.png",
     "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/natale-a-villa-lagarina"
+      "https://www.visitrovereto.it/vivi/eventi/natale-a-villa-lagarina",
+      "https://www.visitrovereto.it/vivi/eventi/sagra-del-baccala/"
     ],
     "descriptionSources": {
       "it": "https://www.visitrovereto.it/vivi/eventi/natale-a-villa-lagarina/",
@@ -13679,7 +14382,7 @@
       "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/natale-a-villa-lagarina/"
     },
     "descriptionVerified": "2026-10-31",
-    "assetVerified": "2026-10-31"
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "mercatino-dei-gaudenti-di-piazza-dante-2026-4",
@@ -13788,6 +14491,114 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Pomeriggi-di-giochi-da-tavolo9"
     }
+  },
+  {
+    "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-7",
+    "name": {
+      "de": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "en": "Visita guidata alla collezione egizia del Castello del Buonconsiglio",
+      "it": "Visita guidata alla collezione egizia del Castello del Buonconsiglio"
+    },
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Visite guidate alla collezione egizia del museo: ogni sabato, ore 15.00 Ogni sabato al Castello del Buonconsiglio una visita guidata alla scoperta della collezione di antichità egizie del Museo , che si presenta in un allestimento innovativo e immersivo. Partecipa anche tu e lasciati affascinare dai reperti provenienti dalle “Terre del Nilo”, raccolti da collezionisti e appassionati nell’Ottocento."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio7",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio7"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-collezione-egizia-del-Castello-del-Buonconsiglio7"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-7",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-19",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica7",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica7"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica7"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-9",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-12-20",
+    "endDate": "2026-12-20",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Tariffa: 3,00 € + biglietto di ingresso (gratuito per i possessori di Membership Card OLTRE e OLTRE Plus )"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio22",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio22"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio22"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "dalla-canapa-alla-carta-2026",
@@ -13920,6 +14731,42 @@
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events"
     ]
+  },
+  {
+    "id": "l-importanza-de-ciamarse-onesto-2026-2",
+    "name": {
+      "de": "L'importanza de ciamarse Onesto",
+      "en": "L'importanza de ciamarse Onesto",
+      "it": "L'importanza de ciamarse Onesto"
+    },
+    "startDate": "2026-12-21",
+    "endDate": "2026-12-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Vivace e divertente commedia che vede protagonisti due amici scapoli Alberto Marchiori ed Ernesto Vicentini, che si inventano falsi personaggi per sfuggire ognuno ai propri impegni sociali. Nascono così esilaranti complicazioni quando entrambi si innamorano di due donne Guendalina e Cecilia, ossessionate dall’idea di sposare un uomo di nome “Onesto”."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/L-importanza-de-ciamarse-Onesto2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/L-importanza-de-ciamarse-Onesto2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/L-importanza-de-ciamarse-Onesto2"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "l-officina-del-sapone-2026-3",
@@ -14361,6 +15208,78 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante60"
     }
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-8",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-26",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica8",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica8"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica8"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "visita-guidata-al-castello-del-buonconsiglio-2026-10",
+    "name": {
+      "de": "Visita guidata al Castello del Buonconsiglio",
+      "en": "Visita guidata al Castello del Buonconsiglio",
+      "it": "Visita guidata al Castello del Buonconsiglio"
+    },
+    "startDate": "2026-12-27",
+    "endDate": "2026-12-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ogni fine settimana, una visita guidata alla scoperta del Castello del Buonconsiglio, tra arte, storia e fascino senza tempo. Tariffa: 3,00 € + biglietto di ingresso (gratuito per i possessori di Membership Card OLTRE e OLTRE Plus )"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio23",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio23"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-al-Castello-del-Buonconsiglio23"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-6",
@@ -15145,6 +16064,42 @@
     }
   },
   {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2027-01-02",
+    "endDate": "2027-01-02",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica9",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica9"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica9"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "il-castello-della-nativita-castel-toblino-2027",
     "name": {
       "de": "Il Castello della Natività - Castel Toblino",
@@ -15257,6 +16212,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento30"
     }
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-2",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2027-01-09",
+    "endDate": "2027-01-09",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica10",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica10"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica10"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "teatro-per-le-scuole-2027",
@@ -15429,6 +16420,42 @@
     "descriptionVerified": "2026-10-15"
   },
   {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-3",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2027-01-16",
+    "endDate": "2027-01-16",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica11",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica11"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica11"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "expo-riva-schuh-and-gardabags-2027",
     "name": {
       "de": "Expo Riva Schuh and Gardabags",
@@ -15503,8 +16530,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-11-03",
-    "assetVerified": "2026-11-03",
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
@@ -15546,6 +16573,81 @@
     }
   },
   {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-4",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2027-01-23",
+    "endDate": "2027-01-23",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica12",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica12"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica12"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "buona-la-prima-2027",
+    "name": {
+      "de": "Buona la prima!",
+      "en": "Buona la prima!",
+      "it": "Buona la prima!"
+    },
+    "startDate": "2027-01-26",
+    "endDate": "2027-01-24",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "In un perfetto clima invernale, due appuntamenti da non perdere con \"Buona la prima!\", l'imperdibile appuntamento culinario al Teatro Zandonai Nel ridotto della meravigliosa location del Teatro, andranno in scena le gustose ricette del territorio curate dagli studenti dell'Istituto Alberghiero di Rovereto, chef e maître di sala per una sera. Un'ottima occasione per godersi delle prelibatezze dal perfetto sapore lagarino, immersi in un'atmosfera elegante, calda e accogliente.",
+      "en": "In the perfect winter setting, two unmissable events await you with \"Buona la prima!\", the must-attend culinary experience at Teatro Zandonai. In the elegant foyer of this wonderful venue, local culinary specialities will take centre stage, prepared by students from the Rovereto Hotel and Catering Institute, who will take on the roles of chefs and dining-room staff for the evening."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/buona-la-prima",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/11/Buona-la-Prima-3.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/buona-la-prima"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/buona-la-prima/",
+      "en": "https://www.visitrovereto.it/en/enjoy/events/buona-la-prima/"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "come-fu-che-la-iena-2027",
     "name": {
       "de": "Come fu che la iena",
@@ -15580,6 +16682,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Come-fu-che-la-iena"
     }
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-5",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2027-01-30",
+    "endDate": "2027-01-30",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica13",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica13"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica13"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "hospitality-2027",
@@ -15643,6 +16781,49 @@
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "hospitality-2027-2",
+    "name": {
+      "de": "Hospitality",
+      "en": "Hospitality",
+      "it": "Hospitality"
+    },
+    "startDate": "2027-02-03",
+    "endDate": "2027-02-03",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "The most comprehensive Ho.Re.Ca. fair in Italy. Find out all about Hospitality and other events in Riva del Garda!",
+      "it": "La più completa fiera italiana Ho.Re.Ca.. Scopri tutto su Hospitality - Il salone dell'accoglienza e altri eventi a Riva del Garda!",
+      "de": "Italiens umfassendste Ho.Re.Ca.-Messe. Erfahre alles über Hospitality und andere Veranstaltungen in Riva del Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/hospitality_11872",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/hospitality_11872",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/hospitality_11872",
+      "it": "https://www.gardatrentino.it/it/eventi/hospitality-il-salone-dellaccoglienza_11872",
+      "de": "https://www.gardatrentino.it/de/event/hospitality_11872"
+    },
+    "descriptionVerified": "2026-11-05",
+    "image": "https://www.gardatrentino.it/_default_upload_bucket/Hospitality_Digital_Space_30.jpg",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/hospitality_11872",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "vittimologia-psicopedagogia-e-salutogenesi-nella-prevenzione-alla-violen-2027",
@@ -15752,6 +16933,42 @@
     }
   },
   {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-6",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2027-02-06",
+    "endDate": "2027-02-06",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica14",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica14"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica14"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "rosaluna-e-i-lupi-2027",
     "name": {
       "de": "Rosaluna e i lupi",
@@ -15786,6 +17003,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Rosaluna-e-i-lupi"
     }
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-7",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2027-02-13",
+    "endDate": "2027-02-13",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica15",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica15"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica15"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "alfonsina-corridora-replica-serale-aperta-al-pubblico-2027",
@@ -15896,6 +17149,42 @@
     }
   },
   {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-8",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2027-02-20",
+    "endDate": "2027-02-20",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica16",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica16"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica16"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "fb-gran-carneval-de-mori-vecio-maccheronata-mori-2027",
     "name": {
       "de": "Gran Carneval de Mori Vecio — maccheronata (Mori)",
@@ -15931,6 +17220,42 @@
     "image": "https://lavocedeltrentino.it/wwwroot/wp-content/uploads/2024/02/jianxiang-wu-he6vrhIxYCs-unsplash.jpg",
     "imageSourceUrl": "https://lavocedeltrentino.it/eventi/carnevale-2026-torna-la-grande-tavolata-della-vallagarina/",
     "assetVerified": "2026-10-05"
+  },
+  {
+    "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-9",
+    "name": {
+      "de": "Visita guidata alla mostra \"Il potere della musica\"",
+      "en": "Visita guidata alla mostra \"Il potere della musica\"",
+      "it": "Visita guidata alla mostra \"Il potere della musica\""
+    },
+    "startDate": "2027-02-27",
+    "endDate": "2027-02-27",
+    "startTime": "15:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Partecipa a una visita guidata in programma ogni sabato alle 15:00 e scopri la mostra temporanea ‘ Il potere della Musica. Arte, corti e strumenti dal Rinascimento al Barocco ‘, visitabile fino al 28 febbraio 2027."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica17",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica17"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Il-potere-della-musica17"
+    },
+    "descriptionVerified": "2026-11-05",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "terra-replica-serale-aperta-al-pubblico-2027",
@@ -16039,6 +17364,49 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/La-fata-arrabbiata"
     }
+  },
+  {
+    "id": "27-flicorno-d-oro-2027",
+    "name": {
+      "de": "27° Flicorno d’Oro",
+      "en": "27° Flicorno d’Oro",
+      "it": "27° Flicorno d’Oro"
+    },
+    "startDate": "2027-03-21",
+    "endDate": "2027-03-21",
+    "startTime": "08:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "International band competition. Find out all about 27° Flicorno d’Oro and other events in Riva del Garda!",
+      "it": "A Riva del Garda il prestigioso concorso bandistico internazionale. Scopri tutto su 27° Flicorno d’Oro e altri eventi a Riva del Garda!",
+      "de": "Internationales Blasorchesterwettbewerb. Erfahre alles über 27° Flicorno d’Oro und andere Veranstaltungen in Riva del Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/27-flicorno-doro_12686",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/27-flicorno-doro_12686",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/27-flicorno-doro_12686",
+      "it": "https://www.gardatrentino.it/it/eventi/27-flicorno-doro_12686",
+      "de": "https://www.gardatrentino.it/de/event/27-flicorno-doro_12686"
+    },
+    "descriptionVerified": "2026-11-05",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_flicorno_oro.jpg",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/27-flicorno-doro_12686",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "pinocchio-nel-ventre-della-balena-2027",
@@ -16293,6 +17661,49 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "arcobonsai-2027",
+    "name": {
+      "de": "Arcobonsai",
+      "en": "Arcobonsai",
+      "it": "Arcobonsai"
+    },
+    "startDate": "2027-04-25",
+    "endDate": "2027-04-25",
+    "startTime": null,
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "International Conference on Bonsai Science and Techniques. Find out all about Arcobonsai and other events in Arco, Arco!",
+      "it": "Convegno Internazionale di Scienza e Tecnica Bonsai. Scopri tutto su Arcobonsai e altri eventi a Arco, Arco!",
+      "de": "Internationales Symposium für Bonsai-Wissenschaft und -Technik. Erfahre alles über Arcobonsai und andere Veranstaltungen in Arco, Arco!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/arcobonsai-_3485",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/arcobonsai-_3485",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/arcobonsai-_3485",
+      "it": "https://www.gardatrentino.it/it/eventi/arcobonsai_3485",
+      "de": "https://www.gardatrentino.it/de/event/arcobonsai-_3485"
+    },
+    "descriptionVerified": "2026-11-05",
+    "image": "https://www.gardatrentino.it/website_images/events/Events_Arcobonsai.png",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/arcobonsai-_3485",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "bike-festival-2027",
     "name": {
       "en": "Bike Festival Riva del Garda",
@@ -16416,6 +17827,49 @@
     ]
   },
   {
+    "id": "stay-young-comano-wellness-weekend-2027",
+    "name": {
+      "de": "Stay Young Comano Wellness Weekend",
+      "en": "Stay Young Comano Wellness Weekend",
+      "it": "Stay Young Comano Wellness Weekend"
+    },
+    "startDate": "2027-05-30",
+    "endDate": "2027-06-06",
+    "startTime": null,
+    "municipality": "Stenico",
+    "area": "Other Trentino",
+    "venue": "Stenico",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Slow down, breathe, reconnect with your energy. Longevity starts here..",
+      "it": "Rallenta, Respira, Ritrova la tua energia. La longevità inizia qui..",
+      "de": "Entschleunige, atme, finde deine Energie wieder. Langlebigkeit beginnt hier.."
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/stay-young-comano-wellness-weekend_74771",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/stay-young-comano-wellness-weekend_74771",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/stay-young-comano-wellness-weekend_74771",
+      "it": "https://www.gardatrentino.it/it/eventi/stay-young-comano-wellness-weekend_74771",
+      "de": "https://www.gardatrentino.it/de/event/stay-young-comano-wellness-weekend_74771"
+    },
+    "descriptionVerified": "2026-11-05",
+    "image": "https://www.gardatrentino.it/website_images/events/Locandine/2024_events_STAY_YOUNG.jpeg",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/stay-young-comano-wellness-weekend_74771",
+    "assetVerified": "2026-11-05"
+  },
+  {
     "id": "top-dolomites-outdoor-festival-2027",
     "name": {
       "de": "Top Dolomites Outdoor Festival",
@@ -16458,6 +17912,92 @@
     "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Top_Dolomites_2.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/top-dolomites-outdoor-festival_49077",
     "assetVerified": "2026-10-23"
+  },
+  {
+    "id": "mytransalp-2027",
+    "name": {
+      "de": "MYTRANSALP",
+      "en": "MYTRANSALP",
+      "it": "MYTRANSALP"
+    },
+    "startDate": "2027-08-30",
+    "endDate": "2027-08-30",
+    "startTime": "08:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Stage 7 Riva del Garda. Find out all about MYTRANSALP and other events in Riva del Garda!",
+      "it": "Stage 7 Riva del Garda. Scopri tutto su MYTRANSALP e altri eventi a Riva del Garda!",
+      "de": "Stage 7 Riva del Garda. Erfahre alles über MYTRANSALP und andere Veranstaltungen in Riva del Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/mytransalp_8815",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/mytransalp_8815",
+      "https://www.gardatrentino.it/en/discover/events?page=6"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/mytransalp_8815",
+      "it": "https://www.gardatrentino.it/it/eventi/mytransalp_8815",
+      "de": "https://www.gardatrentino.it/de/event/mytransalp_8815"
+    },
+    "descriptionVerified": "2026-11-05",
+    "image": "https://www.gardatrentino.it/website_images/events/mytransalp_nero.png",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/mytransalp_8815",
+    "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "notte-di-fiaba-don-chisciotte-2027",
+    "name": {
+      "de": "Notte di Fiaba - Don Chisciotte",
+      "en": "Notte di Fiaba - Don Chisciotte",
+      "it": "Notte di Fiaba - Don Chisciotte"
+    },
+    "startDate": "2027-08-30",
+    "endDate": "2027-08-30",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Fairytale journeys, workshops and games, music, shows, markets and much more!. Find out all about Notte di Fiaba - Don Chisciotte and other events in Riva del Garda!",
+      "it": "Viaggi nella fiaba, laboratori e giochi, musica, spettacoli, mercatini e tanto altro!. Scopri tutto su Notte di Fiaba - Don Chisciotte e altri eventi a Riva del Garda!",
+      "de": "Reisen ins Märchen, Workshops und Spiele, Musik, Shows, Märkte und vieles mehr!. Erfahre alles über Notte di Fiaba - Don Chisciotte und andere Veranstaltungen in Riva del Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/notte-di-fiaba-don-chisciotte_78851",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-05",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/notte-di-fiaba-don-chisciotte_78851",
+      "https://www.gardatrentino.it/en/discover/events?page=6"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/notte-di-fiaba-don-chisciotte_78851",
+      "it": "https://www.gardatrentino.it/it/eventi/notte-di-fiaba-don-chisciotte_78851",
+      "de": "https://www.gardatrentino.it/de/event/notte-di-fiaba-don-chisciotte_78851"
+    },
+    "descriptionVerified": "2026-11-05",
+    "image": "https://www.gardatrentino.it/website_images/events/Don%20Chisciotte%20e%20Sancho%20tra%20i%20mulini.png",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/notte-di-fiaba-don-chisciotte_78851",
+    "assetVerified": "2026-11-05"
   },
   {
     "id": "fb-festival-settenovecento-11a-edizione-rovereto-2027",
