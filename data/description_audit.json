@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-03",
-  "currentEvents": 338,
+  "checkedAt": "2026-11-05",
+  "currentEvents": 380,
   "complete": 105,
   "incomplete": [
     {
@@ -214,13 +214,6 @@
       ]
     },
     {
-      "id": "arco-verticale-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "eugenio-montale-temi-modelli-figure-2026-2",
       "languages": [
         "de",
@@ -242,50 +235,7 @@
       ]
     },
     {
-      "id": "in-cammino-con-il-museo-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "pane-e-femminismi-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "presentazione-libro-la-lacrima-del-serpente-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "alluvione-1966-in-trentino-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "come-colibri-in-volo-tra-prosa-e-poesia-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "let-s-read-together-2026",
       "languages": [
         "de",
         "en"
@@ -370,6 +320,13 @@
       ]
     },
     {
+      "id": "l-uovo-protagonista-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "ti-presento-l-opera-scent-of-time-il-profumo-del-tempo-2026",
       "languages": [
         "de",
@@ -405,7 +362,35 @@
       ]
     },
     {
+      "id": "passeggiata-del-benessere-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "sicut-luna-perfecta-musicantica-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "ascolta-immagini-che-risuonano-2026",
       "languages": [
         "de",
         "en"
@@ -428,6 +413,20 @@
     },
     {
       "id": "mese-del-gusto-2026-13",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "pinocchio-teatro-del-drago-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-al-castello-del-buonconsiglio-2026-2",
       "languages": [
         "de",
         "en"
@@ -518,6 +517,13 @@
       ]
     },
     {
+      "id": "il-sentiero-azzurro-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "incontri-mensili-con-consigli-di-lettura-2026",
       "languages": [
         "de",
@@ -567,6 +573,13 @@
       ]
     },
     {
+      "id": "robert-johnson-non-se-n-e-mai-andato-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "trento-fashion-week-2026",
       "languages": [
         "de",
@@ -582,6 +595,13 @@
     },
     {
       "id": "leggiamo-let-s-read-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "m-a-m-longevity-nutrizione-e-longevita-2026",
       "languages": [
         "de",
         "en"
@@ -665,7 +685,42 @@
       ]
     },
     {
+      "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "giornata-mondiale-della-prematurita-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "i-meravigliosi-viaggi-di-gulliver-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "storie-di-musica-in-castello-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-al-castello-del-buonconsiglio-2026-3",
       "languages": [
         "de",
         "en"
@@ -798,7 +853,28 @@
       ]
     },
     {
+      "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-3",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-3",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "a-teatro-a-teatro-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "ascolta-immagini-che-risuonano-2026-2",
       "languages": [
         "de",
         "en"
@@ -813,6 +889,13 @@
     },
     {
       "id": "non-e-solo-una-panchina-un-segno-una-voce-un-impegno-contro-la-violenza-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-al-castello-del-buonconsiglio-2026-4",
       "languages": [
         "de",
         "en"
@@ -903,6 +986,13 @@
       ]
     },
     {
+      "id": "il-caso-137-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "manifesto-25-novembre-2026",
       "languages": [
         "de",
@@ -987,6 +1077,13 @@
       ]
     },
     {
+      "id": "m-a-m-longevity-nutrizione-e-longevita-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "per-giulia-e-per-tutte-noi-2026",
       "languages": [
         "de",
@@ -1030,6 +1127,34 @@
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-14",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-4",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-4",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "i-giorni-dell-attesa-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
       "languages": [
         "de",
         "en"
@@ -1170,6 +1295,34 @@
       ]
     },
     {
+      "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-5",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-5",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-al-castello-del-buonconsiglio-2026-7",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "lo-schiaccianoci-mm-contemporary-dance-company-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-15",
       "languages": [
         "de",
@@ -1199,6 +1352,13 @@
     },
     {
       "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-6",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "m-a-m-longevity-nutrizione-e-longevita-2026-3",
       "languages": [
         "de",
         "en"
@@ -1247,7 +1407,28 @@
       ]
     },
     {
+      "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-6",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-6",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "strozegada-de-santa-luzia-il-bondone-dei-bambini-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-al-castello-del-buonconsiglio-2026-8",
       "languages": [
         "de",
         "en"
@@ -1345,6 +1526,27 @@
       ]
     },
     {
+      "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-7",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-7",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-al-castello-del-buonconsiglio-2026-9",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "dalla-canapa-alla-carta-2026",
       "languages": [
         "de",
@@ -1373,6 +1575,13 @@
         "de",
         "en",
         "it"
+      ]
+    },
+    {
+      "id": "l-importanza-de-ciamarse-onesto-2026-2",
+      "languages": [
+        "de",
+        "en"
       ]
     },
     {
@@ -1413,6 +1622,20 @@
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-18",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-8",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-al-castello-del-buonconsiglio-2026-10",
       "languages": [
         "de",
         "en"
@@ -1503,6 +1726,13 @@
       ]
     },
     {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "il-castello-della-nativita-castel-toblino-2027",
       "languages": [
         "de",
@@ -1512,6 +1742,13 @@
     },
     {
       "id": "alla-scoperta-di-trento-2027-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-2",
       "languages": [
         "de",
         "en"
@@ -1547,6 +1784,13 @@
       ]
     },
     {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-3",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "hansel-e-gretel-infanzia-in-guerra-2027",
       "languages": [
         "de",
@@ -1561,7 +1805,27 @@
       ]
     },
     {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-4",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "buona-la-prima-2027",
+      "languages": [
+        "de"
+      ]
+    },
+    {
       "id": "come-fu-che-la-iena-2027",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-5",
       "languages": [
         "de",
         "en"
@@ -1597,7 +1861,21 @@
       ]
     },
     {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-6",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "rosaluna-e-i-lupi-2027",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-7",
       "languages": [
         "de",
         "en"
@@ -1619,6 +1897,20 @@
     },
     {
       "id": "poco-piu-in-la-2027",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-8",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-9",
       "languages": [
         "de",
         "en"
