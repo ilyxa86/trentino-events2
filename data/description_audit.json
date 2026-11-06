@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-05",
-  "currentEvents": 380,
-  "complete": 105,
+  "checkedAt": "2026-11-06",
+  "currentEvents": 396,
+  "complete": 107,
   "incomplete": [
     {
       "id": "competition-anelli-di-congiunzione-le-gallerie-di-piedicastello-2026",
@@ -257,55 +257,6 @@
       ]
     },
     {
-      "id": "l-amore-si-impara-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "lilt-for-men-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-del-giovedi-2026-11",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-dell-economia-solidale-2026-11",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "osservato-speciale-piene-e-magre-dell-adige-a-trento-dal-1862-ad-oggi-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "un-autunno-pieno-di-storie-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "voci-per-il-benessere-alla-pari-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "di-coniglietti-scoiattoli-e-finali-sorprendenti-2026",
       "languages": [
         "de",
@@ -552,6 +503,20 @@
       ]
     },
     {
+      "id": "autumn-tales-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "creusa-cassandra-e-le-altre-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "le-ultime-lune-con-alessandro-haber-2026",
       "languages": [
         "de",
@@ -573,6 +538,13 @@
       ]
     },
     {
+      "id": "presentazione-libro-1951-e-dintorni-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "robert-johnson-non-se-n-e-mai-andato-2026",
       "languages": [
         "de",
@@ -581,6 +553,13 @@
     },
     {
       "id": "trento-fashion-week-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "dire-di-se-femine-mi-chiamavano-tina-sulle-tracce-di-una-rivoluzionaria-2026",
       "languages": [
         "de",
         "en"
@@ -643,6 +622,13 @@
       ]
     },
     {
+      "id": "let-s-read-another-story-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "mercatino-dei-gaudenti-di-piazza-garzetti-2026-3",
       "languages": [
         "de",
@@ -658,6 +644,13 @@
     },
     {
       "id": "natale-a-pergine-mercatino-di-natale-di-pergine-valsugana-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "pane-e-femminismi-2026-2",
       "languages": [
         "de",
         "en"
@@ -734,6 +727,13 @@
       ]
     },
     {
+      "id": "presentazione-podcast-c-o-e-s-i-s-t-e-n-z-a-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "vai-via-2026",
       "languages": [
         "de",
@@ -756,6 +756,13 @@
     },
     {
       "id": "note-al-museo-musica-in-sala-arazzi-5-edizione-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "yalla-parkour-2026",
       "languages": [
         "de",
         "en"
@@ -815,6 +822,14 @@
       "languages": [
         "de",
         "en"
+      ]
+    },
+    {
+      "id": "la-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata-2026",
+      "languages": [
+        "de",
+        "en",
+        "it"
       ]
     },
     {
@@ -1022,6 +1037,13 @@
     },
     {
       "id": "storia-di-un-no-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "flyover-country-2026",
       "languages": [
         "de",
         "en"
@@ -1245,6 +1267,13 @@
       ]
     },
     {
+      "id": "nino-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "i-natali-dell-alta-vallagarina-2026",
       "languages": [
         "de",
@@ -1267,6 +1296,13 @@
     },
     {
       "id": "5-dicembre-giornata-internazionale-del-volontariato-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "a-chi-tocca-mia-moglie-2026",
       "languages": [
         "de",
         "en"
@@ -1310,6 +1346,13 @@
     },
     {
       "id": "visita-guidata-al-castello-del-buonconsiglio-2026-7",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "la-mia-famigli-a-tapei-2026",
       "languages": [
         "de",
         "en"
@@ -1379,6 +1422,13 @@
       ]
     },
     {
+      "id": "atomic-tales-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "coderdojo-crea-il-tuo-videogioco-2026-3",
       "languages": [
         "de",
@@ -1421,6 +1471,13 @@
       ]
     },
     {
+      "id": "concerto-del-coro-femminile-la-sorgente-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "strozegada-de-santa-luzia-il-bondone-dei-bambini-2026",
       "languages": [
         "de",
@@ -1442,6 +1499,13 @@
       ]
     },
     {
+      "id": "economia-e-una-parola-femminile-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-5",
       "languages": [
         "de",
@@ -1450,6 +1514,13 @@
     },
     {
       "id": "gli-ultimi-orsi-polari-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "incendi-di-wajdi-mouawad-2026",
       "languages": [
         "de",
         "en"
@@ -1471,6 +1542,13 @@
     },
     {
       "id": "mercato-dell-economia-solidale-2026-17",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "se-ti-sposo-mi-rovino-2026",
       "languages": [
         "de",
         "en"
@@ -1593,6 +1671,13 @@
       ]
     },
     {
+      "id": "fill-e-foll-raccontano-cappuccetto-rosso-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "mercato-contadino-di-via-fabio-filzi-2026-17",
       "languages": [
         "de",
@@ -1608,6 +1693,13 @@
     },
     {
       "id": "mercato-dell-economia-solidale-2026-18",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "rendez-vous-la-compagnie-du-hanneton-2026",
       "languages": [
         "de",
         "en"
@@ -1636,6 +1728,13 @@
     },
     {
       "id": "visita-guidata-al-castello-del-buonconsiglio-2026-10",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "confronti-concerto-di-capodanno-2026",
       "languages": [
         "de",
         "en"
