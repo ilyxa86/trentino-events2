@@ -643,40 +643,6 @@
     "assetVerified": "2026-10-15"
   },
   {
-    "id": "il-grimorio-le-leggende-e-il-castello-2026-2",
-    "name": {
-      "de": "Il Grimorio, le Leggende e il Castello",
-      "en": "Il Grimorio, le Leggende e il Castello",
-      "it": "Il Grimorio, le Leggende e il Castello"
-    },
-    "startDate": "2026-09-06",
-    "endDate": "2026-10-25",
-    "startTime": "10:00",
-    "municipality": "Drena",
-    "area": "Alto Garda",
-    "venue": "Drena",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Il Grimorio, le Leggende e il Castello“ in Drena. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Il Grimorio, le Leggende e il Castello” event in Drena. See the official event page for the latest details.",
-      "it": "Evento “Il Grimorio, le Leggende e il Castello” a Drena. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=4",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/discover/events?page=4"
-    ]
-  },
-  {
     "id": "il-grimorio-le-leggende-e-il-castello-2026-3",
     "name": {
       "de": "Il Grimorio, le Leggende e il Castello",
@@ -2615,86 +2581,6 @@
     "assetVerified": "2026-10-15"
   },
   {
-    "id": "mercato-contadino-di-piazza-dante-2026-9",
-    "name": {
-      "de": "Mercato contadino di piazza Dante",
-      "en": "Mercato contadino di piazza Dante",
-      "it": "Mercato contadino di piazza Dante"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Il mercato si svolge in piazza Dante (Circoscrizione Centro storico - Piedicastello) ogni sabato esclusi i festivi dalle 7:30 alle 13:00",
-      "de": "Der Wochenmarkt auf der Piazza Dante versammelt regionale Erzeuger jeden Samstagvormittag und bietet frische Produkte direkt vom Hof. Der Markt ist Teil des Stadtzentrums und findet regelmäßig in den Morgenstunden statt, ausgenommen an Feiertagen.",
-      "en": "The farmers' market on Piazza Dante brings together local producers every Saturday morning, offering fresh, farm-direct products. The market is held regularly in the historic center between early morning and midday, with sessions not scheduled on public holidays."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante51",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante51"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante51",
-      "de": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante51",
-      "en": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante51"
-    }
-  },
-  {
-    "id": "nicolo-dorigati-nel-segno-del-barocco-2026-2",
-    "name": {
-      "de": "“Nicolò Dorigati. Nel segno del Barocco”",
-      "en": "“Nicolò Dorigati. Nel segno del Barocco”",
-      "it": "“Nicolò Dorigati. Nel segno del Barocco”"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Il Museo Diocesano Tridentino propone un calendario di visite guidate alla mostra Nicolò Dorigati. Nel segno del Barocco , per scoprire da vicino la vita e le opere di uno dei principali protagonisti della pittura trentina tra Sei e Settecento.",
-      "de": "Die Ausstellung über Nicolò Dorigati lädt Besucher ein, Leben und Werk eines zentralen Malers der Trentiner Barockzeit näher kennenzulernen. Geführte Besuche werden angeboten, um die künstlerische Bedeutung und die historischen Kontexte seiner Gemälde zu erläutern.",
-      "en": "The exhibition on Nicolò Dorigati allows visitors to explore the life and works of a key figure in Trentino painting between the 17th and 18th centuries. The diocesan museum schedules guided visits to contextualize his art and highlight its significance within the Baroque tradition."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco",
-      "de": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco",
-      "en": "https://eventi.comune.trento.it/Eventi/Nicolo-Dorigati.-Nel-segno-del-Barocco"
-    }
-  },
-  {
     "id": "palcoscenico-trentino-2026",
     "name": {
       "de": "Palcoscenico Trentino 2026",
@@ -2735,159 +2621,6 @@
     },
     "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15"
-  },
-  {
-    "id": "presentazione-libro-l-orso-di-shakespeare-2026",
-    "name": {
-      "de": "Presentazione libro L'orso di Shakespeare",
-      "en": "Presentazione libro L'orso di Shakespeare",
-      "it": "Presentazione libro L'orso di Shakespeare"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "L'autore dialoga con Chiara Bertamini (Biblioteca comunale di Trento). Ingresso libero fino ad esaurimento posti.",
-      "de": "Bei der Buchvorstellung zu L'orso di Shakespeare tritt der Autor in einen Dialog mit Chiara Bertamini aus der Stadtbibliothek Trento. Die Veranstaltung ist öffentlich und der Eintritt erfolgt bis zur Auslastung der verfügbaren Plätze ohne Vorverkaufspflicht.",
-      "en": "At the presentation of L'orso di Shakespeare the author engages in conversation with Chiara Bertamini from the Trento public library. The event is open to the public with free admission until venue capacity is reached."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-06",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare",
-      "de": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare",
-      "en": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-L-orso-di-Shakespeare"
-    }
-  },
-  {
-    "id": "si-fa-presto-a-dire-pace-ciclo-di-incontri-le-origini-dei-conflitti-2026",
-    "name": {
-      "de": "\"Si fa presto a dire pace\" - Ciclo di incontri \"Le origini dei conflitti\"",
-      "en": "\"Si fa presto a dire pace\" - Ciclo di incontri \"Le origini dei conflitti\"",
-      "it": "\"Si fa presto a dire pace\" - Ciclo di incontri \"Le origini dei conflitti\""
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Sport & Outdoor",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "L'Associazione San Pio X, nell'ambito del patto di collaborazione \"Un patto di magia e trasformazione\", promuove un ciclo di incontri di approfondimento sulle radici storiche dei conflitti contemporanei. Attraverso il contributo di storici, giornalisti e mediatori internazionali, saranno proposte occasioni di conoscenza, confronto e dialogo, su temi quali colonialismo, confini, decolonizzazione, identità nazionali, etnie, religioni e le circostanze che hanno contribuito a costruire l'autonomia e la pace nel nostro territorio."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Si-fa-presto-a-dire-pace-Ciclo-di-incontri-Le-origini-dei-conflitti",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-20",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Si-fa-presto-a-dire-pace-Ciclo-di-incontri-Le-origini-dei-conflitti"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Si-fa-presto-a-dire-pace-Ciclo-di-incontri-Le-origini-dei-conflitti"
-    },
-    "descriptionVerified": "2026-10-20",
-    "assetVerified": "2026-10-20"
-  },
-  {
-    "id": "visita-guidata-alla-mostra-nelle-terre-del-nilo-tesori-egizi-al-castello-2026",
-    "name": {
-      "de": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
-      "en": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\"",
-      "it": "Visita guidata alla mostra \"Nelle terre del Nilo. Tesori egizi al Castello del Buonconsiglio\""
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Una visita guidata per scoprire la rinnovata sezione egizia del museo e la mostra temporanea dedicata all’affascinante civiltà dell’antico Egitto."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio15",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-20",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio15"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-alla-mostra-Nelle-terre-del-Nilo.-Tesori-egizi-al-Castello-del-Buonconsiglio15"
-    },
-    "descriptionVerified": "2026-10-20",
-    "assetVerified": "2026-10-20"
-  },
-  {
-    "id": "visita-guidata-gratuita-alla-mostra-da-piazza-delle-armi-a-giardino-piaz-2026-3",
-    "name": {
-      "de": "Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"",
-      "en": "Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\"",
-      "it": "Visita guidata gratuita alla mostra \"Da piazza delle armi a giardino. Piazza Venezia e il monumento ad Alcide De Gasperi\""
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "La Fondazione Museo storico del Trentino propone una visita guidata gratuita alla mostra dedicata al parco di Piazza Venezia e al monumento ad Alcide De Gasperi. Durata : 45 minuti Prenotazione obbligatoria : edu@museostorico.it Ritrovo : presso l’installazione al centro del parco di Piazza Venezia",
-      "de": "Die kostenlose Führung beleuchtet die Ausstellung über den Wandel von Piazza Venezia und das Denkmal für Alcide De Gasperi und erklärt historische Aspekte des Parks. Die Teilnehmer treffen sich am zentralen Installationspunkt im Park; eine Anmeldung ist erforderlich, da Plätze begrenzt sind.",
-      "en": "This free guided tour explores the exhibition about Piazza Venezia’s transformation and the monument to Alcide De Gasperi, explaining historical layers of the park. The meeting point is the installation at the park’s center and prior booking is required because places are limited."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-10",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6",
-      "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi7"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6",
-      "de": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6",
-      "en": "https://eventi.comune.trento.it/Eventi/Visita-guidata-gratuita-alla-mostra-Da-piazza-delle-armi-a-giardino.-Piazza-Venezia-e-il-monumento-ad-Alcide-De-Gasperi6"
-    }
   },
   {
     "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-7",
@@ -8067,6 +7800,78 @@
     "assetVerified": "2026-10-21"
   },
   {
+    "id": "autumn-tales-2026",
+    "name": {
+      "de": "Autumn Tales",
+      "en": "Autumn Tales",
+      "it": "Autumn Tales"
+    },
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per informazioni telefonare al numero 0461 889868 oppure scrivere all'indirizzo e-mail biblioteca.mattarello@comune.trento.it"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Autumn-Tales",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Autumn-Tales"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Autumn-Tales"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
+    "id": "creusa-cassandra-e-le-altre-2026",
+    "name": {
+      "de": "Creusa, Cassandra e le Altre",
+      "en": "Creusa, Cassandra e le Altre",
+      "it": "Creusa, Cassandra e le Altre"
+    },
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Archeologia, mito e teatro di ricerca si fondono grazie alla parola e alla musica, mettendo in luce chi è rimasto a lungo nell’ombra. Lo spettacolo è tratto dal libro “A Thousand Ships” della scrittrice britannica Natalie Haynes."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Creusa-Cassandra-e-le-Altre",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Creusa-Cassandra-e-le-Altre"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Creusa-Cassandra-e-le-Altre"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "le-ultime-lune-con-alessandro-haber-2026",
     "name": {
       "de": "Le ultime lune con Alessandro Haber",
@@ -8175,6 +7980,42 @@
     }
   },
   {
+    "id": "presentazione-libro-1951-e-dintorni-2026",
+    "name": {
+      "de": "Presentazione libro 1951... e dintorni",
+      "en": "Presentazione libro 1951... e dintorni",
+      "it": "Presentazione libro 1951... e dintorni"
+    },
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Mario Cerato è autore di numerose pubblicazioni su vari aspetti della storia forestale del Trentino. Il libro \"1951... e dintorni."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-1951-e-dintorni",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Presentazione-libro-1951-e-dintorni"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-libro-1951-e-dintorni"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "robert-johnson-non-se-n-e-mai-andato-2026",
     "name": {
       "de": "Robert Johnson non se n'è mai andato",
@@ -8280,6 +8121,42 @@
     "assetVerified": "2026-08-27",
     "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/Villaggio_del_Gusto/2025_APTGARDADOLOMITI_ph.PRUGNOLA_Inverno_RivaDelGarda_DiGustoInGusto_0I1A0010.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213"
+  },
+  {
+    "id": "dire-di-se-femine-mi-chiamavano-tina-sulle-tracce-di-una-rivoluzionaria-2026",
+    "name": {
+      "de": "Dire di sé - FEMÍNE. | Mi chiamavano Tina. Sulle tracce di una rivoluzionaria antifascista",
+      "en": "Dire di sé - FEMÍNE. | Mi chiamavano Tina. Sulle tracce di una rivoluzionaria antifascista",
+      "it": "Dire di sé - FEMÍNE. | Mi chiamavano Tina. Sulle tracce di una rivoluzionaria antifascista"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ogni donna custodisce un sapere che raramente viene scritto. Chi lo raccoglie?"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Dire-di-se-FEMINE.-Mi-chiamavano-Tina.-Sulle-tracce-di-una-rivoluzionaria-antifascista",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Dire-di-se-FEMINE.-Mi-chiamavano-Tina.-Sulle-tracce-di-una-rivoluzionaria-antifascista"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Dire-di-se-FEMINE.-Mi-chiamavano-Tina.-Sulle-tracce-di-una-rivoluzionaria-antifascista"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
   },
   {
     "id": "il-lavoro-non-e-neutro-2026",
@@ -8730,6 +8607,42 @@
     }
   },
   {
+    "id": "let-s-read-another-story-2026",
+    "name": {
+      "de": "Let's read another story",
+      "en": "Let's read another story",
+      "it": "Let's read another story"
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per informazioni potete passare in biblioteca, telefonare al numero 0461 889559 o mandare una e-mail a biblioteca.ragazzi@comune.trento.it . Per aggiornamenti seguite il sito della biblioteca e le pagine facebook e instagram ."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Let-s-read-another-story",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Let-s-read-another-story"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Let-s-read-another-story"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "mercatino-dei-gaudenti-di-piazza-garzetti-2026-3",
     "name": {
       "de": "Mercatino dei Gaudenti di piazza Garzetti",
@@ -8837,6 +8750,42 @@
     },
     "descriptionVerified": "2026-11-03",
     "assetVerified": "2026-11-03"
+  },
+  {
+    "id": "pane-e-femminismi-2026-2",
+    "name": {
+      "de": "Pane e Femminismi",
+      "en": "Pane e Femminismi",
+      "it": "Pane e Femminismi"
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Pane e Femminismi è un progetto culturale - Bookclub - che si ispira alle tavolate delle grandi occasioni familiari e trasforma la sensazione di non poter parlare di alcuni argomenti in opportunità per parlare anche di temi complessi come i femminismi, l’intersezionalità, i diritti, i corpi, il lavoro. Da tre anni consente alle persone di discutere, confrontarsi, imparare, decostruire pensieri e consapevolezze."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pane-e-Femminismi2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Pane-e-Femminismi2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Pane-e-Femminismi2"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
   },
   {
     "id": "pari-passo-ridisegnare-il-lavoro-tra-genere-famiglia-e-professione-2026",
@@ -9367,6 +9316,42 @@
     "assetVerified": "2026-10-16"
   },
   {
+    "id": "presentazione-podcast-c-o-e-s-i-s-t-e-n-z-a-2026",
+    "name": {
+      "de": "Presentazione podcast C.O.E.S.I.S.T.E.N.Z.A.",
+      "en": "Presentazione podcast C.O.E.S.I.S.T.E.N.Z.A.",
+      "it": "Presentazione podcast C.O.E.S.I.S.T.E.N.Z.A."
+    },
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "C.O.E.S.I.S.T.E.N.Z.A. è un viaggio in undici episodi, tanti quante le lettere della parola che dà il titolo alla serie. Undici prospettive per esplorare la complessità della relazione tra esseri umani e fauna: dalle connessioni ecologiche alle opportunità, dai conflitti alle possibili soluzioni, fino alle dimensioni sociali, etiche, culturali e giuridiche."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-podcast-C.O.E.S.I.S.T.E.N.Z.A",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Presentazione-podcast-C.O.E.S.I.S.T.E.N.Z.A"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Presentazione-podcast-C.O.E.S.I.S.T.E.N.Z.A"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "vai-via-2026",
     "name": {
       "de": "Vai via",
@@ -9592,6 +9577,42 @@
     "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/note-al-museo7/28207862-1-ita-IT/note-al-museo_opengraph.png",
     "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Note-al-Museo-Musica-in-Sala-arazzi-5-edizione",
     "assetVerified": "2026-10-29"
+  },
+  {
+    "id": "yalla-parkour-2026",
+    "name": {
+      "de": "Yalla Parkour",
+      "en": "Yalla Parkour",
+      "it": "Yalla Parkour"
+    },
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-18",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La regista torna a Gaza spinta dai ricordi d'infanzia e si imbatte nei video di una squadra di giovani che praticano parkour tra le maceria. Attraverso il legame con l'atleta Ahmed, il film esplora il contrasto tra il desiderio di libertà dei ragazzi e i limiti imposti dalla complessa realtà del loro territorio."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Yalla-Parkour",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Yalla-Parkour"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Yalla-Parkour"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
   },
   {
     "id": "gruppo-di-lettura-di-sopramonte-2026",
@@ -10293,6 +10314,40 @@
       "de": "https://eventi.comune.trento.it/Eventi/Codici-trentini-del-Quattrocento-Musicantica",
       "en": "https://eventi.comune.trento.it/Eventi/Codici-trentini-del-Quattrocento-Musicantica"
     }
+  },
+  {
+    "id": "la-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata-2026",
+    "name": {
+      "de": "La vita mi è passata davanti e io... tiè l'ho doppiata",
+      "en": "La vita mi è passata davanti e io... tiè l'ho doppiata",
+      "it": "La vita mi è passata davanti e io... tiè l'ho doppiata"
+    },
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {},
+    "descriptionStatus": "missing",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/La-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
   },
   {
     "id": "le-fiabe-come-strumento-di-relazione-e-di-prevenzione-2026",
@@ -11550,6 +11605,42 @@
     "assetVerified": "2026-10-27"
   },
   {
+    "id": "flyover-country-2026",
+    "name": {
+      "de": "Flyover Country",
+      "en": "Flyover Country",
+      "it": "Flyover Country"
+    },
+    "startDate": "2026-11-26",
+    "endDate": "2026-11-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La drammaturgia si ispira a una serie di storie vere provenienti dall’America profonda: terre della Cintura della Ruggine, territori isolati, depressi, di frontiera. Aree soprannominate – dagli abitanti delle ricche e movimentate metropoli atlantiche e californiane flyover country: quel pezzo del Paese da sorvolare."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Flyover-Country",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Flyover-Country"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Flyover-Country"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "goya-quartet-2026",
     "name": {
       "de": "Goya Quartet",
@@ -12800,6 +12891,42 @@
     }
   },
   {
+    "id": "nino-2026",
+    "name": {
+      "de": "Nino",
+      "en": "Nino",
+      "it": "Nino"
+    },
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Nino è un ventinovenne parigino dall'esistenza sregolata che riceve una diagnosi medica inaspettata. Avendo solo tre giorni a disposizione prima di iniziare una terapia intensiva, il ragazzo cerca di rimettere insieme i pezzi della sua vita, affrontando affetti, paure e relazioni sospese con un mix di dramma e leggerezza."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Nino",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Nino"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Nino"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "i-natali-dell-alta-vallagarina-2026",
     "name": {
       "de": "I Natali dell’Alta Vallagarina",
@@ -12943,6 +13070,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/5-dicembre-Giornata-internazionale-del-volontariato"
     }
+  },
+  {
+    "id": "a-chi-tocca-mia-moglie-2026",
+    "name": {
+      "de": "A chi tocca mia moglie",
+      "en": "A chi tocca mia moglie",
+      "it": "A chi tocca mia moglie"
+    },
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Ci troviamo a Parigi, fine ‘800. Clarisse accetta di sposare un uomo di cui non è innamorata imponendo una condizione: se dovesse incontrare l’uomo della sua vita, divorzierà immediatamente per stare con il nuovo amore."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/A-chi-tocca-mia-moglie",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/A-chi-tocca-mia-moglie"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/A-chi-tocca-mia-moglie"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
   },
   {
     "id": "alla-scoperta-di-trento-2026-15",
@@ -13288,6 +13451,42 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "la-mia-famigli-a-tapei-2026",
+    "name": {
+      "de": "La mia famigli a Tapei",
+      "en": "La mia famigli a Tapei",
+      "it": "La mia famigli a Tapei"
+    },
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-09",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Una madre single si trasferisce a Tapei insieme alle due figlie per aprire una piccola mensa in un vivace mercato notturno. Tra le difficoltà economiche della metropoli e antiche superstizioni familiari, le tre donne dovranno fare perno sul loro legame profondo per trovare il proprio posto nel mondo."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-mia-famigli-a-Tapei",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-mia-famigli-a-Tapei"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/La-mia-famigli-a-Tapei"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "lo-schiaccianoci-mm-contemporary-dance-company-2026",
     "name": {
       "de": "Lo Schiaccianoci - MM Contemporary Dance Company",
@@ -13613,6 +13812,42 @@
     }
   },
   {
+    "id": "atomic-tales-2026",
+    "name": {
+      "de": "Atomic Tales",
+      "en": "Atomic Tales",
+      "it": "Atomic Tales"
+    },
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il 26 aprile 1986 esplode il reattore della centrale nucleare di Cernobyl: un evento che ha segnato le coscienze e che Aleksievich rievoca attraverso testimonianze e monologhi, tra i quali quello di Ljudmila Ignatenko, moglie di un vigile del fuoco. La ricostruzione non è quella degli avvenimenti, ma dei sentimenti."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Atomic-Tales",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Atomic-Tales"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Atomic-Tales"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "coderdojo-crea-il-tuo-videogioco-2026-3",
     "name": {
       "de": "Coderdojo - Crea il tuo videogioco!",
@@ -13911,6 +14146,42 @@
     "assetVerified": "2026-11-05"
   },
   {
+    "id": "concerto-del-coro-femminile-la-sorgente-2026",
+    "name": {
+      "de": "Concerto del coro femminile La Sorgente",
+      "en": "Concerto del coro femminile La Sorgente",
+      "it": "Concerto del coro femminile La Sorgente"
+    },
+    "startDate": "2026-12-13",
+    "endDate": "2026-12-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il concerto è organizzato in occasione del 20° anniversario dell'Associazione Lucilla May e proporrà un repertorio che spazia dal canto gregoriano alla musica contemporanea. Con la partecipazione del Coro La Sorgente diretto da Erika Eccli, con Barbara Bertoldi al violoncello ed Eddy Serafini all'arciliuto."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Concerto-del-coro-femminile-La-Sorgente",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Concerto-del-coro-femminile-La-Sorgente"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Concerto-del-coro-femminile-La-Sorgente"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "strozegada-de-santa-luzia-il-bondone-dei-bambini-2026",
     "name": {
       "de": "Strozegada de Santa Luzia: il Bondone dei bambini",
@@ -14019,6 +14290,42 @@
     }
   },
   {
+    "id": "economia-e-una-parola-femminile-2026",
+    "name": {
+      "de": "Economia è una parola femminile",
+      "en": "Economia è una parola femminile",
+      "it": "Economia è una parola femminile"
+    },
+    "startDate": "2026-12-15",
+    "endDate": "2026-12-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "“Economia è una parola femminile”, un incontro dedicato al tema della consapevolezza economica femminile, organizzato da BTS Banca Trentino-Südtirol in collaborazione con il Gruppo Cassa Centrale, FEduF e il Centro Antiviolenza di Trento. L’incontro sarà un’occasione di dialogo e confronto su alcuni temi fondamentali:"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Economia-e-una-parola-femminile",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Economia-e-una-parola-femminile"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Economia-e-una-parola-femminile"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-5",
     "name": {
       "de": "Fili di storie - un ciclo di incontri per incontrarsi e condividere",
@@ -14089,6 +14396,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Gli-ultimi-orsi-polari"
     }
+  },
+  {
+    "id": "incendi-di-wajdi-mouawad-2026",
+    "name": {
+      "de": "Incendi di Wajdi Mouawad",
+      "en": "Incendi di Wajdi Mouawad",
+      "it": "Incendi di Wajdi Mouawad"
+    },
+    "startDate": "2026-12-16",
+    "endDate": "2026-12-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Una madre, un figlio perduto, una figlia in cerca di verità. In Incendi di Wajdi Mouawad, la regia di Marco Lorenzi racconta una storia familiare intensa, tra memoria, identità e segreti da svelare."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Incendi-di-Wajdi-Mouawad",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Incendi-di-Wajdi-Mouawad"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Incendi-di-Wajdi-Mouawad"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-16",
@@ -14197,6 +14540,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale63"
     }
+  },
+  {
+    "id": "se-ti-sposo-mi-rovino-2026",
+    "name": {
+      "de": "Se ti sposo mi rovino",
+      "en": "Se ti sposo mi rovino",
+      "it": "Se ti sposo mi rovino"
+    },
+    "startDate": "2026-12-18",
+    "endDate": "2026-12-18",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Wine & Gastronomy",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Cosa succede a un miliardario scapolo con “il vizio delle donne” se chiede a tutte di sposarlo? E se tutte piombano a casa sua con l’intento di organizzare le nozze, ma nessuna sa dell’esistenza dell’altra?"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Se-ti-sposo-mi-rovino",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Se-ti-sposo-mi-rovino"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Se-ti-sposo-mi-rovino"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
   },
   {
     "id": "suoni-dal-doss-trento-2026",
@@ -14846,6 +15225,42 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "fill-e-foll-raccontano-cappuccetto-rosso-2026",
+    "name": {
+      "de": "Fill e Foll raccontano cappuccetto rosso",
+      "en": "Fill e Foll raccontano cappuccetto rosso",
+      "it": "Fill e Foll raccontano cappuccetto rosso"
+    },
+    "startDate": "2026-12-22",
+    "endDate": "2026-12-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Tornano Fill e Foll per raccontarci le loro storie. O almeno per provarci."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Fill-e-Foll-raccontano-cappuccetto-rosso",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Fill-e-Foll-raccontano-cappuccetto-rosso"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Fill-e-Foll-raccontano-cappuccetto-rosso"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "aerovita-2026",
     "name": {
       "de": "Aerovita",
@@ -15136,6 +15551,42 @@
     "image": "https://www.gardatrentino.it/website_images/events/2026_events_Nadal_a_Dro_1.jpeg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/nadal-a-dro_50620",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "rendez-vous-la-compagnie-du-hanneton-2026",
+    "name": {
+      "de": "RENDEZ-VOUS - La Compagnie du Hanneton",
+      "en": "RENDEZ-VOUS - La Compagnie du Hanneton",
+      "it": "RENDEZ-VOUS - La Compagnie du Hanneton"
+    },
+    "startDate": "2026-12-24",
+    "endDate": "2026-12-24",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Quattro artisti, una storia condivisa e decenni di meraviglia: con Rendez-vous, Victoria Thierrée-Chaplin, Jean-Baptiste Thierrée, Aurélia e James Thierrée si ritrovano in scena tra circo, teatro, music-hall e musica, dando vita a un viaggio poetico nella memoria artistica e familiare."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/RENDEZ-VOUS-La-Compagnie-du-Hanneton",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/RENDEZ-VOUS-La-Compagnie-du-Hanneton"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/RENDEZ-VOUS-La-Compagnie-du-Hanneton"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
   },
   {
     "id": "alla-scoperta-di-trento-2026-18",
@@ -15467,6 +15918,42 @@
     "image": "https://www.gardatrentino.it/website_images/events/presepe_lundo.jpeg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/shalom-pace-nativity-scene-in-lundo-village_12326",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "confronti-concerto-di-capodanno-2026",
+    "name": {
+      "de": "Confronti - Concerto di Capodanno",
+      "en": "Confronti - Concerto di Capodanno",
+      "it": "Confronti - Concerto di Capodanno"
+    },
+    "startDate": "2026-12-30",
+    "endDate": "2026-12-30",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Dal 2017, il 30 dicembre al Teatro di Villazzano è diventato sinonimo del Concerto di Capodanno “Confronti” con l’Orchestra Aurona: un appuntamento ormai imperdibile. Negli anni questo concerto sinfonico si è trasformato in un affascinante viaggio musicale, capace di sorprendere e coinvolgere grazie a repertori inusuali e inattesi, fino a culminare nella magica atmosfera della Vienna ottocentesca, fu il cuore pulsante della musica occidentale."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Confronti-Concerto-di-Capodanno",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Confronti-Concerto-di-Capodanno"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Confronti-Concerto-di-Capodanno"
+    },
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-18",
@@ -16530,8 +17017,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-11-05",
-    "assetVerified": "2026-11-05",
+    "descriptionVerified": "2026-11-06",
+    "assetVerified": "2026-11-06",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
@@ -18000,6 +18487,49 @@
     "assetVerified": "2026-11-05"
   },
   {
+    "id": "notte-di-fiaba-don-chisciotte-2027-2",
+    "name": {
+      "de": "Notte di Fiaba - Don Chisciotte",
+      "en": "Notte di Fiaba - Don Chisciotte",
+      "it": "Notte di Fiaba - Don Chisciotte"
+    },
+    "startDate": "2027-08-30",
+    "endDate": "2027-10-10",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Fairytale journeys, workshops and games, music, shows, markets and much more!. Find out all about Notte di Fiaba - Don Chisciotte and other events in Riva del Garda!",
+      "it": "Viaggi nella fiaba, laboratori e giochi, musica, spettacoli, mercatini e tanto altro!. Scopri tutto su Notte di Fiaba - Don Chisciotte e altri eventi a Riva del Garda!",
+      "de": "Reisen ins Märchen, Workshops und Spiele, Musik, Shows, Märkte und vieles mehr!. Erfahre alles über Notte di Fiaba - Don Chisciotte und andere Veranstaltungen in Riva del Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/notte-di-fiaba-don-chisciotte_78851",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/notte-di-fiaba-don-chisciotte_78851",
+      "https://www.gardatrentino.it/en/discover/events?page=6"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/notte-di-fiaba-don-chisciotte_78851",
+      "it": "https://www.gardatrentino.it/it/eventi/notte-di-fiaba-don-chisciotte_78851",
+      "de": "https://www.gardatrentino.it/de/event/notte-di-fiaba-don-chisciotte_78851"
+    },
+    "descriptionVerified": "2026-11-06",
+    "image": "https://www.gardatrentino.it/website_images/events/Don%20Chisciotte%20e%20Sancho%20tra%20i%20mulini.png",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/notte-di-fiaba-don-chisciotte_78851",
+    "assetVerified": "2026-11-06"
+  },
+  {
     "id": "fb-festival-settenovecento-11a-edizione-rovereto-2027",
     "name": {
       "de": "festival Settenovecento — 11ª edizione (Rovereto)",
@@ -18032,5 +18562,48 @@
     "verified": "2026-10-12",
     "discoveredVia": "facebook_backfill",
     "confidence": "official-corroborated"
+  },
+  {
+    "id": "rock-master-2027",
+    "name": {
+      "de": "Rock Master 2027",
+      "en": "Rock Master 2027",
+      "it": "Rock Master 2027"
+    },
+    "startDate": "2027-10-10",
+    "endDate": "2027-10-10",
+    "startTime": "10:00",
+    "municipality": "Arco",
+    "area": "Alto Garda",
+    "venue": "Arco",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "The Most Iconic Climbing Event. Find out all about Rock Master 2027 and other events in Arco!",
+      "it": "l'evento di arrampicata più iconico. Scopri tutto su Rock Master 2027 e altri eventi a Arco!",
+      "de": "Wo die Geschichte des Kletterns geschrieben wird. Erfahre alles über Rock Master 2027 und andere Veranstaltungen in Arco!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/rock-master-2027_8807",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-06",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/rock-master-2027_8807",
+      "https://www.gardatrentino.it/en/discover/events?page=6"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/rock-master-2027_8807",
+      "it": "https://www.gardatrentino.it/it/eventi/rock-master-2027_8807",
+      "de": "https://www.gardatrentino.it/de/event/rock-master-2027_8807"
+    },
+    "descriptionVerified": "2026-11-06",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_RockMaster_1.jpg",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/rock-master-2027_8807",
+    "assetVerified": "2026-11-06"
   }
 ]

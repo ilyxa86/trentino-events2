@@ -1,13 +1,13 @@
 {
   "protocolVersion": 5,
-  "lastRun": "2026-11-05T10:53:57Z",
+  "lastRun": "2026-11-06T10:54:08Z",
   "overallStatus": "PARTIAL",
   "sources": {
     "visittrentino_all_events": {
       "priority": "P0",
-      "lastScan": "2026-11-05T10:46:22Z",
+      "lastScan": "2026-11-06T10:46:44Z",
       "status": "PARTIAL",
-      "reportedTotal": 517,
+      "reportedTotal": 548,
       "recordsSeen": 890,
       "uniqueCandidates": 906,
       "pagesOrBucketsScanned": [
@@ -17,12 +17,12 @@
       "errors": [],
       "notes": [
         "sitemaps=160, matchingEventUrls=890",
-        "Live index reports 517; sitemap exposes 890 event URLs. AI/date filtering must reconcile the live 12-month set."
+        "Live index reports 548; sitemap exposes 890 event URLs. AI/date filtering must reconcile the live 12-month set."
       ]
     },
     "visitrovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-11-05T10:46:58Z",
+      "lastScan": "2026-11-06T10:47:36Z",
       "status": "COMPLETE",
       "reportedTotal": null,
       "recordsSeen": 81,
@@ -44,7 +44,7 @@
     },
     "visitrovereto_estate": {
       "priority": "P0",
-      "lastScan": "2026-11-05T10:47:19Z",
+      "lastScan": "2026-11-06T10:47:57Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 5,
@@ -67,9 +67,9 @@
     },
     "comune_rovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-11-05T10:47:23Z",
+      "lastScan": "2026-11-06T10:48:00Z",
       "status": "PARTIAL",
-      "reportedTotal": 635,
+      "reportedTotal": 637,
       "recordsSeen": 0,
       "uniqueCandidates": 0,
       "pagesOrBucketsScanned": [
@@ -102,20 +102,20 @@
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/520?Order=desc",
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/540?Order=desc",
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/560?Order=desc",
-        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/580?Order=desc"
+        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/580?Order=desc",
+        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/600?Order=desc",
+        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/620?Order=desc"
       ],
       "attachmentsScanned": [],
-      "errors": [
-        "offset 600: HTTPSConnectionPool(host='eventi.comune.rovereto.tn.it', port=443): Read timed out. (read timeout=35)"
-      ],
+      "errors": [],
       "notes": [
         "sitemaps=2, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=635 uniqueEventUrls=0 searchPages=30/32"
+        "OpenAgenda reconciliation: reported=637 uniqueEventUrls=0 searchPages=32/32"
       ]
     },
     "trentino_cultura_appuntamenti": {
       "priority": "P0",
-      "lastScan": "2026-11-05T10:48:24Z",
+      "lastScan": "2026-11-06T10:48:27Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -134,7 +134,7 @@
     },
     "trentino_cultura_rassegne": {
       "priority": "P0",
-      "lastScan": "2026-11-05T10:48:26Z",
+      "lastScan": "2026-11-06T10:48:29Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 616,
@@ -338,11 +338,11 @@
     },
     "garda_trentino_events": {
       "priority": "P0",
-      "lastScan": "2026-11-05T10:51:14Z",
+      "lastScan": "2026-11-06T10:51:09Z",
       "status": "COMPLETE",
-      "reportedTotal": 47,
-      "recordsSeen": 47,
-      "uniqueCandidates": 47,
+      "reportedTotal": 48,
+      "recordsSeen": 48,
+      "uniqueCandidates": 48,
       "pagesOrBucketsScanned": [
         "https://www.gardatrentino.it/en/discover/events",
         "https://www.gardatrentino.it/en/discover/events?page=2",
@@ -357,11 +357,11 @@
     },
     "comune_trento_events": {
       "priority": "P0",
-      "lastScan": "2026-11-05T10:51:20Z",
+      "lastScan": "2026-11-06T10:51:15Z",
       "status": "PARTIAL",
-      "reportedTotal": 3397,
-      "recordsSeen": 2025,
-      "uniqueCandidates": 2025,
+      "reportedTotal": 3420,
+      "recordsSeen": 3064,
+      "uniqueCandidates": 3064,
       "pagesOrBucketsScanned": [
         "https://eventi.comune.trento.it/content/search/?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/20?Order=desc",
@@ -472,20 +472,79 @@
         "https://eventi.comune.trento.it/content/search/%28offset%29/2120?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/2140?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/2160?Order=desc",
-        "https://eventi.comune.trento.it/content/search/%28offset%29/2180?Order=desc"
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2180?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2200?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2220?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2240?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2260?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2280?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2300?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2320?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2340?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2360?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2380?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2400?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2420?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2440?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2460?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2480?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2500?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2520?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2540?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2560?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2580?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2600?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2620?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2640?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2660?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2680?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2700?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2720?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2740?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2760?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2780?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2800?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2820?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2840?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2860?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2880?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2900?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2920?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2940?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2960?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/2980?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3000?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3020?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3040?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3060?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3080?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3100?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3120?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3140?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3160?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3180?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3200?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3220?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3240?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3260?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3280?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3300?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3320?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3340?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3360?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3380?Order=desc",
+        "https://eventi.comune.trento.it/content/search/%28offset%29/3400?Order=desc"
       ],
       "attachmentsScanned": [],
-      "errors": [
-        "offset 2200: HTTPSConnectionPool(host='eventi.comune.trento.it', port=443): Read timed out. (read timeout=35)"
-      ],
+      "errors": [],
       "notes": [
         "sitemaps=3, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=3397 uniqueEventUrls=2025 searchPages=110/170"
+        "OpenAgenda reconciliation: reported=3420 uniqueEventUrls=3064 searchPages=171/171"
       ]
     },
     "visitfiemme_events": {
       "priority": "P1",
-      "lastScan": "2026-11-05T10:53:47Z",
+      "lastScan": "2026-11-06T10:53:55Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -501,7 +560,7 @@
     },
     "valsugana_events": {
       "priority": "P1",
-      "lastScan": "2026-11-05T10:53:48Z",
+      "lastScan": "2026-11-06T10:53:57Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -517,7 +576,7 @@
     },
     "val_di_non_events": {
       "priority": "P1",
-      "lastScan": "2026-11-05T10:53:50Z",
+      "lastScan": "2026-11-06T10:54:00Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 7,
@@ -533,7 +592,7 @@
     },
     "campiglio_rendena_events": {
       "priority": "P1",
-      "lastScan": "2026-11-05T10:53:53Z",
+      "lastScan": "2026-11-06T10:54:03Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -549,7 +608,7 @@
     },
     "alpe_cimbra_events": {
       "priority": "P1",
-      "lastScan": "2026-11-05T10:53:55Z",
+      "lastScan": "2026-11-06T10:54:06Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 6,
@@ -565,7 +624,7 @@
     }
   },
   "coverageWindow": {
-    "from": "2026-11-05",
+    "from": "2026-11-06",
     "semantics": "rolling-12-month-overlap; raw enumerator may include out-of-window rows for AI resolution"
   },
   "p0Status": {
@@ -579,7 +638,7 @@
     "comune_trento_events": "PARTIAL"
   },
   "summary": {
-    "rawCandidates": 3804
+    "rawCandidates": 4844
   },
   "note": "Deterministic enumeration feeds the AI maintenance pass. PARTIAL means the system must not claim complete coverage."
 }
