@@ -842,38 +842,6 @@
     ]
   },
   {
-    "id": "baricentri-identita-urbane-dei-quartieri-2-giugno-e-degasperi-2026-6",
-    "name": {
-      "de": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
-      "en": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi",
-      "it": "Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi"
-    },
-    "startDate": "2026-09-20",
-    "endDate": "2026-10-25",
-    "startTime": "10:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Baricentri. Identità urbane dei quartieri 2 Giugno e Degasperi” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-18",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
-  },
-  {
     "id": "valledeilaghi-book-festival-2026-2",
     "name": {
       "de": "Valledeilaghi Book Festival",
@@ -893,38 +861,6 @@
       "de": "Veranstaltung „Valledeilaghi Book Festival“ in Vezzano. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
       "en": "“Valledeilaghi Book Festival” event in Vezzano. See the official event page for the latest details.",
       "it": "Evento “Valledeilaghi Book Festival” a Vezzano. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-14",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
-  },
-  {
-    "id": "european-mobility-week-2026-3",
-    "name": {
-      "de": "European Mobility Week",
-      "en": "European Mobility Week",
-      "it": "European Mobility Week"
-    },
-    "startDate": "2026-09-22",
-    "endDate": "2026-10-25",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „European Mobility Week“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“European Mobility Week” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “European Mobility Week” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
     },
     "organizer": null,
     "price": "See official page",
@@ -1134,38 +1070,6 @@
     "officialUrl": "https://www.gardatrentino.it/en/discover/events",
     "source": "Garda Trentino - events",
     "verified": "2026-09-14",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
-    ]
-  },
-  {
-    "id": "dalla-svizzera-all-austria-fino-ad-arco-2026-6",
-    "name": {
-      "de": "Dalla Svizzera, all'Austria, fino ad Arco",
-      "en": "Dalla Svizzera, all'Austria, fino ad Arco",
-      "it": "Dalla Svizzera, all'Austria, fino ad Arco"
-    },
-    "startDate": "2026-09-26",
-    "endDate": "2026-10-25",
-    "startTime": "19:00",
-    "municipality": "Arco",
-    "area": "Alto Garda",
-    "venue": "Arco",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Dalla Svizzera, all'Austria, fino ad Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Dalla Svizzera, all'Austria, fino ad Arco” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “Dalla Svizzera, all'Austria, fino ad Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-17",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
@@ -1505,38 +1409,6 @@
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "rs-feva-european-championships-2026-2",
-    "name": {
-      "de": "RS Feva European Championships",
-      "en": "RS Feva European Championships",
-      "it": "RS Feva European Championships"
-    },
-    "startDate": "2026-10-03",
-    "endDate": "2026-10-25",
-    "startTime": "09:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „RS Feva European Championships“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“RS Feva European Championships” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “RS Feva European Championships” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-28",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
-    ]
   },
   {
     "id": "rs-feva-european-championships-2026-3",
@@ -2216,6 +2088,43 @@
     "assetVerified": "2026-10-05"
   },
   {
+    "id": "alcide-de-gasperi-l-estate-delle-scelte-2026",
+    "name": {
+      "de": "Alcide De Gasperi - l'estate delle scelte",
+      "en": "Alcide De Gasperi - l'estate delle scelte",
+      "it": "Alcide De Gasperi - l'estate delle scelte"
+    },
+    "startDate": "2026-10-15",
+    "endDate": "2026-11-07",
+    "startTime": null,
+    "municipality": "Levico Terme",
+    "area": "Other Trentino",
+    "venue": "Levico Terme",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Dal 15 ottobre al 7 novembre Palazzo delle Terme di Levico Dal lunedì al sabato"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alcide-de-gasperi-l-estate-delle-scelte_e_134876867",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/alcide-de-gasperi---l-27estate-delle-scelte_134876867/7877129/image-thumb__7877129__moodboard_list/alcide-de-gasperi---l-27estate-delle-scelte_134876867_1.7128c2d7.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alcide-de-gasperi-l-estate-delle-scelte_e_134876867"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/alcide-de-gasperi-l-estate-delle-scelte_e_134876867"
+    },
+    "descriptionVerified": "2026-11-07",
+    "assetVerified": "2026-11-07"
+  },
+  {
     "id": "altri-quadri-2026",
     "name": {
       "de": "Altri Quadri 2026/2027",
@@ -2579,6 +2488,43 @@
     "descriptionStatus": "complete",
     "descriptionVerified": "2026-10-15",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "eventi-di-halloween-in-vallagarina-2026-2",
+    "name": {
+      "de": "Eventi di Halloween in Vallagarina",
+      "en": "Eventi di Halloween in Vallagarina",
+      "it": "Eventi di Halloween in Vallagarina"
+    },
+    "startDate": "2026-10-24",
+    "endDate": "2026-11-07",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Dolcetto o scherzetto? . Cosa fare in Trentino - Eventi Trentino"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/eventi-di-halloween-in-vallagarina_e_56857974",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/www-visitrovereto-it/-eventi-di-halloween-in-vallagarina-_56857974/7876979/image-thumb__7876979__moodboard_list/-eventi-di-halloween-in-vallagarina-_56857974_1.eb65bbe1.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/eventi-di-halloween-in-vallagarina_e_56857974"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/eventi-di-halloween-in-vallagarina_e_56857974"
+    },
+    "descriptionVerified": "2026-11-07",
+    "assetVerified": "2026-11-07"
   },
   {
     "id": "palcoscenico-trentino-2026",
@@ -6425,6 +6371,43 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "il-sole-nelle-pozzanghere-matteo-bussola-2026",
+    "name": {
+      "de": "Il sole nelle pozzanghere - Matteo Bussola",
+      "en": "Il sole nelle pozzanghere - Matteo Bussola",
+      "it": "Il sole nelle pozzanghere - Matteo Bussola"
+    },
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "startTime": "18:00",
+    "municipality": "Levico Terme",
+    "area": "Other Trentino",
+    "venue": "Levico Terme",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "sabato 7 novembre ore 18:00 Palazzo delle Terme di Levico"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-sole-nelle-pozzanghere-matteo-bussola_e_136900899",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/il-sole-nelle-pozzanghere---matteo-bussola_136900899/7877807/image-thumb__7877807__moodboard_list/il-sole-nelle-pozzanghere---matteo-bussola_136900899_1.67317062.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-sole-nelle-pozzanghere-matteo-bussola_e_136900899"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/il-sole-nelle-pozzanghere-matteo-bussola_e_136900899"
+    },
+    "descriptionVerified": "2026-11-07",
+    "assetVerified": "2026-11-07"
+  },
+  {
     "id": "l-importanza-de-ciamarse-onesto-2026",
     "name": {
       "de": "L'importanza de ciamarse Onesto",
@@ -6907,6 +6890,35 @@
     "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Frantoi_aperti.png",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/frantoi-aperti_11319",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "frantoi-aperti-2026-3",
+    "name": {
+      "de": "Frantoi Aperti",
+      "en": "Frantoi Aperti",
+      "it": "Frantoi Aperti"
+    },
+    "startDate": "2026-11-08",
+    "endDate": "2026-12-21",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {},
+    "descriptionStatus": "missing",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.gardatrentino.it/en/discover/events"
+    ]
   },
   {
     "id": "garda-trentino-half-marathon-2026",
@@ -10346,8 +10358,8 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/La-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata"
     },
-    "descriptionVerified": "2026-11-06",
-    "assetVerified": "2026-11-06"
+    "descriptionVerified": "2026-11-07",
+    "assetVerified": "2026-11-07"
   },
   {
     "id": "le-fiabe-come-strumento-di-relazione-e-di-prevenzione-2026",
@@ -16988,6 +17000,49 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "the-befana-subaquea-is-coming-2027",
+    "name": {
+      "de": "The \"Befana Subaquea\" is coming",
+      "en": "The \"Befana Subaquea\" is coming",
+      "it": "The \"Befana Subaquea\" is coming"
+    },
+    "startDate": "2027-01-19",
+    "endDate": "2027-01-19",
+    "startTime": "10:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Trade Fair",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Entertainment, music, food, waiting for the Befana arriving from the lake!. Find out all about The \"Befana Subaquea\" is coming and other events in Riva del Garda!",
+      "it": "Intrattenimento, musica, gastronomia e tanto altro, in attesa dell'arrivo della simpatica vecchina direttamente dal lago. Scopri tutto su Arriva la Befana Subacquea e altri eventi a Riva del Garda!",
+      "de": "Spielen, Musik, Essen und Unterhaltung. Am Nachmittag die Befana kommt vom See!."
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/the-befana-subaquea-is-coming_49565",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/the-befana-subaquea-is-coming_49565",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/the-befana-subaquea-is-coming_49565",
+      "it": "https://www.gardatrentino.it/it/eventi/arriva-la-befana-subacquea_49565",
+      "de": "https://www.gardatrentino.it/de/event/befana-subaqua-die-hexe-kommt_49565"
+    },
+    "descriptionVerified": "2026-11-07",
+    "image": "https://www.gardatrentino.it/website_images/events/Befana%20subacquea%20a%20Riva%20del%20Garda.png",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/the-befana-subaquea-is-coming_49565",
+    "assetVerified": "2026-11-07"
+  },
+  {
     "id": "hansel-e-gretel-infanzia-in-guerra-2027",
     "name": {
       "de": "Hansel e Gretel. Infanzia in guerra",
@@ -17017,8 +17072,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-11-06",
-    "assetVerified": "2026-11-06",
+    "descriptionVerified": "2026-11-07",
+    "assetVerified": "2026-11-07",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
@@ -17113,9 +17168,10 @@
     "confirmed": true,
     "description": {
       "it": "In un perfetto clima invernale, due appuntamenti da non perdere con \"Buona la prima!\", l'imperdibile appuntamento culinario al Teatro Zandonai Nel ridotto della meravigliosa location del Teatro, andranno in scena le gustose ricette del territorio curate dagli studenti dell'Istituto Alberghiero di Rovereto, chef e maître di sala per una sera. Un'ottima occasione per godersi delle prelibatezze dal perfetto sapore lagarino, immersi in un'atmosfera elegante, calda e accogliente.",
-      "en": "In the perfect winter setting, two unmissable events await you with \"Buona la prima!\", the must-attend culinary experience at Teatro Zandonai. In the elegant foyer of this wonderful venue, local culinary specialities will take centre stage, prepared by students from the Rovereto Hotel and Catering Institute, who will take on the roles of chefs and dining-room staff for the evening."
+      "en": "In the perfect winter setting, two unmissable events await you with \"Buona la prima!\", the must-attend culinary experience at Teatro Zandonai. In the elegant foyer of this wonderful venue, local culinary specialities will take centre stage, prepared by students from the Rovereto Hotel and Catering Institute, who will take on the roles of chefs and dining-room staff for the evening.",
+      "de": "In perfekter Winteratmosphäre erwarten Sie zwei Veranstaltungen, die Sie sich nicht entgehen lassen sollten – ein Erlebnis, das Kultur und Genuss miteinander verbindet. Für kulinarische Höhepunkte sorgen die Schülerinnen und Schüler des Istituto Alberghiero di Rovereto als außergewöhnliche Köche und Servicemitarbeiter ."
     },
-    "descriptionStatus": "partial",
+    "descriptionStatus": "complete",
     "organizer": null,
     "price": "See official page",
     "officialUrl": "https://www.visitrovereto.it/vivi/eventi/buona-la-prima",
@@ -17129,10 +17185,11 @@
     ],
     "descriptionSources": {
       "it": "https://www.visitrovereto.it/vivi/eventi/buona-la-prima/",
-      "en": "https://www.visitrovereto.it/en/enjoy/events/buona-la-prima/"
+      "en": "https://www.visitrovereto.it/en/enjoy/events/buona-la-prima/",
+      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/buona-la-prima/"
     },
-    "descriptionVerified": "2026-11-05",
-    "assetVerified": "2026-11-05"
+    "descriptionVerified": "2026-11-07",
+    "assetVerified": "2026-11-07"
   },
   {
     "id": "come-fu-che-la-iena-2027",
@@ -18355,6 +18412,49 @@
     "image": "https://www.gardatrentino.it/website_images/events/Locandine/2024_events_STAY_YOUNG.jpeg",
     "imageSourceUrl": "http://www.gardatrentino.it/en/events/stay-young-comano-wellness-weekend_74771",
     "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "stay-young-comano-wellness-weekend-2027-2",
+    "name": {
+      "de": "Stay Young Comano Wellness Weekend",
+      "en": "Stay Young Comano Wellness Weekend",
+      "it": "Stay Young Comano Wellness Weekend"
+    },
+    "startDate": "2027-05-30",
+    "endDate": "2027-05-30",
+    "startTime": null,
+    "municipality": "Stenico",
+    "area": "Other Trentino",
+    "venue": "Stenico",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Slow down, breathe, reconnect with your energy. Longevity starts here..",
+      "it": "Rallenta, Respira, Ritrova la tua energia. La longevità inizia qui..",
+      "de": "Entschleunige, atme, finde deine Energie wieder. Langlebigkeit beginnt hier.."
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/stay-young-comano-wellness-weekend_74771",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-07",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/stay-young-comano-wellness-weekend_74771",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/stay-young-comano-wellness-weekend_74771",
+      "it": "https://www.gardatrentino.it/it/eventi/stay-young-comano-wellness-weekend_74771",
+      "de": "https://www.gardatrentino.it/de/event/stay-young-comano-wellness-weekend_74771"
+    },
+    "descriptionVerified": "2026-11-07",
+    "image": "https://www.gardatrentino.it/website_images/events/Locandine/2024_events_STAY_YOUNG.jpeg",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/stay-young-comano-wellness-weekend_74771",
+    "assetVerified": "2026-11-07"
   },
   {
     "id": "top-dolomites-outdoor-festival-2027",
