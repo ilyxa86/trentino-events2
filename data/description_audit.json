@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-06",
-  "currentEvents": 396,
-  "complete": 107,
+  "checkedAt": "2026-11-07",
+  "currentEvents": 398,
+  "complete": 110,
   "incomplete": [
     {
       "id": "competition-anelli-di-congiunzione-le-gallerie-di-piedicastello-2026",
@@ -207,6 +207,13 @@
       ]
     },
     {
+      "id": "alcide-de-gasperi-l-estate-delle-scelte-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "altri-quadri-2026",
       "languages": [
         "de",
@@ -215,6 +222,13 @@
     },
     {
       "id": "eugenio-montale-temi-modelli-figure-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "eventi-di-halloween-in-vallagarina-2026-2",
       "languages": [
         "de",
         "en"
@@ -257,34 +271,6 @@
       ]
     },
     {
-      "id": "di-coniglietti-scoiattoli-e-finali-sorprendenti-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "giochiamo-let-s-play-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "l-uovo-protagonista-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "ti-presento-l-opera-scent-of-time-il-profumo-del-tempo-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "alla-scoperta-di-trento-2026-11",
       "languages": [
         "de",
@@ -293,6 +279,13 @@
     },
     {
       "id": "coderdojo-crea-il-tuo-videogioco-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "il-sole-nelle-pozzanghere-matteo-bussola-2026",
       "languages": [
         "de",
         "en"
@@ -345,6 +338,14 @@
       "languages": [
         "de",
         "en"
+      ]
+    },
+    {
+      "id": "frantoi-aperti-2026-3",
+      "languages": [
+        "de",
+        "en",
+        "it"
       ]
     },
     {
@@ -1908,12 +1909,6 @@
       "languages": [
         "de",
         "en"
-      ]
-    },
-    {
-      "id": "buona-la-prima-2027",
-      "languages": [
-        "de"
       ]
     },
     {
