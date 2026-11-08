@@ -1706,39 +1706,6 @@
     ]
   },
   {
-    "id": "dal-fucile-alla-matita-2026-6",
-    "name": {
-      "de": "Dal fucile alla matita",
-      "en": "Dal fucile alla matita",
-      "it": "Dal fucile alla matita"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-25",
-    "startTime": "10:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-12",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
-  },
-  {
     "id": "dal-fucile-alla-matita-2026-7",
     "name": {
       "de": "Dal fucile alla matita",
@@ -1836,50 +1803,6 @@
     ]
   },
   {
-    "id": "festa-del-latte-2026-2",
-    "name": {
-      "de": "Festa del Latte",
-      "en": "Festa del Latte",
-      "it": "Festa del Latte"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-25",
-    "startTime": null,
-    "municipality": "Fiave",
-    "area": "Other Trentino",
-    "venue": "Fiave",
-    "category": "Festival",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "In Cavrasto werden die alten Vòlti in Läden für die Produkte der Region umgewandelt. Erfahre alles über Festa della Noce und andere Veranstaltungen in Comano!",
-      "en": "In Cavrasto the arches of the old farmhouses are turned into little shops for local produce. Find out all about Festa della Noce and other events in Comano!",
-      "it": "Due giorni di festa per le vie del borgo, dove gli antichi vòlti vengono trasformati in botteghe per tutti i prodotti del territorio. Scopri tutto su Festa della Noce e altri eventi a Comano!"
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/it/eventi/festa-del-latte_69895",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-06",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/it/eventi/festa-del-latte_69895",
-      "https://www.gardatrentino.it/it/eventi/festa-della-noce_49041"
-    ],
-    "descriptionSources": {
-      "de": "https://www.gardatrentino.it/de/event/festa-della-noce_49041",
-      "en": "https://www.gardatrentino.it/en/events/festa-della-noce_49041",
-      "it": "https://www.gardatrentino.it/it/eventi/festa-della-noce_49041"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Festa_della_noce.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/it/eventi/festa-della-noce_49041",
-    "assetVerified": "2026-10-15"
-  },
-  {
     "id": "international-chess-tournament-citta-di-arco-2026-3",
     "name": {
       "de": "International Chess Tournament Città di Arco",
@@ -1905,38 +1828,6 @@
     "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
     "source": "Garda Trentino - events",
     "verified": "2026-10-03",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
-  },
-  {
-    "id": "international-chess-tournament-citta-di-arco-2026-4",
-    "name": {
-      "de": "International Chess Tournament Città di Arco",
-      "en": "International Chess Tournament Città di Arco",
-      "it": "International Chess Tournament Città di Arco"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-25",
-    "startTime": "15:00",
-    "municipality": "Arco",
-    "area": "Alto Garda",
-    "venue": "Arco",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „International Chess Tournament Città di Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“International Chess Tournament Città di Arco” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “International Chess Tournament Città di Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-04",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
@@ -2239,90 +2130,6 @@
     "assetVerified": "2026-10-17"
   },
   {
-    "id": "progetto-opera-2026",
-    "name": {
-      "de": "Progetto opera",
-      "en": "Progetto opera",
-      "it": "Progetto opera"
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-25",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Musik, Zusammenkünfte, Spektakel und ein außergewöhnliches Opern- und Sinfonie-Repertoire. Das Glanzstück des Programms 2026 der Associazione Euritmus ist das Festival Progetto Opera, das nun seine 14.",
-      "en": "Music, gatherings, spectacles, and an exceptional operatic, symphonic repertoire. The highlight of the 2026 program of the Associazione Euritmus is the Progetto Opera festival, now in its 14th edition.",
-      "it": "Musica, incontri, spettacoli ed il grande repertorio sinfonico ed operistico Punta di diamante della programmazione 2026 dell'Associazione Euritmus è il festival Progetto Opera, giunto alla sua XIV edizione. Quest'anno la programmazione autunnale vuole essere un omaggio al celeberrimo compositore W."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/progetto-opera",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-25",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2023/09/teatro-zandonai-foto-di-luca-matassoni-2023-4.jpg",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/progetto-opera",
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/progetto-opera_e_74337367"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/progetto-opera/",
-      "en": "https://www.visitrovereto.it/en/enjoy/events/opera-project/",
-      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/opernprojekt/"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "progetto-opera-26-le-nozze-di-figaro-2026",
-    "name": {
-      "de": "Progetto Opera 26 | Le nozze di Figaro",
-      "en": "Progetto Opera 26 | Le nozze di Figaro",
-      "it": "Progetto Opera 26 | Le nozze di Figaro"
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-25",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Culture & Dance",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Il Festival Progetto Opera Euritmus 2026 celebra la grandezza della lirica con una produzione innovativa de “Le Nozze di Figaro” di Mozart. Un festival che unisce tradizione e modernità, raccontando le vicende dei personaggi mozartiani attraverso una lente contemporanea.",
-      "de": "Im Rahmen des Festivals Progetto Opera Euritmus 2026 wird Mozarts ‚Die Hochzeit des Figaro‘ in einer modern interpretierten Inszenierung gezeigt, die traditionelle Opernelemente mit zeitgenössischer Lesart verbindet. Das Festival setzt auf kreative Neuansätze, um die Figuren und die Handlung Mozarts unter aktuellen Blickwinkeln neu zu erzählen.",
-      "en": "As part of the Progetto Opera Euritmus 2026 festival, Mozart’s The Marriage of Figaro is presented in an innovative production that merges operatic tradition with contemporary interpretation. The festival emphasizes creative reworking to retell Mozart’s characters and plot through a modern lens while honoring the work’s musical heritage."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro",
-    "source": "Trentino Cultura - Rassegne",
-    "verified": "2026-10-14",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro"
-    ],
-    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/le-nozze-di-figaro3/28179088-1-ita-IT/le-nozze-di-figaro_opengraph.png",
-    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro",
-      "de": "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro",
-      "en": "https://www.cultura.trentino.it/Rassegne/Progetto-Opera-26-Le-nozze-di-Figaro"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15"
-  },
-  {
     "id": "divin-ottobre-2026-2",
     "name": {
       "de": "DiVin Ottobre",
@@ -2569,50 +2376,6 @@
     "descriptionVerified": "2026-10-15"
   },
   {
-    "id": "100-e-anni-di-turismo-nel-garda-trentino-2026-7",
-    "name": {
-      "de": "100 e + anni di turismo nel Garda Trentino",
-      "en": "100 e + anni di turismo nel Garda Trentino",
-      "it": "100 e + anni di turismo nel Garda Trentino"
-    },
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-25",
-    "startTime": "18:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "1926 - 2026. Erfahre alles über 100 e + anni di turismo nel Garda Trentino und andere Veranstaltungen in Riva del Garda!",
-      "en": "1926 - 2026. Find out all about 100 e + anni di turismo nel Garda Trentino and other events in Riva del Garda!",
-      "it": "1926 - 2026. Scopri tutto su 100 e + anni di turismo nel Garda Trentino e altri eventi a Riva del Garda!"
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-09",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/weather/garda-trentino",
-      "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143"
-    ],
-    "image": "https://www.gardatrentino.it/website_images/Scopri/image-thumb__381__fb-thumb/2021_Panorama_CimaCapi_Watchsome_intro01.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/weather/garda-trentino",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "de": "https://www.gardatrentino.it/de/event/100-e-anni-di-turismo-nel-garda-trentino_94143",
-      "en": "https://www.gardatrentino.it/en/events/100-e-anni-di-turismo-nel-garda-trentino_94143",
-      "it": "https://www.gardatrentino.it/it/eventi/100-e-anni-di-turismo-nel-garda-trentino_94143"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15"
-  },
-  {
     "id": "4th-national-trophy-cori-d-italia-2026",
     "name": {
       "de": "4th National Trophy “Cori d’Italia”",
@@ -2699,42 +2462,6 @@
     "assetVerified": "2026-10-24"
   },
   {
-    "id": "accordion-festival-in-ledro-2026-5",
-    "name": {
-      "de": "Accordion Festival in Ledro",
-      "en": "Accordion Festival in Ledro",
-      "it": "Accordion Festival in Ledro"
-    },
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-25",
-    "startTime": "20:30",
-    "municipality": "Ledro",
-    "area": "Alto Garda",
-    "venue": "Ledro",
-    "category": "Festival",
-    "status": null,
-    "confirmed": true,
-    "description": {},
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-04",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024"
-    ],
-    "descriptionSources": {},
-    "descriptionStatus": "missing",
-    "descriptionVerified": "2026-10-15",
-    "image": "https://www.gardatrentino.it/website_images/events/2024_events_Accordion_Meeting_orchestra_vienna_2.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/events/accordion-meeting-festival-di-fisarmoniche-ed-ensemble_58024",
-    "assetVerified": "2026-10-15"
-  },
-  {
     "id": "divin-ottobre-2026-5",
     "name": {
       "de": "DiVin Ottobre",
@@ -2776,198 +2503,6 @@
     "image": "https://www.gardatrentino.it/website_images/events/2026_Events_DiVin_Ottobre_1.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
     "assetVerified": "2026-10-24"
-  },
-  {
-    "id": "e-arrivato-un-bastimento-carico-di-2026-2",
-    "name": {
-      "de": "È arrivato un bastimento carico di...",
-      "en": "È arrivato un bastimento carico di...",
-      "it": "È arrivato un bastimento carico di..."
-    },
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-25",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Cosa si nasconde nella cassa arrivata a Taddeo dalla lontana e misteriosa Terra dei Faraoni? Scopriamo insieme le storie affascinanti e le curiosità raccontate dai reperti, che ci accompagnano alla scoperta della civiltà degli antichi egizi.",
-      "de": "Die Veranstaltung nimmt Kinder mit auf eine Entdeckungsreise rund um eine geheimnisvolle Kiste aus dem Land der Pharaonen und erkundet Exponate der altägyptischen Kultur. Anhand der Funde werden faszinierende Geschichten und Kuriositäten der antiken Zivilisation vermittelt.",
-      "en": "This family event invites children to explore a mysterious chest from the land of the Pharaohs and discover artifacts tied to ancient Egyptian civilization. Through the exhibits, participants learn captivating stories and curiosities that introduce them to daily life and cultural practices of antiquity."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2",
-      "de": "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2",
-      "en": "https://eventi.comune.trento.it/Eventi/E-arrivato-un-bastimento-carico-di2"
-    }
-  },
-  {
-    "id": "festa-della-patata-del-lomaso-2026",
-    "name": {
-      "de": "Festa della Patata del Lomaso",
-      "en": "Festa della Patata del Lomaso",
-      "it": "Festa della Patata del Lomaso"
-    },
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-25",
-    "startTime": null,
-    "municipality": "Comano Terme",
-    "area": "Other Trentino",
-    "venue": "Comano Terme",
-    "category": "Festival",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Ein Traditionsprodukt, tausend Arten, es zu genießen. Erfahre alles über Festa della Patata del Lomaso und andere Veranstaltungen in Comano!",
-      "en": "One traditional product, a thousand ways to enjoy it. Find out all about Festa della Patata del Lomaso and other events in Comano!",
-      "it": "Un prodotto della tradizione, mille modi per gustarlo. Scopri tutto su Festa della Patata del Lomaso e altri eventi a Comano!"
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/events/festa-della-patata-del-lomaso_60478",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-24",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/discover/events?page=4",
-      "https://www.gardatrentino.it/en/discover/events?page=5",
-      "https://www.gardatrentino.it/en/discover/events?page=6",
-      "https://www.gardatrentino.it/en/discover/events?page=7",
-      "https://www.gardatrentino.it/en/discover/events?page=8",
-      "https://www.gardatrentino.it/en/discover/events?page=9",
-      "https://www.gardatrentino.it/en/events/festa-della-patata-del-lomaso_60478"
-    ],
-    "descriptionSources": {
-      "de": "https://www.gardatrentino.it/de/event/festa-della-patata-del-lomaso_60478",
-      "en": "https://www.gardatrentino.it/en/events/festa-della-patata-del-lomaso_60478",
-      "it": "https://www.gardatrentino.it/it/eventi/festa-della-patata-del-lomaso_60478"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Festa_della_patata.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/events/festa-della-patata-del-lomaso_60478",
-    "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "foliage-al-lago-di-cei-2026-2",
-    "name": {
-      "de": "Foliage al Lago di Cei",
-      "en": "Foliage al Lago di Cei",
-      "it": "Foliage al Lago di Cei"
-    },
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-25",
-    "startTime": null,
-    "municipality": "Villa Lagarina",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Villa Lagarina",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Domenica 18 ottobre 2026 torna l'imperdibile appuntamento con il Foliage al Lago di Cei. Vieni a vivere un'esperienza unica immersa nei colori caldi della natura , con una passeggiata tra i paesaggi dell'area protetta Pra dell’Albi - Cei e i sapori autentici del nostro territorio."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-19",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2023/10/Foliage-al-Lago-di-Cei-Tommaso-Prugnola.jpg",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/foliage-villa-lagarina/"
-    },
-    "descriptionVerified": "2026-10-19",
-    "assetVerified": "2026-10-19"
-  },
-  {
-    "id": "garbage-ride-walk-2026",
-    "name": {
-      "de": "Garbage Ride & Walk",
-      "en": "Garbage Ride & Walk",
-      "it": "Garbage Ride & Walk"
-    },
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-25",
-    "startTime": "14:00",
-    "municipality": "Arco",
-    "area": "Alto Garda",
-    "venue": "Arco",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Garbage Ride & Walk“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Garbage Ride & Walk” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “Garbage Ride & Walk” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-05",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
-  },
-  {
-    "id": "gruppo-cassa-centrale-trentino-business-run-2026-2",
-    "name": {
-      "de": "Gruppo Cassa Centrale - Trentino Business Run",
-      "en": "Gruppo Cassa Centrale - Trentino Business Run",
-      "it": "Gruppo Cassa Centrale - Trentino Business Run"
-    },
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-25",
-    "startTime": "15:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Business & Networking",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Gruppo Cassa Centrale - Trentino Business Run“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Gruppo Cassa Centrale - Trentino Business Run” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Gruppo Cassa Centrale - Trentino Business Run” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-06",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
-    ]
   },
   {
     "id": "maroni-in-festa-2026",
@@ -10358,8 +9893,8 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/La-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata"
     },
-    "descriptionVerified": "2026-11-07",
-    "assetVerified": "2026-11-07"
+    "descriptionVerified": "2026-11-08",
+    "assetVerified": "2026-11-08"
   },
   {
     "id": "le-fiabe-come-strumento-di-relazione-e-di-prevenzione-2026",
@@ -17072,8 +16607,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-11-07",
-    "assetVerified": "2026-11-07",
+    "descriptionVerified": "2026-11-08",
+    "assetVerified": "2026-11-08",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
@@ -17262,6 +16797,92 @@
     },
     "descriptionVerified": "2026-11-05",
     "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "festa-del-broccolo-2027",
+    "name": {
+      "de": "Festa del Broccolo",
+      "en": "Festa del Broccolo",
+      "it": "Festa del Broccolo"
+    },
+    "startDate": "2027-01-31",
+    "endDate": "2027-01-31",
+    "startTime": "11:30",
+    "municipality": "Torbole",
+    "area": "Alto Garda",
+    "venue": "Torbole",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "The “son of the wind” on your plate… and beyond. Find out all about Festa del Broccolo and other events in Torbole sul Garda!",
+      "it": "Il figlio del vento in tavola… e non solo. Scopri tutto su Festa del Broccolo e altri eventi a Torbole sul Garda!",
+      "de": "Der Sohn des Windes auf dem Teller … und nicht nur dort. Erfahre alles über Festa del Broccolo und andere Veranstaltungen in Torbole sul Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+      "it": "https://www.gardatrentino.it/it/eventi/festa-del-broccolo-_50328",
+      "de": "https://www.gardatrentino.it/de/event/festa-del-broccolo-_50328"
+    },
+    "descriptionVerified": "2026-11-08",
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Prodotti_tipici/GARDATRENTINO_2023_PRUGNOLA_GUSTO_Broccolo_Torbole_food_Prodotti_Tipici.JPG",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+    "assetVerified": "2026-11-08"
+  },
+  {
+    "id": "festa-del-sol-2027",
+    "name": {
+      "de": "Festa del Sol",
+      "en": "Festa del Sol",
+      "it": "Festa del Sol"
+    },
+    "startDate": "2027-01-31",
+    "endDate": "2027-02-03",
+    "startTime": null,
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "The “son of the wind” on your plate… and beyond. Find out all about Festa del Broccolo and other events in Torbole sul Garda!",
+      "it": "Il figlio del vento in tavola… e non solo. Scopri tutto su Festa del Broccolo e altri eventi a Torbole sul Garda!",
+      "de": "Der Sohn des Windes auf dem Teller … und nicht nur dort. Erfahre alles über Festa del Broccolo und andere Veranstaltungen in Torbole sul Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-08",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+      "it": "https://www.gardatrentino.it/it/eventi/festa-del-broccolo-_50328",
+      "de": "https://www.gardatrentino.it/de/event/festa-del-broccolo-_50328"
+    },
+    "descriptionVerified": "2026-11-08",
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Prodotti_tipici/GARDATRENTINO_2023_PRUGNOLA_GUSTO_Broccolo_Torbole_food_Prodotti_Tipici.JPG",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+    "assetVerified": "2026-11-08"
   },
   {
     "id": "hospitality-2027",
