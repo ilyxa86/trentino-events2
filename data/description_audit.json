@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-07",
-  "currentEvents": 398,
-  "complete": 110,
+  "checkedAt": "2026-11-08",
+  "currentEvents": 388,
+  "complete": 111,
   "incomplete": [
     {
       "id": "competition-anelli-di-congiunzione-le-gallerie-di-piedicastello-2026",
@@ -207,13 +207,6 @@
       ]
     },
     {
-      "id": "alcide-de-gasperi-l-estate-delle-scelte-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "altri-quadri-2026",
       "languages": [
         "de",
@@ -222,13 +215,6 @@
     },
     {
       "id": "eugenio-montale-temi-modelli-figure-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "eventi-di-halloween-in-vallagarina-2026-2",
       "languages": [
         "de",
         "en"
@@ -268,69 +254,6 @@
         "de",
         "en",
         "it"
-      ]
-    },
-    {
-      "id": "alla-scoperta-di-trento-2026-11",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "coderdojo-crea-il-tuo-videogioco-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "il-sole-nelle-pozzanghere-matteo-bussola-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "l-importanza-de-ciamarse-onesto-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-contadino-di-piazza-dante-2026-11",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "passeggiata-del-benessere-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "sicut-luna-perfecta-musicantica-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026",
-      "languages": [
-        "de",
-        "en"
       ]
     },
     {
