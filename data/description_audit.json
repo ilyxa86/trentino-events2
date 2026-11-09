@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-08",
-  "currentEvents": 388,
-  "complete": 111,
+  "checkedAt": "2026-11-09",
+  "currentEvents": 374,
+  "complete": 101,
   "incomplete": [
     {
       "id": "competition-anelli-di-congiunzione-le-gallerie-di-piedicastello-2026",
@@ -112,14 +112,6 @@
       ]
     },
     {
-      "id": "traubenkur-in-arco-2026-3",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "trentino-gravel-2026-3",
       "languages": [
         "de",
@@ -175,23 +167,7 @@
       ]
     },
     {
-      "id": "dal-fucile-alla-matita-2026-7",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
       "id": "dal-fucile-alla-matita-2026-8",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "international-chess-tournament-citta-di-arco-2026-5",
       "languages": [
         "de",
         "en",
@@ -221,21 +197,7 @@
       ]
     },
     {
-      "id": "mese-del-gusto-2026-6",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "la-famiglia-va-a-teatro-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "alluvione-1966-in-trentino-2026",
       "languages": [
         "de",
         "en"
@@ -257,54 +219,11 @@
       ]
     },
     {
-      "id": "ascolta-immagini-che-risuonano-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "frantoi-aperti-2026-3",
       "languages": [
         "de",
         "en",
         "it"
-      ]
-    },
-    {
-      "id": "giornate-fai-autunno-2026",
-      "languages": [
-        "de",
-        "en",
-        "it"
-      ]
-    },
-    {
-      "id": "lanternata-di-san-martino-il-bondone-dei-bambini-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mese-del-gusto-2026-13",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "pinocchio-teatro-del-drago-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "visita-guidata-al-castello-del-buonconsiglio-2026-2",
-      "languages": [
-        "de",
-        "en"
       ]
     },
     {
@@ -336,6 +255,13 @@
       ]
     },
     {
+      "id": "castanicoltura-tradizionale-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "danish-string-quartet-2026",
       "languages": [
         "de",
@@ -344,6 +270,13 @@
     },
     {
       "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "livia-mattos-2026",
       "languages": [
         "de",
         "en"
@@ -407,6 +340,13 @@
     },
     {
       "id": "l-ora-delle-storie-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "maria-teresa-d-austria-una-donna-un-imperatrice-illuminata-2026",
       "languages": [
         "de",
         "en"
@@ -728,6 +668,13 @@
       ]
     },
     {
+      "id": "dire-di-se-i-m-a-bad-freelance-no-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "le-parole-fanno-la-differenza-2026",
       "languages": [
         "de",
@@ -967,6 +914,13 @@
       ]
     },
     {
+      "id": "dire-di-se-guardaci-the-sensemaker-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "flyover-country-2026",
       "languages": [
         "de",
@@ -1177,6 +1131,13 @@
       ]
     },
     {
+      "id": "dire-di-se-quel-patriarcato-che-non-ti-aspetti-parliamo-tra-maschi-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "mercato-del-giovedi-2026-15",
       "languages": [
         "de",
@@ -1298,6 +1259,13 @@
     },
     {
       "id": "b-rock-orchestra-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "dire-di-se-lucciola-assunta-o-di-come-ri-fare-un-fiore-2026",
       "languages": [
         "de",
         "en"
