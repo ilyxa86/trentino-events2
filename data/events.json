@@ -2675,82 +2675,6 @@
     "assetVerified": "2026-10-26"
   },
   {
-    "id": "crepe-nel-mondo-2026-5",
-    "name": {
-      "de": "Crepe nel mondo",
-      "en": "Crepe nel mondo",
-      "it": "Crepe nel mondo"
-    },
-    "startDate": "2026-10-29",
-    "endDate": "2026-10-29",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Festival",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Dopo il successo delle edizioni passate, Crepe nel Mondo è pronto a tornare, un festival dedicato alla geopolitica e all'analisi internazionale che mette in luce le fratture del nostro tempo: questioni irrisolte e tensioni globali che influenzano le nostre società, la politica e l'economia. Dal 19 ottobre al 3 novembre 2026, il festival si concentrerà sulle linee di faglia che continuano a ridefinire gli equilibri mondiali.",
-      "de": "Das Festival zur Geopolitik beleuchtet erneut die globalen Spannungen und ungelösten Konflikte, die die Welt nachhaltig prägen. Über mehrere Tage hinweg rückt die Veranstaltungsreihe die bruchhaften Prozesse in den Mittelpunkt, die bestehende Machtverhältnisse und internationale Kooperationsstrukturen beeinflussen.",
-      "en": "This iteration of the geopolitics festival again highlights global tensions and unresolved conflicts that shape the contemporary world. Over a multi-day programme, the event focuses attention on disruptive processes and fault lines that influence power relations and international cooperation."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-29",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5",
-      "de": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5",
-      "en": "https://eventi.comune.trento.it/Eventi/Crepe-nel-mondo5"
-    }
-  },
-  {
-    "id": "l-ora-delle-storie-2026",
-    "name": {
-      "de": "L'ora delle storie",
-      "en": "L'ora delle storie",
-      "it": "L'ora delle storie"
-    },
-    "startDate": "2026-10-29",
-    "endDate": "2026-10-29",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Per informazioni chiamare il numero 0461 889786 o mandare una e-mail a: biblioteca.ravina@comune.trento.it"
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie13",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-21",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie13"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/L-ora-delle-storie13"
-    },
-    "descriptionVerified": "2026-10-21",
-    "assetVerified": "2026-10-21"
-  },
-  {
     "id": "lilt-for-women-2026",
     "name": {
       "de": "Lilt for Women",
@@ -6264,6 +6188,44 @@
     "assetVerified": "2026-10-31"
   },
   {
+    "id": "teatro-della-meraviglia-2026",
+    "name": {
+      "de": "Teatro della Meraviglia 2026",
+      "en": "Teatro della Meraviglia 2026",
+      "it": "Teatro della Meraviglia 2026"
+    },
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il Teatro della Meraviglia è un festival dove arte e scienza si incontrano. Si rivolge a un pubblico vario e curioso: a chi ama il teatro e a chi ama la scienza, ai veterani dello spettacolo dal vivo e ai giovani che vogliono farsi affascinare."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Teatro-della-Meraviglia-2026",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Teatro-della-Meraviglia-2026"
+    ],
+    "descriptionSources": {
+      "it": "https://www.cultura.trentino.it/Rassegne/Teatro-della-Meraviglia-2026"
+    },
+    "descriptionVerified": "2026-11-10",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Teatro-della-Meraviglia-2026",
+    "assetVerified": "2026-11-10"
+  },
+  {
     "id": "voci-di-pietra-sulle-ali-del-vento-storie-insolite-di-trento-2026-2",
     "name": {
       "de": "Voci di pietra sulle ali del vento: storie insolite di Trento",
@@ -6875,6 +6837,42 @@
     },
     "descriptionVerified": "2026-11-05",
     "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "tedxtrento-salon-a-me-gli-occhi-2026",
+    "name": {
+      "de": "TEDxTrento Salon - A me gli Occhi",
+      "en": "TEDxTrento Salon - A me gli Occhi",
+      "it": "TEDxTrento Salon - A me gli Occhi"
+    },
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "TEDxTrento Salon - A me gli Occhi, non finisce con l'ultimo applauso. È lì che iniziano nuove connessioni."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/TEDxTrento-Salon-A-me-gli-Occhi",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/TEDxTrento-Salon-A-me-gli-Occhi"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/TEDxTrento-Salon-A-me-gli-Occhi"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
   },
   {
     "id": "trento-fashion-week-2026",
@@ -7990,6 +7988,42 @@
     "assetVerified": "2026-11-05"
   },
   {
+    "id": "vai-via-2026-2",
+    "name": {
+      "de": "Vai via",
+      "en": "Vai via",
+      "it": "Vai via"
+    },
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-15",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Vai Via è uno spettacolo che intreccia teatro gestuale, musica originale e immagini poetiche per raccontare la storia di Rita, un tempo celebre contrabbassista e oggi costretta a vivere ai margini. Attraverso ricordi, sogni e incontri inaspettati, il pubblico è accompagnato in un viaggio delicato che invita a guardare oltre le apparenze, riflettendo su fragilità, dignità, memoria e speranza."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Vai-via2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Vai-via2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Vai-via2"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
+  },
+  {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-3",
     "name": {
       "de": "Visita guidata al Castello del Buonconsiglio",
@@ -9098,6 +9132,79 @@
     "assetVerified": "2026-08-31"
   },
   {
+    "id": "vite-2026",
+    "name": {
+      "de": "Vite",
+      "en": "Vite",
+      "it": "Vite"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Il venerdì vieni a gustare i prodotti della Vallagarina, vivi il territorio e scopri le storie e le persone dietro ai calici! Quattro appuntamenti alla scoperta di quattro produttori della Vallagarina."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/vite",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/11/Vite-Oltre-i-calici.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/vite"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/vite/"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
+  },
+  {
+    "id": "accensione-albero-di-natale-in-piazza-2026",
+    "name": {
+      "de": "Accensione albero di Natale in piazza",
+      "en": "Accensione albero di Natale in piazza",
+      "it": "Accensione albero di Natale in piazza"
+    },
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Al termine di un breve intrattenimento musicale a cura del coro “Pioggia di note” delle scuole secondarie di primo grado ad indirizzo musicale \"G. Bresadola\" e del Liceo Musicale Bonporti, si accenderanno sulla città il grande albero di Natale e le luci spettacolari del photomapping."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Accensione-albero-di-Natale-in-piazza",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Accensione-albero-di-Natale-in-piazza"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Accensione-albero-di-Natale-in-piazza"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
+  },
+  {
     "id": "alla-scoperta-di-trento-2026-13",
     "name": {
       "de": "Alla scoperta di Trento",
@@ -9208,8 +9315,8 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/La-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata"
     },
-    "descriptionVerified": "2026-11-09",
-    "assetVerified": "2026-11-09"
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
   },
   {
     "id": "le-fiabe-come-strumento-di-relazione-e-di-prevenzione-2026",
@@ -9779,6 +9886,42 @@
     "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/Casa_di_Babbo_Natale/GARDADOLOMITI_ph-PRUGNOLA_INVERNO-21_DSC08120_1.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/santas-house_9212",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "un-mare-di-avventure-2026-2",
+    "name": {
+      "de": "Un mare di avventure",
+      "en": "Un mare di avventure",
+      "it": "Un mare di avventure"
+    },
+    "startDate": "2026-11-22",
+    "endDate": "2026-11-22",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Frankie, un pesce molto protettivo, parte alla ricerca di suo figlio Fiero, un piccolo pesce curioso con una pinna atrofica. Aiutato dalla smemorata Debbie, attraverserà tutto l’oceano, tra squali e meduse, in una storia di coraggio, amicizia e famiglia."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Un-mare-di-avventure2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Un-mare-di-avventure2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Un-mare-di-avventure2"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
   },
   {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-4",
@@ -11287,6 +11430,42 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "con-la-banda-verso-la-piazza-delle-storie-2026",
+    "name": {
+      "de": "Con la banda verso la Piazza delle storie",
+      "en": "Con la banda verso la Piazza delle storie",
+      "it": "Con la banda verso la Piazza delle storie"
+    },
+    "startDate": "2026-11-29",
+    "endDate": "2026-11-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La mattina delle domeniche 29/11, 06/12 e 27/12 una banda cittadina diversa sfilerà da piazza Fiera attraversando via Mazzini, via San Vigilio, piazza Duomo e via Cavour, per arrivare in piazza S.Maria Maggiore, dove tra le ore 10.00 e le 11.00 allieterà turisti e cittadini con musiche natalizie. Partenza della sfilata ore 09.45 da Piazza Fiera"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Con-la-banda-verso-la-Piazza-delle-storie",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Con-la-banda-verso-la-Piazza-delle-storie"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Con-la-banda-verso-la-Piazza-delle-storie"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
+  },
+  {
     "id": "i-giorni-dell-attesa-2026",
     "name": {
       "de": "I giorni dell'attesa",
@@ -11321,6 +11500,82 @@
     },
     "descriptionVerified": "2026-11-05",
     "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "la-fiaba-di-celeste-2026-2",
+    "name": {
+      "de": "La fiaba di Celeste",
+      "en": "La fiaba di Celeste",
+      "it": "La fiaba di Celeste"
+    },
+    "startDate": "2026-11-29",
+    "endDate": "2026-11-29",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Compagnia LA PICCIONAIA S.C.S Centro di Produzione Teatrale Il narratore, il nonno Gianni, parla di una bambina che nessuno a scuola vuole vicino a sé e per farle capire che potrà conquistarsi un posto assieme agli altri suoi compagni narra la storia di Celeste che i colori dell’arcobaleno non volevano."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-fiaba-di-Celeste2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/La-fiaba-di-Celeste2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/La-fiaba-di-Celeste2"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
+  },
+  {
+    "id": "natale-dei-presepi-monumentali-2026",
+    "name": {
+      "de": "Natale dei Presepi monumentali",
+      "en": "Natale dei Presepi monumentali",
+      "it": "Natale dei Presepi monumentali"
+    },
+    "startDate": "2026-11-29",
+    "endDate": "2026-11-29",
+    "startTime": null,
+    "municipality": "Nomi",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Nomi",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "A dicembre e gennaio, scopri la Natività come non l'hai mai vista con gli spettacolari presepi del piccolo borgo di Nomi. Anche quest’anno Nomi si trasforma nel paese dei presepi monumentali ospitati nelle contrade e nei parchi.",
+      "en": "From the 29th of November to the 6th of January, experience the Nativity as never before with the spectacular nativity scenes in the small hamlet of Nomi. Yet again this year, Nomi turns into the town of monumental nativity scenes housed in the local streets and parks ."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/nomi-il-paese-dei-presepi-monumentali",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2022/10/Natale-dei-Presepi-Monumentali-2019-Michele-Purin.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/nomi-il-paese-dei-presepi-monumentali"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/nomi-il-paese-dei-presepi-monumentali/",
+      "en": "https://www.visitrovereto.it/en/enjoy/events/nomi-il-paese-dei-presepi-monumentali/",
+      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/nomi-il-paese-dei-presepi-monumentali/"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
   },
   {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
@@ -11719,6 +11974,42 @@
     }
   },
   {
+    "id": "accidenti-che-natale-quando-una-storia-di-festa-ha-il-finale-giusto-2026",
+    "name": {
+      "de": "Accidenti che Natale! Quando una storia di festa ha il finale giusto",
+      "en": "Accidenti che Natale! Quando una storia di festa ha il finale giusto",
+      "it": "Accidenti che Natale! Quando una storia di festa ha il finale giusto"
+    },
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Nel cuore delle Feste, tra lucette brillanti e profumo di cene in famiglia, ogni casa si riempie di storie speciali e momenti di gioia. Ma basta un attimo di distrazione — tra fornelli incustoditi per un brindisi di troppo o luminarie obsolete lasciate accese — per cambiare il finale della fiaba."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Accidenti-che-Natale!-Quando-una-storia-di-festa-ha-il-finale-giusto",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Accidenti-che-Natale!-Quando-una-storia-di-festa-ha-il-finale-giusto"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Accidenti-che-Natale!-Quando-una-storia-di-festa-ha-il-finale-giusto"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
+  },
+  {
     "id": "dire-di-se-quel-patriarcato-che-non-ti-aspetti-parliamo-tra-maschi-2026",
     "name": {
       "de": "Dire di sé - Quel patriarcato che non ti aspetti. | Parliamo tra maschi?",
@@ -11753,6 +12044,42 @@
     },
     "descriptionVerified": "2026-11-09",
     "assetVerified": "2026-11-09"
+  },
+  {
+    "id": "me-ne-racconti-un-altra-di-e-con-il-libro-vagante-di-soledad-2026",
+    "name": {
+      "de": "“Me ne racconti un’altra?” di e con Il Libro Vagante di Soledad",
+      "en": "“Me ne racconti un’altra?” di e con Il Libro Vagante di Soledad",
+      "it": "“Me ne racconti un’altra?” di e con Il Libro Vagante di Soledad"
+    },
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-03",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Un percorso narrativo e interattivo per bambini basato sul format della \"Seggiolina Vagante\", progettato per esplorare le festività attraverso i temi dell'inclusione, della diversità e dei diritti."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Me-ne-racconti-un-altra-di-e-con-Il-Libro-Vagante-di-Soledad",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Me-ne-racconti-un-altra-di-e-con-Il-Libro-Vagante-di-Soledad"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Me-ne-racconti-un-altra-di-e-con-Il-Libro-Vagante-di-Soledad"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
   },
   {
     "id": "mercato-del-giovedi-2026-15",
@@ -11898,6 +12225,42 @@
     },
     "descriptionVerified": "2026-11-02",
     "assetVerified": "2026-11-02"
+  },
+  {
+    "id": "il-tempo-dei-desideri-ascolto-tarocchi-e-vibrazioni-di-natale-2026",
+    "name": {
+      "de": "Il Tempo dei Desideri: ascolto, Tarocchi e vibrazioni di Natale!",
+      "en": "Il Tempo dei Desideri: ascolto, Tarocchi e vibrazioni di Natale!",
+      "it": "Il Tempo dei Desideri: ascolto, Tarocchi e vibrazioni di Natale!"
+    },
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-04",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Un pomeriggio di puro relax e magia nel cuore di Trento! Insieme alla Libreria Feltrinelli, ti aspetta un viaggio divertente e originale tra i Tarocchi, i suoni super rilassanti delle campane tibetane e momenti di meditazione."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-Tempo-dei-Desideri-ascolto-Tarocchi-e-vibrazioni-di-Natale",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Il-Tempo-dei-Desideri-ascolto-Tarocchi-e-vibrazioni-di-Natale"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Il-Tempo-dei-Desideri-ascolto-Tarocchi-e-vibrazioni-di-Natale"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
   },
   {
     "id": "stop-alla-violenza-generazioni-alleate-per-il-futuro-2026",
@@ -12080,6 +12443,78 @@
     }
   },
   {
+    "id": "concerto-sugar-tribute-band-2026",
+    "name": {
+      "de": "Concerto Sugar Tribute Band",
+      "en": "Concerto Sugar Tribute Band",
+      "it": "Concerto Sugar Tribute Band"
+    },
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Un viaggio musicale travolgente dedicato all'inconfondibile repertorio del \"Sugar\" nazionale. La Sugar Tribute Band porta in piazza uno spettacolo dal vivo dinamico e coinvolgente, alternando ritmo blues e i classici senza tempo che hanno fatto la storia della musica italiana."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Concerto-Sugar-Tribute-Band",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Concerto-Sugar-Tribute-Band"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Concerto-Sugar-Tribute-Band"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
+  },
+  {
+    "id": "laboratori-esperienziali-e-di-movimento-attivo-kokedama-e-terrari-di-nat-2026",
+    "name": {
+      "de": "Laboratori esperienziali e di movimento attivo: Kokedama e Terrari di Natale",
+      "en": "Laboratori esperienziali e di movimento attivo: Kokedama e Terrari di Natale",
+      "it": "Laboratori esperienziali e di movimento attivo: Kokedama e Terrari di Natale"
+    },
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Un percorso sensoriale pratico e inclusivo guidato dall' Associazione Verde Sospiro , pensato per connettere le persone con la natura attraverso il tatto, la creatività e il movimento coordinato. Durante il laboratorio i partecipanti impareranno l'arte del Kokedama — la tradizionale sfera di muschio giapponese rivisitata in chiave festiva — e la composizione di terrari natalizi con elementi naturali."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Laboratori-esperienziali-e-di-movimento-attivo-Kokedama-e-Terrari-di-Natale",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Laboratori-esperienziali-e-di-movimento-attivo-Kokedama-e-Terrari-di-Natale"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Laboratori-esperienziali-e-di-movimento-attivo-Kokedama-e-Terrari-di-Natale"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
+  },
+  {
     "id": "mercato-contadino-di-piazza-dante-2026-15",
     "name": {
       "de": "Mercato contadino di piazza Dante",
@@ -12146,6 +12581,42 @@
     "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/koiroylers-ai-generated-9616743/28098950-1-ita-IT/koiroylers-ai-generated-9616743_opengraph.jpg",
     "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Teatro-di-Ala-Stagione-2026-2027",
     "assetVerified": "2026-10-28"
+  },
+  {
+    "id": "un-goal-per-babbo-natale-2026",
+    "name": {
+      "de": "Un goal per Babbo Natale",
+      "en": "Un goal per Babbo Natale",
+      "it": "Un goal per Babbo Natale"
+    },
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-05",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Iniziativa solidale e festosa organizzata dall'A.C. Trento 1921."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Un-goal-per-Babbo-Natale",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Un-goal-per-Babbo-Natale"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Un-goal-per-Babbo-Natale"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
   },
   {
     "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-5",
@@ -12218,6 +12689,78 @@
     },
     "descriptionVerified": "2026-11-05",
     "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "clownerentola-2026",
+    "name": {
+      "de": "Clownerentola",
+      "en": "Clownerentola",
+      "it": "Clownerentola"
+    },
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-06",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Clownerentola sono quarantacinque minuti di puro teatro fisico in cui la parola si cancella per lasciare ampio respiro comunicativo ai soli gesti e al corpo."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Clownerentola",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Clownerentola"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Clownerentola"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
+  },
+  {
+    "id": "con-la-banda-verso-la-piazza-delle-storie-2026-2",
+    "name": {
+      "de": "Con la banda verso la Piazza delle storie",
+      "en": "Con la banda verso la Piazza delle storie",
+      "it": "Con la banda verso la Piazza delle storie"
+    },
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-06",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La mattina delle domeniche 29/11, 06/12 e 27/12 una banda cittadina diversa sfilerà da piazza Fiera attraversando via Mazzini, via San Vigilio, piazza Duomo e via Cavour, per arrivare in piazza S.Maria Maggiore, dove tra le ore 10.00 e le 11.00 allieterà turisti e cittadini con musiche natalizie. Partenza della sfilata alle ore 09.45 da Piazza Fiera."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Con-la-banda-verso-la-Piazza-delle-storie2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Con-la-banda-verso-la-Piazza-delle-storie2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Con-la-banda-verso-la-Piazza-delle-storie2"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
   },
   {
     "id": "natale-di-montagna-2026",
@@ -13514,6 +14057,42 @@
     }
   },
   {
+    "id": "il-tempo-dei-desideri-ascolto-tarocchi-e-vibrazioni-di-natale-2026-2",
+    "name": {
+      "de": "Il Tempo dei Desideri: ascolto, Tarocchi e vibrazioni di Natale!",
+      "en": "Il Tempo dei Desideri: ascolto, Tarocchi e vibrazioni di Natale!",
+      "it": "Il Tempo dei Desideri: ascolto, Tarocchi e vibrazioni di Natale!"
+    },
+    "startDate": "2026-12-18",
+    "endDate": "2026-12-18",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Un pomeriggio di puro relax e magia nel cuore di Trento! Insieme alla Libreria Feltrinelli, ti aspetta un viaggio divertente e originale tra i Tarocchi, i suoni super rilassanti delle campane tibetane e momenti di meditazione."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-Tempo-dei-Desideri-ascolto-Tarocchi-e-vibrazioni-di-Natale2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Il-Tempo-dei-Desideri-ascolto-Tarocchi-e-vibrazioni-di-Natale2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Il-Tempo-dei-Desideri-ascolto-Tarocchi-e-vibrazioni-di-Natale2"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
+  },
+  {
     "id": "se-ti-sposo-mi-rovino-2026",
     "name": {
       "de": "Se ti sposo mi rovino",
@@ -14634,6 +15213,42 @@
     }
   },
   {
+    "id": "nella-vecchia-fattoria-2026",
+    "name": {
+      "de": "Nella vecchia fattoria",
+      "en": "Nella vecchia fattoria",
+      "it": "Nella vecchia fattoria"
+    },
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-26",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Teatro d’attore, teatro di figura (pupazzi), musiche e canzoni suonate e cantate dal vivo Zio Tobia manda avanti da solo la fattoria, coltiva i campi, vende il latte e le uova. Parla con le sue bestie come se capisse quello che dicono e, soprattutto, canta con gioia, anche se le spese da sostenere sono molte, troppe, e Tobia rischia di non farcela e di trovarsi costretto a vendere tutto."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Nella-vecchia-fattoria2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Nella-vecchia-fattoria2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Nella-vecchia-fattoria2"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
+  },
+  {
     "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-8",
     "name": {
       "de": "Visita guidata alla mostra \"Il potere della musica\"",
@@ -14668,6 +15283,42 @@
     },
     "descriptionVerified": "2026-11-05",
     "assetVerified": "2026-11-05"
+  },
+  {
+    "id": "con-la-banda-verso-la-piazza-delle-storie-2026-3",
+    "name": {
+      "de": "Con la banda verso la Piazza delle storie",
+      "en": "Con la banda verso la Piazza delle storie",
+      "it": "Con la banda verso la Piazza delle storie"
+    },
+    "startDate": "2026-12-27",
+    "endDate": "2026-12-27",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La mattina delle domeniche 29/11, 06/12 e 27/12 una banda cittadina diversa sfilerà da piazza Fiera attraversando via Mazzini, via San Vigilio, piazza Duomo e via Cavour, per arrivare in piazza S.Maria Maggiore, dove tra le ore 10.00 e le 11.00 allieterà turisti e cittadini con musiche natalizie. Partenza della sfilata alle ore 09.45 da Piazza Fiera."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Con-la-banda-verso-la-Piazza-delle-storie3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Con-la-banda-verso-la-Piazza-delle-storie3"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Con-la-banda-verso-la-Piazza-delle-storie3"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
   },
   {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-10",
@@ -14891,6 +15542,42 @@
     "image": "https://www.gardatrentino.it/website_images/events/presepe_lundo.jpeg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/shalom-pace-nativity-scene-in-lundo-village_12326",
     "assetVerified": "2026-10-15"
+  },
+  {
+    "id": "una-renna-alla-vecchia-fattoria-2026",
+    "name": {
+      "de": "Una renna alla vecchia fattoria",
+      "en": "Una renna alla vecchia fattoria",
+      "it": "Una renna alla vecchia fattoria"
+    },
+    "startDate": "2026-12-28",
+    "endDate": "2026-12-28",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Dance",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Teatro d’attore, teatro di figura (pupazzi), musiche e canzoni suonate e cantate dal vivo È la notte di Natale. Gli animali della fattoria sono andati a dormire, dopo essersi augurati la buonanotte con la curiosità di sapere quali regali porterà loro Babbo Natale."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Una-renna-alla-vecchia-fattoria2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Una-renna-alla-vecchia-fattoria2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Una-renna-alla-vecchia-fattoria2"
+    },
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10"
   },
   {
     "id": "confronti-concerto-di-capodanno-2026",
@@ -16036,8 +16723,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-11-09",
-    "assetVerified": "2026-11-09",
+    "descriptionVerified": "2026-11-10",
+    "assetVerified": "2026-11-10",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
@@ -17510,6 +18197,49 @@
     "assetVerified": "2026-11-07"
   },
   {
+    "id": "bee-happy-2027",
+    "name": {
+      "de": "Bee Happy!",
+      "en": "Bee Happy!",
+      "it": "Bee Happy!"
+    },
+    "startDate": "2027-06-06",
+    "endDate": "2027-06-06",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Hockey youth tournament. Find out all about Bee Happy! and other events in Riva del Garda!",
+      "it": "Torneo giovanile di Hockey su prato. Scopri tutto su Torneo Bee Happy! e altri eventi a Riva del Garda!",
+      "de": "Feldhockey-Jugendturnier. Erfahre alles über Bee Happy! und andere Veranstaltungen in Riva del Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/bee-happy_55941",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-10",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/bee-happy_55941",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/bee-happy_55941",
+      "it": "https://www.gardatrentino.it/it/eventi/torneo-bee-happy_55941",
+      "de": "https://www.gardatrentino.it/de/event/bee-happy_55941"
+    },
+    "descriptionVerified": "2026-11-10",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Torneo_Bee_Happy_Hockey.jpg",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/bee-happy_55941",
+    "assetVerified": "2026-11-10"
+  },
+  {
     "id": "top-dolomites-outdoor-festival-2027",
     "name": {
       "de": "Top Dolomites Outdoor Festival",
@@ -17623,11 +18353,12 @@
     "price": "See official page",
     "officialUrl": "http://www.gardatrentino.it/en/events/notte-di-fiaba-don-chisciotte_78851",
     "source": "Garda Trentino - events",
-    "verified": "2026-11-05",
+    "verified": "2026-11-10",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "http://www.gardatrentino.it/en/events/notte-di-fiaba-don-chisciotte_78851",
+      "https://www.gardatrentino.it/en/discover/events?page=5",
       "https://www.gardatrentino.it/en/discover/events?page=6"
     ],
     "descriptionSources": {
