@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-09",
-  "currentEvents": 374,
-  "complete": 101,
+  "checkedAt": "2026-11-10",
+  "currentEvents": 394,
+  "complete": 102,
   "incomplete": [
     {
       "id": "competition-anelli-di-congiunzione-le-gallerie-di-piedicastello-2026",
@@ -227,20 +227,6 @@
       ]
     },
     {
-      "id": "insieme-facciamo-la-differenza-prendiamoci-cura-della-nostra-citta-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "la-gallinella-rossa-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "la-scuola-va-a-teatro-2026",
       "languages": [
         "de",
@@ -291,6 +277,13 @@
     },
     {
       "id": "storie-tra-le-foglie-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "teatro-della-meraviglia-2026",
       "languages": [
         "de",
         "en"
@@ -410,6 +403,13 @@
     },
     {
       "id": "robert-johnson-non-se-n-e-mai-andato-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "tedxtrento-salon-a-me-gli-occhi-2026",
       "languages": [
         "de",
         "en"
@@ -577,6 +577,13 @@
       ]
     },
     {
+      "id": "vai-via-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "visita-guidata-al-castello-del-buonconsiglio-2026-3",
       "languages": [
         "de",
@@ -696,6 +703,20 @@
       ]
     },
     {
+      "id": "vite-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "accensione-albero-di-natale-in-piazza-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "la-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata-2026",
       "languages": [
         "de",
@@ -775,6 +796,13 @@
     },
     {
       "id": "non-e-solo-una-panchina-un-segno-una-voce-un-impegno-contro-la-violenza-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "un-mare-di-avventure-2026-2",
       "languages": [
         "de",
         "en"
@@ -1047,10 +1075,30 @@
       ]
     },
     {
+      "id": "con-la-banda-verso-la-piazza-delle-storie-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "i-giorni-dell-attesa-2026",
       "languages": [
         "de",
         "en"
+      ]
+    },
+    {
+      "id": "la-fiaba-di-celeste-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "natale-dei-presepi-monumentali-2026",
+      "languages": [
+        "de"
       ]
     },
     {
@@ -1131,7 +1179,21 @@
       ]
     },
     {
+      "id": "accidenti-che-natale-quando-una-storia-di-festa-ha-il-finale-giusto-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "dire-di-se-quel-patriarcato-che-non-ti-aspetti-parliamo-tra-maschi-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "me-ne-racconti-un-altra-di-e-con-il-libro-vagante-di-soledad-2026",
       "languages": [
         "de",
         "en"
@@ -1160,6 +1222,13 @@
     },
     {
       "id": "i-natali-dell-alta-vallagarina-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "il-tempo-dei-desideri-ascolto-tarocchi-e-vibrazioni-di-natale-2026",
       "languages": [
         "de",
         "en"
@@ -1201,6 +1270,20 @@
       ]
     },
     {
+      "id": "concerto-sugar-tribute-band-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "laboratori-esperienziali-e-di-movimento-attivo-kokedama-e-terrari-di-nat-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "mercato-contadino-di-piazza-dante-2026-15",
       "languages": [
         "de",
@@ -1216,6 +1299,13 @@
       ]
     },
     {
+      "id": "un-goal-per-babbo-natale-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "visita-guidata-alla-collezione-egizia-del-castello-del-buonconsiglio-2026-5",
       "languages": [
         "de",
@@ -1224,6 +1314,20 @@
     },
     {
       "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-5",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "clownerentola-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "con-la-banda-verso-la-piazza-delle-storie-2026-2",
       "languages": [
         "de",
         "en"
@@ -1440,6 +1544,13 @@
       ]
     },
     {
+      "id": "il-tempo-dei-desideri-ascolto-tarocchi-e-vibrazioni-di-natale-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "se-ti-sposo-mi-rovino-2026",
       "languages": [
         "de",
@@ -1612,6 +1723,13 @@
       ]
     },
     {
+      "id": "nella-vecchia-fattoria-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "visita-guidata-alla-mostra-il-potere-della-musica-2026-8",
       "languages": [
         "de",
@@ -1619,7 +1737,21 @@
       ]
     },
     {
+      "id": "con-la-banda-verso-la-piazza-delle-storie-2026-3",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "visita-guidata-al-castello-del-buonconsiglio-2026-10",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "una-renna-alla-vecchia-fattoria-2026",
       "languages": [
         "de",
         "en"
