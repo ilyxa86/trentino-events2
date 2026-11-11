@@ -2675,322 +2675,6 @@
     "assetVerified": "2026-10-26"
   },
   {
-    "id": "lilt-for-women-2026",
-    "name": {
-      "de": "Lilt for Women",
-      "en": "Lilt for Women",
-      "it": "Lilt for Women"
-    },
-    "startDate": "2026-10-29",
-    "endDate": "2026-10-29",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "La fontana del Nettuno si illumina di colore rosa per segnalare l’adesione del Comune di Trento alla campagna di sensibilizzazione “Lilt for Women – Nastro Rosa”. Adesione che troverà posto anche sul ledwall posto sull'ostello che si trova in zona centrale alla città e vicino alle stazioni degli autobus e treni.",
-      "de": "Die Stadt beteiligt sich an der Sensibilisierungskampagne „Lilt for Women – Nastro Rosa“, sichtbar durch die Beleuchtung eines zentralen Brunnens in Rosa. Weitere städtische Sichtbarkeitsmaßnahmen schließen eine LED-Anzeige an einer zentralen Herberge in Bahnhofsnähe ein, die die Unterstützung der Initiative signalisiert.",
-      "en": "The municipality takes part in the ‘Lilt for Women – Nastro Rosa’ awareness campaign, visually marking support by illuminating a central fountain in pink. Additional city visibility measures include displaying the campaign motif on a LED wall at a centrally located hostel near bus and train stations."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-25",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2",
-      "de": "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2",
-      "en": "https://eventi.comune.trento.it/Eventi/Lilt-for-Women2"
-    }
-  },
-  {
-    "id": "luci-e-ombre-di-una-carriera-misteriosa-nicolo-dorigati-pittore-2026",
-    "name": {
-      "de": "Luci e ombre di una carriera misteriosa: Nicolò Dorigati pittore",
-      "en": "Luci e ombre di una carriera misteriosa: Nicolò Dorigati pittore",
-      "it": "Luci e ombre di una carriera misteriosa: Nicolò Dorigati pittore"
-    },
-    "startDate": "2026-10-29",
-    "endDate": "2026-10-29",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Business & Networking",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Con Dario De Cristofaro È possibile ricostruire la storia di un pittore di cui non conosciamo neppure un’opera firmata? È questa una delle domande che accompagna la riscoperta di Nicolò Dorigati, protagonista della scena artistica trentina tra Sei e Settecento, a lungo rimasto ai margini degli studi.",
-      "de": "Der Vortrag rekonstruiert die Lebensgeschichte eines Malers, dessen Werk bislang kaum fassbar ist, und stellt die Frage nach der Rekonstruktion ohne signierte Werke. Anhand wissenschaftlicher Untersuchung und Kontextanalyse wird das Wirken von Nicolò Dorigati, einem Akteur der Trentiner Kunstszene im 17. und 18. Jahrhundert, neu beleuchtet.",
-      "en": "This lecture reconstructs the life and career of a painter whose oeuvre remains largely unrecognized and probes whether an artist’s history can be pieced together without signed works. Through scholarly research and contextual analysis, it revisits Nicolò Dorigati’s role in Trentino’s art scene across the 17th and 18th centuries."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore",
-      "de": "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore",
-      "en": "https://eventi.comune.trento.it/Eventi/Luci-e-ombre-di-una-carriera-misteriosa-Nicolo-Dorigati-pittore"
-    }
-  },
-  {
-    "id": "madre-courage-e-i-suoi-figli-2026",
-    "name": {
-      "de": "Madre Courage e i suoi figli",
-      "en": "Madre Courage e i suoi figli",
-      "it": "Madre Courage e i suoi figli"
-    },
-    "startDate": "2026-10-29",
-    "endDate": "2026-10-29",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Wine & Gastronomy",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Lunetta Savino è Madre Courage nella rilettura di Leo Muscato del capolavoro di Bertolt Brecht. Una donna che sopravvive grazie alla guerra, tra contraddizioni, musica dal vivo e un carro che attraversa la scena.",
-      "de": "In dieser Neuinterpretation spielt Lunetta Savino die Titelrolle einer Frau, die vom Krieg profitiert und durch Widersprüche, Livemusik und einen fahrbaren Wagen ihrer Existenz nachgeht. Das Stück kombiniert dramatische Kontraste mit musikalischen Einlagen und einem markanten Bühnenbild, das die ambivalente Figur in den Mittelpunkt stellt.",
-      "en": "In this reinterpretation Lunetta Savino plays Mother Courage, a woman who survives and profits from war amid contradictions, live music and a mobile cart traversing the stage. The production blends dramatic tension with musical elements and a vivid stage device to foreground the protagonist’s moral ambiguity."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-24",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli",
-      "de": "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli",
-      "en": "https://eventi.comune.trento.it/Eventi/Madre-Courage-e-i-suoi-figli"
-    }
-  },
-  {
-    "id": "mercato-del-giovedi-2026-10",
-    "name": {
-      "de": "Mercato del giovedì",
-      "en": "Mercato del giovedì",
-      "it": "Mercato del giovedì"
-    },
-    "startDate": "2026-10-29",
-    "endDate": "2026-10-29",
-    "startTime": "07:15",
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Presso le circa 160 bancarelle dislocate nelle vie del centro (via Verdi, via Prati, via Maffei, via Esterle, via Borsieri, via Al Torrione) potrete fare acquisti di prodotti enogastronomici, ma anche abbigliamento, scarpe, accessori, oggettistica, casalinghi e molto altro. In piazza del Duomo invece sono presenti circa 20 bancarelle dedicate a fiori, piante e prodotti agricoli (frutta, verdura e miele).",
-      "de": "Der große Wochenmarkt verteilt rund 160 Stände auf verschiedene Innenstadtstraßen und bietet ein breites Sortiment von Lebensmitteln bis Bekleidung und Haushaltswaren. Auf dem Domplatz sind zusätzlich etwa 20 Stände mit Blumen, Pflanzen und landwirtschaftlichen Produkten wie Obst, Gemüse und Honig versammelt, was den Markt zum vielseitigen Einkaufsort macht.",
-      "en": "The large weekly market spans some 160 stalls across central streets, offering an extensive mix of gastronomic products, clothing, shoes, accessories, homeware and more. In Piazza del Duomo around 20 dedicated stalls showcase flowers, plants and agricultural produce such as fruit, vegetables and honey, creating a varied shopping experience."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi80",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi80"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi80",
-      "de": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi80",
-      "en": "https://eventi.comune.trento.it/Eventi/Mercato-del-giovedi80"
-    }
-  },
-  {
-    "id": "mercato-dell-economia-solidale-2026-10",
-    "name": {
-      "de": "Mercato dell'economia solidale",
-      "en": "Mercato dell'economia solidale",
-      "it": "Mercato dell'economia solidale"
-    },
-    "startDate": "2026-10-29",
-    "endDate": "2026-10-29",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "All'interno del mercato si possono trovare le seguenti tipologie di prodotto: Il \"Mercato dell'economia solidale\" è gestito dalla Cooperativa Social Tank.",
-      "de": "Der Markt für solidarische Ökonomie wird von einer Sozialgenossenschaft organisiert und präsentiert Produkte, die soziale und nachhaltige Kriterien widerspiegeln. Besucher finden dort Angebote verschiedener Produktkategorien, die Produktion und Vertrieb nach solidarischen Prinzipien verbinden.",
-      "en": "The solidarity economy market is managed by a social cooperative and features products that reflect social and sustainability criteria. Within the market visitors encounter multiple product types that showcase initiatives combining ethical production and collaborative distribution models."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56",
-      "de": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56",
-      "en": "https://eventi.comune.trento.it/Eventi/Mercato-dell-economia-solidale56"
-    }
-  },
-  {
-    "id": "ottobre-in-biblioteca-2026-2",
-    "name": {
-      "de": "Ottobre in biblioteca",
-      "en": "Ottobre in biblioteca",
-      "it": "Ottobre in biblioteca"
-    },
-    "startDate": "2026-10-29",
-    "endDate": "2026-10-29",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "L'ingresso è libero, per informazioni si può chiamare il numero 0461 912533 o mandare una e-mail all'indirizzo biblioteca.villazzano@comune.trento.it",
-      "de": "Diese Veranstaltung in der Bibliothek bietet freien Eintritt und richtet sich an ein breites Publikum mit Bildungs- oder Kulturangeboten. Für organisatorische Rückfragen werden Kontaktdaten der Bibliothek bereitgestellt, sodass Interessierte vorab Informationen telefonisch oder per E‑Mail einholen können.",
-      "en": "This library event offers free admission and is aimed at a general audience with cultural and educational programming. Contact details for the Villazzano library are provided for anyone seeking further logistical information by phone or email ahead of the session."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2",
-      "de": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2",
-      "en": "https://eventi.comune.trento.it/Eventi/Ottobre-in-biblioteca2"
-    }
-  },
-  {
-    "id": "pietre-di-pane-memorie-di-geografie-fragili-finissage-2026",
-    "name": {
-      "de": "Pietre di pane - Memorie di geografie fragili - Finissage",
-      "en": "Pietre di pane - Memorie di geografie fragili - Finissage",
-      "it": "Pietre di pane - Memorie di geografie fragili - Finissage"
-    },
-    "startDate": "2026-10-29",
-    "endDate": "2026-10-29",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Giornata di studi a cura di Step - Scuola per il governo del territorio e del paesaggio, con performance di OHT Office for Human Theatre e presentazione del catalogo della mostra Prima sessione: ore 10 – 12 c/o Galleria Civica Trento",
-      "de": "Der Finissage-Tag bietet eine wissenschaftliche Tagung, kuratiert von Step – Schule für Landschafts- und Raumplanung, kombiniert mit einer Theaterperformance des OHT Office for Human Theatre und der Präsentation des Ausstellungskatalogs. Besucher erleben Vortrags- und Diskussionsformate am Vormittag sowie künstlerische Interventionen, die die Ausstellungsthemen ergänzen und die Verbindung zwischen Forschung, Raumwahrnehmung und künstlerischer Praxis hervorheben.",
-      "en": "The finissage day comprises a study day organized by Step – School for Territorial and Landscape Governance, featuring a performance by OHT Office for Human Theatre and the presentation of the exhibition catalogue. Attendees can expect morning lectures and discussions alongside live theatrical interventions that reflect and deepen the exhibition’s exploration of fragile geographies and memory."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage",
-      "de": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage",
-      "en": "https://eventi.comune.trento.it/Eventi/Pietre-di-pane-Memorie-di-geografie-fragili-Finissage"
-    }
-  },
-  {
-    "id": "entra-se-hai-il-coraggio-2026",
-    "name": {
-      "de": "Entra ... se hai il coraggio",
-      "en": "Entra ... se hai il coraggio",
-      "it": "Entra ... se hai il coraggio"
-    },
-    "startDate": "2026-10-30",
-    "endDate": "2026-10-30",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Per informazioni chiamare il numero 0461 889797 o scrivere una e-mail: biblioteca.argentario@comune.trento.it"
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Entra-se-hai-il-coraggio",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-21",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Entra-se-hai-il-coraggio"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Entra-se-hai-il-coraggio"
-    },
-    "descriptionVerified": "2026-10-21",
-    "assetVerified": "2026-10-21"
-  },
-  {
     "id": "sia-laudato-san-francesco-2026",
     "name": {
       "de": "Sia Laudato San Francesco",
@@ -6659,6 +6343,42 @@
     "assetVerified": "2026-11-06"
   },
   {
+    "id": "fidarsi-e-bene-informarsi-e-meglio-2026",
+    "name": {
+      "de": "Fidarsi è bene, informarsi è meglio",
+      "en": "Fidarsi è bene, informarsi è meglio",
+      "it": "Fidarsi è bene, informarsi è meglio"
+    },
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per contrastare questo problema il Comune di Trento, insieme a Spazio Argento e in collaborazione con il Corpo di Polizia locale di Trento-Monte Bondone, promuove il ciclo d’incontri di prevenzione “Fidarsi è bene, informarsi è meglio”. L’obiettivo è quello di informare ed educare i cittadini più anziani a riconoscere i segnali d’allarme e difendersi da possibili truffe e raggiri."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Fidarsi-e-bene-informarsi-e-meglio",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Fidarsi-e-bene-informarsi-e-meglio"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Fidarsi-e-bene-informarsi-e-meglio"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
+  },
+  {
     "id": "le-ultime-lune-con-alessandro-haber-2026",
     "name": {
       "de": "Le ultime lune con Alessandro Haber",
@@ -7198,6 +6918,42 @@
     "assetVerified": "2026-10-05"
   },
   {
+    "id": "percorsi-2026",
+    "name": {
+      "de": "Percorsi",
+      "en": "Percorsi",
+      "it": "Percorsi"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "startTime": "17:00",
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Sarà inaugurata venerdì 13 novembre alle 17:00, nella Sala Thun di Torre Mirana, la nuova mostra di Teresa Delaiti e Claudio Cavalieri \"Percorsi\". Il visitatore potrà ammirare la produzione di opere pittoriche realizzate da Delaiti con la tecnica della pittura a olio, che l’artista utilizza per trasmettere l’energia positiva della vita."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Percorsi",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Percorsi"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Percorsi"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
+  },
+  {
     "id": "sagra-del-baccala-2026",
     "name": {
       "de": "Sagra del baccalà",
@@ -7537,6 +7293,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante54"
     }
+  },
+  {
+    "id": "musica-a-palazzo-roccabruna-2026",
+    "name": {
+      "de": "Musica a Palazzo Roccabruna",
+      "en": "Musica a Palazzo Roccabruna",
+      "it": "Musica a Palazzo Roccabruna"
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Sei appuntamenti, da novembre 2026 ad aprile 2027, per scoprire il talento di giovani musicisti e lasciarsi emozionare dalla musica dal vivo. La rassegna, organizzata dalla Fondazione MAP – Musica e Arti Performative, prende il via sabato 14 novembre alle ore 18.00 con il primo concerto!"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
   },
   {
     "id": "natale-a-pergine-mercatino-di-natale-di-pergine-valsugana-2026",
@@ -8475,6 +8267,42 @@
     "assetVerified": "2026-11-06"
   },
   {
+    "id": "comunita-energetiche-2026",
+    "name": {
+      "de": "Comunità energetiche",
+      "en": "Comunità energetiche",
+      "it": "Comunità energetiche"
+    },
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-19",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La Circoscrizione di Povo organizza una serata informativa sul tema delle Comunità Energetiche Rinnovabili (Cer), con l’obiettivo di fornire informazioni e promuovere questa forma di partecipazione alla produzione e condivisione di energia da fonti rinnovabili. La serata prevede un momento di presentazione e approfondimento, con la partecipazione di uno o più esperti del settore, e uno spazio dedicato alle domande e al confronto con la cittadinanza."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Comunita-energetiche",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Comunita-energetiche"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Comunita-energetiche"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
+  },
+  {
     "id": "gruppo-di-lettura-di-sopramonte-2026",
     "name": {
       "de": "Gruppo di lettura di Sopramonte",
@@ -8803,6 +8631,42 @@
     },
     "descriptionVerified": "2026-11-09",
     "assetVerified": "2026-11-09"
+  },
+  {
+    "id": "il-dono-invisibile-2026",
+    "name": {
+      "de": "Il dono invisibile",
+      "en": "Il dono invisibile",
+      "it": "Il dono invisibile"
+    },
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "La Circoscrizione di Povo, in collaborazione con Aido, intende offrire alla cittadinanza un momento di conoscenza e approfondimento su questa importante tematica attraverso la proiezione di un cortometraggio che raccoglie testimonianze dirette di rinascita e speranza legate alla donazione di organi."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Il-dono-invisibile",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Il-dono-invisibile"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Il-dono-invisibile"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
   },
   {
     "id": "le-parole-fanno-la-differenza-2026",
@@ -9315,8 +9179,8 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/La-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata"
     },
-    "descriptionVerified": "2026-11-10",
-    "assetVerified": "2026-11-10"
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
   },
   {
     "id": "le-fiabe-come-strumento-di-relazione-e-di-prevenzione-2026",
@@ -9538,6 +9402,42 @@
     },
     "descriptionVerified": "2026-10-31",
     "assetVerified": "2026-10-31"
+  },
+  {
+    "id": "notte-dei-pupazzi-amici-di-nanna-al-castello-2026",
+    "name": {
+      "de": "Notte dei pupazzi - Amici di nanna al castello",
+      "en": "Notte dei pupazzi - Amici di nanna al castello",
+      "it": "Notte dei pupazzi - Amici di nanna al castello"
+    },
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Bambini e bambine, insieme ai loro inseparabili amici di nanna, sono pronti a vivere un’avventura davvero speciale al Castello del Buonconsiglio! Sabato 21 e domenica 22 novembre 2026 torna la seconda edizione della Notte dei pupazzi , un’iniziativa pensata per avvicinare i più piccoli all’arte e al mondo dei musei attraverso il gioco, la fantasia e la curiosità."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Notte-dei-pupazzi-Amici-di-nanna-al-castello",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Notte-dei-pupazzi-Amici-di-nanna-al-castello"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Notte-dei-pupazzi-Amici-di-nanna-al-castello"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
   },
   {
     "id": "presepi-contro-2026",
@@ -11574,8 +11474,8 @@
       "en": "https://www.visitrovereto.it/en/enjoy/events/nomi-il-paese-dei-presepi-monumentali/",
       "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/nomi-il-paese-dei-presepi-monumentali/"
     },
-    "descriptionVerified": "2026-11-10",
-    "assetVerified": "2026-11-10"
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
   },
   {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
@@ -11720,6 +11620,42 @@
     },
     "descriptionVerified": "2026-10-26",
     "assetVerified": "2026-10-26"
+  },
+  {
+    "id": "fidarsi-e-bene-informarsi-e-meglio-2026-2",
+    "name": {
+      "de": "Fidarsi è bene, informarsi è meglio",
+      "en": "Fidarsi è bene, informarsi è meglio",
+      "it": "Fidarsi è bene, informarsi è meglio"
+    },
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-01",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Per contrastare questo problema il Comune di Trento, insieme a Spazio Argento e in collaborazione con il Corpo di Polizia locale di Trento-Monte Bondone, promuove il ciclo d’incontri di prevenzione “Fidarsi è bene, informarsi è meglio”. L’obiettivo è quello di informare ed educare i cittadini più anziani a riconoscere i segnali d’allarme e difendersi da possibili truffe e raggiri."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Fidarsi-e-bene-informarsi-e-meglio2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Fidarsi-e-bene-informarsi-e-meglio2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Fidarsi-e-bene-informarsi-e-meglio2"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
   },
   {
     "id": "fili-di-storie-un-ciclo-di-incontri-per-incontrarsi-e-condividere-2026-4",
@@ -13505,6 +13441,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante58"
     }
+  },
+  {
+    "id": "musica-a-palazzo-roccabruna-2026-2",
+    "name": {
+      "de": "Musica a Palazzo Roccabruna",
+      "en": "Musica a Palazzo Roccabruna",
+      "it": "Musica a Palazzo Roccabruna"
+    },
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Sei appuntamenti, da novembre 2026 ad aprile 2027, per scoprire il talento di giovani musicisti e lasciarsi emozionare dalla musica dal vivo. La rassegna, organizzata dalla Fondazione MAP – Musica e Arti Performative, prende il via sabato 14 novembre alle ore 18.00 con il primo concerto!"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna2",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna2"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna2"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
   },
   {
     "id": "pattinaggio-a-riva-di-vallarsa-2026",
@@ -15809,6 +15781,49 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "bread-tells-a-story-2026",
+    "name": {
+      "de": "Bread Tells a Story",
+      "en": "Bread Tells a Story",
+      "it": "Bread Tells a Story"
+    },
+    "startDate": "2026-12-31",
+    "endDate": "2026-12-31",
+    "startTime": "14:30",
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Stories, traditions and flavours. Find out all about Bread Tells a Story and other events in Ledro!",
+      "it": "Storie, saperi e sapori. Scopri tutto su Il pane racconta e altri eventi a Ledro!",
+      "de": "Geschichten, Wissen und Genuss. Erfahre alles über Brot erzählt und andere Veranstaltungen in Ledro!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/bread-tells-a-story_103656",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/bread-tells-a-story_103656",
+      "https://www.gardatrentino.it/en/discover/events"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/bread-tells-a-story_103656",
+      "it": "https://www.gardatrentino.it/it/eventi/il-pane-racconta_103656",
+      "de": "https://www.gardatrentino.it/de/event/brot-erzhlt_103656"
+    },
+    "descriptionVerified": "2026-11-11",
+    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Il_pane_racconta_1.jpg",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/bread-tells-a-story_103656",
+    "assetVerified": "2026-11-11"
+  },
+  {
     "id": "farmers-market-arco-2026",
     "name": {
       "de": "Farmers' market Arco",
@@ -16530,6 +16545,42 @@
     "confidence": "official-corroborated"
   },
   {
+    "id": "musica-a-palazzo-roccabruna-2027",
+    "name": {
+      "de": "Musica a Palazzo Roccabruna",
+      "en": "Musica a Palazzo Roccabruna",
+      "it": "Musica a Palazzo Roccabruna"
+    },
+    "startDate": "2027-01-16",
+    "endDate": "2027-01-16",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Sei appuntamenti, da novembre 2026 ad aprile 2027, per scoprire il talento di giovani musicisti e lasciarsi emozionare dalla musica dal vivo. La rassegna, organizzata dalla Fondazione MAP – Musica e Arti Performative, prende il via sabato 14 novembre alle ore 18.00 con il primo concerto!"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna3",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna3"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna3"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
+  },
+  {
     "id": "roveretopop-2027",
     "name": {
       "de": "RoveretoPOP 2027",
@@ -16723,8 +16774,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-11-10",
-    "assetVerified": "2026-11-10",
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
@@ -17001,6 +17052,49 @@
     "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Prodotti_tipici/GARDATRENTINO_2023_PRUGNOLA_GUSTO_Broccolo_Torbole_food_Prodotti_Tipici.JPG",
     "imageSourceUrl": "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
     "assetVerified": "2026-11-08"
+  },
+  {
+    "id": "festa-del-sol-2027-2",
+    "name": {
+      "de": "Festa del Sol",
+      "en": "Festa del Sol",
+      "it": "Festa del Sol"
+    },
+    "startDate": "2027-01-31",
+    "endDate": "2027-01-31",
+    "startTime": null,
+    "municipality": "Ledro",
+    "area": "Alto Garda",
+    "venue": "Ledro",
+    "category": "Festival",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "The “son of the wind” on your plate… and beyond. Find out all about Festa del Broccolo and other events in Torbole sul Garda!",
+      "it": "Il figlio del vento in tavola… e non solo. Scopri tutto su Festa del Broccolo e altri eventi a Torbole sul Garda!",
+      "de": "Der Sohn des Windes auf dem Teller … und nicht nur dort. Erfahre alles über Festa del Broccolo und andere Veranstaltungen in Torbole sul Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+      "https://www.gardatrentino.it/en/discover/events?page=4"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+      "it": "https://www.gardatrentino.it/it/eventi/festa-del-broccolo-_50328",
+      "de": "https://www.gardatrentino.it/de/event/festa-del-broccolo-_50328"
+    },
+    "descriptionVerified": "2026-11-11",
+    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Prodotti_tipici/GARDATRENTINO_2023_PRUGNOLA_GUSTO_Broccolo_Torbole_food_Prodotti_Tipici.JPG",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/festa-del-broccolo-_50328",
+    "assetVerified": "2026-11-11"
   },
   {
     "id": "hospitality-2027",
@@ -17287,6 +17381,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Rosaluna-e-i-lupi"
     }
+  },
+  {
+    "id": "musica-a-palazzo-roccabruna-2027-2",
+    "name": {
+      "de": "Musica a Palazzo Roccabruna",
+      "en": "Musica a Palazzo Roccabruna",
+      "it": "Musica a Palazzo Roccabruna"
+    },
+    "startDate": "2027-02-13",
+    "endDate": "2027-02-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Sei appuntamenti, da novembre 2026 ad aprile 2027, per scoprire il talento di giovani musicisti e lasciarsi emozionare dalla musica dal vivo. La rassegna, organizzata dalla Fondazione MAP – Musica e Arti Performative, prende il via sabato 14 novembre alle ore 18.00 con il primo concerto!"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna4",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna4"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna4"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
   },
   {
     "id": "visita-guidata-alla-mostra-il-potere-della-musica-2027-7",
@@ -17650,6 +17780,42 @@
     }
   },
   {
+    "id": "musica-a-palazzo-roccabruna-2027-3",
+    "name": {
+      "de": "Musica a Palazzo Roccabruna",
+      "en": "Musica a Palazzo Roccabruna",
+      "it": "Musica a Palazzo Roccabruna"
+    },
+    "startDate": "2027-03-13",
+    "endDate": "2027-03-13",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Sei appuntamenti, da novembre 2026 ad aprile 2027, per scoprire il talento di giovani musicisti e lasciarsi emozionare dalla musica dal vivo. La rassegna, organizzata dalla Fondazione MAP – Musica e Arti Performative, prende il via sabato 14 novembre alle ore 18.00 con il primo concerto!"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna5",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna5"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna5"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
+  },
+  {
     "id": "27-flicorno-d-oro-2027",
     "name": {
       "de": "27° Flicorno d’Oro",
@@ -17834,6 +18000,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-22"
     }
+  },
+  {
+    "id": "musica-a-palazzo-roccabruna-2027-4",
+    "name": {
+      "de": "Musica a Palazzo Roccabruna",
+      "en": "Musica a Palazzo Roccabruna",
+      "it": "Musica a Palazzo Roccabruna"
+    },
+    "startDate": "2027-04-17",
+    "endDate": "2027-04-17",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Sei appuntamenti, da novembre 2026 ad aprile 2027, per scoprire il talento di giovani musicisti e lasciarsi emozionare dalla musica dal vivo. La rassegna, organizzata dalla Fondazione MAP – Musica e Arti Performative, prende il via sabato 14 novembre alle ore 18.00 con il primo concerto!"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna6",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna6"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Musica-a-Palazzo-Roccabruna6"
+    },
+    "descriptionVerified": "2026-11-11",
+    "assetVerified": "2026-11-11"
   },
   {
     "id": "la-stanza-di-agnese-2027",
@@ -18282,6 +18484,92 @@
     "image": "https://www.gardatrentino.it/website_images/events/2026_Events_Top_Dolomites_2.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/top-dolomites-outdoor-festival_49077",
     "assetVerified": "2026-10-23"
+  },
+  {
+    "id": "musicarivafestival-2027",
+    "name": {
+      "de": "MusicaRivafestival",
+      "en": "MusicaRivafestival",
+      "it": "MusicaRivafestival"
+    },
+    "startDate": "2027-08-01",
+    "endDate": "2027-08-01",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Find out all about MusicaRivafestival and other events in Riva del Garda!",
+      "it": "43° edizione. Scopri tutto su MusicaRivafestival e altri eventi a Riva del Garda!",
+      "de": "Erfahre alles über MusicaRivafestival und andere Veranstaltungen in Riva del Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/musicarivafestival_64163",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/musicarivafestival_64163",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/musicarivafestival_64163",
+      "it": "https://www.gardatrentino.it/it/eventi/musicarivafestival_64163",
+      "de": "https://www.gardatrentino.it/de/event/musicarivafestival_64163"
+    },
+    "descriptionVerified": "2026-11-11",
+    "image": "https://www.gardatrentino.it/website_images/events/03%20-%20Piano%20recital-4.jpg",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/musicarivafestival_64163",
+    "assetVerified": "2026-11-11"
+  },
+  {
+    "id": "mytransalp-2027-2",
+    "name": {
+      "de": "MYTRANSALP",
+      "en": "MYTRANSALP",
+      "it": "MYTRANSALP"
+    },
+    "startDate": "2027-08-01",
+    "endDate": "2027-08-01",
+    "startTime": "08:00",
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "Stage 7 Riva del Garda. Find out all about MYTRANSALP and other events in Riva del Garda!",
+      "it": "Stage 7 Riva del Garda. Scopri tutto su MYTRANSALP e altri eventi a Riva del Garda!",
+      "de": "Stage 7 Riva del Garda. Erfahre alles über MYTRANSALP und andere Veranstaltungen in Riva del Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/mytransalp_8815",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-11",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/mytransalp_8815",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/mytransalp_8815",
+      "it": "https://www.gardatrentino.it/it/eventi/mytransalp_8815",
+      "de": "https://www.gardatrentino.it/de/event/mytransalp_8815"
+    },
+    "descriptionVerified": "2026-11-11",
+    "image": "https://www.gardatrentino.it/website_images/events/mytransalp_nero.png",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/mytransalp_8815",
+    "assetVerified": "2026-11-11"
   },
   {
     "id": "mytransalp-2027",
