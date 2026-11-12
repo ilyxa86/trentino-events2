@@ -1,43 +1,5 @@
 [
   {
-    "id": "i-colori-di-tridentum-2025",
-    "name": {
-      "de": "I colori di Tridentum",
-      "en": "I colori di Tridentum",
-      "it": "I colori di Tridentum"
-    },
-    "startDate": "2025-12-18",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Allestita fino al 31 ottobre nei due principali siti della Trento romana - lo Spazio Archeologico Sotterraneo del Sas S.A.S.S. in piazza Cesare Battisti e la Villa di Orfeo in via Rosmini - la mostra “I colori di Tridentum. Decorazione e arredo nella città romana” si arricchisce nei mesi primaverili di un programma di iniziative collaterali curato dall’Ufficio beni archeologici della Soprintendenza per i beni culturali della Provincia autonoma di Trento."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.cultura.trentino.it/Rassegne/I-colori-di-Tridentum",
-    "source": "Trentino Cultura - Rassegne",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.cultura.trentino.it/Rassegne/I-colori-di-Tridentum"
-    ],
-    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/i-colori-di-tridentum-foto-giovanni-virruso-archivio-ufficio-beni-archeologici-pat-9_imagefullwide2/27917504-1-ita-IT/I-colori-di-Tridentum-foto-Giovanni-Virruso-Archivio-Ufficio-beni-archeologici-PAT-9_imagefullwide_opengraph.jpg",
-    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/I-colori-di-Tridentum",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://www.cultura.trentino.it/Rassegne/I-colori-di-Tridentum"
-    },
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15"
-  },
-  {
     "id": "visita-e-degustazione-esclusiva-alla-cantina-dalzocchio-2026",
     "name": {
       "de": "Visita e degustazione esclusiva alla Cantina Dalzocchio",
@@ -527,85 +489,6 @@
     "confidence": "official-corroborated"
   },
   {
-    "id": "eventi-orto-san-marco-setap-2026",
-    "name": {
-      "de": "Eventi Orto San Marco – Setàp",
-      "en": "Eventi Orto San Marco – Setàp",
-      "it": "Eventi Orto San Marco – Setàp"
-    },
-    "startDate": "2026-06-01",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Ein Sommer voller Kultur, Workshops, Musik und Events im Orto San Marco Der Orto San Marco startet wieder durch mit einem sommerlichen Programm voller Veranstaltungen für jedes Alter. Von anregenden Talks und Presseschauen bei einem guten Kaffee bis hin zu DJ-Sets unter dem Sternenhimmel und Sommerlagern für die Kleinsten: Entdecke das komplette Programm und pflege die Lust am Zusammensein!",
-      "en": "A summer rich in culture, workshops, music, and events at Orto San Marco. Orto San Marco is revving its engines again with a summer schedule full of events for all ages.",
-      "it": "Un’estate ricca di cultura, laboratori, musica ed eventi all’Orto San Marco L’Orto San Marco riaccende i motori con un palinsesto estivo ricco di appuntamenti per tutte le età. Da talk stimolanti e rassegne stampa davanti a un buon caffè, fino ai dj set sotto le stelle e ai centri estivi per i più piccoli: scopri il programma completo e coltiva la voglia di stare insieme!"
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/eventi-orto-san-marco/",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/07/Eventi-Orto-san-Marco-@visitrovereto-Luca-Matassoni-.png",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/eventi-orto-san-marco",
-      "https://www.visitrovereto.it/vivi/eventi/eventi-orto-san-marco/"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/eventi-orto-san-marco/",
-      "en": "https://www.visitrovereto.it/en/enjoy/events/orto-san-marco-events-setap/",
-      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/orto-san-marco-events-setap/"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "la-nuova-stagione-di-castello-san-giovanni-2026",
-    "name": {
-      "de": "La nuova stagione di Castello San Giovanni",
-      "en": "La nuova stagione di Castello San Giovanni",
-      "it": "La nuova stagione di Castello San Giovanni"
-    },
-    "startDate": "2026-07-18",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Bondone",
-    "area": "Other Trentino",
-    "venue": "Bondone",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Un nuovo programma di visite guidate, spettacoli ed esperienze al castello. La Torre Gina ospita “Bondù."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni",
-    "source": "Trentino Cultura - Rassegne",
-    "verified": "2026-08-26",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/castello-di-san-giovanni-tdallatina-33/28067985-1-ita-IT/Castello-di-San-Giovanni-tdallatina-3_imagefull.jpg",
-    "sourceUrls": [
-      "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni"
-    ],
-    "descriptionSources": {
-      "it": "https://www.cultura.trentino.it/Rassegne/La-nuova-stagione-di-Castello-San-Giovanni"
-    },
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
-  },
-  {
     "id": "c-sc-circuito-danza-2026",
     "name": {
       "de": "C:SC Circuito Danza 2026/2027",
@@ -874,38 +757,6 @@
     ]
   },
   {
-    "id": "european-mobility-week-2026-4",
-    "name": {
-      "de": "European Mobility Week",
-      "en": "European Mobility Week",
-      "it": "European Mobility Week"
-    },
-    "startDate": "2026-09-22",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „European Mobility Week“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“European Mobility Week” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “European Mobility Week” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-17",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
-  },
-  {
     "id": "european-mobility-week-2026-6",
     "name": {
       "de": "European Mobility Week",
@@ -1075,44 +926,6 @@
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events"
     ]
-  },
-  {
-    "id": "ottobre-a-teatro-2026",
-    "name": {
-      "de": "Ottobre a teatro 2026",
-      "en": "Ottobre a teatro 2026",
-      "it": "Ottobre a teatro 2026"
-    },
-    "startDate": "2026-09-26",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Culture & Dance",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Dal 26 settembre al 31 ottobre l’auditorium della Comunità Alto Garda e Ledro a Riva del Garda ospita la 29ª edizione di «Ottobre a teatro», rassegna curata dalla compagnia I Sarcaioli con il patrocinio del Comune di Riva del Garda, della Comunità Alto Garda e Ledro e di Cofas, e il contributo della Cassa Rurale Alto Garda-Rovereto."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Ottobre-a-teatro-2026",
-    "source": "Trentino Cultura - Rassegne",
-    "verified": "2026-09-16",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.cultura.trentino.it/Rassegne/Ottobre-a-teatro-2026"
-    ],
-    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
-    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Ottobre-a-teatro-2026",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://www.cultura.trentino.it/Rassegne/Ottobre-a-teatro-2026"
-    },
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15"
   },
   {
     "id": "festival-intermittenze-2026-3",
@@ -1733,70 +1546,6 @@
     ]
   },
   {
-    "id": "dal-fucile-alla-matita-2026-9",
-    "name": {
-      "de": "Dal fucile alla matita",
-      "en": "Dal fucile alla matita",
-      "it": "Dal fucile alla matita"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-31",
-    "startTime": "10:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Dal fucile alla matita“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Dal fucile alla matita” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Dal fucile alla matita” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
-    "source": "Garda Trentino - events",
-    "verified": "2026-09-30",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
-    ]
-  },
-  {
-    "id": "international-chess-tournament-citta-di-arco-2026-3",
-    "name": {
-      "de": "International Chess Tournament Città di Arco",
-      "en": "International Chess Tournament Città di Arco",
-      "it": "International Chess Tournament Città di Arco"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-31",
-    "startTime": "15:00",
-    "municipality": "Arco",
-    "area": "Alto Garda",
-    "venue": "Arco",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „International Chess Tournament Città di Arco“ in Arco. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“International Chess Tournament Città di Arco” event in Arco. See the official event page for the latest details.",
-      "it": "Evento “International Chess Tournament Città di Arco” a Arco. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-03",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
-  },
-  {
     "id": "international-chess-tournament-citta-di-arco-2026-5",
     "name": {
       "de": "International Chess Tournament Città di Arco",
@@ -1859,49 +1608,6 @@
     "sourceUrls": [
       "https://www.gardatrentino.it/en/discover/events"
     ]
-  },
-  {
-    "id": "mese-del-gusto-2026-9",
-    "name": {
-      "de": "Mese del Gusto",
-      "en": "Mese del Gusto",
-      "it": "Mese del Gusto"
-    },
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Mese del Gusto im Garda Trentino: Das herbstliche Food-Festival. Alle Informationen zu Events, Terminen, kulinarische Themenwege und Highlights.",
-      "en": "Autumn sees the return of events with taste: Mese del Gusto is the name capturing the gastronomic happenings that will bring Garda Trentino to the table.",
-      "it": "Rassegna di eventi autunnali che valorizzano i prodotti tipici del Garda Trentino."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-11",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto"
-    ],
-    "image": "https://www.gardatrentino.it/website_images/Dolce_Vita/Food_Wine/Mese_del_Gusto/image-thumb__72706__fb-thumb/GG_20260707_MESEDELGUSTO_HederEventi_1920x1080.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "en": "https://www.gardatrentino.it/en/dolce-vita/food-and-wine/mese-del-gusto",
-      "it": "https://www.gardatrentino.it/it/dolce-vita/food-and-wine/mese-del-gusto",
-      "de": "https://www.gardatrentino.it/de/dolce-vita/genuss/mese-del-gusto"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15"
   },
   {
     "id": "fb-sensoriamo-per-bimbi-0-18-mesi-ciclo-di-incontri-2026",
@@ -2673,46 +2379,6 @@
     "image": "https://www.gardatrentino.it/website_images/events/FINEWine2026.png",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/fine-winetourism-marketplace-italy_89210",
     "assetVerified": "2026-10-26"
-  },
-  {
-    "id": "sia-laudato-san-francesco-2026",
-    "name": {
-      "de": "Sia Laudato San Francesco",
-      "en": "Sia Laudato San Francesco",
-      "it": "Sia Laudato San Francesco"
-    },
-    "startDate": "2026-10-30",
-    "endDate": "2026-10-30",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "A 800 anni dalla morte di San Francesco, il Gruppo vocale Laurence Feininger, diretto da Roberto Gianotti, porta al Castello del Buonconsiglio un viaggio nella musica francescana: sequenze, laude, antifone e rari brani liturgici tratti da codici dal XIII al XVIII secolo.",
-      "de": "Zum 800. Todesjahr von Franz von Assisi bringt der Vokalchor Laurence Feininger unter der Leitung von Roberto Gianotti eine musikalische Reise in die franziskanische Tradition. Das Programm umfasst Sequenzen, Lauden, Antiphonen und seltene liturgische Stücke aus Handschriften vom 13. bis 18. Jahrhundert, die einen historischen Einblick in die religiöse Musikpraxis bieten.",
-      "en": "On the 800th anniversary of Saint Francis’s death, the Laurence Feininger vocal ensemble led by Roberto Gianotti presents a musical journey through Franciscan repertoire. The programme features sequences, lauds, antiphons and rare liturgical pieces drawn from manuscripts spanning the 13th to 18th centuries, offering historical perspectives on devotional music."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-24",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco",
-      "de": "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco",
-      "en": "https://eventi.comune.trento.it/Eventi/Sia-Laudato-San-Francesco"
-    }
   },
   {
     "id": "alla-scoperta-di-trento-2026-10",
@@ -6631,6 +6297,43 @@
     "assetVerified": "2026-11-03"
   },
   {
+    "id": "aperitivi-scientifici-primo-appuntamento-2026",
+    "name": {
+      "de": "Aperitivi Scientifici - primo appuntamento",
+      "en": "Aperitivi Scientifici - primo appuntamento",
+      "it": "Aperitivi Scientifici - primo appuntamento"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "startTime": null,
+    "municipality": "Cembra",
+    "area": "Other Trentino",
+    "venue": "Cembra",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Le fondazioni dell'intelligenza artificiale: come ci siamo arrivati e dove stiamo andando?"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/aperitivi-scientifici-primo-appuntamento_e_137473904",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/fiemme/aperitivi-scientifici---primo-appuntamento_137473904/7884225/image-thumb__7884225__moodboard_list/aperitivi-scientifici---primo-appuntamento_137473904_1.93f1d5ba.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/aperitivi-scientifici-primo-appuntamento_e_137473904"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/aperitivi-scientifici-primo-appuntamento_e_137473904"
+    },
+    "descriptionVerified": "2026-11-12",
+    "assetVerified": "2026-11-12"
+  },
+  {
     "id": "riva-christmas-2026",
     "name": {
       "en": "Di Gusto in Gusto – Christmas Village",
@@ -6664,6 +6367,44 @@
     "assetVerified": "2026-08-27",
     "image": "https://www.gardatrentino.it/website_images/Scopri/Inverno/Villaggio_del_Gusto/2025_APTGARDADOLOMITI_ph.PRUGNOLA_Inverno_RivaDelGarda_DiGustoInGusto_0I1A0010.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/from-taste-to-taste_9213"
+  },
+  {
+    "id": "dire-di-se-corpi-tracce-e-lavori-delle-donne-tra-cura-confini-e-autodete-2026",
+    "name": {
+      "de": "Dire di sé | Corpi, tracce e lavori delle donne tra cura, confini e autodeterminazione",
+      "en": "Dire di sé | Corpi, tracce e lavori delle donne tra cura, confini e autodeterminazione",
+      "it": "Dire di sé | Corpi, tracce e lavori delle donne tra cura, confini e autodeterminazione"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2026-12-10",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Nasce da questa idea “Dire di sé. Corpi, tracce e lavori delle donne tra cura, confini e autodeterminazione”, la nuova rassegna culturale ideata e organizzata da PequodCompagnia APS , in programma a Trento dal 13 novembre al 10 dicembre 2026."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.cultura.trentino.it/Rassegne/Dire-di-se-Corpi-tracce-e-lavori-delle-donne-tra-cura-confini-e-autodeterminazione",
+    "source": "Trentino Cultura - Rassegne",
+    "verified": "2026-11-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://www.cultura.trentino.it/Rassegne/Dire-di-se-Corpi-tracce-e-lavori-delle-donne-tra-cura-confini-e-autodeterminazione"
+    ],
+    "descriptionSources": {
+      "it": "https://www.cultura.trentino.it/Rassegne/Dire-di-se-Corpi-tracce-e-lavori-delle-donne-tra-cura-confini-e-autodeterminazione"
+    },
+    "descriptionVerified": "2026-11-12",
+    "image": "https://www.cultura.trentino.it/var/001/storage/images/media/images/sfondo-ocra2/27441282-1-ita-IT/sfondo-ocra_opengraph.jpg",
+    "imageSourceUrl": "https://www.cultura.trentino.it/Rassegne/Dire-di-se-Corpi-tracce-e-lavori-delle-donne-tra-cura-confini-e-autodeterminazione",
+    "assetVerified": "2026-11-12"
   },
   {
     "id": "dire-di-se-femine-mi-chiamavano-tina-sulle-tracce-di-una-rivoluzionaria-2026",
@@ -6918,6 +6659,43 @@
     "assetVerified": "2026-10-05"
   },
   {
+    "id": "mia-signora-di-pietra-e-di-vento-katia-tenti-2026",
+    "name": {
+      "de": "Mia signora di pietra e di vento - Katia Tenti",
+      "en": "Mia signora di pietra e di vento - Katia Tenti",
+      "it": "Mia signora di pietra e di vento - Katia Tenti"
+    },
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "startTime": "20:30",
+    "municipality": "Levico Terme",
+    "area": "Other Trentino",
+    "venue": "Levico Terme",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Venerdì 13 novembre ore 20:30 Caffè Nazionale Levico Terme"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/mia-signora-di-pietra-e-di-vento-katia-tenti_e_124121281",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/mia-signora-di-pietra-e-di-vento---katia-tenti-_124121281/7877809/image-thumb__7877809__moodboard_list/mia-signora-di-pietra-e-di-vento---katia-tenti-_124121281_1.19e74a42.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/mia-signora-di-pietra-e-di-vento-katia-tenti_e_124121281"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/mia-signora-di-pietra-e-di-vento-katia-tenti_e_124121281"
+    },
+    "descriptionVerified": "2026-11-12",
+    "assetVerified": "2026-11-12"
+  },
+  {
     "id": "percorsi-2026",
     "name": {
       "de": "Percorsi",
@@ -7151,6 +6929,42 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "giornata-mondiale-del-diabete-2026",
+    "name": {
+      "de": "Giornata mondiale del diabete",
+      "en": "Giornata mondiale del diabete",
+      "it": "Giornata mondiale del diabete"
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "In occasione della Giornata mondiale del diabete, le associazioni Diabete giovanile del Trentino e Trentina diabetici organizzano una giornata informativa sul tema in collaborazione con Asuit (Azienda sanitaria universitaria integrata del Trentino) e Fondazione Caritro. Il Comune di Trento aderisce e partecipa pubblicizzando l'iniziativa con indicazioni di sensibilizzazione che compariranno sul ledwall dell'ostello Giovane Europa in via Torre Vanga 11."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-del-diabete",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-del-diabete"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Giornata-mondiale-del-diabete"
+    },
+    "descriptionVerified": "2026-11-12",
+    "assetVerified": "2026-11-12"
+  },
+  {
     "id": "giornate-dell-educare-2026-2",
     "name": {
       "de": "Giornate dell’educare",
@@ -7185,6 +6999,43 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Giornate-dell-educare2"
     }
+  },
+  {
+    "id": "l-universo-in-posa-2026",
+    "name": {
+      "de": "L’Universo in posa",
+      "en": "L’Universo in posa",
+      "it": "L’Universo in posa"
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Exhibition",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Una mostra temporanea dedicata alla bellezza del Cosmo attraverso gli scatti premiati nel concorso “Obiettivo Spazio”. Guardare le stelle con il naso all’insù diventa un’esperienza di scoperta e conoscenza grazie a questa esposizione fotografica."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/mostra-astrofotografia",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-11-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2026/11/Mostra-LUniverso-in-posa.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/mostra-astrofotografia"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/mostra-astrofotografia/"
+    },
+    "descriptionVerified": "2026-11-12",
+    "assetVerified": "2026-11-12"
   },
   {
     "id": "let-s-read-another-story-2026",
@@ -9179,8 +9030,8 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/La-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata"
     },
-    "descriptionVerified": "2026-11-11",
-    "assetVerified": "2026-11-11"
+    "descriptionVerified": "2026-11-12",
+    "assetVerified": "2026-11-12"
   },
   {
     "id": "le-fiabe-come-strumento-di-relazione-e-di-prevenzione-2026",
@@ -11166,6 +11017,43 @@
     "assetVerified": "2026-10-15"
   },
   {
+    "id": "presentazione-guida-slow-wine-2026",
+    "name": {
+      "de": "Presentazione Guida Slow Wine 2027",
+      "en": "Presentazione Guida Slow Wine 2027",
+      "it": "Presentazione Guida Slow Wine 2027"
+    },
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-28",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Markets & Shopping",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Una giornata interamente dedicata ai vini buoni, puliti e giusti del Trentino con mostra mercato e degustazione! Slow Food Trentino presenta Slow Wine 2027 , la guida che racconta le migliori esperienze del vino italiano e le aziende che condividono i valori della sostenibilità, del rispetto per il territorio e della qualità."
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/presentazione-guida-slow-wine-2026",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-11-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2025/11/SITO-WEB-990-x-545-px-4.png",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/presentazione-guida-slow-wine-2026"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/presentazione-guida-slow-wine-2026/"
+    },
+    "descriptionVerified": "2026-11-12",
+    "assetVerified": "2026-11-12"
+  },
+  {
     "id": "sorsi-di-natale-2026",
     "name": {
       "de": "Sorsi di Natale",
@@ -11474,8 +11362,8 @@
       "en": "https://www.visitrovereto.it/en/enjoy/events/nomi-il-paese-dei-presepi-monumentali/",
       "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/nomi-il-paese-dei-presepi-monumentali/"
     },
-    "descriptionVerified": "2026-11-11",
-    "assetVerified": "2026-11-11"
+    "descriptionVerified": "2026-11-12",
+    "assetVerified": "2026-11-12"
   },
   {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
@@ -15552,6 +15440,43 @@
     "assetVerified": "2026-11-10"
   },
   {
+    "id": "capodanno-in-vallagarina-2026",
+    "name": {
+      "de": "Capodanno in Vallagarina",
+      "en": "Capodanno in Vallagarina",
+      "it": "Capodanno in Vallagarina"
+    },
+    "startDate": "2026-12-29",
+    "endDate": "2026-12-29",
+    "startTime": null,
+    "municipality": "Rovereto",
+    "area": "Rovereto & Vallagarina",
+    "venue": "Rovereto",
+    "category": "Culture & Music",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Che sia in valle o in montagna il Capodanno in Vallagarina vuol dire divertimento assicurato! Hai bisogno di restare a dormire?"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/capodanno-vallagarina",
+    "source": "Visit Rovereto / Vallagarina - events",
+    "verified": "2026-11-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visitrovereto.it/wp-content/uploads/2016/12/fuochi-d-artificio.jpg",
+    "sourceUrls": [
+      "https://www.visitrovereto.it/vivi/eventi/capodanno-vallagarina"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visitrovereto.it/vivi/eventi/capodanno-vallagarina/"
+    },
+    "descriptionVerified": "2026-11-12",
+    "assetVerified": "2026-11-12"
+  },
+  {
     "id": "confronti-concerto-di-capodanno-2026",
     "name": {
       "de": "Confronti - Concerto di Capodanno",
@@ -16774,8 +16699,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-11-11",
-    "assetVerified": "2026-11-11",
+    "descriptionVerified": "2026-11-12",
+    "assetVerified": "2026-11-12",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
@@ -18220,6 +18145,49 @@
     "assetVerified": "2026-08-27"
   },
   {
+    "id": "fsa-bike-festival-riva-del-garda-2027",
+    "name": {
+      "de": "FSA Bike Festival Riva del Garda",
+      "en": "FSA Bike Festival Riva del Garda",
+      "it": "FSA Bike Festival Riva del Garda"
+    },
+    "startDate": "2027-05-02",
+    "endDate": "2027-05-30",
+    "startTime": null,
+    "municipality": "Riva del Garda",
+    "area": "Alto Garda",
+    "venue": "Riva del Garda",
+    "category": "Sport & Outdoor",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "en": "The biggest bike expo in Europe awaits you in Riva del Garda . Find out all about FSA Bike Festival Riva del Garda and other events in Riva del Garda!",
+      "it": "La più grande fiera di biciclette d'Europa ti aspetta a Riva del Garda . Scopri tutto su FSA Bike Festival Riva del Garda e altri eventi a Riva del Garda!",
+      "de": "Die größte Fahrradmesse Europas erwartet dich in Riva del Garda . Erfahre alles über FSA Bike Festival Riva del Garda und andere Veranstaltungen in Riva del Garda!"
+    },
+    "descriptionStatus": "complete",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "http://www.gardatrentino.it/en/events/fsa-bike-festival-riva-del-garda_3463",
+    "source": "Garda Trentino - events",
+    "verified": "2026-11-12",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "http://www.gardatrentino.it/en/events/fsa-bike-festival-riva-del-garda_3463",
+      "https://www.gardatrentino.it/en/discover/events?page=5"
+    ],
+    "descriptionSources": {
+      "en": "http://www.gardatrentino.it/en/events/fsa-bike-festival-riva-del-garda_3463",
+      "it": "https://www.gardatrentino.it/it/eventi/fsa-bike-festival-riva-del-garda_3463",
+      "de": "https://www.gardatrentino.it/de/event/fsa-bike-festival-riva-del-garda_3463"
+    },
+    "descriptionVerified": "2026-11-12",
+    "image": "https://www.gardatrentino.it/website_images/events/2023_GardaTrentino_Bike_Festival_nuovo_sito.jpg",
+    "imageSourceUrl": "http://www.gardatrentino.it/en/events/fsa-bike-festival-riva-del-garda_3463",
+    "assetVerified": "2026-11-12"
+  },
+  {
     "id": "rebuild-2027",
     "name": {
       "en": "REbuild 2027",
@@ -18511,12 +18479,13 @@
     "price": "See official page",
     "officialUrl": "http://www.gardatrentino.it/en/events/musicarivafestival_64163",
     "source": "Garda Trentino - events",
-    "verified": "2026-11-11",
+    "verified": "2026-11-12",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
       "http://www.gardatrentino.it/en/events/musicarivafestival_64163",
-      "https://www.gardatrentino.it/en/discover/events?page=5"
+      "https://www.gardatrentino.it/en/discover/events?page=5",
+      "https://www.gardatrentino.it/en/discover/events?page=6"
     ],
     "descriptionSources": {
       "en": "http://www.gardatrentino.it/en/events/musicarivafestival_64163",

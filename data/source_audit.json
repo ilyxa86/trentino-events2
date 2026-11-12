@@ -1,13 +1,13 @@
 {
   "protocolVersion": 5,
-  "lastRun": "2026-11-11T10:55:50Z",
+  "lastRun": "2026-11-12T11:06:45Z",
   "overallStatus": "PARTIAL",
   "sources": {
     "visittrentino_all_events": {
       "priority": "P0",
-      "lastScan": "2026-11-11T10:48:40Z",
+      "lastScan": "2026-11-12T10:58:16Z",
       "status": "PARTIAL",
-      "reportedTotal": 598,
+      "reportedTotal": 623,
       "recordsSeen": 890,
       "uniqueCandidates": 906,
       "pagesOrBucketsScanned": [
@@ -17,16 +17,16 @@
       "errors": [],
       "notes": [
         "sitemaps=160, matchingEventUrls=890",
-        "Live index reports 598; sitemap exposes 890 event URLs. AI/date filtering must reconcile the live 12-month set."
+        "Live index reports 623; sitemap exposes 890 event URLs. AI/date filtering must reconcile the live 12-month set."
       ]
     },
     "visitrovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-11-11T10:49:33Z",
+      "lastScan": "2026-11-12T10:59:14Z",
       "status": "COMPLETE",
       "reportedTotal": null,
-      "recordsSeen": 87,
-      "uniqueCandidates": 127,
+      "recordsSeen": 90,
+      "uniqueCandidates": 130,
       "pagesOrBucketsScanned": [
         "https://www.visitrovereto.it/vivi/eventi/",
         "https://www.visitrovereto.it/vivi/eventi/?lang=it&pno=2",
@@ -45,7 +45,7 @@
     },
     "visitrovereto_estate": {
       "priority": "P0",
-      "lastScan": "2026-11-11T10:49:53Z",
+      "lastScan": "2026-11-12T10:59:35Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 6,
@@ -68,9 +68,9 @@
     },
     "comune_rovereto_events": {
       "priority": "P0",
-      "lastScan": "2026-11-11T10:49:56Z",
+      "lastScan": "2026-11-12T10:59:39Z",
       "status": "PARTIAL",
-      "reportedTotal": 654,
+      "reportedTotal": 660,
       "recordsSeen": 0,
       "uniqueCandidates": 0,
       "pagesOrBucketsScanned": [
@@ -105,19 +105,20 @@
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/560?Order=desc",
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/580?Order=desc",
         "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/600?Order=desc",
-        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/620?Order=desc",
-        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/640?Order=desc"
+        "https://eventi.comune.rovereto.tn.it/content/search/%28offset%29/620?Order=desc"
       ],
       "attachmentsScanned": [],
-      "errors": [],
+      "errors": [
+        "offset 640: HTTPSConnectionPool(host='eventi.comune.rovereto.tn.it', port=443): Read timed out. (read timeout=35)"
+      ],
       "notes": [
         "sitemaps=2, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=654 uniqueEventUrls=0 searchPages=33/33"
+        "OpenAgenda reconciliation: reported=660 uniqueEventUrls=0 searchPages=32/33"
       ]
     },
     "trentino_cultura_appuntamenti": {
       "priority": "P0",
-      "lastScan": "2026-11-11T10:50:24Z",
+      "lastScan": "2026-11-12T11:00:44Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -136,11 +137,11 @@
     },
     "trentino_cultura_rassegne": {
       "priority": "P0",
-      "lastScan": "2026-11-11T10:50:26Z",
+      "lastScan": "2026-11-12T11:00:47Z",
       "status": "PARTIAL",
       "reportedTotal": null,
-      "recordsSeen": 617,
-      "uniqueCandidates": 691,
+      "recordsSeen": 618,
+      "uniqueCandidates": 693,
       "pagesOrBucketsScanned": [
         "https://www.cultura.trentino.it/Rassegne",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12",
@@ -162,6 +163,8 @@
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/204",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/216",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/228",
+        "https://www.cultura.trentino.it/Rassegne/Dire-di-se-Corpi-tracce-e-lavori-delle-donne-tra-cura-confini-e-autodeterminazione#children",
+        "https://www.cultura.trentino.it/Rassegne/Dire-di-se-Corpi-tracce-e-lavori-delle-donne-tra-cura-confini-e-autodeterminazione#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-della-Meraviglia-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-della-Meraviglia-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Cineforum-San-Marco-2026#children",
@@ -200,12 +203,12 @@
         "https://www.cultura.trentino.it/Rassegne/La-famiglia-va-a-teatro-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-di-Lavis-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-di-Lavis-Stagione-2026-2027#children",
-        "https://www.cultura.trentino.it/Rassegne/Teatro-Giudicarie-Stagione-2026-2027#children",
-        "https://www.cultura.trentino.it/Rassegne/Teatro-Giudicarie-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/20#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/40#children",
         "https://www.cultura.trentino.it/Rassegne/(offset)/20#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12#children",
+        "https://www.cultura.trentino.it/Rassegne/Teatro-Giudicarie-Stagione-2026-2027#children",
+        "https://www.cultura.trentino.it/Rassegne/Teatro-Giudicarie-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-di-Riva-del-Garda-Nago-Torbole-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-di-Riva-del-Garda-Nago-Torbole-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Paesaggi-Sonori-2026-2027-Musiche-dal-Mondo-in-Valle-dei-Laghi#children",
@@ -228,10 +231,9 @@
         "https://www.cultura.trentino.it/Rassegne/Vallelaghi-Teatro-Valle-dei-Laghi-Stagione-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Il-volto-della-battaglia-1976-2026#children",
         "https://www.cultura.trentino.it/Rassegne/Il-volto-della-battaglia-1976-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/La-scuola-va-a-teatro-2026-2027#children",
-        "https://www.cultura.trentino.it/Rassegne/La-scuola-va-a-teatro-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/12#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/24#children",
+        "https://www.cultura.trentino.it/Rassegne/La-scuola-va-a-teatro-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Altri-Quadri-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Altri-Quadri-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Teatro-comunale-di-Pergine-Stagione-2026-2027#children",
@@ -254,10 +256,10 @@
         "https://www.cultura.trentino.it/Rassegne/Festival-Trento-MusicaAntica-2026#children",
         "https://www.cultura.trentino.it/Rassegne/80-Anniversario-dell-Autonomia-Trentina-1946-2026#children",
         "https://www.cultura.trentino.it/Rassegne/80-Anniversario-dell-Autonomia-Trentina-1946-2026#children",
-        "https://www.cultura.trentino.it/Rassegne/Scappo-a-Teatro-SCUOLE-2026-2027#children",
-        "https://www.cultura.trentino.it/Rassegne/Scappo-a-Teatro-SCUOLE-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/24#children",
         "https://www.cultura.trentino.it/Rassegne/%28offset%29/36#children",
+        "https://www.cultura.trentino.it/Rassegne/Scappo-a-Teatro-SCUOLE-2026-2027#children",
+        "https://www.cultura.trentino.it/Rassegne/Scappo-a-Teatro-SCUOLE-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Stagione-AudiPOP-2026-2027#children",
         "https://www.cultura.trentino.it/Rassegne/Haydn-Stagione-d-Opera-2026-2027#children",
@@ -334,19 +336,21 @@
           "inspection": "AI_review_required"
         }
       ],
-      "errors": [],
+      "errors": [
+        "series https://www.cultura.trentino.it/Rassegne/La-scuola-va-a-teatro-2026-2027: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      ],
       "notes": [
         "Series PDF attachments require AI semantic inspection before completeness can be asserted.",
-        "activeSeries=75 linkedProgrammeEvents=542"
+        "activeSeries=76 linkedProgrammeEvents=542"
       ]
     },
     "garda_trentino_events": {
       "priority": "P0",
-      "lastScan": "2026-11-11T10:53:02Z",
+      "lastScan": "2026-11-12T11:03:29Z",
       "status": "COMPLETE",
-      "reportedTotal": 48,
-      "recordsSeen": 48,
-      "uniqueCandidates": 48,
+      "reportedTotal": 49,
+      "recordsSeen": 49,
+      "uniqueCandidates": 49,
       "pagesOrBucketsScanned": [
         "https://www.gardatrentino.it/en/discover/events",
         "https://www.gardatrentino.it/en/discover/events?page=2",
@@ -361,11 +365,11 @@
     },
     "comune_trento_events": {
       "priority": "P0",
-      "lastScan": "2026-11-11T10:53:08Z",
+      "lastScan": "2026-11-12T11:03:36Z",
       "status": "PARTIAL",
-      "reportedTotal": 3457,
-      "recordsSeen": 3098,
-      "uniqueCandidates": 3098,
+      "reportedTotal": 3458,
+      "recordsSeen": 3099,
+      "uniqueCandidates": 3099,
       "pagesOrBucketsScanned": [
         "https://eventi.comune.trento.it/content/search/?Order=desc",
         "https://eventi.comune.trento.it/content/search/%28offset%29/20?Order=desc",
@@ -545,12 +549,12 @@
       "errors": [],
       "notes": [
         "sitemaps=3, matchingEventUrls=0",
-        "OpenAgenda reconciliation: reported=3457 uniqueEventUrls=3098 searchPages=173/173"
+        "OpenAgenda reconciliation: reported=3458 uniqueEventUrls=3099 searchPages=173/173"
       ]
     },
     "visitfiemme_events": {
       "priority": "P1",
-      "lastScan": "2026-11-11T10:55:41Z",
+      "lastScan": "2026-11-12T11:06:33Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -566,7 +570,7 @@
     },
     "valsugana_events": {
       "priority": "P1",
-      "lastScan": "2026-11-11T10:55:43Z",
+      "lastScan": "2026-11-12T11:06:35Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -582,7 +586,7 @@
     },
     "val_di_non_events": {
       "priority": "P1",
-      "lastScan": "2026-11-11T10:55:44Z",
+      "lastScan": "2026-11-12T11:06:37Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 7,
@@ -598,7 +602,7 @@
     },
     "campiglio_rendena_events": {
       "priority": "P1",
-      "lastScan": "2026-11-11T10:55:47Z",
+      "lastScan": "2026-11-12T11:06:40Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 0,
@@ -614,7 +618,7 @@
     },
     "alpe_cimbra_events": {
       "priority": "P1",
-      "lastScan": "2026-11-11T10:55:48Z",
+      "lastScan": "2026-11-12T11:06:43Z",
       "status": "PARTIAL",
       "reportedTotal": null,
       "recordsSeen": 6,
@@ -630,7 +634,7 @@
     }
   },
   "coverageWindow": {
-    "from": "2026-11-11",
+    "from": "2026-11-12",
     "semantics": "rolling-12-month-overlap; raw enumerator may include out-of-window rows for AI resolution"
   },
   "p0Status": {
@@ -644,7 +648,7 @@
     "comune_trento_events": "PARTIAL"
   },
   "summary": {
-    "rawCandidates": 4891
+    "rawCandidates": 4898
   },
   "note": "Deterministic enumeration feeds the AI maintenance pass. PARTIAL means the system must not claim complete coverage."
 }
