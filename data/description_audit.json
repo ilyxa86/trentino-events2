@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-11-11",
-  "currentEvents": 402,
-  "complete": 106,
+  "checkedAt": "2026-11-12",
+  "currentEvents": 401,
+  "complete": 107,
   "incomplete": [
     {
       "id": "competition-anelli-di-congiunzione-le-gallerie-di-piedicastello-2026",
@@ -241,69 +241,6 @@
       ]
     },
     {
-      "id": "conversazione-d-autore-monica-maggioni-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "desaparecidos-scomparsi-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "il-sentiero-azzurro-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "incontri-mensili-con-consigli-di-lettura-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "l-ora-delle-storie-2026-2",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "maria-teresa-d-austria-una-donna-un-imperatrice-illuminata-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-contadino-di-via-fabio-filzi-2026-11",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "una-nuova-cultura-del-costruire-per-una-citta-piu-sostenibile-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "autumn-tales-2026",
       "languages": [
         "de",
@@ -374,6 +311,20 @@
       ]
     },
     {
+      "id": "aperitivi-scientifici-primo-appuntamento-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "dire-di-se-corpi-tracce-e-lavori-delle-donne-tra-cura-confini-e-autodete-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "dire-di-se-femine-mi-chiamavano-tina-sulle-tracce-di-una-rivoluzionaria-2026",
       "languages": [
         "de",
@@ -396,6 +347,13 @@
     },
     {
       "id": "m-a-m-longevity-nutrizione-e-longevita-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "mia-signora-di-pietra-e-di-vento-katia-tenti-2026",
       "languages": [
         "de",
         "en"
@@ -437,7 +395,21 @@
       ]
     },
     {
+      "id": "giornata-mondiale-del-diabete-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "giornate-dell-educare-2026-2",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "l-universo-in-posa-2026",
       "languages": [
         "de",
         "en"
@@ -1041,6 +1013,13 @@
     },
     {
       "id": "mercato-contadino-di-piazza-dante-2026-14",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "presentazione-guida-slow-wine-2026",
       "languages": [
         "de",
         "en"
@@ -1752,6 +1731,13 @@
     },
     {
       "id": "una-renna-alla-vecchia-fattoria-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "capodanno-in-vallagarina-2026",
       "languages": [
         "de",
         "en"
