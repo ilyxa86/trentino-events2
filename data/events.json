@@ -1759,88 +1759,6 @@
     "assetVerified": "2026-11-02"
   },
   {
-    "id": "mese-del-gusto-2026",
-    "name": {
-      "de": "Mese del Gusto",
-      "en": "Mese del Gusto",
-      "it": "Mese del Gusto"
-    },
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "La rassegna del sapore locale del Garda Trentino."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-17",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/events/mese-del-gusto_61067"
-    ],
-    "descriptionSources": {
-      "it": "https://www.gardatrentino.it/it/eventi/mese-del-gusto_61067"
-    },
-    "descriptionVerified": "2026-10-17",
-    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Header.png",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
-    "assetVerified": "2026-10-17"
-  },
-  {
-    "id": "divin-ottobre-2026-2",
-    "name": {
-      "de": "DiVin Ottobre",
-      "en": "DiVin Ottobre",
-      "it": "DiVin Ottobre"
-    },
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Ein Monat voller Genuss, Wein und Trentiner Traditionen.",
-      "en": "A month of flavours, wines and Trentino traditions.",
-      "it": "Un mese di sapori, vini e tradizioni trentine."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-11",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=3",
-      "https://www.gardatrentino.it/en/events/divin-ottobre_75932"
-    ],
-    "descriptionSources": {
-      "de": "https://www.gardatrentino.it/de/event/divin-ottobre_75932",
-      "en": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
-      "it": "https://www.gardatrentino.it/it/eventi/divin-ottobre_75932"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_DiVin_Ottobre_1.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
-    "assetVerified": "2026-10-15"
-  },
-  {
     "id": "grasparola-2026-2",
     "name": {
       "de": "Grasparola",
@@ -1921,48 +1839,6 @@
     },
     "descriptionStatus": "partial",
     "descriptionVerified": "2026-10-15"
-  },
-  {
-    "id": "eventi-di-halloween-in-vallagarina-2026",
-    "name": {
-      "de": "Eventi di Halloween in Vallagarina",
-      "en": "Eventi di Halloween in Vallagarina",
-      "it": "Eventi di Halloween in Vallagarina"
-    },
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Zahlreiche Veranstaltungen für Jung und Alt, darunter geheimnisvolle Führungen, magische Workshops und schaurig-schöne Partys. Verpassen Sie nicht die diesjährigen Halloween-Veranstaltungen im Vallagarina!",
-      "en": "Lots of events for young and old, including mysterious tours, magical workshops and frighteningly fun parties. Don’t miss this year’s Halloween-themed events in Vallagarina!",
-      "it": "Tanti eventi per grandi e piccini, tra visite misteriose, laboratori magici e feste spaventosamente divertenti. Non perderti gli appuntamenti a tema Halloween in Vallagarina!"
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina/",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-10",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2022/10/Halloween_Elisa-Vettori.png",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina",
-      "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina/"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/eventi-di-halloween-in-vallagarina/",
-      "en": "https://www.visitrovereto.it/en/enjoy/events/halloween-events-in-vallagarina/",
-      "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/veranstaltungen-zu-halloween-in-vallagarina/"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
   },
   {
     "id": "eventi-di-halloween-in-vallagarina-2026-2",
@@ -2130,49 +2006,6 @@
     "assetVerified": "2026-10-24"
   },
   {
-    "id": "divin-ottobre-2026-5",
-    "name": {
-      "de": "DiVin Ottobre",
-      "en": "DiVin Ottobre",
-      "it": "DiVin Ottobre"
-    },
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "en": "A month of flavours, wines and Trentino traditions.",
-      "it": "Un mese di sapori, vini e tradizioni trentine.",
-      "de": "Ein Monat voller Genuss, Wein und Trentiner Traditionen."
-    },
-    "descriptionStatus": "complete",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-24",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/events/divin-ottobre_75932"
-    ],
-    "descriptionSources": {
-      "en": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
-      "it": "https://www.gardatrentino.it/it/eventi/divin-ottobre_75932",
-      "de": "https://www.gardatrentino.it/de/event/divin-ottobre_75932"
-    },
-    "descriptionVerified": "2026-10-24",
-    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_DiVin_Ottobre_1.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
-    "assetVerified": "2026-10-24"
-  },
-  {
     "id": "maroni-in-festa-2026-2",
     "name": {
       "de": "Maroni in Festa",
@@ -2254,45 +2087,6 @@
     "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Header.png",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
     "assetVerified": "2026-10-19"
-  },
-  {
-    "id": "mese-del-gusto-2026-12",
-    "name": {
-      "de": "Mese del Gusto",
-      "en": "Mese del Gusto",
-      "it": "Mese del Gusto"
-    },
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "La rassegna del sapore locale del Garda Trentino."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-24",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/events/mese-del-gusto_61067"
-    ],
-    "descriptionSources": {
-      "it": "https://www.gardatrentino.it/it/eventi/mese-del-gusto_61067"
-    },
-    "descriptionVerified": "2026-10-24",
-    "image": "https://www.gardatrentino.it/website_images/events/mese_del_gusto/2026_Mese_del_Gusto_Header.png",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/events/mese-del-gusto_61067",
-    "assetVerified": "2026-10-24"
   },
   {
     "id": "fine-winetourism-marketplace-italy-2026-2",
@@ -2381,46 +2175,6 @@
     "assetVerified": "2026-10-26"
   },
   {
-    "id": "alla-scoperta-di-trento-2026-10",
-    "name": {
-      "de": "Alla scoperta di Trento",
-      "en": "Alla scoperta di Trento",
-      "it": "Alla scoperta di Trento"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Scopri la città di Trento con una guida turistica! Trento, nel cuore delle Alpi, ha una storia millenaria, fatta di tradizione mitteleuropea a cavallo tra mondo germanico e mondo italiano, le cui testimonianze sono visibili nel bel centro storico e sono perfettamente custodite, epoca dopo epoca, nei siti archeologici e nei musei d'eccellenza che la città ospita.",
-      "de": "Bei dieser geführten Stadterkundung erfahren Teilnehmende von einer sachkundigen Reiseleiterin, wie Trentinos lange Geschichte an der Schnittstelle zwischen mitteleuropäischer und italienischer Kultur im historischen Zentrum sichtbar bleibt. Die Führung zeigt archäologische Zeugnisse und Museumsschätze, die die vielschichtige Entwicklung der Stadt von antiken Zeiten bis zur Gegenwart veranschaulichen.",
-      "en": "This guided tour introduces visitors to Trento’s millennia-long history at the crossroads of Central European and Italian cultures, led by a local tour guide. The walk highlights visible traces in the historic centre as well as archaeological sites and museum collections that together narrate the city’s layered historical development."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento20",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento20"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento20",
-      "de": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento20",
-      "en": "https://eventi.comune.trento.it/Eventi/Alla-scoperta-di-Trento20"
-    }
-  },
-  {
     "id": "divin-ottobre-2026-3",
     "name": {
       "de": "DiVin Ottobre",
@@ -2465,49 +2219,6 @@
     "assetVerified": "2026-10-15"
   },
   {
-    "id": "divin-ottobre-2026-4",
-    "name": {
-      "de": "DiVin Ottobre",
-      "en": "DiVin Ottobre",
-      "it": "DiVin Ottobre"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Culture & Music",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "en": "A month of flavours, wines and Trentino traditions.",
-      "it": "Un mese di sapori, vini e tradizioni trentine.",
-      "de": "Ein Monat voller Genuss, Wein und Trentiner Traditionen."
-    },
-    "descriptionStatus": "complete",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-16",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2",
-      "https://www.gardatrentino.it/en/events/divin-ottobre_75932"
-    ],
-    "descriptionSources": {
-      "en": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
-      "it": "https://www.gardatrentino.it/it/eventi/divin-ottobre_75932",
-      "de": "https://www.gardatrentino.it/de/event/divin-ottobre_75932"
-    },
-    "descriptionVerified": "2026-10-16",
-    "image": "https://www.gardatrentino.it/website_images/events/2026_Events_DiVin_Ottobre_1.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
-    "assetVerified": "2026-10-16"
-  },
-  {
     "id": "divin-ottobre-2026",
     "name": {
       "de": "DiVin Ottobre",
@@ -2549,110 +2260,6 @@
     "image": "https://www.gardatrentino.it/website_images/events/2026_Events_DiVin_Ottobre_1.jpg",
     "imageSourceUrl": "https://www.gardatrentino.it/en/events/divin-ottobre_75932",
     "assetVerified": "2026-10-22"
-  },
-  {
-    "id": "giornata-del-riuso-del-libro-usato-e-non-solo-2026",
-    "name": {
-      "de": "Giornata del riuso del libro usato e non solo…",
-      "en": "Giornata del riuso del libro usato e non solo…",
-      "it": "Giornata del riuso del libro usato e non solo…"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Sabato 31 ottobre dalle 8:00 alle 18:00 si svolgerà l'ultima edizione dell'anno della Giornata del Riuso del libro usato. Venticinque postazioni aspetteranno i visitatori lungo i vialetti di piazza Dante per dare nuova vita a libri usati e oggetti da collezionismo come cartoline, stampe, santini e francobolli."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-del-libro-usato-e-non-solo5",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-23",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-del-libro-usato-e-non-solo5"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Giornata-del-riuso-del-libro-usato-e-non-solo5"
-    },
-    "descriptionVerified": "2026-10-23",
-    "assetVerified": "2026-10-23"
-  },
-  {
-    "id": "gruppo-cassa-centrale-trentino-business-run-2026-3",
-    "name": {
-      "de": "Gruppo Cassa Centrale - Trentino Business Run",
-      "en": "Gruppo Cassa Centrale - Trentino Business Run",
-      "it": "Gruppo Cassa Centrale - Trentino Business Run"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": "15:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Business & Networking",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „Gruppo Cassa Centrale - Trentino Business Run“ in Riva del Garda. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“Gruppo Cassa Centrale - Trentino Business Run” event in Riva del Garda. See the official event page for the latest details.",
-      "it": "Evento “Gruppo Cassa Centrale - Trentino Business Run” a Riva del Garda. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-07",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events"
-    ]
-  },
-  {
-    "id": "halloween-a-1000-metri-il-bondone-dei-bambini-2026",
-    "name": {
-      "de": "Halloween a 1000 metri: il Bondone dei bambini",
-      "en": "Halloween a 1000 metri: il Bondone dei bambini",
-      "it": "Halloween a 1000 metri: il Bondone dei bambini"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Bondone",
-    "area": "Trento",
-    "venue": "Bondone",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Il Bondone si prepara ad accogliere i più piccoli con un calendario di appuntamenti dedicati alla scoperta delle tradizioni, al divertimento e alla condivisione. L'associazione ProLoco Monte Bondone, firmataria del patto di collaborazione \"Gestione condivisa del Malgone di Candriai\" propone l'iniziativa Halloween a 1000 metri"
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Halloween-a-1000-metri-il-Bondone-dei-bambini",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Halloween-a-1000-metri-il-Bondone-dei-bambini"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Halloween-a-1000-metri-il-Bondone-dei-bambini"
-    },
-    "descriptionVerified": "2026-10-27",
-    "assetVerified": "2026-10-27"
   },
   {
     "id": "in-cammino-con-il-museo-2026-2",
@@ -7927,6 +7534,42 @@
     "assetVerified": "2026-10-29"
   },
   {
+    "id": "come-i-lasciti-solidali-possono-fare-la-differenza-in-italia-e-nel-mondo-2026",
+    "name": {
+      "de": "Come i lasciti solidali possono fare la differenza in Italia e nel mondo",
+      "en": "Come i lasciti solidali possono fare la differenza in Italia e nel mondo",
+      "it": "Come i lasciti solidali possono fare la differenza in Italia e nel mondo"
+    },
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-18",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Family & Culture",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Come opera Save the Children? Cos’è un lascito solidale?"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Come-i-lasciti-solidali-possono-fare-la-differenza-in-Italia-e-nel-mondo",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-13",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Come-i-lasciti-solidali-possono-fare-la-differenza-in-Italia-e-nel-mondo"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Come-i-lasciti-solidali-possono-fare-la-differenza-in-Italia-e-nel-mondo"
+    },
+    "descriptionVerified": "2026-11-13",
+    "assetVerified": "2026-11-13"
+  },
+  {
     "id": "corso-avanzato-per-amministratore-trice-di-sostegno-2026-2",
     "name": {
       "de": "Corso avanzato per amministratore/trice di sostegno",
@@ -8002,6 +7645,42 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/La-storia-del-Rock-1"
     }
+  },
+  {
+    "id": "le-parole-non-dette-2026",
+    "name": {
+      "de": "Le parole non dette",
+      "en": "Le parole non dette",
+      "it": "Le parole non dette"
+    },
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-18",
+    "startTime": null,
+    "municipality": "Trento",
+    "area": "Trento",
+    "venue": "Trento",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "L’Istituto storico Italo-Germanico-FBK, la Fondazione Museo storico del Trentino, il Dipartimento di Storia Culture e Civiltà dell’Università di Bologna, con il contributo della Fondazione Caritro, propongono il seminario \"Le parole non dette\" Ore 14.30: Saluti istituzionali e introduzione a cura del comitato scientifico: Fernanda Alfieri (Università di Bologna), Camilla Tenaglia (FBK), Elena Tonezzer (FMST), Sara Zanatta (FMST) Introduzione Chiara Matteini (Società psicoanalitica italiana): La lezione del silenzio. Prospettive psicoanalitiche"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://eventi.comune.trento.it/Eventi/Le-parole-non-dette",
+    "source": "Agenda Trento - official Comune di Trento agenda",
+    "verified": "2026-11-13",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "sourceUrls": [
+      "https://eventi.comune.trento.it/Eventi/Le-parole-non-dette"
+    ],
+    "descriptionSources": {
+      "it": "https://eventi.comune.trento.it/Eventi/Le-parole-non-dette"
+    },
+    "descriptionVerified": "2026-11-13",
+    "assetVerified": "2026-11-13"
   },
   {
     "id": "mercato-contadino-di-via-fabio-filzi-2026-12",
@@ -9030,8 +8709,8 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/La-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata"
     },
-    "descriptionVerified": "2026-11-12",
-    "assetVerified": "2026-11-12"
+    "descriptionVerified": "2026-11-13",
+    "assetVerified": "2026-11-13"
   },
   {
     "id": "le-fiabe-come-strumento-di-relazione-e-di-prevenzione-2026",
@@ -11362,8 +11041,8 @@
       "en": "https://www.visitrovereto.it/en/enjoy/events/nomi-il-paese-dei-presepi-monumentali/",
       "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/nomi-il-paese-dei-presepi-monumentali/"
     },
-    "descriptionVerified": "2026-11-12",
-    "assetVerified": "2026-11-12"
+    "descriptionVerified": "2026-11-13",
+    "assetVerified": "2026-11-13"
   },
   {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
@@ -16699,8 +16378,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-11-12",
-    "assetVerified": "2026-11-12",
+    "descriptionVerified": "2026-11-13",
+    "assetVerified": "2026-11-13",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
