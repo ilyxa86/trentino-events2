@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-12",
-  "currentEvents": 401,
+  "checkedAt": "2026-11-13",
+  "currentEvents": 393,
   "complete": 107,
   "incomplete": [
     {
@@ -235,76 +235,6 @@
     },
     {
       "id": "teatro-della-meraviglia-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "autumn-tales-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "creusa-cassandra-e-le-altre-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "fidarsi-e-bene-informarsi-e-meglio-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "le-ultime-lune-con-alessandro-haber-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-del-giovedi-2026-12",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mercato-dell-economia-solidale-2026-12",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "presentazione-libro-1951-e-dintorni-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "robert-johnson-non-se-n-e-mai-andato-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "tedxtrento-salon-a-me-gli-occhi-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "trento-fashion-week-2026",
       "languages": [
         "de",
         "en"
@@ -556,7 +486,21 @@
       ]
     },
     {
+      "id": "come-i-lasciti-solidali-possono-fare-la-differenza-in-italia-e-nel-mondo-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
       "id": "la-storia-del-rock-1-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "le-parole-non-dette-2026",
       "languages": [
         "de",
         "en"
