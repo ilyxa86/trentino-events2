@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-13",
-  "currentEvents": 393,
+  "checkedAt": "2026-11-14",
+  "currentEvents": 386,
   "complete": 107,
   "incomplete": [
     {
@@ -241,13 +241,6 @@
       ]
     },
     {
-      "id": "aperitivi-scientifici-primo-appuntamento-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "dire-di-se-corpi-tracce-e-lavori-delle-donne-tra-cura-confini-e-autodete-2026",
       "languages": [
         "de",
@@ -255,56 +248,7 @@
       ]
     },
     {
-      "id": "dire-di-se-femine-mi-chiamavano-tina-sulle-tracce-di-una-rivoluzionaria-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "il-lavoro-non-e-neutro-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "leggiamo-let-s-read-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "m-a-m-longevity-nutrizione-e-longevita-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "mia-signora-di-pietra-e-di-vento-katia-tenti-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "percorsi-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
       "id": "sagra-del-baccala-2026",
-      "languages": [
-        "de",
-        "en"
-      ]
-    },
-    {
-      "id": "show-me-your-labels-2026",
       "languages": [
         "de",
         "en"
@@ -340,6 +284,13 @@
     },
     {
       "id": "l-universo-in-posa-2026",
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "la-bugia-della-guerra-francesco-filippi-2026",
       "languages": [
         "de",
         "en"
