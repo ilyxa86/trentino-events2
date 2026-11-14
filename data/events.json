@@ -2262,313 +2262,6 @@
     "assetVerified": "2026-10-22"
   },
   {
-    "id": "in-cammino-con-il-museo-2026-2",
-    "name": {
-      "de": "In cammino con il museo",
-      "en": "In cammino con il museo",
-      "it": "In cammino con il museo"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": "14:00",
-    "municipality": "Fiave",
-    "area": "Other Trentino",
-    "venue": "Fiave",
-    "category": "Culture & Exhibition",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Veranstaltung „In cammino con il museo“ in Fiave. Aktuelle Details finden Sie auf der offiziellen Veranstaltungsseite.",
-      "en": "“In cammino con il museo” event in Fiave. See the official event page for the latest details.",
-      "it": "Evento “In cammino con il museo” a Fiave. Consulta la pagina ufficiale per i dettagli aggiornati."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/discover/events?page=2",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-11",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events?page=2"
-    ]
-  },
-  {
-    "id": "l-equivoco-2026",
-    "name": {
-      "de": "L'equivoco",
-      "en": "L'equivoco",
-      "it": "L'equivoco"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Culture & Dance",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "\"L'equivoco\" di Roberto Giacomozzi - Filo di Tesero \"Lucio Deflorian\" aps Quando, per ristrutturare la propria residenza e far fronte alle spese impreviste, si è costretti non solo ad abitare in affitto, ma anche a cercare un inquilino con cui dividere l’appartamento, qualche problema si può sempre verificare. Ma se l’agenzia incaricata, per un banale equivoco, scatenasse una serie di eventi nella casa tali da mettere a repentaglio la propria reputazione?"
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/L-equivoco",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-09-16",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/L-equivoco"
-    ],
-    "descriptionStatus": "partial",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/L-equivoco"
-    }
-  },
-  {
-    "id": "la-citta-dei-morti-2026",
-    "name": {
-      "de": "La città dei morti",
-      "en": "La città dei morti",
-      "it": "La città dei morti"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "La città custodisce anche una storia silenziosa, fatta di tombe, monumenti e iscrizioni che raccontano vite, memorie e antiche credenze. In occasione di Halloween, il Museo propone un itinerario alla scoperta della Trento dei sepolcri e dei luoghi dedicati al ricordo dei defunti.",
-      "de": "Anlässlich von Halloween bietet das Museum einen thematischen Rundgang zur »Stadt der Toten«, der Grabstätten, Denkmäler und Inschriften in Trento erkundet. Teilnehmende entdecken stille Zeugnisse vergangener Leben, Erinnerungsorte und historische Glaubensvorstellungen, die den Umgang der Stadt mit Tod und Erinnerung beleuchten.",
-      "en": "For Halloween the museum offers an itinerary exploring Trento’s ‘city of the dead’, focusing on tombs, monuments and inscriptions around the city. Visitors encounter silent testimonies to former lives, commemorative sites and ancient beliefs, gaining insight into how local history and memory are expressed through funerary places."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-02",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2",
-      "de": "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2",
-      "en": "https://eventi.comune.trento.it/Eventi/La-citta-dei-morti2"
-    }
-  },
-  {
-    "id": "mercato-contadino-di-piazza-dante-2026-10",
-    "name": {
-      "de": "Mercato contadino di piazza Dante",
-      "en": "Mercato contadino di piazza Dante",
-      "it": "Mercato contadino di piazza Dante"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Il mercato si svolge in piazza Dante (Circoscrizione Centro storico - Piedicastello) ogni sabato esclusi i festivi dalle 7:30 alle 13:00",
-      "de": "Der Bauernmarkt auf der Piazza Dante findet samstags (außer an Feiertagen) morgens statt und versammelt lokale Erzeuger, die ihre frischen Produkte anbieten. Besucher können regionale Lebensmittel und Erzeugnisse direkt von Produzentinnen und Produzenten erwerben und so lokale Landwirtschaft und kurze Vertriebswege unterstützen.",
-      "en": "The farmers’ market in Piazza Dante takes place on Saturday mornings (excluding holidays) and brings together local producers offering fresh goods. Visitors can buy regional food and artisanal products directly from growers, supporting local agriculture and enjoying seasonal, locally sourced produce."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-08-27",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52"
-    ],
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52",
-      "de": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52",
-      "en": "https://eventi.comune.trento.it/Eventi/Mercato-contadino-di-piazza-Dante52"
-    }
-  },
-  {
-    "id": "riva-del-garda-s-weekly-market-2026-5",
-    "name": {
-      "de": "Riva del Garda’s Weekly Market",
-      "en": "Riva del Garda’s Weekly Market",
-      "it": "Riva del Garda’s Weekly Market"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": "08:00",
-    "municipality": "Riva del Garda",
-    "area": "Alto Garda",
-    "venue": "Riva del Garda",
-    "category": "Other",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "de": "Finde dein ideales Hotel in Riva del Garda: Familienhotels, komfortable Zimmer mit Blick auf den Gardasee. Unterkunft mit Bestpreisgarantie sichern!",
-      "en": "Discover the comfort and beauty of our hotels in Riva del Garda. Book now for an unforgettable holiday on Lake Garda.",
-      "it": "Scopri il comfort e la bellezza dei nostri hotel a Riva del Garda. Prenota ora per una vacanza indimenticabile sul Lago di Garda."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.gardatrentino.it/en/events/farmers-market-in-riva-del-garda_3479",
-    "source": "Garda Trentino - events",
-    "verified": "2026-10-12",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://www.gardatrentino.it/en/discover/events",
-      "https://www.gardatrentino.it/en/events/farmers-market-in-riva-del-garda_3479",
-      "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels"
-    ],
-    "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Riva_del_Garda/image-thumb__16547__fb-thumb/2021_GARDADOLOMITI_WATCHSOME_LIFESTYLE_RIVA_DEL_GARDA_APERITIVO.jpg",
-    "imageSourceUrl": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
-    "assetVerified": "2026-10-15",
-    "descriptionSources": {
-      "en": "https://www.gardatrentino.it/en/towns-villages/riva-del-garda/hotels",
-      "it": "https://www.gardatrentino.it/it/localita/riva-del-garda/hotel",
-      "de": "https://www.gardatrentino.it/de/ortschaften/riva-del-garda/hotels"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15"
-  },
-  {
-    "id": "shopping-aspettando-halloween-2026",
-    "name": {
-      "de": "Shopping aspettando Halloween",
-      "en": "Shopping aspettando Halloween",
-      "it": "Shopping aspettando Halloween"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Rovereto",
-    "area": "Rovereto & Vallagarina",
-    "venue": "Rovereto",
-    "category": "Markets & Shopping",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Tremate e preparatevi, molte cose accadranno, durante la notte più paurosa dell’anno! L'ultima giornata di ottobre la città verrà pervasa da una magica atmosfera di festa e di divertimento per tutti.",
-      "de": "Die Veranstaltung taucht Rovereto an Halloween-Abend in eine festliche, magische Atmosphäre mit Unterhaltung für alle Altersgruppen. Besucher erleben eine Stadt voller thematischer Aktionen und Stimmung, die auf spielerische Weise die spaßige und gruselige Seite des letzten Oktobertages betont.",
-      "en": "On the last day of October Rovereto fills with a festive, magical atmosphere offering entertainment for all ages in anticipation of Halloween. The city is animated with themed activities and playful events that celebrate the spooky and fun spirit of the season across public spaces and shops."
-    },
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween",
-    "source": "Visit Rovereto / Vallagarina - events",
-    "verified": "2026-10-31",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visitrovereto.it/wp-content/uploads/2015/10/Shopping-aspettando-Halloween-2026-1.jpg",
-    "sourceUrls": [
-      "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween",
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/shopping-aspettando-halloween_e_317997"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween/",
-      "de": "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween",
-      "en": "https://www.visitrovereto.it/vivi/eventi/shopping-aspettando-halloween"
-    },
-    "descriptionStatus": "complete",
-    "descriptionVerified": "2026-10-15",
-    "assetVerified": "2026-10-15"
-  },
-  {
-    "id": "teatro-cembra-quattro-bombe-in-tasca-2026",
-    "name": {
-      "de": "Teatro Cembra - Quattro bombe in tasca",
-      "en": "Teatro Cembra - Quattro bombe in tasca",
-      "it": "Teatro Cembra - Quattro bombe in tasca"
-    },
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "startTime": null,
-    "municipality": "Cembra",
-    "area": "Other Trentino",
-    "venue": "Cembra",
-    "category": "Culture & Dance",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Doss Caslir APS presenta la stagione 2026 - 2027"
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/teatro-cembra-quattro-bombe-in-tasca_e_137070303",
-    "source": "Visit Trentino - all events",
-    "verified": "2026-10-31",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "image": "https://www.visittrentino.info/assets-basic/events/fiemme/teatro-cembra---quattro-bombe-in-tasca_137070303/7879489/image-thumb__7879489__moodboard_list/teatro-cembra---quattro-bombe-in-tasca_137070303_1.2c405881.jpg",
-    "sourceUrls": [
-      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/teatro-cembra-quattro-bombe-in-tasca_e_137070303"
-    ],
-    "descriptionSources": {
-      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/teatro-cembra-quattro-bombe-in-tasca_e_137070303"
-    },
-    "descriptionVerified": "2026-10-31",
-    "assetVerified": "2026-10-31"
-  },
-  {
-    "id": "esplorazioniincastello-2026",
-    "name": {
-      "de": "esplorAZIONIinCASTELLO",
-      "en": "esplorAZIONIinCASTELLO",
-      "it": "esplorAZIONIinCASTELLO"
-    },
-    "startDate": "2026-11-01",
-    "endDate": "2026-11-01",
-    "startTime": null,
-    "municipality": "Trento",
-    "area": "Trento",
-    "venue": "Trento",
-    "category": "Family & Culture",
-    "status": null,
-    "confirmed": true,
-    "description": {
-      "it": "Una visita guidata alla scoperta di ambienti affascinanti, di segreti e curiosità nel Castello del Buonconsiglio. La visita è pensata per grandi e bambine e bambini dai 6 anni, con un linguaggio semplice e momenti coinvolgenti per un’esperienza da condividere in famiglia."
-    },
-    "descriptionStatus": "partial",
-    "organizer": null,
-    "price": "See official page",
-    "officialUrl": "https://eventi.comune.trento.it/Eventi/esplorAZIONIinCASTELLO4",
-    "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-10-30",
-    "discoveredVia": "coverage_backfill",
-    "confidence": "official-calendar",
-    "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/esplorAZIONIinCASTELLO4"
-    ],
-    "descriptionSources": {
-      "it": "https://eventi.comune.trento.it/Eventi/esplorAZIONIinCASTELLO4"
-    },
-    "descriptionVerified": "2026-10-30",
-    "assetVerified": "2026-10-30"
-  },
-  {
     "id": "il-bambino-su-marte-teatro-dei-bambini-a-folgaria-2026",
     "name": {
       "de": "IL BAMBINO SU MARTE - Teatro dei bambini a Folgaria",
@@ -6645,6 +6338,43 @@
     "assetVerified": "2026-11-12"
   },
   {
+    "id": "la-bugia-della-guerra-francesco-filippi-2026",
+    "name": {
+      "de": "La bugia della guerra - Francesco Filippi",
+      "en": "La bugia della guerra - Francesco Filippi",
+      "it": "La bugia della guerra - Francesco Filippi"
+    },
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "startTime": "18:00",
+    "municipality": "Levico Terme",
+    "area": "Other Trentino",
+    "venue": "Levico Terme",
+    "category": "Other",
+    "status": null,
+    "confirmed": true,
+    "description": {
+      "it": "Sabato 14 novembre ore 18:00 Palazzo delle Terme"
+    },
+    "descriptionStatus": "partial",
+    "organizer": null,
+    "price": "See official page",
+    "officialUrl": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-bugia-della-guerra-francesco-filippi_e_128366409",
+    "source": "Visit Trentino - all events",
+    "verified": "2026-11-14",
+    "discoveredVia": "coverage_backfill",
+    "confidence": "official-calendar",
+    "image": "https://www.visittrentino.info/assets-basic/events/visitvalsugana-it/la-bugia-della-guerra---francesco-filippi-_128366409/7877813/image-thumb__7877813__moodboard_list/la-bugia-della-guerra---francesco-filippi-_128366409_1.5784400e.jpg",
+    "sourceUrls": [
+      "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-bugia-della-guerra-francesco-filippi_e_128366409"
+    ],
+    "descriptionSources": {
+      "it": "https://www.visittrentino.info/it/guida/cosa-fare/eventi/la-bugia-della-guerra-francesco-filippi_e_128366409"
+    },
+    "descriptionVerified": "2026-11-14",
+    "assetVerified": "2026-11-14"
+  },
+  {
     "id": "let-s-read-another-story-2026",
     "name": {
       "de": "Let's read another story",
@@ -7449,11 +7179,12 @@
     "price": "See official page",
     "officialUrl": "https://eventi.comune.trento.it/Eventi/Presentazione-podcast-C.O.E.S.I.S.T.E.N.Z.A",
     "source": "Agenda Trento - official Comune di Trento agenda",
-    "verified": "2026-11-06",
+    "verified": "2026-11-14",
     "discoveredVia": "coverage_backfill",
     "confidence": "official-calendar",
     "sourceUrls": [
-      "https://eventi.comune.trento.it/Eventi/Presentazione-podcast-C.O.E.S.I.S.T.E.N.Z.A"
+      "https://eventi.comune.trento.it/Eventi/Presentazione-podcast-C.O.E.S.I.S.T.E.N.Z.A",
+      "https://eventi.comune.trento.it/Eventi/Presentazione-podcast-C.o.e.s.i.s.t.e.n.z.a"
     ],
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Presentazione-podcast-C.O.E.S.I.S.T.E.N.Z.A"
@@ -8709,8 +8440,8 @@
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/La-vita-mi-e-passata-davanti-e-io-tie-l-ho-doppiata"
     },
-    "descriptionVerified": "2026-11-13",
-    "assetVerified": "2026-11-13"
+    "descriptionVerified": "2026-11-14",
+    "assetVerified": "2026-11-14"
   },
   {
     "id": "le-fiabe-come-strumento-di-relazione-e-di-prevenzione-2026",
@@ -11041,8 +10772,8 @@
       "en": "https://www.visitrovereto.it/en/enjoy/events/nomi-il-paese-dei-presepi-monumentali/",
       "de": "https://www.visitrovereto.it/de/erleben/veranstaltungen/nomi-il-paese-dei-presepi-monumentali/"
     },
-    "descriptionVerified": "2026-11-13",
-    "assetVerified": "2026-11-13"
+    "descriptionVerified": "2026-11-14",
+    "assetVerified": "2026-11-14"
   },
   {
     "id": "visita-guidata-al-castello-del-buonconsiglio-2026-5",
@@ -16378,8 +16109,8 @@
       "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     ],
     "descriptionStatus": "partial",
-    "descriptionVerified": "2026-11-13",
-    "assetVerified": "2026-11-13",
+    "descriptionVerified": "2026-11-14",
+    "assetVerified": "2026-11-14",
     "descriptionSources": {
       "it": "https://eventi.comune.trento.it/Eventi/Hansel-e-Gretel.-Infanzia-in-guerra"
     }
